@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Columbia Woodburn 2 Waterproof  waterbestendig  Wandelschoenen voor Heren  Zwart  Black x Caramel   44 EU'
+date: 2024-10-05 05:50:51
+image: 'https://m.media-amazon.com/images/I/31tRUdx7JHL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B00KOJT7WE-nl Columbia Woodburn 2 Waterproof waterbestendig...'
+sku: 'B00KOJT7WE-nl'
+tags: [ '093624ba-c879-4b38-938a-0eec9e1ff133_0','093624ba-c879-4b38-938a-0eec9e1ff133_3601','Arborist Merchandising Root','Herenmode','Herenschoenen','Kleding, schoenen & sieraden','Kleding, schoenen en sieraden','New Arrivals','Self Service','Special Features Stores','Trainings- & outdoorschoenen heren','Trekking- & hikingschoeisel heren','Trekking- & hikingschoenen heren','columbia','🇳🇱', ]
+actualPrice: 67.99 EUR
+currency: EUR
+price: 67.99
+comparePrice: 100.0 EUR
+prodname: 'Columbia Woodburn 2 Waterproof  waterbestendig  Wandelschoenen voor Heren  Zwart  Black x Caramel   44 EU'
+country: 'nl'
+flag: '🇳🇱'
+brand: 'Columbia'
+buyurl: 'https://www.amazon.nl/dp/B00KOJT7WE/?tag=tolees0b-21'
+descuento: '32.01'
+average: '68.1785714285714'
+---
+
+You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Licht & ademend design voor soepele bewegingen
+- Kledingsstijl: informeel
+- Sneakers van het merk Columbia
+
+[🛒 Buy it!!]({{< param buyurl >}})
+{{<world>}}B00KOJT7WE{{</world>}}

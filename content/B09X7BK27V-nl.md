@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'SanDisk Extreme MicroSDXC UHS-I Geheugenkaart 128 GB Met SD Adapter  1 Jaar RescuePRO Deluxe  Leessnelheden Tot 190 MB/s  A2  C10  V30  U3  30 Jaar Garantie  Rood/Goud'
+date: 2024-10-17 13:21:47
+image: 'https://m.media-amazon.com/images/I/41OrK+UsDyL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B09X7BK27V-nl SanDisk Extreme MicroSDXC UHS-I Geheugenkaart 128 GB Met...'
+sku: 'B09X7BK27V-nl'
+tags: [ 'Computers, onderdelen & accessoires','Elektronica','Externe apparaten & dataopslag','Gegevensopslag','Geheugenkaarten','MicroSD-geheugenkaarten','sandisk','🇳🇱', ]
+actualPrice: 14.71 EUR
+currency: EUR
+price: 14.71
+comparePrice: 29.99 EUR
+prodname: 'SanDisk Extreme MicroSDXC UHS-I Geheugenkaart 128 GB Met SD Adapter  1 Jaar RescuePRO Deluxe  Leessnelheden Tot 190 MB/s  A2  C10  V30  U3  30 Jaar Garantie  Rood/Goud'
+country: 'nl'
+flag: '🇳🇱'
+brand: 'SanDisk'
+buyurl: 'https://www.amazon.nl/dp/B09X7BK27V/?tag=tolees0b-21'
+descuento: '50.95'
+average: '15.1076470588235'
+---
+
+You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Bespaar tijd met overdrachtsnelheden tot 190 MB/s; mogelijk gemaakt door SanDisk QuickFlow technologie
+- Met een capaciteit tot 128 GB; stet de SanDisk Extreme microSD UHS I kaart u in staat zonder onderbreking 4K UHD en full HD video op te nemen met UHS Speed Class 3 U3 en Video Speed Class 30 V30 classificaties
+- SanDisk Extreme microSDHC en microSDXC UHS I kaarten zijn schokbestendig; temperatuurbestendig; waterbestendig en röntgenbestendig; zodat u van uw avonturen kunt genieten
+- Leveringsomvang: SanDisk Extreme microSDXC UHS I Geheugenkaart 128 GB Met SD Adapter; 1 Jaar RescuePRO Deluxe; Leessnelheden Tot 190 MB/s; A2; C10; V30; U3; 30 Jaar Garantie
+- Leg snelle actiefotos vast of maak 4K UHD videos met schrijfsnelheden tot 90 MB/s; De SanDisk Extreme PRO microSDXC UHS I kaart stelt u in staat meer en sneller op te nehmen
+
+[🛒 Buy it!!]({{< param buyurl >}})
+{{<world>}}B09X7BK27V{{</world>}}
