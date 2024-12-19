@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- De lichte gelformule stimuleert vermoeide ogen en helpt tekenen van vermoeidheid te verminderen; trekt onmiddellijk in en creëert een ideale basis voor make-up
 - Dankzij de praktische afmetingen kun je hem overdag meenemen om je een vleugje vocht te geven wanneer je het nodig hebt
-- Een intensieve vochtdosis die de huid van de ogen direct aanvult, bevordert het vocht en versterkt de huidbarrière
 - Behoudt het vocht gedurende 24 uur, voorkomt zo verlies van elasticiteit en geeft de ogen elke dag een frisse look
+- De lichte gelformule stimuleert vermoeide ogen en helpt tekenen van vermoeidheid te verminderen; trekt onmiddellijk in en creëert een ideale basis voor make-up
 - Hydro Boost Eye-Awakening Gel-Cream 15 ml helpt je de dag te beginnen met een verfrissende injectie van hydratatie die op drie manieren werkt voor een verfrist uiterlijk dat je drukke dagen niet verraadt.
+- Een intensieve vochtdosis die de huid van de ogen direct aanvult, bevordert het vocht en versterkt de huidbarrière
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B075RH6PSZ{{</world>}}

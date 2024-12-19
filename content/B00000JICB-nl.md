@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Inhoud levering: 1 x Tomy familiespel pop-up piraten; kinderspeelgoed voor het hele gezin – voor onvergetelijk speelplezier bijvoorbeeld tijdens het spelen.
 - BASTLE BEVOR start van het spel - Voordat je met het actiespel kan starten moet worden gebakken - op het vat wordt een sticker geplakt en de zwaarders moeten uit elkaar worden getrokken.
 - Geelschapsspel van hoogwaardig kunststof in kleurrijk design – met kleurrijke zwaarden van circa 21 x 15 x 27 cm (l x b x h). Het materiaal is gemakkelijk te reinigen.
 - Start het speelspel – draai de piraten in zijn vat, achter elkaar steekt elke speler zijn zwaard in het vat – bij wie de piraat springt, verliest het kinderspel.
 - Speelklassieker voor jong en oud lachen voorgeprogrammeerd! Elke speler wacht gespannen uit welk gat de piraat springt.
-- Inhoud levering: 1 x Tomy familiespel pop-up piraten; kinderspeelgoed voor het hele gezin – voor onvergetelijk speelplezier bijvoorbeeld tijdens het spelen.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00000JICB{{</world>}}

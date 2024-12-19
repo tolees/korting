@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Funko POP is de 2018 Toy of the Year en Peoples Choice award winnaar
+- Uit IT Hoofdstuk 2 Stephen King, als een gestileerd POP vinyl van Funko
 - Figuur staat 9cm en wordt geleverd in een venster display box
 - Bekijk de andere IT Chapter 2 cijfers van Funko Verzamel ze allemaal
-- Uit IT Hoofdstuk 2 Stephen King, als een gestileerd POP vinyl van Funko
+- Funko POP is de 2018 Toy of the Year en Peoples Choice award winnaar
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07TXLJPSV{{</world>}}

@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Binnenmateriaal: synthetisch
 - Bovenmateriaal: synthetisch
+- Ronde hals
 - Elastisch en ademend materiaal
 - Swoosh-logo op de rechtermouw
-- Ronde hals
+- Binnenmateriaal: synthetisch
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08TCF694J{{</world>}}

@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Tot 20 uur batterijduur en snellaadfunctie
-- Kleine, lichte oordopjes met optimale pasvorm
-- DSEE-technologie en individueel geluid met de equalizer voor een nog aangenamere luisterervaring met je volledig draadloze oordopjes van Sony
 - Spatwaterdicht conform IPX4
+- DSEE-technologie en individueel geluid met de equalizer voor een nog aangenamere luisterervaring met je volledig draadloze oordopjes van Sony
 - Stabiele, betrouwbare bluetooth-verbinding
+- Kleine, lichte oordopjes met optimale pasvorm
+- Tot 20 uur batterijduur en snellaadfunctie
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09FKGJ1CB{{</world>}}

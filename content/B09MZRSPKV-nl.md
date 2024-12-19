@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Cushioning System
 - Flexibiliteit
 - Lichtgewicht
-- Cushioning System
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09MZRSPKV{{</world>}}

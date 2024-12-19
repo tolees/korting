@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Omni Shield-technologie voor optimale waterdichtheid op natte dagen; veelzijdig gebruik, voor de stad of het buitenleven
-- Softshell-jas voor heren gemaakt van wind- en weerbestendige stof, zacht en flexibel voor elke activiteit.
 - Comfortstretch voor ideale gelaagde, slijtvaste kinbescherming en handige zakken om spullen veilig in op te bergen.
 - Inhoud: 1x Columbia Softshell-jas voor heren met capuchon, Ascender, Kleur: Zwart, Maat: S, Art.: 1556556
 - Verstelbare boorden en manchetten ter bescherming tegen de weergoden. Ritssluiting voor ideale temperatuurregulering.
+- Omni Shield-technologie voor optimale waterdichtheid op natte dagen; veelzijdig gebruik, voor de stad of het buitenleven
+- Softshell-jas voor heren gemaakt van wind- en weerbestendige stof, zacht en flexibel voor elke activiteit.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BCW91TKC{{</world>}}

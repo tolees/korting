@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Roestvrij stalen zelfslijpende bladen voor weinig tot geen onderhoud
-- Snoer is inbegrepen
+- 16-delige set met 11 opzetkammen (1.5-25mm), reinigingsborsteltje, nekborstel, schaar en een stylingkam
 - Handig schoon te houden met gemakkelijk los te koppelen bladen - Sspoel achtergebleven stof en haren af
 - Nooit meer eindeloos zoeken naar die ene kam die je nodig hebt. Onthoud voortaan alleen nog maar de kleur
-- 16-delige set met 11 opzetkammen (1.5-25mm), reinigingsborsteltje, nekborstel, schaar en een stylingkam
+- Roestvrij stalen zelfslijpende bladen voor weinig tot geen onderhoud
+- Snoer is inbegrepen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B013GH0AE4{{</world>}}

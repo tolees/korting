@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Verken Een Prachtige Wereld Vol Gevaren
+- Verken Een Prachtige Wereld Vol Gevaren
+- Deel Je Avontuur In De Volledig In Co-Op Te Spelen Campagne
 - Leer Verschillende Gevechtsstijlen
 - Suis Door De Lucht
-- Deel Je Avontuur In De Volledig In Co-Op Te Spelen Campagne
-- Verken Een Prachtige Wereld Vol Gevaren
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CQ7PT5DP{{</world>}}
