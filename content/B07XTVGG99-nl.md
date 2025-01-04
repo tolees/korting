@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Write Speed : up to 20MB/s (on 3.1 port)
+- Up to 10x faster than standard USB 2.0 Flash Drives
 - Interface : USB 3.1 (compatible with 3.0 and 2.0)
 - Compatible with PC and Mac laptop and desktop computers
 - Read Speed : up to 80MB/s (on 3.1 port)
-- Up to 10x faster than standard USB 2.0 Flash Drives
-- Write Speed : up to 20MB/s (on 3.1 port)
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07XTVGG99{{</world>}}

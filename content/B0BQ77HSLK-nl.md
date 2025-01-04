@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Deze anti-transpirant biedt 72 uur lang krachtige bescherming tegen zweet
 - Dove Men+Care Advanced Extra Fresh Anti-Transpirant Deodorant Roller
-- Een energieke, frisse geur voor langdurig fris ruikende oksels
-- De 1/4 hydraterende crème verzorgt de huid en beschermt tegen irritatie
 - Triple Action Technologie geeft je zweet-, geur- en huidbescherming
+- De 1/4 hydraterende crème verzorgt de huid en beschermt tegen irritatie
+- Deze anti-transpirant biedt 72 uur lang krachtige bescherming tegen zweet
+- Een energieke, frisse geur voor langdurig fris ruikende oksels
 - De anti-transpirant biedt volledige bescherming om je op je best te voelen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

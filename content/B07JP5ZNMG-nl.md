@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Geschikt voor dagelijks gebruik
 - Chino met het stijlvolle design van JACK & JONES
+- Geschikt voor dagelijks gebruik
 - Gemaakt van duurzame materialen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

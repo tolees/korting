@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Sequentiële leessnelheden tot 7.000 MB/s. Prestaties variëren op basis van systeemhardware en configuratie
-- Vormfactor: M.2 (2280)
-- Beschikbare capaciteit: 250GB / 500GB/ 1TB / 2TB
-- Ontworpen voor tech-enthousiastelingen, hardcore gamers en professionals die razendsnelle snelheid willen.
-- Interface: PCIe 4.0 NVMe (PCIe Gen 4.0 x 4)
 - Om de prestaties van de 980 PRO te maximaliseren, controleert u op de Intel- of AMD-website of uw systeem PCIe 4.0 ondersteunt.
+- Vormfactor: M.2 (2280)
+- Sequentiële leessnelheden tot 7.000 MB/s. Prestaties variëren op basis van systeemhardware en configuratie
+- Ontworpen voor tech-enthousiastelingen, hardcore gamers en professionals die razendsnelle snelheid willen.
+- Beschikbare capaciteit: 250GB / 500GB/ 1TB / 2TB
+- Interface: PCIe 4.0 NVMe (PCIe Gen 4.0 x 4)
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08QJHLC8J{{</world>}}

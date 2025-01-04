@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- The POCO X6 Pro is powered by the advanced MediaTek Dimensity 8100 ultra processor for a fantastic gaming experience with long-lasting battery
-- Large heat dissipation area of high-performance graphite to effectively reduce the core temperature even during intense use.
-- Stylish design with comfortable audio-visual entertainment experience
-- Revolutionary 64MP triple camera with OIS capturing your best moments
 - Immersive 6.67" display with 16.7 million colors.Watch your favourite contents come to life with perfect blacks and vibrant colour re-production
+- Revolutionary 64MP triple camera with OIS capturing your best moments
+- Large heat dissipation area of high-performance graphite to effectively reduce the core temperature even during intense use.
+- The POCO X6 Pro is powered by the advanced MediaTek Dimensity 8100 ultra processor for a fantastic gaming experience with long-lasting battery
+- Stylish design with comfortable audio-visual entertainment experience
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CMJH8WM6{{</world>}}
