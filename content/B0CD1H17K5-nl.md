@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - De stenen en onderdelen kunnen worden gecombineerd met alle Mega bouwsets en bouwsets van andere merken
+- Deze set is ideaal voor bouwers vanaf 18 jaar en is speciaal ontworpen voor volwassen bouwers die toe zijn aan een boeiende bouwervaring
 - Bouwset van replicamodel van de Xbox 360 (op schaal van 3:4), authentiek ontworpen met nauwkeurige details
 - Met uitneembare vaste schijf en zijpanelen waardoor je het interactieve interieur kunt zien
-- Deze set is ideaal voor bouwers vanaf 18 jaar en is speciaal ontworpen voor volwassen bouwers die toe zijn aan een boeiende bouwervaring
 - De set bevat een console en controller met werkende lampjes, een vaste schijf en een gameschijf met cassette
 
 [🛒 Buy it now!!]({{< param buyurl >}})
