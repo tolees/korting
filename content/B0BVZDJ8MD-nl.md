@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Brede compatibiliteit: compatibel met Nintendo Switch/OLED, Steam Deck, MacBook/MacBook Pro2017-2022, iPad Pro2018-2021, iPad mini6, iPadAir4/5 10,9 inch, Samsung Galaxy S20/S20 Plus/S20 Ultra/S10/S10+/S10e/S9/S9 Plus/S8/S8Plus/Note 10/Note 9/Note 8, Dell XPS 15/XPS 13, HP Envy 13, HP Spectre x360 enz. (Maar deze kabel kan niet voor Switch Lite worden gebruikt, omdat de Switch Lite-console geen schermprojectiefunctie heeft.)
-- Speel tijdens het opladen: met de PD-gecertificeerde intelligente chip kan hij de zwevende spanning effectief omzetten in stabiele spanning. Deze HDMI-kabel ondersteunt 100 W PD snel opladen, zodat je tijdens het opladen kunt spelen en de switch-console niet beschadigt.
-- Nieuw bijgewerkt: het ultieme draagbare ontwerp combineert HDMI, USB C en oplaadpoort in één kabel, vervangt volledig de dockschakelaar en HDMI-projectiekabel. (Oplader en oplaadkabel niet inbegrepen)
-- Hoge prestaties: deze USB C naar HDMI-kabel ondersteunt de hoge 4K-resolutie en de hoge vernieuwingsfrequentie van 30 Hz om je game-ervaring te maximaliseren. Tip: Nintendo Switch straalt ook met deze kabel een maximale resolutie van 1080p uit voor de spiegeling van het scherm 4K bij 30Hz.
 - Let op: : ①Om de Nintendo Switch met deze kabel te spiegelen, is stroom voor de laadaansluiting nodig, die een USB-C-oplader nodig heeft. ② De bijgewerkte kabel ondersteunt schermspiegeling met een 5 V/2 A voeding, maar voor het opladen van de Nintendo Switch is een 15 V/2,6 A voeding nodig.
+- Nieuw bijgewerkt: het ultieme draagbare ontwerp combineert HDMI, USB C en oplaadpoort in één kabel, vervangt volledig de dockschakelaar en HDMI-projectiekabel. (Oplader en oplaadkabel niet inbegrepen)
+- Speel tijdens het opladen: met de PD-gecertificeerde intelligente chip kan hij de zwevende spanning effectief omzetten in stabiele spanning. Deze HDMI-kabel ondersteunt 100 W PD snel opladen, zodat je tijdens het opladen kunt spelen en de switch-console niet beschadigt.
+- Hoge prestaties: deze USB C naar HDMI-kabel ondersteunt de hoge 4K-resolutie en de hoge vernieuwingsfrequentie van 30 Hz om je game-ervaring te maximaliseren. Tip: Nintendo Switch straalt ook met deze kabel een maximale resolutie van 1080p uit voor de spiegeling van het scherm 4K bij 30Hz.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BVZDJ8MD{{</world>}}

@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- De ritszakken zorgen voor veelzijdigheid Houd je handen warm wanneer dat nodig is of berg je telefoon en andere accessoires veilig op
 - Waterafstotende stof voor bescherming tegen lichte regenbuien en mist; Thermarator-isolatie voor extra warmte
-- Chic en stijlvol damesjack; een must-have voor elke wintergarderobe
-- Inhoud: 1x Columbia Puffect Jack voor dames; buitenmateriaal: 100% polyester; voering: 100% nylon; isolatie: Thermarator 100% polyester; kleur: zwart; maat: XL; art.nr. 1864781
+- De ritszakken zorgen voor veelzijdigheid Houd je handen warm wanneer dat nodig is of berg je telefoon en andere accessoires veilig op
 - Kinbeschermer voor extra bescherming tegen de elementen
+- Inhoud: 1x Columbia Puffect Jack voor dames; buitenmateriaal: 100% polyester; voering: 100% nylon; isolatie: Thermarator 100% polyester; kleur: zwart; maat: XL; art.nr. 1864781
+- Chic en stijlvol damesjack; een must-have voor elke wintergarderobe
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07K6ZN9QZ{{</world>}}

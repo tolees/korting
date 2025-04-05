@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- PUMA No. 1-logo op de tong
 - Vernieuwd eyestay-ontwerp
 - Vetersluiting voor een goede pasvorm
-- PUMA No. 1-logo op de tong
 - Bovenwerk van suède
 - Doorgestikte en gewatteerde kraag
 

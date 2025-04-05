@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Capaciteit 1,8 l voor het bereiden van maximaal 10 kopjes (gelijk aan 10 kleine porties)
+- Automatische omschakeling naar de warmhoudfunctie wanneer de rijst gaar is, controlelampje, 700 watt
 - Hoogwaardig oppervlak van geborsteld roestvrij staal met kunststof toepassingen
 - Gebruik precies de juiste hoeveelheid water om te koken en laat het fornuis automatisch opwarmen. Gebruik veel water om te stomen, bekijk het kookproces en draai de schakelaar handmatig omhoog als het eten klaar is
 - Inclusief rijstlepel en maatbeker en extra stoommand voor het koken van groenten of vis
-- Automatische omschakeling naar de warmhoudfunctie wanneer de rijst gaar is, controlelampje, 700 watt
-- Alle onderdelen die in contact komen met voedsel zijn BPA-vrij
 - Afneembare kookpot met antiaanbaklaag, glazen deksel om het kookproces te volgen
+- Capaciteit 1,8 l voor het bereiden van maximaal 10 kopjes (gelijk aan 10 kleine porties)
+- Alle onderdelen die in contact komen met voedsel zijn BPA-vrij
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B00BEJ77WK{{</world>}}

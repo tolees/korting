@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Het Zero Shock-systeem met schokabsorberende bolletjes versterkt het dempingseffect en biedt meer bescherming tegen schokken en stress.
-- Lichtgewicht schoeisel voor meer bewegingsvrijheid.
 - Uitneembare binnenzool
 - Gemakkelijk aanpasbare pasvorm, dankzij de vetersluiting.
+- Lichtgewicht schoeisel voor meer bewegingsvrijheid.
+- Het Zero Shock-systeem met schokabsorberende bolletjes versterkt het dempingseffect en biedt meer bescherming tegen schokken en stress.
 - De gepatenteerde Geox-systemen garanderen de ademende werking van de buitenzool, zodat de voet comfortabel blijft.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

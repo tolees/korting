@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Gestapelde rubberen tussenzool
 - Rubberen buitenzool
-- PUMA Formstrip aan de zijkant
 - PUMA-merkdetails op het bovenwerk, de hiel en het tonglabel
+- Gestapelde rubberen tussenzool
+- PUMA Formstrip aan de zijkant
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BLCLSBX6{{</world>}}

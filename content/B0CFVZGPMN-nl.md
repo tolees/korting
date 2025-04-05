@@ -30,11 +30,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - 2 minipoppetjes – de set bevat de LEGO Friends personages Zac en Nova plus een figuur van een speelgoed hond, zodat het creatieve spel meteen kan beginnen
 - Oplaadstation – inclusief een bouwbaar oplaadstation voor voertuigen op zonne-energie, zodat kinderen het verhaal kunnen naspelen terwijl Zac en Nova de auto opladen met groene energie
-- Leuk cadeau voor kinderen – dit LEGO speelgoed is een leuk cadeau voor de feestdagen voor kinderen die van avontuurlijk speelgoed en rollenspellen houden
-- LEGO Friends Elektrische auto en oplaadpunt bouwset – deze set met een speelgoed voertuig voor meisjes, jongens en kinderen van 6 jaar en ouder bevat 2 minipoppetjes, een honden figuur, een auto en een oplaadpunt voor zonne-energie
 - LEGO Friends sets voor meisjes, jongens en kinderen – bekijk ook de andere creatieve bouw- en speelsets (apart verkrijgbaar) in het LEGO Friends assortiment, waarmee kinderen eindeloze vriendschapsverhalen kunnen ontdekken
 - Bouwbare LEGO auto – de speelgoed auto heeft stoelen voor de LEGO Friends mini poppetjes, plus een extra stoel voor Dango de hond, en beschikt over een motorkap die open kan met ruimte voor kinderen om accessoires op te bergen
+- LEGO Friends Elektrische auto en oplaadpunt bouwset – deze set met een speelgoed voertuig voor meisjes, jongens en kinderen van 6 jaar en ouder bevat 2 minipoppetjes, een honden figuur, een auto en een oplaadpunt voor zonne-energie
 - Allerlei accessoires – deze speelgoedset voor kinderen wordt geleverd met accessoires waaronder een tafel, 2 stoelen, telefoons, een stok, bal, een voerbak, plus speelgoed eten, zoals een appel en croissant
+- Leuk cadeau voor kinderen – dit LEGO speelgoed is een leuk cadeau voor de feestdagen voor kinderen die van avontuurlijk speelgoed en rollenspellen houden
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFVZGPMN{{</world>}}

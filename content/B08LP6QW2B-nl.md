@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Anti-geurtechnologie voorkomt de groei van geurveroorzakende microben
-- Bijgewerkt ergonomisch ontwerp houdt naden weg van gebieden met hoge slijtage en verhoogt de duurzaamheid
-- Het materiaal voert zweet af en droogt zeer snel
-- Stretch-mesh rug- en zijpanelen zorgen voor strategische ventilatie
 - Stoere, lichtgewicht HeatGear-stof, met alle prestatievoordelen van UA Compression
+- Bijgewerkt ergonomisch ontwerp houdt naden weg van gebieden met hoge slijtage en verhoogt de duurzaamheid
+- Stretch-mesh rug- en zijpanelen zorgen voor strategische ventilatie
+- Anti-geurtechnologie voorkomt de groei van geurveroorzakende microben
+- Het materiaal voert zweet af en droogt zeer snel
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08LP6QW2B{{</world>}}

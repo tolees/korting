@@ -28,16 +28,16 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Tot 6 uur luistertijd (tot 24 uur in combinatie met de oplaadcase
-- Geavanceerde Class 1 Bluetooth voor een groter bereik en minder uitval
-- Twee verschillende luisterstanden: actieve ruisonderdrukking en de transparantiemodus
-- Zweet- en waterbestendige (IPX4-geclassificeerd) oortjes
-- Uitstekende gesprekskwaliteit en bediening met de spraakassistent via dubbele beamformingmicrofoons
 - Aangepast akoestisch platform levert haarscherp, uitgebalanceerd geluid
-- Met de Apple H1-chip voor automatisch schakelen2, delen van audio3 (met een andere hoofdtelefoon van Beats of met Apple AirPods), en ‘Hé Siri’4
+- Uitstekende gesprekskwaliteit en bediening met de spraakassistent via dubbele beamformingmicrofoons
 - Geavanceerde Class 1 Bluetooth voor een groter bereik en minder uitval
 - Beats Fit Pro - Echt draadloze oortjes met ruisonderdrukking - IPX4-classificatie, zweetbestendige oortjes, compatibel met Apple en Android, Class 1 Bluetooth, ingebouwde microfoon – Felgeel
+- Met de Apple H1-chip voor automatisch schakelen2, delen van audio3 (met een andere hoofdtelefoon van Beats of met Apple AirPods), en ‘Hé Siri’4
+- Geavanceerde Class 1 Bluetooth voor een groter bereik en minder uitval
+- Twee verschillende luisterstanden: actieve ruisonderdrukking en de transparantiemodus
 - Ruimtelijke audio met dynamisch hoofdtracking zodat je helemaal kunt opgaan in muziek, films en games1
+- Tot 6 uur luistertijd (tot 24 uur in combinatie met de oplaadcase
+- Zweet- en waterbestendige (IPX4-geclassificeerd) oortjes
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BTKB32LP{{</world>}}

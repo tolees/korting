@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Dri-FIT technologie helpt je droog en comfortabel te blijven
-- Elastische en veiligheidslijn
-- Standaardpasvorm
 - Panelen op de kuiten
+- Standaardpasvorm
+- Elastische en veiligheidslijn
 - Steekzakken
 
 [🛒 Check the deal!!]({{< param buyurl >}})

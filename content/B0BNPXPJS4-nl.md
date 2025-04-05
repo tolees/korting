@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 【Veilig volume en materialen】: drievoudige volumelimieten (74/85/94dBA) maken veilig luisteren en fantastische audio mogelijk (85 dBA voor bedrade modus)! Met duurzame BPA-vrije materialen die voldoen aan de Rohs2.0- en CPC-normen, is deze FCC-gecertificeerde Bluetooth-hoofdtelefoon voor kinderen inderdaad kindvriendelijk!
-- 【Onbeperkte speeltijd en compatibiliteit】: Koop een bedrade hoofdtelefoon met de meegeleverde AUX-kabel. Bluetooth- of AUX-kabel, iPad, tablets en Chromebook zijn allemaal aansluitbaar! Wacht, vergeet de ingebouwde microfoon niet voor extra plezier!
-- 【LED-verlichting en indrukwekkend geluid】: helder en glanzend, kinderen zullen dol zijn op deze iClever peuter Bluetooth5.3-hoofdtelefoon met oogverblindende lichten en indrukwekkend geluid! Unieke luchtgaten helpen ook bij het creëren van pittige bas.
-- Lange batterijduur en opladen met type-C: Geniet van een hele week muziek (6 uur/dag) met een verbluffende speeltijd van 43 uur (licht uit)! Universeel type-c opladen betekent dat je met minder kabels reist, nog steeds in staat bent om de iClever kinderhoofdtelefoon draadloos met gemak op te voeren!
 - 【Ergonomisch en taai】: deze opvouwbare draadloze hoofdtelefoon voor kinderen is met een gewicht van 157 gram speciaal gebouwd voor luisteraars die onderweg zijn! De draaibare oorschelpen over het oor geven een exacte pasvorm en comfort. Plus, sterk genoeg om elke draai of scheur aan te kunnen.
+- 【Veilig volume en materialen】: drievoudige volumelimieten (74/85/94dBA) maken veilig luisteren en fantastische audio mogelijk (85 dBA voor bedrade modus)! Met duurzame BPA-vrije materialen die voldoen aan de Rohs2.0- en CPC-normen, is deze FCC-gecertificeerde Bluetooth-hoofdtelefoon voor kinderen inderdaad kindvriendelijk!
+- Lange batterijduur en opladen met type-C: Geniet van een hele week muziek (6 uur/dag) met een verbluffende speeltijd van 43 uur (licht uit)! Universeel type-c opladen betekent dat je met minder kabels reist, nog steeds in staat bent om de iClever kinderhoofdtelefoon draadloos met gemak op te voeren!
+- 【LED-verlichting en indrukwekkend geluid】: helder en glanzend, kinderen zullen dol zijn op deze iClever peuter Bluetooth5.3-hoofdtelefoon met oogverblindende lichten en indrukwekkend geluid! Unieke luchtgaten helpen ook bij het creëren van pittige bas.
+- 【Onbeperkte speeltijd en compatibiliteit】: Koop een bedrade hoofdtelefoon met de meegeleverde AUX-kabel. Bluetooth- of AUX-kabel, iPad, tablets en Chromebook zijn allemaal aansluitbaar! Wacht, vergeet de ingebouwde microfoon niet voor extra plezier!
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BNPXPJS4{{</world>}}

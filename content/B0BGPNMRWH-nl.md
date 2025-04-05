@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Edition: Standard
 - Dead Space Remake
 - Platform: XBOX SERIES X
-- Edition: Standard
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BGPNMRWH{{</world>}}

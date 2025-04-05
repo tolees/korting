@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Het artikel heeft een informele uitstraling
 - Het artikel kan gedragen worden tijdens verschillende seizoenen
+- Het artikel heeft een informele uitstraling
 - Dit artikel kan gedragen worden in combinatie met verschillende broeken
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Elk figuur is ongeveer 9 cm groot en verpakt in een geïllustreerde vensterbox.
 - Captain America behoort nu tot de voortdurend geavanceerde POP! Productaanbod.
+- Elk figuur is ongeveer 9 cm groot en verpakt in een geïllustreerde vensterbox.
 - Deze Captain America POP! De figuur is nieuw in het Avengers Endgame-assortiment.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

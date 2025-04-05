@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Carbon design: de premium figuren van de Star Wars The Vintage Collection Carbon collectie hebben een metalen afwerking, zodat ze opvallen in elke Star Wars fancollectie
-- Verpakking in vintage-stijl: de 9,5 cm grote klassieke Star Wars figuren en voertuigen uit de Star Wars The Vintage Collection hebben het originele kennermerk (elk apart verkrijgbaar. afhankelijk van de beschikbaarheid.)
-- Premium design en hoge beweeglijkheid: de volledig beweegbare Moff Gideon figuur beschikt over een beweegbaar hoofd, beweegbare armen en benen en een premium design en details
 - Door de serie geïnspireerde accessoires: de figuur uit de Star Wars Vintage Collection wordt geleverd met 3 afneembare, door de serie geïnspireerde accessoires, inclusief een blaster, cape en donkerzwaard
 - Iconisch Star Wars karakter: met dit premium Moff Gideon-figuur, geïnspireerd op de The Mandalorian Live Action TV-serie op Disney+, kunnen fans en verzamelaars scènes uit de Star Wars Galaxis naspelen
+- Premium design en hoge beweeglijkheid: de volledig beweegbare Moff Gideon figuur beschikt over een beweegbaar hoofd, beweegbare armen en benen en een premium design en details
+- Verpakking in vintage-stijl: de 9,5 cm grote klassieke Star Wars figuren en voertuigen uit de Star Wars The Vintage Collection hebben het originele kennermerk (elk apart verkrijgbaar. afhankelijk van de beschikbaarheid.)
+- Carbon design: de premium figuren van de Star Wars The Vintage Collection Carbon collectie hebben een metalen afwerking, zodat ze opvallen in elke Star Wars fancollectie
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08XBMJS6D{{</world>}}

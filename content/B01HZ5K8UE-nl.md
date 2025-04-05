@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - De ionentechnologie droogt het haar sneller en beschermt het zo beter tegen beschadigingen
-- 2 temperatuurniveaus en een koude stand
-- Combinatie van krachtige haardroger en volumeborstel
-- Zorgt twee keer zo snel voor volumineus, geföhnd haar zonder knopen
 - De ovale borstel geeft de haaraanzet volume en tovert licht krullende haarpunten
+- 2 temperatuurniveaus en een koude stand
+- Zorgt twee keer zo snel voor volumineus, geföhnd haar zonder knopen
 - Ideaal voor middellang tot lang haar
+- Combinatie van krachtige haardroger en volumeborstel
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01HZ5K8UE{{</world>}}

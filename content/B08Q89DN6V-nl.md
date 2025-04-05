@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 50 uur speeltijd: Life Q30 actieve hoofdtelefoon met ruisonderdrukking speelt tot 50 uur muziek af in ruisonderdrukkingsmodus. De standaardmodus verlengt de speeltijd tot 70 uur, terwijl een korte oplaadtijd van 5 minuten u 4 uur luistert.
-- Ultieme ruisonderdrukking: pas de ruisonderdrukking van de Life Q30 aan met 3 modi: Transport minimaliseert het motorgeluid van vliegtuigvliegtuigen, buiten vermindert verkeer en wind, en Indoor dempt het geluid van drukke kantoren met mensen die op de achtergrond praten.
-- Hi-Res Music: Hoor elk detail van je favoriete nummers dankzij de 40mm-drivers van Life Q30. De zeer flexibele zijden diafragmas reproduceren bonzende bas en scherpe hoge tonen die zich uitstrekken tot 40 kHz voor verbeterde helderheid.
-- Geavanceerde ruisonderdrukkingstechnologie: houd uw focus vast met de hybride actieve ruisonderdrukking van de Life Q30. Dubbele ruisonderdrukkende microfoons nemen tot 95% van het laagfrequente omgevingsgeluid op en filteren deze om ervoor te zorgen dat niets u afleidt van uw muziek.
 - Drukvrij comfort: de Life Q30 actieve ruisonderdrukkende hoofdtelefoon heeft ultrazachte oorschelpen van proteïneleer met traagschuim vulling om precies over je oren te passen. De lichtgewicht constructie zorgt er ook voor dat ze comfortabel zijn voor lange luistersessies.
+- 50 uur speeltijd: Life Q30 actieve hoofdtelefoon met ruisonderdrukking speelt tot 50 uur muziek af in ruisonderdrukkingsmodus. De standaardmodus verlengt de speeltijd tot 70 uur, terwijl een korte oplaadtijd van 5 minuten u 4 uur luistert.
+- Hi-Res Music: Hoor elk detail van je favoriete nummers dankzij de 40mm-drivers van Life Q30. De zeer flexibele zijden diafragmas reproduceren bonzende bas en scherpe hoge tonen die zich uitstrekken tot 40 kHz voor verbeterde helderheid.
+- Ultieme ruisonderdrukking: pas de ruisonderdrukking van de Life Q30 aan met 3 modi: Transport minimaliseert het motorgeluid van vliegtuigvliegtuigen, buiten vermindert verkeer en wind, en Indoor dempt het geluid van drukke kantoren met mensen die op de achtergrond praten.
+- Geavanceerde ruisonderdrukkingstechnologie: houd uw focus vast met de hybride actieve ruisonderdrukking van de Life Q30. Dubbele ruisonderdrukkende microfoons nemen tot 95% van het laagfrequente omgevingsgeluid op en filteren deze om ervoor te zorgen dat niets u afleidt van uw muziek.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08Q89DN6V{{</world>}}

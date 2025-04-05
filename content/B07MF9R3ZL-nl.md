@@ -31,8 +31,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 - Geïntegreerde subwoofer zodat u kunt genieten van diepe bassen met alleen de nodige uitrusting
 - HT-X8500 met geperforeerd metaal en slank design
 - Luister het geluid uit alle richtingen met gesimuleerd 712 surround geluid
-- Geniet van al je films in 4K HDR-kwaliteit
 - Geluidsmodi passend bij uw entertainmentformaten
+- Geniet van al je films in 4K HDR-kwaliteit
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07MF9R3ZL{{</world>}}

@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Turbofunctie voor een bredere luchtverdeling
+- Het is absoluut noodzakelijk dat het apparaat is afgekoeld voordat u de kabel oprolt. Als u het apparaat niet gebruikt, bewaar het dan op een droge plaats
 - Ergonomische handgreep voor eenvoudig transport en opslag
 - Mechanische thermostaat om de kamertemperatuur aan te passen, met vorstinstelling om te voorkomen dat de kamertemperatuur onder 0° C daalt
-- Het is absoluut noodzakelijk dat het apparaat is afgekoeld voordat u de kabel oprolt. Als u het apparaat niet gebruikt, bewaar het dan op een droge plaats
 - 2 instelbare verwarmingsniveaus 1200 W voor langer gebruik of 2400 W voor snelle, krachtige verwarming
 - Grote roosters voor brede luchtverdeling en snelle, efficiënte verwarming
 

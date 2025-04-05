@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Stevig design voor eenvoudige bewegingen
 - Geschikt voor: koud weer
+- Stevig design voor eenvoudige bewegingen
 - Laarzen van het merk Columbia
 
 [🛒 Check the deal!!]({{< param buyurl >}})

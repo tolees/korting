@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- 2 zakken met ritssluiting voor warme en veilige handen, verstelbare zoom met trekkoord, handig in handzak op te bergen
+- Praktische ritssluiting over de volledige lengte, vaste, verstelbare capuchon, Omni-Tech waterdichte en ademende technologie
 - Comfortabele jas, kan het hele jaar door gedragen worden, ideaal voor wandelen, trailrunning en andere buitenactiviteiten
 - Inhoud: 1x Columbia Waterproof II-jack voor heren, Stone Green (Groen), S, 1533898
-- Praktische ritssluiting over de volledige lengte, vaste, verstelbare capuchon, Omni-Tech waterdichte en ademende technologie
-- 2 zakken met ritssluiting voor warme en veilige handen, verstelbare zoom met trekkoord, handig in handzak op te bergen
 - Machinewasbaar, verkrijgbaar in verschillende kleuren
 
 [🛒 Buy it!!]({{< param buyurl >}})

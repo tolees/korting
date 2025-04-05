@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Spatwaterdicht conform IPX4
 - DSEE-technologie en individueel geluid met de equalizer voor een nog aangenamere luisterervaring met je volledig draadloze oordopjes van Sony
 - Stabiele, betrouwbare bluetooth-verbinding
 - Kleine, lichte oordopjes met optimale pasvorm
 - Tot 20 uur batterijduur en snellaadfunctie
+- Spatwaterdicht conform IPX4
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09FKFY395{{</world>}}

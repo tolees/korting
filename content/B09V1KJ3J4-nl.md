@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Gebruik elke app, stream naar elk platform: OBS, Streamlabs, Vmix, Zoom, Microsoft Teams, Stream naar YouTube, Twitch, Facebook Gaming en meer.
-- Plug and Play: installatie zonder stuurprogramma op Windows en Mac.
 - Hoogwaardige opname, krachtige passthrough: verbluffende 4K 30- of 1080p60 HDR10-kwaliteit, 4K60 HDR10, 1440p120, 1080p120, 1080p240, VRR-passthrough.
+- Gebruik elke app, stream naar elk platform: OBS, Streamlabs, Vmix, Zoom, Microsoft Teams, Stream naar YouTube, Twitch, Facebook Gaming en meer.
 - Ultralage latentie: minder dan 100 ms voor naadloze synchronisatie van audio en video.
+- Plug and Play: installatie zonder stuurprogramma op Windows en Mac.
 - Geen beperkingen: Geen watermerken, tijdslimieten of abonnementen.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

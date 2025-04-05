@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kwaliteitsconstructie: met stevige stalen kogellagers in de stuuras en roestvrijstalen versnellingsregelaars en pedalen is Driving Force gemaakt voor precisieracen en duurzame betrouwbaarheid
-- Ontworpen voor Sony Playstation 5: compatibel met PlayStation 5, PS4, PS3 en pc-titels. Voeg Driving Force toe aan je controller-keuze en je wilt nooit meer met een gewone controller racen
-- Gemakkelijk bereikbare gameknoppen: D-Pad, consoleknoppen en halfautomatische versnellingsregelaars bevinden zich handig op het stuurwiel
-- Premium materialen: het stuurwiel is bedekt met hoogwaardig, handgestikt leer wat het de look en feel van een hoogwaardig racestuur geeft
 - Responsieve pedalen. De G29 wordt geleverd met een afzonderlijke vloerpedaleneenheid zodat je comfortabel kunt remmen, optrekken en schakelen zoals je in een echte auto zou doen
+- Ontworpen voor Sony Playstation 5: compatibel met PlayStation 5, PS4, PS3 en pc-titels. Voeg Driving Force toe aan je controller-keuze en je wilt nooit meer met een gewone controller racen
 - Realistische force feedback: G29 Driving Force is gemaakt met forcefeedback via twee motoren die is ontworpen om het gevoel van je auto en banden in elke bocht en het type terrein te simuleren
+- Premium materialen: het stuurwiel is bedekt met hoogwaardig, handgestikt leer wat het de look en feel van een hoogwaardig racestuur geeft
+- Kwaliteitsconstructie: met stevige stalen kogellagers in de stuuras en roestvrijstalen versnellingsregelaars en pedalen is Driving Force gemaakt voor precisieracen en duurzame betrouwbaarheid
+- Gemakkelijk bereikbare gameknoppen: D-Pad, consoleknoppen en halfautomatische versnellingsregelaars bevinden zich handig op het stuurwiel
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B00YUIM2J0{{</world>}}

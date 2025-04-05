@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Solide Gen3 performance
+- Beoordeeld aan MTTF groter dan 1,5 miljoen uren voor langere levensduur en betrouwbaarheid
 - Presteert tot 45% beter dan de vorige generatie
 - Ruime opslag tot 4TB
-- Beoordeeld aan MTTF groter dan 1,5 miljoen uren voor langere levensduur en betrouwbaarheid
 - NVMe (PCIe Gen3 x4) technologie met tot 3500MB/s sequentiële lezingen, random lezen/schrijven 350K/460K IOPS
 
 [🛒 Buy it!!]({{< param buyurl >}})

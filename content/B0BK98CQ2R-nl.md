@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - SOFTFOAM plus inlegzool
-- Rubberen tussenzool
-- Midden laars
 - Synthetisch bovenwerk
+- Midden laars
+- Rubberen tussenzool
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BK98CQ2R{{</world>}}

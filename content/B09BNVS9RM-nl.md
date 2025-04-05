@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kinderen kunnen spelen dat ze zich op het racecircuit bevinden, wanneer ze de auto ervandoor laten scheuren met de twee krachtige pull-backmotoren
 - De groen-witte modelauto, met zijn brede banden en verhoogde achterspoiler, heeft de iconische looks van de enige echte Ford Mustang Shelby GT500
-- Met deze set bouwen kinderen een LEGO versie van de stoere Ford Mustang Shelby GT500 dragracer met pull-backmotor
-- Nadat kinderen de speelgoedauto volledig hebben uitgetest, kunnen ze de achterklep eraan vastmaken; de finishing touch voor het gestroomlijnde model
+- Kinderen kunnen spelen dat ze zich op het racecircuit bevinden, wanneer ze de auto ervandoor laten scheuren met de twee krachtige pull-backmotoren
 - Met behulp van de LEGO Technic AR+-app komt de modelauto tot leven in augmented reality; met de app kunnen kinderen nog meer leuke uitdagingen en speelmogelijkheden ontdekken
 - Verras kinderen vanaf 9 jaar die dol zijn op autos, racen en techniek met deze geweldige bouwset als een leuke verrassing voor iedere andere gelegenheid
+- Met deze set bouwen kinderen een LEGO versie van de stoere Ford Mustang Shelby GT500 dragracer met pull-backmotor
+- Nadat kinderen de speelgoedauto volledig hebben uitgetest, kunnen ze de achterklep eraan vastmaken; de finishing touch voor het gestroomlijnde model
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNVS9RM{{</world>}}

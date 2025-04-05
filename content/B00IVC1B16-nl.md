@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Ravensburger 3D-puzzel voor kinderen en volwassenen: De wereldberoemde Eiffeltoren als stabiele 3D-puzzelstructuur met de afmetingen 16,5 x 16,5 x 47 cm en in een realistisch ontwerp biedt de ideale combinatie van puzzels en modelbouw
-- Met behulp van de geïllustreerde instructies kunnen zowel beginners als gevorderde puzzelaars het wereldberoemde monument van Parijs in 3D-formaat bouwen met 216 puzzelstukjes gemaakt van stevig plastic - zonder lijm
 - Creatieve kinderkamerdecoratie: De Eiffeltoren als 3D-puzzelstructuur is de ideale decoratie voor de kinderkamers van meisjes en jongens, omdat de ingebouwde LED-verlichting de 3D-puzzel in verschillende kleuren laat oplichten in het donker
+- Met behulp van de geïllustreerde instructies kunnen zowel beginners als gevorderde puzzelaars het wereldberoemde monument van Parijs in 3D-formaat bouwen met 216 puzzelstukjes gemaakt van stevig plastic - zonder lijm
 - Leeftijd: vanaf 10 jaar
+- Ravensburger 3D-puzzel voor kinderen en volwassenen: De wereldberoemde Eiffeltoren als stabiele 3D-puzzelstructuur met de afmetingen 16,5 x 16,5 x 47 cm en in een realistisch ontwerp biedt de ideale combinatie van puzzels en modelbouw
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B00IVC1B16{{</world>}}

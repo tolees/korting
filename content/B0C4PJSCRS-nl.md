@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Gestructureerde en ondersteunende pasvorm
-- Flexibele groeven volgen de beweging van de voet
 - Rubberen zool
+- Flexibele groeven volgen de beweging van de voet
+- Gestructureerde en ondersteunende pasvorm
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0C4PJSCRS{{</world>}}

@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- PASVORM - Slim Fit snit tot halverwege de dij.
 - MATERIAAL - 95% katoen, 5% elastaan.
-- ESSENTIEEL - Een veelzijdige keuze voor dagelijks draagcomfort. JACHUEY
+- PASVORM - Slim Fit snit tot halverwege de dij.
 - IDEAAL- Korte onderbroek met elastische tailleband met logo-print.
+- ESSENTIEEL - Een veelzijdige keuze voor dagelijks draagcomfort. JACHUEY
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07T5SJMZ4{{</world>}}

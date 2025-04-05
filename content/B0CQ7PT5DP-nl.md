@@ -30,9 +30,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Leer Verschillende Gevechtsstijlen
 - Verken Een Prachtige Wereld Vol Gevaren
-- Suis Door De Lucht
 - Deel Je Avontuur In De Volledig In Co-Op Te Spelen Campagne
 - Verken Een Prachtige Wereld Vol Gevaren
+- Suis Door De Lucht
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CQ7PT5DP{{</world>}}

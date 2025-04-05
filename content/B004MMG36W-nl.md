@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Compatibele 7.2-kanaals AV-ontvanger met hoge resolutie met Bluetooth, NFC, Wi-Fi en SongPal
-- Verkrijgbaar in verschillende kleuren
-- 13,5 mm neodymium driver
 - 18Hz-22kHz frequentiebereik
+- 13,5 mm neodymium driver
+- Verkrijgbaar in verschillende kleuren
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B004MMG36W{{</world>}}

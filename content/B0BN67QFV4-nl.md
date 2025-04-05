@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Waterbestendigheid: niet waterbestendig
 - Hakvorm: blokhak
+- Waterbestendigheid: niet waterbestendig
 - Schoenbreedte: medium
 
 [🛒 Buy it now!!]({{< param buyurl >}})

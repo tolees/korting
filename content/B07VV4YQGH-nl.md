@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Geconcentreerde veganistische omega 3 algenolie, gekweekt in zuiver, gefilterd water onder gecontroleerde omstandigheden voor superieure zuiverheid
-- Gebalanceerde DHA & EPA 600 mg per 2 kleine softgels (400 mg DHA, 200 mg EPA) voor gesplitste dosering, verbeterde opname en gezonde omega-3-niveaus
-- Duurzaam, milieuvriendelijk alternatief voor visolie, vrij van verontreinigingen, van nature vrij van kwik, dioxines en Pcb’s. Niet getest op dieren. Deze plantaardige vetzuren zijn zonder nasmaak
 - Astaxanthine bevorderd de bescherming van de antioxidanten aan de capsule en in het lichaam, een combinatie die natuurlijk wordt aangetroffen in wilde zalm en krill
+- Duurzaam, milieuvriendelijk alternatief voor visolie, vrij van verontreinigingen, van nature vrij van kwik, dioxines en Pcb’s. Niet getest op dieren. Deze plantaardige vetzuren zijn zonder nasmaak
 - GMP vervaardigd in het VK, derde partij getest om op zuiverheid en actieve ingrediënten. Vrij van: GMO, allergenen, kunstmatige kleur- en smaakstoffen
+- Gebalanceerde DHA & EPA 600 mg per 2 kleine softgels (400 mg DHA, 200 mg EPA) voor gesplitste dosering, verbeterde opname en gezonde omega-3-niveaus
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07VV4YQGH{{</world>}}

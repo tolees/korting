@@ -30,11 +30,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Let op: Om de koptelefoon te resetten, moet je de volume + en volume knoppen vijf seconden ingedrukt houden. Mogelijk moet u het apparaat uit de Bluetooth-instellingen verwijderen en vergeten
 - Bluetooth-versie: V5.0, Bluetooth-profielversie: HFP V1.7, A2DP V1.3, AVRCP V1.6, Bluetooth-zender frequentiebereik: 2,4 GHz – 2,4835 GHz, Bluetooth-zendervermogen: < 10 dBm
-- Mis nooit meer iets: met Ambient Aware en TalkThru-technologie kunt u met slechts één druk op de knop tegelijkertijd naar muziek luisteren, met vrienden praten en de omgeving waarnemen
-- De spraakassistent kan op verschillende manieren worden geactiveerd - met de stem, door op de oorschelp te tikken of met de JBL-app
-- De Live 660NC draadloze Bluetooth-hoofdtelefoon met JBL Signature Sound isoleert ruis dankzij adaptieve ruisonderdrukking, voor een intense luisterervaring zonder interferentie
 - De over-ear hoofdtelefoon biedt tot 50 uur muziekgenot zonder ANC en 40 uur met ANC en 4 uur batterijduur met slechts 10 minuten opladen / met verwijderbare audiokabel
+- De Live 660NC draadloze Bluetooth-hoofdtelefoon met JBL Signature Sound isoleert ruis dankzij adaptieve ruisonderdrukking, voor een intense luisterervaring zonder interferentie
 - Inhoud van de doos: 1 x JBL Live 660NC draadloze hoofdtelefoon met ANC in zwart / 1 x audiokabel / 1 x oplaadkabel type C / 1 x draagtas / 1 x garantie / waarschuwing / 1 x snelstartgids / veiligheidsinformatieblad
+- De spraakassistent kan op verschillende manieren worden geactiveerd - met de stem, door op de oorschelp te tikken of met de JBL-app
+- Mis nooit meer iets: met Ambient Aware en TalkThru-technologie kunt u met slechts één druk op de knop tegelijkertijd naar muziek luisteren, met vrienden praten en de omgeving waarnemen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08VDMK1V2{{</world>}}

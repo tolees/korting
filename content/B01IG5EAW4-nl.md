@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Klassieke Camper Kever sneaker
-- Sportieve Camper sneaker
 - buitenmateriaal: Overig Leer
+- Sportieve Camper sneaker
 - Type sluiting: Slip-On
 - stijl: Low-Top Sneakers
 

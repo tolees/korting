@@ -28,16 +28,16 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- ✔️ Videos onmiddellijk bijsnijden en exporteren. VIdeos bewerken met meer dan 1000 filmsjablonen en -effecten
-- ✔️ 24 maanden garantie
-- ✔️ Het origineel van Nero: Video Grabber + videobewerkingsprogramma (levenslange licentie voor 1 pc)
-- ✔️ Converter van analoge video en muziek naar digitaal, digitaliseer VHS, VCR, camcorder, Hi8, platen, cassettes naar PC / Geschikt voor het opnemen/archiveren van bijna alle analoge video- en audiobronnen
-- ✔️ Bij de levering inbegrepen: installatielink, kaart met licentiesleutel, videograbber, scartkabel
-- ✔️ Plug & Play-toepassing via USB-aansluiting - geen voorkennis of voorbewerking nodig
-- ✔️ Inclusief gratis SCART-kabel
-- ✔️ Software voor Windows 11, 10, 8, 7
 - ✔️ Voor aansluiting op videorecorders, videocameras, camcorders, platenspelers, cassettedecks
+- ✔️ Videos onmiddellijk bijsnijden en exporteren. VIdeos bewerken met meer dan 1000 filmsjablonen en -effecten
 - ✔️ Breng uw analoge media in het digitale tijdperk (VHS, videorecorder, camcorder, Hi8, grammofoonplaten, cassettes)
+- ✔️ Plug & Play-toepassing via USB-aansluiting - geen voorkennis of voorbewerking nodig
+- ✔️ Converter van analoge video en muziek naar digitaal, digitaliseer VHS, VCR, camcorder, Hi8, platen, cassettes naar PC / Geschikt voor het opnemen/archiveren van bijna alle analoge video- en audiobronnen
+- ✔️ Het origineel van Nero: Video Grabber + videobewerkingsprogramma (levenslange licentie voor 1 pc)
+- ✔️ Software voor Windows 11, 10, 8, 7
+- ✔️ Inclusief gratis SCART-kabel
+- ✔️ 24 maanden garantie
+- ✔️ Bij de levering inbegrepen: installatielink, kaart met licentiesleutel, videograbber, scartkabel
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0C5XQH39D{{</world>}}

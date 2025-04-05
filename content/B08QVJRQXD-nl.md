@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Duik diep in de muziekwereld, geniet van een helder geluid en voel letterlijk de bas ; dankzij de unieke JBL Pure Bass Sound-technologie
-- Verbinding: bij gebruik van dit apparaat is Android 6-0 of hoger vereist voor volledige toegang tot Alexa-functies
-- Ideaal voor tijdens het reizen: tot 30 uur non stop muziek met Bluetooth uitgeschakeld, ongeacht de ruisonderdrukkingsfunctie ; of tot 12 uur via Bluetooth-verbinding, zonder de wirwar van kabels
-- De lichte maar robuuste materialen van de koptelefoon zorgen ervoor dat deze gemakkelijk is mee te nemen ; wanneer de on-ear headset niet in gebruik is, kan deze handig worden opgevouwen
-- Leveringsomvang: 1 x JBL Tune 660 koptelefoon met ruisonderdrukking in zwart / Verbinding via Bluetooth 4-1 of kabel / Met ingebouwde microfoon en handsfree-functie / Eenvoudig op te vouwen
 - Met één druk op de knop de wereld dempen? Bij de JBL Tune 660 BTNC kan de ruisonderdrukking direct op de oorschelp worden in; of uitgeschakeld, zodat u zich volledig op kunt laten gaan in uw muziek
+- Leveringsomvang: 1 x JBL Tune 660 koptelefoon met ruisonderdrukking in zwart / Verbinding via Bluetooth 4-1 of kabel / Met ingebouwde microfoon en handsfree-functie / Eenvoudig op te vouwen
+- Verbinding: bij gebruik van dit apparaat is Android 6-0 of hoger vereist voor volledige toegang tot Alexa-functies
+- De lichte maar robuuste materialen van de koptelefoon zorgen ervoor dat deze gemakkelijk is mee te nemen ; wanneer de on-ear headset niet in gebruik is, kan deze handig worden opgevouwen
+- Ideaal voor tijdens het reizen: tot 30 uur non stop muziek met Bluetooth uitgeschakeld, ongeacht de ruisonderdrukkingsfunctie ; of tot 12 uur via Bluetooth-verbinding, zonder de wirwar van kabels
+- Duik diep in de muziekwereld, geniet van een helder geluid en voel letterlijk de bas ; dankzij de unieke JBL Pure Bass Sound-technologie
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08QVJRQXD{{</world>}}

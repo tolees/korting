@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Goede grip
 - Gemakkelijk te monteren
-- Flexibel
 - Lichtgewicht
+- Flexibel
+- Goede grip
 - Extra duurzame ingrediënten
 
 [🛒 Buy it!!]({{< param buyurl >}})

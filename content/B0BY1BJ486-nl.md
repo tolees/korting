@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Zichtbaar dubbel venster om het eten op elk moment te observeren: de luchtfriteuse is uitgerust met twee transparante kijkvensters, wanneer het eten wordt gekookt, schakelen het kijkvenster en het binnenlicht aan, zodat je het eten tijdens het koken kunt zien zonder de friteuse te openen om warmteverlies te voorkomen; ook uitgerust met een veiligheidsvergrendeling om te voorkomen dat kinderen het per ongeluk openen, meer veiligheid.
-- Energiebesparing: de snelle 360 graden luchtcirculatie maakt het mogelijk om in enkele minuten van heerlijke gerechten te genieten en tot 80% energie te besparen.
 - Minder olie, gezonder: met de olievrije friteuse AFW20 kun je genieten van gezonde levensmiddelen door alleen een beetje olie toe te voegen of helemaal niet toe te voegen. Gezonder dan traditionele gefrituurde levensmiddelen. De perfecte keuze voor een gezond leven.
-- 【Vaatwasmachinebestendig, vrije handen】: de AFW20-accessoires maken gebruik van anti-aanbakmaterialen en kunnen in de vaatwasser worden gereinigd, wat tijd bespaart en je handen vrij maakt.
 - 【Multifunctioneel】: de AFW20 beschikt over 8 programmas. Vergemakkelijkt het koken, met slechts één aanraking kun je gemakkelijk heerlijke gerechten krijgen, zonder het kookproces altijd te hoeven controleren. Kan worden gebruikt voor braden, grillen, dehydreren, enz.
+- 【Vaatwasmachinebestendig, vrije handen】: de AFW20-accessoires maken gebruik van anti-aanbakmaterialen en kunnen in de vaatwasser worden gereinigd, wat tijd bespaart en je handen vrij maakt.
+- Energiebesparing: de snelle 360 graden luchtcirculatie maakt het mogelijk om in enkele minuten van heerlijke gerechten te genieten en tot 80% energie te besparen.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BY1BJ486{{</world>}}

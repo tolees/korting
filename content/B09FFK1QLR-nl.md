@@ -30,8 +30,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Verplaats een volledige film naar de stick in minder dan 30 seconden, Houd je privébestanden privé met de meegeleverde SanDisk SecureAccess-software
 - Een compacte, plug-and-stay, hoge-snelheid USB 3.1 USB-stick die ideaal is voor het toevoegen van meer opslagruimte aan laptops, gameconsoles, audio in de auto en meer
-- Een eenvoudige, snelle manier om tot 32 GB opslag aan je apparaten toe te voegen
 - Overdrachtssnelheden tot 15x sneller dan standaard USB 2.0 sticks
+- Een eenvoudige, snelle manier om tot 32 GB opslag aan je apparaten toe te voegen
 - Leessnelheden tot 130 MB/s
 
 [🛒 Buy it!!]({{< param buyurl >}})

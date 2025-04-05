@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Een zonnelotion voor vrouwen van Elizabeth Arden
 - Richt zich op gevoelige, overbelichte gebieden zoals neuzen, oren en lippen
 - SPF 50, met 8 uur bescherming
-- Een zonnelotion voor vrouwen van Elizabeth Arden
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00BNAPOAM{{</world>}}

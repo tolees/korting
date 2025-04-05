@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- IP67: of u nu naar het strand of de werkplaats gaat, dankzij IP67 is de speaker waterdicht en stofdicht; Koppel één of meerdere PartyBoost-compatibele speakers met elkaar en laat het feest beginnen
 - JBL Sound: de Flip 6 beschikt over een nieuwe audioconfiguratie met dubbele passieve radiatoren, krachtige racetrack-vormige woofer en een aparte tweeter; Geniet van muziek tot in verbluffende details
 - 12 uur speeltijd: maak u niet druk om kleine dingen zoals het opladen van uw batterij; De JBL Flip 6 geeft u tot wel 12 uur speeltijd op een enkele lading
 - Milieuvriendelijk: de Flip 6 is verpakt in een recyclebare doos op papierbasis, inclusief de binnenlade; Het plastic hanglabel is voor meer dan 90% gerecycled en de buitenkant is bedrukt met soja-inkt
 - In de doos inbegrepen: JBL Flip 6 Bluetooth luidspreker in blauw, USB type-C oplaadkabel, garantie/waarschuwing (W/!), beknopte handleiding/veiligheidsinformatieblad (S/i)
-- IP67: of u nu naar het strand of de werkplaats gaat, dankzij IP67 is de speaker waterdicht en stofdicht; Koppel één of meerdere PartyBoost-compatibele speakers met elkaar en laat het feest beginnen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09HGSCL9Q{{</world>}}

@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Bekijk de andere LICENTIecijfers van Funko Verzamel ze allemaal
-- Figuur staat 46 cm en wordt geleverd in een venster display box
 - Van Harry Potter, 18 Inch Harry Potter, als een gestileerde 18 Inch POP vinyl van Funko
 - Funko POP is de 2018 Peoples choice Toy of the Year
+- Figuur staat 46 cm en wordt geleverd in een venster display box
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B084R4WYR6{{</world>}}

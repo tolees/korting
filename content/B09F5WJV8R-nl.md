@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Vereist compatibele apparaten om USB 3.2 Gen 2x2 USB-C-prestaties te bereiken¹
-- Compacte, zakformaat vormfactor
-- Capaciteiten tot 4 TB²
-- IP55 rating⁴ met afneembare rubberen huls
 - Toonaangevende lees-/schrijfsnelheden tot 2.000MB/s¹
+- Compacte, zakformaat vormfactor
+- Vereist compatibele apparaten om USB 3.2 Gen 2x2 USB-C-prestaties te bereiken¹
+- IP55 rating⁴ met afneembare rubberen huls
 - Onderdeelnummer: SXS2000/500G
+- Capaciteiten tot 4 TB²
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09F5WJV8R{{</world>}}

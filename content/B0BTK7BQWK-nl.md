@@ -28,16 +28,16 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Zweet- en waterbestendige (IPX4-geclassificeerd) oortjes
-- Met de Apple H1-chip voor automatisch schakelen, delen van audio (met een andere hoofdtelefoon van Beats of met Apple AirPods), en ‘Hé Siri’
-- Twee verschillende luisterstanden: actieve ruisonderdrukking en de transparantiemodus
-- Uitstekende gesprekskwaliteit en bediening met de spraakassistent via dubbele beamformingmicrofoons
-- Geavanceerde Class 1 Bluetooth voor een groter bereik en minder uitval
-- Aangepast akoestisch platform levert haarscherp, uitgebalanceerd geluid
-- Via ‘Zoek mijn’ van iOS kun je je oortjes terugvinden als je ze kwijt bent
-- Flexibele wingtips zodat je oordopjes de hele dag goed en comfortabel blijven zitten
-- Ruimtelijke audio met dynamisch hoofdtracking zodat je helemaal kunt opgaan in muziek, films en games
 - Tot 6 uur luistertijd (tot 24 uur in combinatie met de oplaadcase
+- Met de Apple H1-chip voor automatisch schakelen, delen van audio (met een andere hoofdtelefoon van Beats of met Apple AirPods), en ‘Hé Siri’
+- Zweet- en waterbestendige (IPX4-geclassificeerd) oortjes
+- Ruimtelijke audio met dynamisch hoofdtracking zodat je helemaal kunt opgaan in muziek, films en games
+- Aangepast akoestisch platform levert haarscherp, uitgebalanceerd geluid
+- Flexibele wingtips zodat je oordopjes de hele dag goed en comfortabel blijven zitten
+- Uitstekende gesprekskwaliteit en bediening met de spraakassistent via dubbele beamformingmicrofoons
+- Via ‘Zoek mijn’ van iOS kun je je oortjes terugvinden als je ze kwijt bent
+- Geavanceerde Class 1 Bluetooth voor een groter bereik en minder uitval
+- Twee verschillende luisterstanden: actieve ruisonderdrukking en de transparantiemodus
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BTK7BQWK{{</world>}}

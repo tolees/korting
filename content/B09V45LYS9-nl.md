@@ -28,16 +28,16 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Batterij voor een hele dag
-- Wifi 6 en 5G-dataverbindingen
-- Apple M1‐chip met Neural Engine
 - 12‐MP groothoekcamera
-- Verkrijgbaar in blauw, paars, roze, sterrenlicht en spacegrijs
-- Stereospeakers in liggende stand
-- 10,9‐inch Liquid Retina-display1 met True Tone, brede kleurweergave (P3) en een antireflectie­coating
-- Touch ID voor veilige authenticatie en Apple Pay
 - Tot 256 GB aan opslag
+- Stereospeakers in liggende stand
+- Touch ID voor veilige authenticatie en Apple Pay
 - 12‐MP ultragroothoek­camera aan de voorkant met Middelpunt
+- Wifi 6 en 5G-dataverbindingen
+- Verkrijgbaar in blauw, paars, roze, sterrenlicht en spacegrijs
+- Batterij voor een hele dag
+- Apple M1‐chip met Neural Engine
+- 10,9‐inch Liquid Retina-display1 met True Tone, brede kleurweergave (P3) en een antireflectie­coating
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09V45LYS9{{</world>}}

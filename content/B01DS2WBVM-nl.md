@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- NIVEA Protects & Moisturizes biedt alles wat de huid nodig heeft onder de zon: zeer effectieve bescherming en langdurige hydratatie
-- Onmiddellijke bescherming tegen zonnebrand
-- waterdicht
 - Verminder het risico op zonneallergieën door diep en duurzaam te hydrateren
 - 24 uur hydratatie voor de huid
+- Onmiddellijke bescherming tegen zonnebrand
+- waterdicht
+- NIVEA Protects & Moisturizes biedt alles wat de huid nodig heeft onder de zon: zeer effectieve bescherming en langdurige hydratatie
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B01DS2WBVM{{</world>}}

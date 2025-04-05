@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Originele afstandsbediening BN59-01358B, BN5901358B van SAMSUNG
-- UE50AU7105, UE50AU7175, UE50AU7190, UE55AU7105, UE55AU7175, UE60AU7190, UE65AU7105, UE65AU7175, UE70AU7105, UE70AU7175, UE75AU7105, UE75AU7175
-- Het aangeboden product is een vervangende afstandsbediening die niet geprogrammeerd hoeft te worden en na het plaatsen van de batterijen direct gebruikt kan worden. (Batterijen zijn niet inbegrepen in de aanbieding)
 - GU43AU7179, GU43AU7199, GU50AU7179, GU50AU7199, GU55AU7179, GU55AU7199, GU60AU7179, GU60AU7199, GU65AU7179, GU65AU7199, UE43AU7105, UE43AU7175, UE43 AU7190
+- Het aangeboden product is een vervangende afstandsbediening die niet geprogrammeerd hoeft te worden en na het plaatsen van de batterijen direct gebruikt kan worden. (Batterijen zijn niet inbegrepen in de aanbieding)
+- UE50AU7105, UE50AU7175, UE50AU7190, UE55AU7105, UE55AU7175, UE60AU7190, UE65AU7105, UE65AU7175, UE70AU7105, UE70AU7175, UE75AU7105, UE75AU7175
+- Originele afstandsbediening BN59-01358B, BN5901358B van SAMSUNG
 - De afstandsbediening is compatibel met de volgende apparaten: 2021 UHD Smart TV
 
 [🛒 Check the deal!!]({{< param buyurl >}})

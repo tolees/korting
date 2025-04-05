@@ -28,16 +28,16 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Schitterend ontwerp met led-verlichting en acht levendige kleuren
-- Geen batterijen nodig
-- Zachte afwerking voor een premium gevoel
-- Coole led-effecten zoals "ademend" en 8-kleurige regenboogfase
-- Comfortabel ergonomisch ontwerp
 - Ontkoppelbare gevlochten USB-kabel van 3 m met inline en kliksluiting
 - Geavanceerde gameknoppen: twee toewijsbare knoppen aan de achterkant
+- Schitterend ontwerp met led-verlichting en acht levendige kleuren
 - 3,5 mm stereo audio-aansluiting
-- Twee jaar beperkte garantie - bezoek PowerA.com/Support
 - Precies afgestemde analoge thumbsticks met gladde antifrictieringen
+- Coole led-effecten zoals "ademend" en 8-kleurige regenboogfase
+- Geen batterijen nodig
+- Twee jaar beperkte garantie - bezoek PowerA.com/Support
+- Zachte afwerking voor een premium gevoel
+- Comfortabel ergonomisch ontwerp
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08WXZ22KW{{</world>}}

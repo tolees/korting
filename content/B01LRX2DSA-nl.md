@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Intuïtieve volumeregeling op de oorschelp.
-- Lichte headset met 90 graden draaibare oorschelpen.
+- Richtingselectieve 50-mm-drivers voor nauwkeurige audioweergave.
 - Uniek HyperX geheugenschuim, geluidsdrukniveau: 102 ± 3 dB SPL/mW bij 1 kHz
 - Instelbaar schuifmechanisme van staal.
-- Richtingselectieve 50-mm-drivers voor nauwkeurige audioweergave.
+- Lichte headset met 90 graden draaibare oorschelpen.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B01LRX2DSA{{</world>}}

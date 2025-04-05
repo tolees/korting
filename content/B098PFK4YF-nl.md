@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Zacht gevoel
-- Flexibel en elastisch:
-- LICHTGEWICHT
-- EASY FIT
 - RECYCLED
+- Flexibel en elastisch:
+- EASY FIT
+- LICHTGEWICHT
+- Zacht gevoel
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B098PFK4YF{{</world>}}

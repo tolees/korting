@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Deze oordopjes van Sony bieden u het beste van twee werelden: natuurlijk omgevingsgeluid wanneer u wilt communiceren met uw wereld en ruisonderdrukking van hoge kwaliteit wanneer u zich moet concentreren.
-- s Werelds kleinste en lichtste, volledig draadloze, Hi-Res Noice cancelling oordopjes* Disclaimer in de beschrijving
 - Slimme functies zorgen voor een moeiteloze luisterervaring! Speak-to-Chat pauzeert de muziek automatisch wanneer je een gesprek begint, de oordopjes zijn voorzien van intuïtieve aanraakbediening, en nog veel meer.
 - Geniet draadloos van audio met hoge resolutie en kristalheldere telefoongesprekken op deze Bluetooth-oordopjes.
+- s Werelds kleinste en lichtste, volledig draadloze, Hi-Res Noice cancelling oordopjes* Disclaimer in de beschrijving
 - Tot 20 uur batterijduur en IPX4 waterbestendig
 
 [🛒 Buy it now!!]({{< param buyurl >}})

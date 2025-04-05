@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Bovenmateriaal: suède
 - Sluiting: rubber
 - Binnenmateriaal: synthetisch
-- Bovenmateriaal: suède
 - Hakvorm: plateauhak
 
 [🛒 Check the deal!!]({{< param buyurl >}})

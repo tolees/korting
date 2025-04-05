@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Handige eigenschappen: de sporttas heeft een voormouw met bungee-koord, 2 zijvakken voor waterflessen, een vak met ritssluiting voor waardevolle spullen en een handgreep aan de bovenkant
-- Robuuste tas: met UA Storm-technologie en een slijtvaste basis is de reisrugzak zeer robuust en in staat om de elementen te trotseren
 - Met laptopslot: de veelzijdige gymtas beschikt over een zacht gevoerde laptophoes om een 15-inch MacBook Pro of laptop van vergelijkbare grootte veilig te vervoeren
+- Robuuste tas: met UA Storm-technologie en een slijtvaste basis is de reisrugzak zeer robuust en in staat om de elementen te trotseren
 - Materiaal en volume: de ruime sporttas heeft 26L en is gemaakt van hoogwaardig 1% polyester dat de tand des tijds zal doorstaan
+- Handige eigenschappen: de sporttas heeft een voormouw met bungee-koord, 2 zijvakken voor waterflessen, een vak met ritssluiting voor waardevolle spullen en een handgreep aan de bovenkant
 - Praktische sporttas: deze waterbestendige laptoprugzak is dankzij het gevoerde rugpaneel en de ergonomische riemen een essentieel onderdeel van het dagelijks sporten
 
 [🛒 Buy it!!]({{< param buyurl >}})

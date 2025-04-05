@@ -30,8 +30,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - BassUp-Technologie: onze exclusieve technologie maakt gebruik van een in-house afgestemde digitale signaalprocessor om lage frequenties in realtime te analyseren en te versterken voor een bas die harder inslaat.
 - Speeltijd van 24 uur: de Motion Boom-buitenspeaker levert tot 24 uur speeltijd op een enkele oplaadbeurt om de muziek door te laten spelen tijdens campingweekendjes, dagen op het strand, boottochten en meer.
-- IPX7-Waterdicht en Drijfvermogen: maakt u zich geen zorgen als de Motion Boom-buitenspeaker een duik neemt! De speaker is volledig waterdicht en drijft op water.
 - 100% Zuiver Titanium: de drivers van de Motion Boom hebben membranen van zuiver titanium om hoge frequenties tot 40 kHz te reproduceren voor geluid met een merkbaar hogere helderheid.
+- IPX7-Waterdicht en Drijfvermogen: maakt u zich geen zorgen als de Motion Boom-buitenspeaker een duik neemt! De speaker is volledig waterdicht en drijft op water.
 - Extreem Geluid Buitenshuis: maak een statement met de Motion Boom-buitenspeaker—druk op de afspeelknop en geniet van een enorm stereogeluid zonder vervorming, zelfs bij hoge volumes.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

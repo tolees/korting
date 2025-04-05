@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 170W-voedingsadapter: voedt het dockingstation en laadt de aangesloten laptop op met tot 85 W, zodat uw laptop tijdens het werken opgeladen blijft
-- Thunderbolt 3-poort voor hoge-resolutie-monitor/display en Thunderbolt 3/USB-C-randapparaten
 - Thunderbolt 3-poort voor aansluiting van een laptop met de meegeleverde Thunderbolt 3-kabel
+- Thunderbolt 3-poort voor hoge-resolutie-monitor/display en Thunderbolt 3/USB-C-randapparaten
+- 170W-voedingsadapter: voedt het dockingstation en laadt de aangesloten laptop op met tot 85 W, zodat uw laptop tijdens het werken opgeladen blijft
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07Y3W21NY{{</world>}}

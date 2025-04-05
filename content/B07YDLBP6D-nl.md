@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Verstelbare Hoogte: Montageplaat met 6 niveaus van hoogteverstelling, elke hoogte kan 50 mm worden aangepast. Montagearmen met 2 hoogteniveaus van 60 mm voor optimaal zicht, passend bij verschillende tv-maten of zithoogtevereisten.
-- Stevigheid en Stabiliteit: Gemaakt van hoogwaardig koudgewalst staal met een maximaal draagvermogen van 45 kg. Voet van 8 mm gehard veiligheidsglas (400 x 260 mm) biedt extra stabiliteit en dient als plaats voor AV-componenten. Voorzien van rubberen antislipvoetjes om krassen te voorkomen.
-- Veelzijdigheid en Netheid: Kabelbeheersysteem om lelijke kabels te verbergen en de entertainmentunit netjes te houden. Beveiligingsdraad voorkomt dat de tv omvalt, waardoor de veiligheid van uw kinderen gewaarborgd blijft.
 - Compatibiliteit: Universele standaard past op de meeste 32-65 inch tvs. VESA-patronen: 75x75, 100x100, 200x100, 200x200, 300x200, 300x300, 400x200, 400x300, 400x400, 600x400 mm. Compatibel met merken zoals Samsung, LG, Sony, Sharp, Panasonic, Philips, JVC, Hitachi, Hisense, Toshiba en meer.
+- Veelzijdigheid en Netheid: Kabelbeheersysteem om lelijke kabels te verbergen en de entertainmentunit netjes te houden. Beveiligingsdraad voorkomt dat de tv omvalt, waardoor de veiligheid van uw kinderen gewaarborgd blijft.
+- Stevigheid en Stabiliteit: Gemaakt van hoogwaardig koudgewalst staal met een maximaal draagvermogen van 45 kg. Voet van 8 mm gehard veiligheidsglas (400 x 260 mm) biedt extra stabiliteit en dient als plaats voor AV-componenten. Voorzien van rubberen antislipvoetjes om krassen te voorkomen.
+- Verstelbare Hoogte: Montageplaat met 6 niveaus van hoogteverstelling, elke hoogte kan 50 mm worden aangepast. Montagearmen met 2 hoogteniveaus van 60 mm voor optimaal zicht, passend bij verschillende tv-maten of zithoogtevereisten.
 - Eenvoudige Montage: Wordt geleverd met alle benodigde hardware en duidelijke installatie-instructies. Geen behoefte aan boren in de muur; eenvoudig en probleemloos te installeren.
 
 [🛒 Buy it!!]({{< param buyurl >}})

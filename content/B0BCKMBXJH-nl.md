@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Maakt verbinding met uw bestaande kabelmodem en vervangt uw WiFi-router. Compatibel met elke Internet Service Provider tot 2 Gbps, inclusief kabel, satelliet, glasvezel en DSL
 - Razendsnel AX5400 Gigabit-snelheid met WiFi 6-technologie voor ononderbroken streaming, HD-videogaming en webconferencing
 - Sluit computers, gameconsoles, streaming-spelers en meer aan via 3 Gigabit ethernetpoorten in de router en 2 Gigabit ethernetpoorten in de satelliet
-- Maakt verbinding met uw bestaande kabelmodem en vervangt uw WiFi-router. Compatibel met elke Internet Service Provider tot 2 Gbps, inclusief kabel, satelliet, glasvezel en DSL
 - Dekking tot 525 m² en maximaal 75 apparaten. Breid de dekking uit tot 175 m2 extra met extra satellieten (afzonderlijk verkrijgbaar)
 
 [🛒 Check the deal!!]({{< param buyurl >}})

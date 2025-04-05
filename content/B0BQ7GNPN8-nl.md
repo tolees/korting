@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Inritsbaar wisselingssysteem
-- Verstelbare manchetten
 - Handzakken met ritssluiting
+- Inritsbaar wisselingssysteem
 - Afneembare, verstelbare stormcapuchon
-- Verstelbare zoom met trekkoord
 - Omni-Heat thermisch reflecterend
+- Verstelbare manchetten
+- Verstelbare zoom met trekkoord
 - Omni-Tech waterdichte/ademende gesealde naden
 
 [🛒 Check the deal!!]({{< param buyurl >}})
