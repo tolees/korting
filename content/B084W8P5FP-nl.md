@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Opmerking De knop „Speciale functies” werkt niet op dezelfde manier in de verschillende apps of games. Het gedrag van de knop is afhankelijk van de functie die is opgegeven door de ontwikkelaar van de toepassing of game
-- Geschikt voor de meeste Android-apparaten. Samsung Galaxy S8, S8+, S9, S9+, S10, S10+, S20, S20+, S21, S21+, S21 Ultra; Samsung Galaxy Note 8, Note 9, Note 10, Note 10+; Google Pixel 2, 2 XL, 3, 3XL, 4, 4XL; Razer Telefoon 1 en 2; Andere apparaten binnen ondersteunde afmetingen (145,3 — 163,7 mm x 68,2 - 78,1 mm x 7,0 - 8,8 mm) - Controleer of je mobiele telefoon is opgenomen in de bovenstaande lijst
 - COMPATIBEL MET CLOUDGAMING Nu AAA-versies op elk scherm kunnen worden afgespeeld, is de controller aangesloten op je apparaat een handig formaat en draagbaar genoeg om overal te spelen
+- Geschikt voor de meeste Android-apparaten. Samsung Galaxy S8, S8+, S9, S9+, S10, S10+, S20, S20+, S21, S21+, S21 Ultra; Samsung Galaxy Note 8, Note 9, Note 10, Note 10+; Google Pixel 2, 2 XL, 3, 3XL, 4, 4XL; Razer Telefoon 1 en 2; Andere apparaten binnen ondersteunde afmetingen (145,3 — 163,7 mm x 68,2 - 78,1 mm x 7,0 - 8,8 mm) - Controleer of je mobiele telefoon is opgenomen in de bovenstaande lijst
+- Opmerking De knop „Speciale functies” werkt niet op dezelfde manier in de verschillende apps of games. Het gedrag van de knop is afhankelijk van de functie die is opgegeven door de ontwikkelaar van de toepassing of game
 - USB-C-OPLAADAANSLUITING Als de batterij van je smartphone leeg raakt tijdens het gamen, kan de controller eenvoudig worden aangesloten op een oplaadkabel om hem op te laden
 - SPEL ZONDER LATENTIE VOOR SOEPELE BEDIENING In tegenstelling tot draadloze Bluetooth-controllers, die vertragingen veroorzaken, is deze controller latentievrij omdat hij rechtstreeks wordt aangesloten op de oplaadpoort van het apparaat, wat betekent dat de knop onmiddellijk reageert
 

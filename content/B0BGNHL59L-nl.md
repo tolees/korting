@@ -28,15 +28,15 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Max. vliegtijd 46 minuten - Compatibel met Mavic 3-serie accus voor maximaal 40 minuten zweven en maximaal 46 minuten vliegtijd. Stelt makers in staat om meer content vast te leggen met minder zorgen.
-- Geavanceerde RTH - De Mavic 3 Classic kan automatisch een geoptimaliseerde route terug naar een ingestelde thuisbasis berekenen en uitvoeren met deze intelligente en handige functie die piloten meer gemoedsrust geeft
-- 15 km HD-videotransmissie - De Mavic 3 Classic biedt een maximaal transmissiebereik van 15 km. Dit vergroot de opnamemogelijkheden met een stabiel signaal en een kristalheldere voeding van 1080p/60fps.
-- Met de Waypoint Flight-functie kan de Mavic 3 Classic automatisch vliegroutes langs vooraf geselecteerde punten vliegen (en nauwkeurig herhalen).
-- Omnidirectioneel Obstakeldetectie - Met APAS 5.0 kan de Mavic 3 Classic tijdens de vlucht te allen tijde objecten in alle richtingen detecteren en obstakels soepel vermijden, waardoor vluchten uitzonderlijk veilig zijn.
-- 4/3 CMOS Hasselblad-camera - Het legendarische Zweedse merk Hasselblad heeft de L2D-20c-camera voor de Mavic 3-serie op maat gemaakt en een professionele 4/3 CMOS in een ongelooflijk compacte ruimte ingebouwd.
-- Firmware-upgrade - De nieuwe Vision Assist biedt zicht vanuit vier richtingen: de vliegveiligheid verbetert aanzienlijk. AR Return-to-Home kan het vliegtraject van de drone in real-time synchroniseren, waardoor alles gemakkelijker te controleren is.
-- 5,1K HD-video - Professionele beeldprestaties voor scherpere details. Het kan ook 4K/60 fps-fotos opnemen via oversampling-technologie.
 - DJI Mavic 3 Classic Bevat de drone, DJI RC-N1 afstandsbediening en andere items die nodig zijn voor de vlucht, zodat u licht kunt inpakken en kunt genieten van de creatieve ervaring, waar u ook naartoe gaat.
+- 4/3 CMOS Hasselblad-camera - Het legendarische Zweedse merk Hasselblad heeft de L2D-20c-camera voor de Mavic 3-serie op maat gemaakt en een professionele 4/3 CMOS in een ongelooflijk compacte ruimte ingebouwd.
+- Max. vliegtijd 46 minuten - Compatibel met Mavic 3-serie accus voor maximaal 40 minuten zweven en maximaal 46 minuten vliegtijd. Stelt makers in staat om meer content vast te leggen met minder zorgen.
+- Met de Waypoint Flight-functie kan de Mavic 3 Classic automatisch vliegroutes langs vooraf geselecteerde punten vliegen (en nauwkeurig herhalen).
+- Firmware-upgrade - De nieuwe Vision Assist biedt zicht vanuit vier richtingen: de vliegveiligheid verbetert aanzienlijk. AR Return-to-Home kan het vliegtraject van de drone in real-time synchroniseren, waardoor alles gemakkelijker te controleren is.
+- Geavanceerde RTH - De Mavic 3 Classic kan automatisch een geoptimaliseerde route terug naar een ingestelde thuisbasis berekenen en uitvoeren met deze intelligente en handige functie die piloten meer gemoedsrust geeft
+- Omnidirectioneel Obstakeldetectie - Met APAS 5.0 kan de Mavic 3 Classic tijdens de vlucht te allen tijde objecten in alle richtingen detecteren en obstakels soepel vermijden, waardoor vluchten uitzonderlijk veilig zijn.
+- 5,1K HD-video - Professionele beeldprestaties voor scherpere details. Het kan ook 4K/60 fps-fotos opnemen via oversampling-technologie.
+- 15 km HD-videotransmissie - De Mavic 3 Classic biedt een maximaal transmissiebereik van 15 km. Dit vergroot de opnamemogelijkheden met een stabiel signaal en een kristalheldere voeding van 1080p/60fps.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BGNHL59L{{</world>}}

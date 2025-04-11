@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Extras: 3 lagen systeem, stoelhoezen geschikt voor airbag en stoelverwarming, comfortabel en sportief zitgevoel
-- Inhoud levering: 2 x zitvlakken, 1 x rugleuning voor bestuurders, 1 x rugleuning voor passagiers, 4 x universele armleuninghoezen. De armleuninghoezen kunnen afhankelijk van het model van de camper (zitting) groter en/of kleiner uitvallen, klemmen, montagehandleiding (mogelijk niet beschikbaar in het Nederlands)
-- MONTAGE: 1. Trek de bekleding naar de stoel 2. Klem/haken onder de zitting bevestigd 3. De rugleuninghoezen met elastieken onder de zitting bevestigen
-- Kenmerken: op maat gemaakt voor bestuurders en passagiers, maat pilotenstoelhoezen (geschikt ook voor afneembare hoofdsteunen), ook geschikt voor actieve hoofdsteunen (niet afneembare hoofdsteunen), stoelen worden op de achterkant van de rugleuning slechts tot de helft bekleed, geproduceerd in Duitsland
 - Materiaal: hoogwaardige autostof met buitenkant 8 mm, binnenkant 5 mm schuimrubberen coating
+- Kenmerken: op maat gemaakt voor bestuurders en passagiers, maat pilotenstoelhoezen (geschikt ook voor afneembare hoofdsteunen), ook geschikt voor actieve hoofdsteunen (niet afneembare hoofdsteunen), stoelen worden op de achterkant van de rugleuning slechts tot de helft bekleed, geproduceerd in Duitsland
+- Inhoud levering: 2 x zitvlakken, 1 x rugleuning voor bestuurders, 1 x rugleuning voor passagiers, 4 x universele armleuninghoezen. De armleuninghoezen kunnen afhankelijk van het model van de camper (zitting) groter en/of kleiner uitvallen, klemmen, montagehandleiding (mogelijk niet beschikbaar in het Nederlands)
+- Extras: 3 lagen systeem, stoelhoezen geschikt voor airbag en stoelverwarming, comfortabel en sportief zitgevoel
+- MONTAGE: 1. Trek de bekleding naar de stoel 2. Klem/haken onder de zitting bevestigd 3. De rugleuninghoezen met elastieken onder de zitting bevestigen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07MYW6R99{{</world>}}

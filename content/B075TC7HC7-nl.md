@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Aangenaam zachte binnenvoering
 - Geox-patent voor ademend vermogen in de schoen.
+- Aangenaam zachte binnenvoering
 - Flexibele zool.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

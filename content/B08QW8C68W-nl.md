@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Nike Dri-Fit-technologie houdt je droog en comfortabel.
 - Elastische tailleband en verborgen trekkoord zorgen voor een goede pasvorm.
+- Nike Dri-Fit-technologie houdt je droog en comfortabel.
 - Voel je glad en licht.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

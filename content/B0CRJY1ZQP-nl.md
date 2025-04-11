@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- GEEN BEDRADING NODIG: Je kunt hem dus gemakkelijk overal buiten plaatsen.
 - GESCHIKT VOOR ALLE WEERSOMSTANDIGHEDEN: Philips buitenlampen zijn getest om corrosie en roest te weerstaan in zware regenval - hoge luchtvochtigheid - felle zon - UV-straling en extreme temperaturen dankzij de IP44-classificatie.
 - 25.000 UUR PLEZIER: Betrouwbare LED verlichting van hoge kwaliteit die tot 25.000 uur meegaat
-- GEEN BEDRADING NODIG: Je kunt hem dus gemakkelijk overal buiten plaatsen.
 - SCHEMERSENSOR: Lampen gaan automatisch aan als het buiten donker wordt
 - LANGE LEVENSDUUR: dankzij de robuuste materialen; gemaakt van hoogwaardig gegoten aluminium en kunststoffen van hoge kwaliteit.
 

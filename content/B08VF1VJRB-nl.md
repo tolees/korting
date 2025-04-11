@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- DRAADLOZE BLUETOOTH – met draadloze Bluetooth 5.0 om uw media te bedienen zonder vast te zitten aan uw scherm, tot 32 ft (10 m) afstand
-- STRAK, OPLAADBAAR DESIGN – nooit meer batterijen voor enkel gebruik, met de oplaadbare USB-C poort van de afstandsbediening voor makkelijk onderweg opladen – dit alles met een strakke aluminium afwerking die bij uw moderne apparaten past
-- COMPATIBEL MET - M2/ M1 MacBook Pro (Pro & Max) 14-inch, 16-inch, M2/ M1 MacBook Air, 2016-2019 MacBook Pro, 2018 MacBook Air, M2/ M1 iPad Pro, M1 iPad Air, 2022 10th-Gen iPad, iPad Pro, iPad Mini, M2/ M2 Pro Mac Mini, 2022 Mac Studio, M1 iMac, 2019/2017 iMac, iMac Pro, iPhones 15/14/13/12 en de meeste Bluetooth-apparaten van 2012 en nieuwer. Vanwege de Bluetooth-chipset worden apparaten van 2011 en ouder niet ondersteund. Ondersteunt geen Windows 10 of 11-apparaten. Werkt niet met Apple TV
 - PRESENTATIE MODUS – schakel naar Presentatie modus (P) voor handige controle van apps en presentaties met pijltjes in vier richtingen, Thuis, linker/rechter muisknop, en Muis aan/uit (laser pointer op het scherm – beschikbaar in PowerPoint en Keynote)
 - MULTIMEDIA MODUS – gebruik de Multimedia modus (M) van de R2 afstandbediening om muziek, video’s en meer te bedienen, inclusief het bedienen van volume, vooruit/achteruit, spelen/pauze, thuis/Siri, dempen en het inschakelen van een virtueel toetsenbord
+- STRAK, OPLAADBAAR DESIGN – nooit meer batterijen voor enkel gebruik, met de oplaadbare USB-C poort van de afstandsbediening voor makkelijk onderweg opladen – dit alles met een strakke aluminium afwerking die bij uw moderne apparaten past
+- COMPATIBEL MET - M2/ M1 MacBook Pro (Pro & Max) 14-inch, 16-inch, M2/ M1 MacBook Air, 2016-2019 MacBook Pro, 2018 MacBook Air, M2/ M1 iPad Pro, M1 iPad Air, 2022 10th-Gen iPad, iPad Pro, iPad Mini, M2/ M2 Pro Mac Mini, 2022 Mac Studio, M1 iMac, 2019/2017 iMac, iMac Pro, iPhones 15/14/13/12 en de meeste Bluetooth-apparaten van 2012 en nieuwer. Vanwege de Bluetooth-chipset worden apparaten van 2011 en ouder niet ondersteund. Ondersteunt geen Windows 10 of 11-apparaten. Werkt niet met Apple TV
+- DRAADLOZE BLUETOOTH – met draadloze Bluetooth 5.0 om uw media te bedienen zonder vast te zitten aan uw scherm, tot 32 ft (10 m) afstand
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08VF1VJRB{{</world>}}

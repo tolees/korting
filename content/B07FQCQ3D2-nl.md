@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Loopzool/eigenschappen: EVA-loopzool voor een laag gewicht
-- Kleur: zwart
-- Bovenmateriaal: leer (rundleer)
-- Rondom naad voor hoge duurzaamheid
 - XL EXTRALIGHT voor meer lichtheid en schokdemping
+- Kleur: zwart
+- Rondom naad voor hoge duurzaamheid
+- Bovenmateriaal: leer (rundleer)
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07FQCQ3D2{{</world>}}

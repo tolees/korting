@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Gaming
-- ASUS
 - Moederbord
+- ASUS
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BH97VNTJ{{</world>}}

@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Spraakbediening: de Antela Wi-Fi-aansluiting kan worden verbonden met Alexa of Google Assistant. Geschikt voor tafellampen, ventilatoren, koffiemachines en bijna alle huishoudelijke apparaten U kunt uw huishoudelijke apparaten bedienen met een eenvoudige spraakopdracht.
-- Productmateriaal: Onze slimme stopcontacten zijn CE- en RoHS-gecertificeerd. Ze zijn gemaakt van brandveilig ABS-materiaal om de veiligheid van uw gezin te garanderen. Als u vragen heeft, zorgen wij binnen 24 uur voor een oplossing.
-- App-afstandsbediening: download de juiste app en verbind je smartsocket via 2,4 GHz wifi. Geen hub of abonnement vereist.
 - Programmering en timers: programmeer slimme stopcontacten en schakel je huishoudelijke apparaten aan of uit als dat nodig is. U kunt ook een timer instellen om het apparaat automatisch uit te schakelen. Deze functies voorkomen dat het apparaat onnodig lang aan blijft staan en besparen energie.
+- Productmateriaal: Onze slimme stopcontacten zijn CE- en RoHS-gecertificeerd. Ze zijn gemaakt van brandveilig ABS-materiaal om de veiligheid van uw gezin te garanderen. Als u vragen heeft, zorgen wij binnen 24 uur voor een oplossing.
 - Meting van het energieverbruik: dit slimme stopcontact kan op de verbonden app weergeven hoeveel energie wordt verbruikt. U kunt het stroomverbruik van uw huishoudelijke apparaten op elk gewenst moment controleren.
+- App-afstandsbediening: download de juiste app en verbind je smartsocket via 2,4 GHz wifi. Geen hub of abonnement vereist.
+- Spraakbediening: de Antela Wi-Fi-aansluiting kan worden verbonden met Alexa of Google Assistant. Geschikt voor tafellampen, ventilatoren, koffiemachines en bijna alle huishoudelijke apparaten U kunt uw huishoudelijke apparaten bedienen met een eenvoudige spraakopdracht.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09M3MR51K{{</world>}}

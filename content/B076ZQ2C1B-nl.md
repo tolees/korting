@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Schakel je vijanden strategisch uit door je helden tactisch te positioneren in de turn-based gameplay en rust ze uit met nooit eerder vertoonde wapens uit een arsenaal van 250+ wapens
+- Speel met 8 verschillende helden: je favoriete personages Mario, Luigi, Peach en Yoshi of één van hun Rabbid-dubbelgangers
+- Ga op feel-good avontuur met je helden-team om je vrienden te bevrijden en het Paddestoelenrijk te herstellen
 - Verken 4 unieke werelden gevuld met schatkisten, geheimen, puzzels en onvoorspelbare vijanden
 - Werk samen met een vriend in de lokale multiplayer en ga aan de slag met extra coöp-uitdagingen! Deel de Joy-Con Controllers of maak gebruik van je Nintendo Switch Pro Controllers
-- Ga op feel-good avontuur met je helden-team om je vrienden te bevrijden en het Paddestoelenrijk te herstellen
-- Speel met 8 verschillende helden: je favoriete personages Mario, Luigi, Peach en Yoshi of één van hun Rabbid-dubbelgangers
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B076ZQ2C1B{{</world>}}

@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Geen beperkingen: Geen watermerken, tijdslimieten of abonnementen.
 - Hoogwaardige opname, krachtige passthrough: verbluffende 4K 30- of 1080p60 HDR10-kwaliteit, 4K60 HDR10, 1440p120, 1080p120, 1080p240, VRR-passthrough.
 - Plug and Play: installatie zonder stuurprogramma op Windows en Mac.
 - Gebruik elke app, stream naar elk platform: OBS, Streamlabs, Vmix, Zoom, Microsoft Teams, Stream naar YouTube, Twitch, Facebook Gaming en meer.
+- Geen beperkingen: Geen watermerken, tijdslimieten of abonnementen.
 - Ultralage latentie: minder dan 100 ms voor naadloze synchronisatie van audio en video.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

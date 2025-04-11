@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Het artikel kan gedragen worden tijdens verschillende seizoenen
-- Het artikel heeft een informele uitstraling
 - Dit artikel kan gedragen worden in combinatie met verschillende broeken
+- Het artikel heeft een informele uitstraling
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0916Q8NZR{{</world>}}

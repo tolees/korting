@@ -30,8 +30,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - De versterkte gevlochten nylon ommanteling zorgt voor meer stevigheid
 - Verkrijgbaar in de lengtes 3 m, 2 m, 1 m en 15 cm
-- MFi-gecertificeerd om compatibiliteit
 - Bestand tegen 10.000 bochten en is dienovereenkomstig getest
+- MFi-gecertificeerd om compatibiliteit
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B084N1BM9L{{</world>}}

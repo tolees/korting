@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Kleur: zwart
-- Klittenbandsluitingen voor een comfortabele pasvorm
 - Bovenmateriaal: technische banden (recycling PET)
-- Loopzool/eigenschappen: EVA-zool voor laag gewicht
+- Klittenbandsluitingen voor een comfortabele pasvorm
 - Band:
+- Loopzool/eigenschappen: EVA-zool voor laag gewicht
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07W2SGX4W{{</world>}}

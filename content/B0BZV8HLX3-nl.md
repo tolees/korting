@@ -28,14 +28,14 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- DUIDELIJK BELLEN MET ZES MICROFOONS EN AI: Wees niet zo iemand die in zijn telefoon schreeuwt. De zes straalvormende microfoons en een AI-algoritme versterken je stem en beperken achtergrondgeluid, zodat je kunt bellen zonder dat de hele coupé meeluistert.
-- ZORGELOZE ACCUDUUR VAN 10 U / 50 U: Eén keer opladen is genoeg om heel Europa door te reizen en zonder onderbreking van entertainment te genieten. Neem de oordopjes Liberty 4 NC mee op je volgende reis en luister naar duizend nummers of kijk dertig films achter elkaar, zonder je zorgen om de accu te maken.
-- MAAK JE EIGEN GELUIDSPROFIEL: Niet iedereen luistert hetzelfde, dus gebruik HearID 2.0 om het perfecte geluidsprofiel voor jou te vinden. Als je de geluidsmix wilt veranderen, kun je de EQ volledig zelf instellen of kiezen uit 22 EQ-voorinstellingen.
-- VERMINDER RUIS MET WEL 98,5%: De soundcore Liberty 4 NC oordopjes met ruisonderdrukking hebben een zeer gevoelige geluidsensor in het oor, een extra grote driver en een innovatieve geluidsisolatiekamer die tot 98,5% van het omgevingsgeluid onderdrukt, zodat je rustig kunt reizen.
-- IPX4-WATERBESTENDIG: Een plotselinge regenbui of gemorst drinken zal je reis niet verpesten. De Liberty 4 NC draadloze oordopjes met ruisonderdrukking zijn IPX4-waterbestendig, dus je hoeft je onderweg nergens zorgen om te maken.
-- ONTWORPEN OM MAKKELIJKER TE VERBINDEN: Verbind ze in een oogwenk met Google Fast Pair, pauzeer of hervat het afspelen automatisch als je ze in- of uitdoet en schakel naadloos tussen apparaten met meerdere verbindingen en Bluetooth 5.3.
 - DE RUISONDERDRUKKING PAST ZICH AAN JE OREN EN OMGEVINGEN AAN: De Adaptive ANC 2.0 doet continu berekeningen en past zich aan je gehoorkanalen en omgeving aan, zodat je in alle drukte maximaal van je rust kunt genieten.
+- VERMINDER RUIS MET WEL 98,5%: De soundcore Liberty 4 NC oordopjes met ruisonderdrukking hebben een zeer gevoelige geluidsensor in het oor, een extra grote driver en een innovatieve geluidsisolatiekamer die tot 98,5% van het omgevingsgeluid onderdrukt, zodat je rustig kunt reizen.
+- DUIDELIJK BELLEN MET ZES MICROFOONS EN AI: Wees niet zo iemand die in zijn telefoon schreeuwt. De zes straalvormende microfoons en een AI-algoritme versterken je stem en beperken achtergrondgeluid, zodat je kunt bellen zonder dat de hele coupé meeluistert.
+- ONTWORPEN OM MAKKELIJKER TE VERBINDEN: Verbind ze in een oogwenk met Google Fast Pair, pauzeer of hervat het afspelen automatisch als je ze in- of uitdoet en schakel naadloos tussen apparaten met meerdere verbindingen en Bluetooth 5.3.
+- MAAK JE EIGEN GELUIDSPROFIEL: Niet iedereen luistert hetzelfde, dus gebruik HearID 2.0 om het perfecte geluidsprofiel voor jou te vinden. Als je de geluidsmix wilt veranderen, kun je de EQ volledig zelf instellen of kiezen uit 22 EQ-voorinstellingen.
 - HELDER GELUID MET DRIE KEER ZO VEEL DETAILS: De speciaal afgestemde 11mm-drivers leveren altijd helder en gedetailleerd geluid. Ervaar draadloos Hi-Res-geluid en LDAC-technologie die drie keer zoveel gegevens overdraagt als normale bluetooth, waardoor draadloze muziek tot leven komt.
+- ZORGELOZE ACCUDUUR VAN 10 U / 50 U: Eén keer opladen is genoeg om heel Europa door te reizen en zonder onderbreking van entertainment te genieten. Neem de oordopjes Liberty 4 NC mee op je volgende reis en luister naar duizend nummers of kijk dertig films achter elkaar, zonder je zorgen om de accu te maken.
+- IPX4-WATERBESTENDIG: Een plotselinge regenbui of gemorst drinken zal je reis niet verpesten. De Liberty 4 NC draadloze oordopjes met ruisonderdrukking zijn IPX4-waterbestendig, dus je hoeft je onderweg nergens zorgen om te maken.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BZV8HLX3{{</world>}}

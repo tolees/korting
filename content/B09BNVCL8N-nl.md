@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- De auto heeft brede velgen, wijde spatborden en coole koplampen zodat boeven tijdens een razendsnelle politieachtervolging ingehaald kunnen worden
-- Deze politiespeelgoedset bevat een LEGO-minifiguur van een politieagent met een speelgoedzaklamp en een politiepet
 - Volop speelplezier voor onderweg! De politiewagen is na het in elkaar zetten ca. 11 cm lang en 5 cm breed; de perfecte afmetingen om onderweg mee te spelen
+- Deze politiespeelgoedset bevat een LEGO-minifiguur van een politieagent met een speelgoedzaklamp en een politiepet
 - De bouwset bevat een afgedrukte handleiding met afbeeldingen en digitale bouwinstructies, als onderdeel van de LEGO Bouwinstructies-app
+- De auto heeft brede velgen, wijde spatborden en coole koplampen zodat boeven tijdens een razendsnelle politieachtervolging ingehaald kunnen worden
 - De set bevat een speelgoedpolitiewagen met plaats achter het stuur voor het politieagent-minipoppetje, voor urenlange achtervolgingen van schurken
 - LEGO City-politiesets zijn ideale cadeaus voor verjaardagen of ‘zomaar’ tussendoor voor kinderen vanaf 5 jaar
 

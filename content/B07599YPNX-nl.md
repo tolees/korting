@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Oddjob
 - POP! vinylfiguur
 - ja
-- Oddjob
 - James Bond: Goldfinger
 
 [🛒 Check the deal!!]({{< param buyurl >}})

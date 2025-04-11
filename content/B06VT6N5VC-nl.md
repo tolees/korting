@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Elegante vakmanschap: Zorgvuldig ontworpen voor een verfijnde uitstraling
 - Hoogwaardige materialen: Zorgt voor duurzaamheid en een lange levensduur
+- Elegante vakmanschap: Zorgvuldig ontworpen voor een verfijnde uitstraling
 - Modern ontwerp
 
 [🛒 Buy it now!!]({{< param buyurl >}})

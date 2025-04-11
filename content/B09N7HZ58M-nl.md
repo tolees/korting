@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- De hengel is gewijd aan Spider-Man
 - Bedrukt materiaal in lederlook
 - Gemaakt van stof
-- De hengel is gewijd aan Spider-Man
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09N7HZ58M{{</world>}}

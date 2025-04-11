@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Volledige game-stembalancering: De HDMI-adapter voor PlayStation 5 maakt volledige game-stembalancering mogelijk op ASTRO Gaming-apparaten die een optische poort vereisen.
 - Maak je klaar voor PS5: Haal alles uit je PlayStation 5-ervaring wanneer je de MixAmp Pro TR, het A50-basisstation of de A20 Wireless Headset Gen 1 gebruikt.
 - Compatibiliteit: De adapter is compatibel met de volgende producten: MixAmp Pro TR Gen 4- Gen 3, A50 Base Station Gen 4- Gen 3, A20 Wireless Headset Gen 1.
-- Volledige game-stembalancering: De HDMI-adapter voor PlayStation 5 maakt volledige game-stembalancering mogelijk op ASTRO Gaming-apparaten die een optische poort vereisen.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07W5JKBMG{{</world>}}

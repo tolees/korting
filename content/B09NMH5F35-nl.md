@@ -30,10 +30,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Shoe width: Normal
 - Maximum comfort
-- High quality
-- Breathable
-- Leather upper material
 - The rod measures approximately in the middle of the upper arch
+- High quality
+- Leather upper material
+- Breathable
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09NMH5F35{{</world>}}

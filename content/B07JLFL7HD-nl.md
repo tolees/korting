@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- De krijger oefent met verschillende wapens
+- Materiaal: kunststof
 - Met 1 figuur en accessoires
 - Inhoud 10-delig
-- Materiaal: kunststof
-- De krijger oefent met verschillende wapens
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07JLFL7HD{{</world>}}

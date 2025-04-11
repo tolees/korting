@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Lichtgewicht, comfortabel gevoel: volledige dekking hoeft niet zwaar te zijn. De lichte, geslagen mousseachtige textuur is nooit deeg en verzwaart niet.
-- 15 kleuren: verkrijgbaar in 15 volledig dekkende, huidvervolmakende kleuren
 - Volledige dekking, matte afwerking: onze volledige dekkende primer is beter dan ooit tevoren, met een nog onberispelijkere matte afwerking die soepel kan worden aangebracht en naadloos mengt.
 - Transferbestendig, gaat 24 uur mee: de Revlon transferveilige foundation houdt de hele dag, tot 24 uur en is zelfs hitte- en zweetbestendig.
 - Eenvoudige tube verpakking: onze langdurige foundation wordt geleverd in een tube voor eenvoudig gebruik onderweg.
+- Lichtgewicht, comfortabel gevoel: volledige dekking hoeft niet zwaar te zijn. De lichte, geslagen mousseachtige textuur is nooit deeg en verzwaart niet.
+- 15 kleuren: verkrijgbaar in 15 volledig dekkende, huidvervolmakende kleuren
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08MS7RT2V{{</world>}}

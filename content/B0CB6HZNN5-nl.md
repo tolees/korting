@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Opbouwbaar en beweegbaar Pokémon speelgoed met 8 figuren en 8 Pokéballen om tentoon te stellen
 - Met Pikachu, Bulbasaur, Charmander, Squirtle, Scorbunny, Grookey, Sobble en Wooloo
 - De onderdelen kunnen worden gecombineerd met alle MEGA Pokémon bouwsets en bouwsets van andere merken
-- Met officiële licentie van The Pokémon Company International
-- Opbouwbaar en beweegbaar Pokémon speelgoed met 8 figuren en 8 Pokéballen om tentoon te stellen
 - Dit bouwspeelgoed is Ideaal voor kinderen van 6 jaar en ouder, waarbij ze leren dingen te maken, creatief bezig te zijn en problemen op te lossen
+- Met officiële licentie van The Pokémon Company International
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CB6HZNN5{{</world>}}

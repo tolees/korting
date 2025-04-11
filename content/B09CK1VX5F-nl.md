@@ -28,14 +28,14 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Geef aan wanneer en waar een bewegingsgebeurtenis begint in een luchtkaartweergave met 3D-bewegingsdetectie, vogelperspectief en zones voor zicht vanuit vogelperspectief.
-- Outdoor Camera Pro (Stick Up Cam Pro) is een beveiligingscamera voor buiten met 1080p HDR-weergave, tweerichtingsspraak met audio+, 3D-bewegingsdetectie, vogelperspectiefzicht en dualband-wifi.
-- Bewaak je paden, tuinen en meer door verbinding te maken met andere Ring-apparaten als betaalbaar alternatief voor een traditioneel CCTV-systeem. Abonnement afzonderlijk verkrijgbaar.
-- Met nachtzicht in kleur kun je dag en nacht in levendige kleuren zien wat er buiten je huis gebeurt.
-- Functies zoals Directe meldingen, Livebeeld, en Tweerichtingsspraak zijn standaard en zonder extra kosten bij alle compatibele Ring-apparaten. Voeg een Ring Protect-abonnement (afzonderlijk verkrijgbaar) toe om gemiste momenten op te nemen, te bekijken en te delen. Gratis proefperiode van 30 dagen is bij je aankoop inbegrepen.
-- Wordt aangesloten op een standaard stopcontact en kan zelf worden geïnstalleerd buiten je woning.
-- Zie en hoor nog beter wat er gebeurt met de geavanceerde scherpte van 1080p HDR-weergave en tweerichtingsspraak met Audio+.
 - Plaats de Outdoor Camera Pro op een vlakke ondergrond als je meer bewegingsruimte wil, of bevestig deze aan een muur buiten je huis voor ononderbroken buitenbeveiliging.
+- Wordt aangesloten op een standaard stopcontact en kan zelf worden geïnstalleerd buiten je woning.
+- Outdoor Camera Pro (Stick Up Cam Pro) is een beveiligingscamera voor buiten met 1080p HDR-weergave, tweerichtingsspraak met audio+, 3D-bewegingsdetectie, vogelperspectiefzicht en dualband-wifi.
+- Functies zoals Directe meldingen, Livebeeld, en Tweerichtingsspraak zijn standaard en zonder extra kosten bij alle compatibele Ring-apparaten. Voeg een Ring Protect-abonnement (afzonderlijk verkrijgbaar) toe om gemiste momenten op te nemen, te bekijken en te delen. Gratis proefperiode van 30 dagen is bij je aankoop inbegrepen.
+- Met nachtzicht in kleur kun je dag en nacht in levendige kleuren zien wat er buiten je huis gebeurt.
+- Geef aan wanneer en waar een bewegingsgebeurtenis begint in een luchtkaartweergave met 3D-bewegingsdetectie, vogelperspectief en zones voor zicht vanuit vogelperspectief.
+- Zie en hoor nog beter wat er gebeurt met de geavanceerde scherpte van 1080p HDR-weergave en tweerichtingsspraak met Audio+.
+- Bewaak je paden, tuinen en meer door verbinding te maken met andere Ring-apparaten als betaalbaar alternatief voor een traditioneel CCTV-systeem. Abonnement afzonderlijk verkrijgbaar.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09CK1VX5F{{</world>}}

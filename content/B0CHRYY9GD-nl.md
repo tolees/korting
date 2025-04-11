@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Geniet van de in-game soundtrack met 101 nummers uit de serie, waaronder Sweet Victory
 - Trek meer dan 30 F.U.N.tastic-kostuums aan, zoals SnailBob en SpongeGar
 - Reis naar 7 verschillende Wishworlds zoals Wild West Jellyfish Fields en Halloween Rock Bottom
+- Geniet van de in-game soundtrack met 101 nummers uit de serie, waaronder Sweet Victory
 - Ontmoet al je favoriete Bikini Bottom-inwoners uit de serie, ingesproken door hun originele acteurs
 
 [🛒 Check the deal!!]({{< param buyurl >}})

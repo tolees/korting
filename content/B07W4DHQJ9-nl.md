@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Handige bediening: Navigeren tussen documenten of browsen op uw favoriete websites is eenvoudig met de grote, gemakkelijk toegankelijke knoppen voor- en achteruit van de ergonomische muis en het uiterst nauwkeurige scrollwiel
-- Optimaal voor kleine werkruimten: omdat de trackball-muis niet beweegt, is hij ideaal voor kleine werkruimten en overvolle bureaus en past hij perfect naast het toetsenbord en een desktop of laptop
-- Ergonomisch comfortabel ontwerp, ontspannen hand en arm: de comfortabele, gevormde ergonomische vorm van de muis past zich op een natuurlijke manier aan de hand
-- Twee manieren om verbinding te maken en meerdere besturingssystemen: maak eenvoudig verbinding met een Bluetooth- of USB-ontvanger en maak je geen zorgen over verbroken verbindingen of vertragingen tot 10 m (33 ft)
-- Tot 24 maanden gebruik met een enkele AA-batterij met de USB-ontvanger; misschien vergeet u zelfs dat de draadloze Logitech -de trackball-muis gebruikt zelfs batterijen
-- De plastic onderdelen van de ERGO M575 bevatten gerecycled plastic voor consumenten (grafiet/zwart: 50%, natuurlijk wit: 21%). Gebruikt FSC-gecertificeerd papier voor verantwoorde verpakkingen. Certificering voor koolstofneutraliteit.
 - Soepele duimbediening: Leest nauwkeurig af met verbluffende cursorbediening op alle oppervlakken en een eenvoudige trackball met duimbediening en pas de cursorsnelheid aan met Logitech Software met opties
+- Handige bediening: Navigeren tussen documenten of browsen op uw favoriete websites is eenvoudig met de grote, gemakkelijk toegankelijke knoppen voor- en achteruit van de ergonomische muis en het uiterst nauwkeurige scrollwiel
+- Ergonomisch comfortabel ontwerp, ontspannen hand en arm: de comfortabele, gevormde ergonomische vorm van de muis past zich op een natuurlijke manier aan de hand
+- Tot 24 maanden gebruik met een enkele AA-batterij met de USB-ontvanger; misschien vergeet u zelfs dat de draadloze Logitech -de trackball-muis gebruikt zelfs batterijen
+- Twee manieren om verbinding te maken en meerdere besturingssystemen: maak eenvoudig verbinding met een Bluetooth- of USB-ontvanger en maak je geen zorgen over verbroken verbindingen of vertragingen tot 10 m (33 ft)
+- De plastic onderdelen van de ERGO M575 bevatten gerecycled plastic voor consumenten (grafiet/zwart: 50%, natuurlijk wit: 21%). Gebruikt FSC-gecertificeerd papier voor verantwoorde verpakkingen. Certificering voor koolstofneutraliteit.
+- Optimaal voor kleine werkruimten: omdat de trackball-muis niet beweegt, is hij ideaal voor kleine werkruimten en overvolle bureaus en past hij perfect naast het toetsenbord en een desktop of laptop
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07W4DHQJ9{{</world>}}

@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Leer Verschillende Gevechtsstijlen
-- Deel Je Avontuur In De Volledig In Co-Op Te Spelen Campagne
-- Suis Door De Lucht
 - Verken Een Prachtige Wereld Vol Gevaren
+- Leer Verschillende Gevechtsstijlen
+- Suis Door De Lucht
+- Deel Je Avontuur In De Volledig In Co-Op Te Spelen Campagne
 - Verken Een Prachtige Wereld Vol Gevaren
 
 [🛒 Check the deal!!]({{< param buyurl >}})

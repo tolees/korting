@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Crash kruipt weer achter het stuur! Geef vol gas met Crash Team Racing Nitro-Fueled - de authentieke CTR-ervaring plus een hele hoop extras, nu volledig geremasterd en maximaal opgevoerd
+- Winnaar van “The Game Awards” Beste Sports/Racing Game 2019
 - Start je motoren met de originele speltypen, personages, banen, power-ups, wapens en besturing
 - Drift naar de overwinning met extra karts, circuits en arenas uit Crash Nitro Kart
-- Winnaar van “The Game Awards” Beste Sports/Racing Game 2019
+- Crash kruipt weer achter het stuur! Geef vol gas met Crash Team Racing Nitro-Fueled - de authentieke CTR-ervaring plus een hele hoop extras, nu volledig geremasterd en maximaal opgevoerd
 - Race online met vrienden en crash je tegenstanders in het online klassement
 
 [🛒 Buy it!!]({{< param buyurl >}})

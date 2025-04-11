@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- GEANIMEERD KARAKTER: Beschikt over gemotoriseerde bewegingen, waaronder een hoofd dat op en neer beweegt, oren die heen en weer bewegen, ogen die open en dicht gaan, en meer
 - GELUIDEN GEÏNSPIREERD DOOR DE SERIE: Wanneer het hoofd van de elektronische editie van Child Up wordt aangeraakt, worden geluidseffecten geïnspireerd door The Mandalorian geactiveerd, waaronder vreugde en opwinding, gegiechel en gebabbel, vermoeidheid en slaap
 - FORCE-ACTIVATIE: Jongens en meisjes van 5 jaar en ouder zullen het geweldig vinden om het hoofd van de Electronic Edition Child-figuur 3 keer te aaien om de Force-effecten te activeren, waardoor de elektronische figuur zijn arm opheft, zijn ogen sluit en zucht
 - POWER NAP: Omgaan met de Force vraagt ​​veel energie en zorgt ervoor dat het kind veel rust nodig heeft. Wanneer de kinderfiguur wordt neergelegd, sluit hij zijn ogen en doet een "powernap"
-- GEANIMEERD KARAKTER: Beschikt over gemotoriseerde bewegingen, waaronder een hoofd dat op en neer beweegt, oren die heen en weer bewegen, ogen die open en dicht gaan, en meer
 - IN STIJL NAAR DE DISNEY PLUS-SERIE: De Star Wars Kind elektronische editie is geïnspireerd op het favoriete personage uit The Mandalorian en bevat een afneembare Mandalorian-ketting en een gewaad van premium textiel
 
 [🛒 Check the deal!!]({{< param buyurl >}})

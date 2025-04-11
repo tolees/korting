@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Buitenzool/Kenmerken: EVA voor lichtgewicht
+- Kleur: Zwart
 - 360º gestikt voor duurzaamheid
 - Bovenwerk: Leer (kalfsleer)
 - XL EXTRALIGHT voor lichtheid en schokabsorptie
-- Kleur: Zwart
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07FQBG4HM{{</world>}}

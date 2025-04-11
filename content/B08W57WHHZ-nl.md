@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Quality of Service (QoS)
-- MAC-adrestabel: 4000 entries Switchingcapaciteit: 32 Gbit/s
 - Managed Web-gebaseerd management
 - Access Control List (ACL)
-- Aantal basis-switching RJ-45 Ethernet-poorten: 15
+- MAC-adrestabel: 4000 entries Switchingcapaciteit: 32 Gbit/s
 - DC Vermogenstoevoer inclusief Power over Ethernet (PoE)
+- Aantal basis-switching RJ-45 Ethernet-poorten: 15
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08W57WHHZ{{</world>}}

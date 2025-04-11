@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Figuur staat 9 cm en wordt geleverd in een venster display box
-- Bekijk de andere muziekfiguren van Funko, Verzamel ze allemaal
 - Van Muziek, Lewis Capaldi, als gestileerde POP! vinyl van Funko
+- Bekijk de andere muziekfiguren van Funko, Verzamel ze allemaal
 - Funko POP! vinyl is het 2018 Peoples choice speelgoed van het jaar
 
 [🛒 Buy it!!]({{< param buyurl >}})

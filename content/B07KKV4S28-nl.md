@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Ontwerp met ronde hals
-- Normale pasvorm
 - Zacht materiaal
+- Normale pasvorm
+- Ontwerp met ronde hals
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07KKV4S28{{</world>}}

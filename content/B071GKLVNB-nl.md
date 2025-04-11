@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- GROTERE DRAADLOZE DEKKING: Breidt het WiFi-bereik uit met maximaal 100 m² en verbindt meer dan 20 apparaten, zoals laptops, smartphones, luidsprekers, IP-cameras, tablets, IoT-apparaten en meer
-- NAADLOOS SLIM ROAMEN: Sluit het apparaat aan op een stopcontact en het gebruikt de SSID-naam van uw bestaande netwerk, zodat de verbinding nooit verbroken wordt wanneer u zich door uw huis of kantoor beweegt
 - VEILIG: Ondersteunt WPA2 en de nieuwste draadloze WPA3-beveiligingsprotocollen
 - EENVOUDIGE INSTALLATIE: Gebruik de Nighthawk-app of druk op de WPS-knop om verbinding te maken met uw router. Bepaal met de NETGEAR WiFi Analyzer-app de optimale locatie
+- NAADLOOS SLIM ROAMEN: Sluit het apparaat aan op een stopcontact en het gebruikt de SSID-naam van uw bestaande netwerk, zodat de verbinding nooit verbroken wordt wanneer u zich door uw huis of kantoor beweegt
+- SNELLE WI-FI 6-PRESTATIES: AX1800-snelheid (tot 1,8 Gbps) met Dual-Band WiFi-technologie (meer dan 600 1200 Mbps) en 4 gelijktijdige streams bieden meer capaciteit zodat meer apparaten tegelijkertijd WiFi kunnen gebruiken
+- GROTERE DRAADLOZE DEKKING: Breidt het WiFi-bereik uit met maximaal 100 m² en verbindt meer dan 20 apparaten, zoals laptops, smartphones, luidsprekers, IP-cameras, tablets, IoT-apparaten en meer
 - UNIVERSELE COMPATIBILITEIT: Compatibel met elke draadloze router of kabelmodem met WiFi en is geoptimaliseerd voor alle WiFi 6-routers. Compatibel met bestaande WiFi-apparaten en nieuwe WiFi 6-apparaten zoals Apple iPhone 12 en Samsung Galaxy S20-smartphones
 - BEKABELDE ETHERNET-POORTEN: Sluit een pc, gameconsole, streaming-speler of ander bekabeld apparaat aan via de 1 Gigabit-poort voor maximale snelheid
-- SNELLE WI-FI 6-PRESTATIES: AX1800-snelheid (tot 1,8 Gbps) met Dual-Band WiFi-technologie (meer dan 600 1200 Mbps) en 4 gelijktijdige streams bieden meer capaciteit zodat meer apparaten tegelijkertijd WiFi kunnen gebruiken
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B071GKLVNB{{</world>}}

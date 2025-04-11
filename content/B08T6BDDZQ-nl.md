@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 15+ articulatiepunten!
-- Een officieel gelicentieerd Pokémon product van Jazwares! Geschikt vanaf 8 jaar.
-- Ongelooflijke details die deze Pokémon laten lijken alsof het rechtstreeks uit de Pokémon animatieserie is gesprongen
 - Wordt geleverd met een accessoire, perfect om te tentoonstellen!
 - Veel meer figuren om te verzamelen! Pak ze allemaal!
+- Ongelooflijke details die deze Pokémon laten lijken alsof het rechtstreeks uit de Pokémon animatieserie is gesprongen
+- 15+ articulatiepunten!
+- Een officieel gelicentieerd Pokémon product van Jazwares! Geschikt vanaf 8 jaar.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08T6BDDZQ{{</world>}}

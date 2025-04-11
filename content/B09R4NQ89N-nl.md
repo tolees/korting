@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Ultieme AX-prestaties: ervaar ultrahoge snelheden tot 5400 Mbit/s met de nieuwste WiFi 6 (802.11ax) en 160 MHz-kanalen
+- Netwerkbeveiliging op bedrijfsniveau – gratis levenslange licentie van ASUS AiProtection Pro, aangedreven door Trend Micro, met WPA3 ter bescherming van je thuisnetwerk
+- Bescherm je privégegevens met slechts één vingertip: Instant Guard maakt het mogelijk om een veilige tunnel te configureren als je verbonden bent met een gratis openbare wifi
 - ASUS - AiMesh-ondersteuning: maak met AiMesh-compatibele apparaten een flexibel, naadloos mesh-netwerk voor het hele huis
 - Intuïtieve bediening met de mobiele app: via de intuïtieve gebruikersinterface kun je je netwerk heel eenvoudig aanpassen en in slechts 3 stappen instellen met de ASUS router app
-- Ultieme AX-prestaties: ervaar ultrahoge snelheden tot 5400 Mbit/s met de nieuwste WiFi 6 (802.11ax) en 160 MHz-kanalen
-- Bescherm je privégegevens met slechts één vingertip: Instant Guard maakt het mogelijk om een veilige tunnel te configureren als je verbonden bent met een gratis openbare wifi
-- Netwerkbeveiliging op bedrijfsniveau – gratis levenslange licentie van ASUS AiProtection Pro, aangedreven door Trend Micro, met WPA3 ter bescherming van je thuisnetwerk
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09R4NQ89N{{</world>}}

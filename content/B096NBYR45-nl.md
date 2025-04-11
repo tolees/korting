@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Vetersluiting
 - Normale pasvorm
+- EVA-inlegzool
 - Gedempt gevoel
 - Voering van textiel
-- EVA-inlegzool
-- Vetersluiting
 - Bovenwerk van synthetisch leer
 
 [🛒 Check the deal!!]({{< param buyurl >}})

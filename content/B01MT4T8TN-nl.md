@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Inhoud: TP-Link EAP110-Outdoor N300 Wireless Outdoor Access Point
-- Door de robuuste behuizing beschermt de toevoerpunten tegen weersinvloeden zoals water en stof.
 - WLAN met tot 300 Mbit/s en 2 * 2 MIMO-technologie.
+- Door de robuuste behuizing beschermt de toevoerpunten tegen weersinvloeden zoals water en stof.
+- Inhoud: TP-Link EAP110-Outdoor N300 Wireless Outdoor Access Point
 - Met een hoog zendvermogen en twee high-gain rondframe-antennes biedt het apparaat buiten binnen een straal van maximaal 200 m een uitstekende WLAN-afdekking.
 
 [🛒 Buy it!!]({{< param buyurl >}})

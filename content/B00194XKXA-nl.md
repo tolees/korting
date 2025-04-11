@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Ondersteunt Windows 10/8.x/7/XP/Mac OS.
 - Inhoud: WLAN-adapter, cd met hulpmiddelen, snelstartgids (mogelijk niet beschikbaar in het Nederlands).
+- Ondersteunt Windows 10/8.x/7/XP/Mac OS.
 - De uitstekende N-snelheid zorgt voor de beste ervaring voor HD-streaming of internettelefonie.
 - Eenvoudige wifi-beveiligingsversleuteling door op de QSS-knop te drukken.
 - MIMO met een betere signaaldoordringen, een bredere WLAN-afdekking, voor betere prestaties en stabiliteit.

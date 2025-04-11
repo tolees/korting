@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 3. Geen bel of stof binnen, lagere klomp of verwarring tarief.
-- 5.N.W: 1kg, G.W: 1.35kg, spoel binnendiameter 57mm, spoel buitendiameter 200mm, hoogte 64mm.
 - 1. Sterke taaiheid en slagvastheid.
-- 4. Verzegelde vacuümzak om het droog te houden en stof buiten te houden.
 - 2.Print Temperatuurbereik & Diameter: 200-250℃. 1.75mm (tolerantie ±0.03mm).
+- 3. Geen bel of stof binnen, lagere klomp of verwarring tarief.
+- 4. Verzegelde vacuümzak om het droog te houden en stof buiten te houden.
+- 5.N.W: 1kg, G.W: 1.35kg, spoel binnendiameter 57mm, spoel buitendiameter 200mm, hoogte 64mm.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07XRK9K7Q{{</world>}}

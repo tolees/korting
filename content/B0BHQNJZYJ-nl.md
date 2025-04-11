@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- 【Verstoppingsvrij & Bellenvrij】JAYO PETG 1,75mm filament heeft een betere vloeibaarheid, waardoor het minder snel verstopt raakt tijdens het printen. De plastic vacuümverpakking en het droogmiddel maken het filament minder gevoelig voor vocht.
 - 【1,75mm Filamentdiameter】JAYO PETG 3D printer filament heeft een diameter van 1,75 mm, maatnauwkeurigheid +/- 0,02 mm, nauwkeurige diameter waardoor het geschikt is voor bijna alle FDM 3D printers.
 - 【JAYO Sterk PETG Filament 1.75mm】3D printer filament PETG 1,75mm heeft het voordeel van hoge taaiheid en goede slagvastheid. PETG filament is net zo makkelijk te gebruiken als PLA en net zo duurzaam als ABS.
 - 【PETG Aanbevolen Instellingen】Wij raden aan het PETG filament te printen bij een nozzle temperatuur van 220-250°C (428-482°F), een bedtemperatuur van 75-85°C (167-185°F) als er geen lijm wordt aangebracht, en een printsnelheid van 50-100mm/s.
 - 【Keurig Gewikkeld Filament】JAYOs toonaangevende productieproces - netjes opgerold filament kan voorkomen dat het filament in de knoop raakt, verdraait of breekt tijdens het printproces, waardoor het risico op verstopping afneemt en het printsucces sterk toeneemt.
-- 【Verstoppingsvrij & Bellenvrij】JAYO PETG 1,75mm filament heeft een betere vloeibaarheid, waardoor het minder snel verstopt raakt tijdens het printen. De plastic vacuümverpakking en het droogmiddel maken het filament minder gevoelig voor vocht.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BHQNJZYJ{{</world>}}

@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Elastische en veiligheidslijn
-- Standaardpasvorm
-- Steekzakken
 - Panelen op de kuiten
+- Steekzakken
+- Standaardpasvorm
 - Dri-FIT technologie helpt je droog en comfortabel te blijven
+- Elastische en veiligheidslijn
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07W6YJ92C{{</world>}}

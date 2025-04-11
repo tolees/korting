@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Dit Spidey and his amazing friends speelgoed voor kleuters bevat een startsteen en instructies met afbeeldingen om beginners te helpen zelfverzekerd te bouwen
-- Inclusief Miles Morales, Ghost, Sandman en Green Goblin LEGO Spider-Man minifiguren, plus muntstukken, een waterscooter en web accessoires voor nog meer actie
 - Bevat een vuurtoren met een pompoenvormig dak, grot-gevangenis, piraten scheepswrak, spoorweg en klein eiland met palmboom dat kinderen kunnen verkennen
-- Kinderen kunnen een fantasierijk spel spelen als Spin en Ghosty het opnemen tegen Sandman en Green Goblin terwijl de schurken de schat proberen te stelen
-- Zodra ze hun vijanden hebben verslagen, kunnen kinderen de boeven in de gevangenis opsluiten en zich klaarmaken voor hun volgende superheldenmissie
 - Dit LEGO Spider-Man constructie speelgoed stuurt kinderen vanaf 4 jaar op een spannend eiland-avontuur om schatten en vallen te ontdekken met team Spidey
+- Zodra ze hun vijanden hebben verslagen, kunnen kinderen de boeven in de gevangenis opsluiten en zich klaarmaken voor hun volgende superheldenmissie
+- Inclusief Miles Morales, Ghost, Sandman en Green Goblin LEGO Spider-Man minifiguren, plus muntstukken, een waterscooter en web accessoires voor nog meer actie
+- Dit Spidey and his amazing friends speelgoed voor kleuters bevat een startsteen en instructies met afbeeldingen om beginners te helpen zelfverzekerd te bouwen
+- Kinderen kunnen een fantasierijk spel spelen als Spin en Ghosty het opnemen tegen Sandman en Green Goblin terwijl de schurken de schat proberen te stelen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BBRWF32J{{</world>}}

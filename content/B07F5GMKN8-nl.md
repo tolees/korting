@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Eenvoudige bediening van USB-apparaten
 - Universele compatibiliteit
 - Compatibel met OTG (On The Go)
-- Eenvoudige bediening van USB-apparaten
 - Voegt een 3.0 USB-A-poort toe aan uw apparaten
 
 [🛒 Buy it now!!]({{< param buyurl >}})

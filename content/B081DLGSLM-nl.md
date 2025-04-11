@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Geschikt voor: koud weer
-- Laarzen van het merk Columbia
 - Stevig design voor eenvoudige bewegingen
+- Laarzen van het merk Columbia
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B081DLGSLM{{</world>}}
