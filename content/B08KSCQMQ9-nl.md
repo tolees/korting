@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Taal is instelbaar
 - 191802-2
+- Taal is instelbaar
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08KSCQMQ9{{</world>}}

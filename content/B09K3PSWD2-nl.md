@@ -30,8 +30,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Verkrijgbaar met heatsink of low-profile warmteverspreider
 - Ongelooflijke PCIe Gen 4x4 NVMe-prestaties
-- Slanke M.2 2280 vormfactor
 - Low-profile graphene aluminium warmteverspreider
+- Slanke M.2 2280 vormfactor
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09K3PSWD2{{</world>}}

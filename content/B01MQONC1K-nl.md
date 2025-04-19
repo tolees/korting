@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Ideaal voor elke gelegenheid: of het nu voor dagelijks gebruik of voor speciale gelegenheden is, dit T-shirt is altijd een aantrekkelijke keuze
+- 100% KATOEN: Long Shaped Turnup Tee is gemaakt van hoogwaardig katoen, dat zachtheid en comfort belooft
+- Stijlvolle details: overgesneden schouders en opgerolde mouwen zorgen voor een coole en casual stijl
 - Veelzijdige kleurkeuze: kies uit een breed scala aan trendy kleuren om je individuele stijl te benadrukken
 - Moderne lange snit: Urban Classics Long Shaped Turnup Tee is een casual basic met afgeronde zoom, perfect voor een eigentijdse look
-- Stijlvolle details: overgesneden schouders en opgerolde mouwen zorgen voor een coole en casual stijl
-- 100% KATOEN: Long Shaped Turnup Tee is gemaakt van hoogwaardig katoen, dat zachtheid en comfort belooft
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01MQONC1K{{</world>}}

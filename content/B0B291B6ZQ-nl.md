@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Hoogte van de verpakking van het artikel: 110 mm
 - Lengte van de verpakking van het artikel: 300 mm
 - Gewicht van het artikelpakket: 0.225 Kg
-- Hoogte van de verpakking van het artikel: 110 mm
 - Breedte van het artikelpakket: 220 mm
 
 [🛒 Check the deal!!]({{< param buyurl >}})

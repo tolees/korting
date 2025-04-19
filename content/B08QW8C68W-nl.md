@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Voel je glad en licht.
 - Elastische tailleband en verborgen trekkoord zorgen voor een goede pasvorm.
+- Voel je glad en licht.
 - Nike Dri-Fit-technologie houdt je droog en comfortabel.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

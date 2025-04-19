@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Sequentiële lees- en schrijfsnelheden tot respectievelijk 7.450 MB/s en 6.900 MB/s. Prestaties variëren op basis van systeemhardware en configuratie
-- Beschikbare capaciteit: tot 2TB
-- Bereik de bijna maximale prestaties van PCIe 4.0 met gemaximaliseerde warmtebeheersing. De geïntegreerde Heatsink verspreidt warmte om snelheid, energie-efficiëntie en thermische controle te behouden, waardoor downtime door oververhitting op consoles en PCs wordt voorkomen.
 - Vormfactor: M.2 (2280)
+- Beschikbare capaciteit: tot 2TB
+- Sequentiële lees- en schrijfsnelheden tot respectievelijk 7.450 MB/s en 6.900 MB/s. Prestaties variëren op basis van systeemhardware en configuratie
+- Bereik de bijna maximale prestaties van PCIe 4.0 met gemaximaliseerde warmtebeheersing. De geïntegreerde Heatsink verspreidt warmte om snelheid, energie-efficiëntie en thermische controle te behouden, waardoor downtime door oververhitting op consoles en PCs wordt voorkomen.
 - Interface: PCIe 4.0 NVMe (PCIe Gen 4.0 x 4)
 - Ontworpen voor tech-enthousiastelingen, hardcore gamers en professionals die op zoek zijn naar razendsnelle snelheden.
 

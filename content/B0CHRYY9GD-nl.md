@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Trek meer dan 30 F.U.N.tastic-kostuums aan, zoals SnailBob en SpongeGar
 - Ontmoet al je favoriete Bikini Bottom-inwoners uit de serie, ingesproken door hun originele acteurs
+- Trek meer dan 30 F.U.N.tastic-kostuums aan, zoals SnailBob en SpongeGar
 - Geniet van de in-game soundtrack met 101 nummers uit de serie, waaronder Sweet Victory
 - Reis naar 7 verschillende Wishworlds zoals Wild West Jellyfish Fields en Halloween Rock Bottom
 

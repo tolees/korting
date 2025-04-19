@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Lage snit
 - Bovenmateriaal van textiel
+- Lage snit
 - SoftFoam+: Pumas innovatieve zachte binnenzool voor maximaal loopcomfort van de eerste tot de laatste stap
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Laag energieverbruik: bespaar tot 90% energie in vergelijking met conventionele lichtbronnen. Goed voor het milieu en jouw portemonnee.
-- Met bewegingssensor: de Philips LED-lamp met sensor gaat automatisch aan bij beweging in de avond.
-- Philips LED-plafondlamp: geniet van warmwit licht (2700K) voor een gezellige sfeer in huis.
 - Lange levensduur: ervaar een levensduur tot 15 jaar met Philips LED-lampen.
+- Met bewegingssensor: de Philips LED-lamp met sensor gaat automatisch aan bij beweging in de avond.
+- Laag energieverbruik: bespaar tot 90% energie in vergelijking met conventionele lichtbronnen. Goed voor het milieu en jouw portemonnee.
 - Eenvoudig te installeren. Bevestig of hang de lamp aan de muur of het plafond.
+- Philips LED-plafondlamp: geniet van warmwit licht (2700K) voor een gezellige sfeer in huis.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08H831SKM{{</world>}}

@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Anti-aanbaklaag
 - Dit tosti-apparaat heeft een controlelampje dat aangeeft of het apparaat aan staat en wanneer het apparaat klaar is voor gebruik.
 - Gemakkelijk schoon te maken
 - Dit Tefal tosti-ijzer heeft een veilige handgreep met vergrendelingsclip.
-- Anti-aanbaklaag
 - De tostiplaten van dit tosti-ijzer zijn vormgegeven in schelpvorm.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

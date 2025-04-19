@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Creamy texture
-- Seals in colour
-- Vitamins and moisturizers
-- Liquisilk formula
 - Soft and smooth lips
+- Creamy texture
+- Vitamins and moisturizers
+- Seals in colour
+- Liquisilk formula
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B000RI9OZW{{</world>}}

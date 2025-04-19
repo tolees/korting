@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Smeed je eigen pad om het lot van de wereld te bepalen
 - Verken Daat, een raadselachtig rijk vol mythische goden en demonische tirannen
+- Smeed je eigen pad om het lot van de wereld te bepalen
 - Twee complete verhaallijnen: de gloednieuwe "Canon of Vengeance" of het oorspronkelijke "Canon of Creation"
 
 [🛒 Check the deal!!]({{< param buyurl >}})

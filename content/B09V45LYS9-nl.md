@@ -29,15 +29,15 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Tot 256 GB aan opslag
-- 12‐MP groothoekcamera
 - Verkrijgbaar in blauw, paars, roze, sterrenlicht en spacegrijs
 - Apple M1‐chip met Neural Engine
-- Batterij voor een hele dag
-- Wifi 6 en 5G-dataverbindingen
-- Touch ID voor veilige authenticatie en Apple Pay
 - 10,9‐inch Liquid Retina-display1 met True Tone, brede kleurweergave (P3) en een antireflectie­coating
-- Stereospeakers in liggende stand
+- 12‐MP groothoekcamera
+- Wifi 6 en 5G-dataverbindingen
+- Batterij voor een hele dag
 - 12‐MP ultragroothoek­camera aan de voorkant met Middelpunt
+- Touch ID voor veilige authenticatie en Apple Pay
+- Stereospeakers in liggende stand
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09V45LYS9{{</world>}}

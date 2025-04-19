@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- De HERO-sensor is tot 10x effciënter en levert precisietracking tot 12.000 dpi zonder vertraging, filtering of versnelling
-- Draagbaar gemak – het duurzame, compacte ontwerp met ingebouwde opslag voor de nano-ontvanger maakt de g305 niet alleen een geweldige desktopmuis, maar ook de ideale reisgenoot voor laptopgebruikers
-- Superlicht – Draadloos betekent niet per se zwaar g305 is ontworpen om licht en zeer beweeglijk te zijn, en weegt dankzij een efficiënt mechanisch ontwerp en batterijgebruik slechts 99 gram
 - Superlange batterijlevensduur: Met de G305 kun je in de prestatiemodus met één AA-batterij maar liefst 250 uur onafgebroken gamen met een report rate van 1 ms
+- Draagbaar gemak – het duurzame, compacte ontwerp met ingebouwde opslag voor de nano-ontvanger maakt de g305 niet alleen een geweldige desktopmuis, maar ook de ideale reisgenoot voor laptopgebruikers
+- De HERO-sensor is tot 10x effciënter en levert precisietracking tot 12.000 dpi zonder vertraging, filtering of versnelling
+- Superlicht – Draadloos betekent niet per se zwaar g305 is ontworpen om licht en zeer beweeglijk te zijn, en weegt dankzij een efficiënt mechanisch ontwerp en batterijgebruik slechts 99 gram
 - Draadloos met LIGHTSPEED: Met een report rate van 1 milliseconde en onze geoptimaliseerde draadloze verbinding levert de G305 ongelooflijke reactietijden
 
 [🛒 Buy it!!]({{< param buyurl >}})

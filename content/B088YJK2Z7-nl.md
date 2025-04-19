@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Het bovenwerk van leer en synthetisch materiaal ziet er geweldig uit en is gemakkelijk te stylen
 - De autoclavconstructie verbindt de buitenzool met de tussenzool voor een strakke, tijdloze look
-- De vintage behandeling in de tussenzool zorgt voor een perfecte retro look
+- Het bovenwerk van leer en synthetisch materiaal ziet er geweldig uit en is gemakkelijk te stylen
 - De niet-markerende massief rubberen buitenzool met visgraatpatroon zorgt voor uitstekende tractie en duurzaamheid
+- De vintage behandeling in de tussenzool zorgt voor een perfecte retro look
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B088YJK2Z7{{</world>}}

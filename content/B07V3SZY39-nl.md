@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Kleurrijk lichtontwerp met leds en personaliseerbare kleuren en verlichtingsmodi
-- De 3,5 mm-audio-aansluiting ondersteunt in-game audio en USB-chat
 - Pas je gameplay aan met de dubbel programmeerbare knoppen aan de achterkant in paddle-stijl
 - Pas het volume tijdens het gamen aan met het D-pad en de functieknop
+- De 3,5 mm-audio-aansluiting ondersteunt in-game audio en USB-chat
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07V3SZY39{{</world>}}

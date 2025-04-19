@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Ideaal voor middellang tot lang haar
 - 2 temperatuurniveaus en een koude stand
-- De ovale borstel geeft de haaraanzet volume en tovert licht krullende haarpunten
 - Zorgt twee keer zo snel voor volumineus, geföhnd haar zonder knopen
 - De ionentechnologie droogt het haar sneller en beschermt het zo beter tegen beschadigingen
+- Ideaal voor middellang tot lang haar
+- De ovale borstel geeft de haaraanzet volume en tovert licht krullende haarpunten
 - Combinatie van krachtige haardroger en volumeborstel
 
 [🛒 Buy it now!!]({{< param buyurl >}})

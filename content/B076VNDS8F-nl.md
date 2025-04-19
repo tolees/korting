@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Zonnekap, lensafdekking voorkant, lensdop achteraan
-- Veelzijdige oplossing voor gevarieerd fotografisch gebruik over een brandpuntbereik van 24 tot 105 mm
 - Professionele en betrouwbare ergonomie met nauwkeurige handmatige scherpstelling en een aanpasbare scherpstelknop
 - Snelle, nauwkeurige en stille autofocus in combinatie met het constante F4-diafragma, ideaal voor fotos en videos
+- Veelzijdige oplossing voor gevarieerd fotografisch gebruik over een brandpuntbereik van 24 tot 105 mm
 - OPMERKING Als de lens niet goed is bevestigd, komen de aansluitpunten die communicatie tussen de camerabehuizing en de lens mogelijk maken niet met elkaar in contact. Druk niet op de ontgrendelingsknop op de lens, maar draai de lens rechtsom en bevestig deze op de camerabehuizing totdat deze klikt
 - 4 asferische lenzen en 3 ED-lenzen (extra lage dispersie) minimaliseren aberraties voor een hoge beeldkwaliteit van rand tot rand over het hele zoombereik. Beeldhoek (35 mm) 84° - 23°
+- Zonnekap, lensafdekking voorkant, lensdop achteraan
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B076VNDS8F{{</world>}}

@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Sluiting: klittenbandsluiting
-- Bovenmateriaal: synthetisch
 - Hakvorm: plat
+- Sluiting: klittenbandsluiting
 - Zool: rubber
+- Bovenmateriaal: synthetisch
 - Binnenmateriaal: synthetisch
 
 [🛒 Check the deal!!]({{< param buyurl >}})

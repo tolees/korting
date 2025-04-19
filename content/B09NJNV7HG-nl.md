@@ -30,8 +30,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Bovenwerk van synthetisch leer
 - Voering van textiel
-- Vetersluiting
 - Normale pasvorm
+- Vetersluiting
 - Gedempt gevoel
 - EVA-inlegzool
 

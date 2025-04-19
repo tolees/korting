@@ -30,10 +30,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Kijk ook eens naar andere LEGO bouwplaat: 11024 grijs voor stedenbouw, 11026 wit voor besneeuwde winterlandschappen, en 11025 blauw voor oceaanavonturen
 - In een open wereld van creatieve mogelijkheden, van tuinen en bossen tot buitenaardse landschappen, kunnen kinderen bouwen wat ze maar willen
-- Voorzien van een 32x32-stud groene LEGO bouwplaat om een open landschap voor alle soorten LEGO creaties te bieden
-- De LEGO Classic groene bouwplaat kan worden gegeven als een verjaardag, vakantie of een andere dag cadeau voor kinderen van 4 jaar en ouder
 - Geen instructies nodig - de LEGO bouwplaat maakt uren fantasierijk spel mogelijk vanaf het moment dat het uit de doos wordt gehaald
+- Voorzien van een 32x32-stud groene LEGO bouwplaat om een open landschap voor alle soorten LEGO creaties te bieden
 - Stevig en duurzaam - 1.024 uitgelijnde noppen bieden bouwers een stevige en duurzame grip voor hun LEGO bouwstenen
+- De LEGO Classic groene bouwplaat kan worden gegeven als een verjaardag, vakantie of een andere dag cadeau voor kinderen van 4 jaar en ouder
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BNVXRCY{{</world>}}

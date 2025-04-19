@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- OFFICIEEL PRODUCT ONDER WARNER BROS LICENTIE: Deze studentenhoed is ontwikkeld volgens de officiële archieven uit de films en onder strikte naleving van de Warner Bros licentie.
 - EEN ERKEND MERK: Cinereplicas wordt vertrouwd door Warner Bros om hen te vertegenwoordigen in termen van merchandise productie en om hoge kwaliteit Harry Potter productlijnen te ontwikkelen.
 - DE MAGIE VAN DE HARRY POTTER LEVEN: Samen met het gewaad en de stropdas, is deze Griffoendor studentenhoed een must-have om je Zweinstein uniform compleet te maken. Deze hoed wordt traditioneel gedragen tijdens tovenaars formele gelegenheden met je volledige uniform.
-- OFFICIEEL PRODUCT ONDER WARNER BROS LICENTIE: Deze studentenhoed is ontwikkeld volgens de officiële archieven uit de films en onder strikte naleving van de Warner Bros licentie.
 - ORIGINELE ONTWERP: Met het Griffoendor-wapen aan de voorkant geborduurd, voelt het zeer zacht aan en is het comfortabel om te dragen.
 
 [🛒 Buy it!!]({{< param buyurl >}})

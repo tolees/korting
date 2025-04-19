@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - EVA-inlegzool
+- Normale pasvorm
 - Vetersluiting
 - Bovenwerk van synthetisch leer
-- Normale pasvorm
 - Voering van textiel
 - Gedempt gevoel
 

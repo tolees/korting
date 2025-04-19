@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - 100 regels/mm penherkenning op het dienblad (tabletdichtheid).
-- Actief oppervlak 7 inch (kleine modellen) of 10 inch (middelgrote modellen).
 - Meer dan 75% van de breedte van het tablet is actief oppervlak.
+- Actief oppervlak 7 inch (kleine modellen) of 10 inch (middelgrote modellen).
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B079JD3V8M{{</world>}}

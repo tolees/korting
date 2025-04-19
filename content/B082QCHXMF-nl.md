@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- WiFi stekkerdoos met 6 stekkerdozen incl. verhoogde aanrakingsbeveiliging in een praktische 45° opstelling - eenvoudige installatie en slimme functies via de gratis Brennenstuhl Connect app in de 2,4 GHz band van de WiFi router
 - Flexibele schemas en timerfunctie - met de praktische timerfunctie van de intelligente stekkerdoos kun je dag- en weekschemas programmeren en automatiseren in de Brennenstuhl Connect app
-- Bedien apparaten die zijn aangesloten op het WiFi stekkerdoos met je stem via Amazon Alexa of Google Assistant of via de gratis Brennenstuhl Connect app - met internettoegang op elk moment en vanaf elke locatie
 - Slimme stekkerdoos met stembediening via Amazon Alexa of Google Assistant - handig aan/uit schakelen van apparaten tot 3680W binnenshuis (2x vaste, 2x 2 schakelbare stopcontacten)
 - Met de 6-voudige WiFi stekkerdoos kun je je huis altijd en overal bedienen met je smartphone via de gratis Brennenstuhl Connect app - de WiFi verdeeldoos kan ook handmatig worden geschakeld
-- WiFi stekkerdoos met 6 stekkerdozen incl. verhoogde aanrakingsbeveiliging in een praktische 45° opstelling - eenvoudige installatie en slimme functies via de gratis Brennenstuhl Connect app in de 2,4 GHz band van de WiFi router
+- Bedien apparaten die zijn aangesloten op het WiFi stekkerdoos met je stem via Amazon Alexa of Google Assistant of via de gratis Brennenstuhl Connect app - met internettoegang op elk moment en vanaf elke locatie
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B082QCHXMF{{</world>}}

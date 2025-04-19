@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Geschikt om te dragen tijdens verschillende seizoenen
 - Informele uitstraling
 - Het artikel kan gedragen worden in combinatie met een alledaags shirt
+- Geschikt om te dragen tijdens verschillende seizoenen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07D7WF61Y{{</world>}}

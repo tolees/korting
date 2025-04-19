@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Fleece
+- Regular fit met mid-rise taille
 - Zakken in de zijnaden
 - Fleece
-- Regular fit met mid-rise taille
 - 70% katoen / 30% gerecycled polyester
 
 [🛒 Check the deal!!]({{< param buyurl >}})

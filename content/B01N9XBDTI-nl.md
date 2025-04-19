@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Veilig in gebruik: met de stopknop stopt het roosteren direct - Met extra automatische uitschakelfunctie voor extra bescherming tegen kortsluiting
 - Krokant goudbruin geroosterd brood: Philips Daily Collection Broodrooster voor elke dag perfect geroosterd brood - 2 sleuven voor alle maten, perfecte resultaten bij alle soorten en maten brood
+- Veilig in gebruik: met de stopknop stopt het roosteren direct - Met extra automatische uitschakelfunctie voor extra bescherming tegen kortsluiting
 - Instellingen voor elke smaak: 8 bruiningsstanden voor elke voorkeur
 - Eenvoudig te reinigen: uitneembare kruimellade is eenvoudig te legen en terug te plaatsen - Deksel houdt sleuven vrij van stof voor en na gebruik
 - Geroosterd brood binnen enkele seconden: de opwarmfunctie warmt brood op in enkele seconden - De ontdooifunctie ontdooit en roostert brood in één keer

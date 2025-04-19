@@ -30,9 +30,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Plastic behuizing, desktop of wandmontage
 - Plug-and-Play, geen configuratie nodig
+- IEEE 802.3x gegevensstroombeheer zorgt voor een betrouwbare gegevensoverdracht
 - 5 10/100Mbps Auto-Negotiation RJ45-poorten, ondersteunt Auto MDI/MDIX
 - Groene ethernet-technologie bespaart tot 70% energie
-- IEEE 802.3x gegevensstroombeheer zorgt voor een betrouwbare gegevensoverdracht
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B000FNFSPY{{</world>}}

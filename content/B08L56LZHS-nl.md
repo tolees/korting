@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Innovatieve lasertechnologie: De lasernavigatie maakt op betrouwbare wijze kaarten van jouw woonruimte en stelt je in staat de robot haarfijn te besturen.
 - Afzuigstation: De MEDION X20 SW+ kan dagenlang zonder jouw hulp werken. Dankzij de automatische lediging van het stofreservoir in het afzuigstation hoef je je zelf nauwelijks bezig te houden met het reinigingsproces.
 - 2-in-1 robotstofzuiger met krachtige zuigkracht, lasernavigatie, app- en spraakbesturing en tot 150 min. looptijd (afhankelijk van de ingestelde modus).
-- Innovatieve lasertechnologie: De lasernavigatie maakt op betrouwbare wijze kaarten van jouw woonruimte en stelt je in staat de robot haarfijn te besturen.
-- Leveringsomvang: dweilrobot met geïntegreerd lithium-ion-accublok X20 SW+ (MD 11415), 1x zuigstation en voedingseenheid, 2x filter (1x vervangingsfilter), 3x stofzak, 4x zijborstel (2x vervangingsborstels), 2x dweilhulpstuk
 - Sterkste zuigkracht: regel flexibel het vermogen in de zuigstand tot de Max-stand voor hardnekkig vuil met een intensieve zuigkracht van 3.000 Pa. Automatische tapijtdetectie met Boost-modus.
+- Leveringsomvang: dweilrobot met geïntegreerd lithium-ion-accublok X20 SW+ (MD 11415), 1x zuigstation en voedingseenheid, 2x filter (1x vervangingsfilter), 3x stofzak, 4x zijborstel (2x vervangingsborstels), 2x dweilhulpstuk
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08L56LZHS{{</world>}}

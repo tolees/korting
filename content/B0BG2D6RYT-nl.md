@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- ONLINE MULTIPLAYER: Speel Just Dance met wie je wilt, waar ze ook zijn, met deze gloednieuwe functie! Nodig tot wel vijf spelers uit om mee te dansen en ontdek wie de beste moves heeft.
-- NIEUWE GEBRUIKERSINTERFACE: Stop met zoeken en begin met dansen met deze nieuwe, bijgewerkte en intuïtieve gebruikersinterface. Alles ligt binnen handbereik: afspeellijsten, speltypen en nummers.
-- GEPERSONALISEERDE ERVARINGEN: Ontgrendel op maat gemaakte sessies en nummers, speciaal voor jouw voorkeuren en gewoontes. Daarnaast houdt Just Dance je voortgang en je scores bij, zodat je je skills aan iedereen kunt laten zien.
 - DOWNLOANDCODE: Uitsluitend een downloadcode, dit product bevat geen fysieke cd of disk. Internetverbinding, Ubisoft-account en PlayStationNetwork-account vereist om de code te kunnen inwisselen.
+- GEPERSONALISEERDE ERVARINGEN: Ontgrendel op maat gemaakte sessies en nummers, speciaal voor jouw voorkeuren en gewoontes. Daarnaast houdt Just Dance je voortgang en je scores bij, zodat je je skills aan iedereen kunt laten zien.
+- NIEUWE GEBRUIKERSINTERFACE: Stop met zoeken en begin met dansen met deze nieuwe, bijgewerkte en intuïtieve gebruikersinterface. Alles ligt binnen handbereik: afspeellijsten, speltypen en nummers.
+- ONLINE MULTIPLAYER: Speel Just Dance met wie je wilt, waar ze ook zijn, met deze gloednieuwe functie! Nodig tot wel vijf spelers uit om mee te dansen en ontdek wie de beste moves heeft.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BG2D6RYT{{</world>}}

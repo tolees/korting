@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Esthetisch meerdere apparaten opladen: Omarm het esthetische ontwerp en de precieze afstanden met een intuïtieve ‘boomachtige’ structuur, zodat je jouw iPhone, Apple Watch en AirPods naadloos tegelijk kunt opladen.
-- Veiligheid staat voorop: Vertrouw op Ankers eigen ActiveShield-technologie, die de temperatuur meer dan drie miljoen keer per dag controleert om zo snel mogelijk te kunnen opladen.
-- Wat je krijgt: Anker MagGo draadloos oplaadstation (3-in-1, standaard), 40W-USB-C-oplader, USB-C-kabel van 1,5 m, welkomstgids, 24 maanden garantie en onze vriendelijke klantenservice.
-- Esthetisch meerdere apparaten opladen: Omarm het esthetische ontwerp en de precieze afstanden met een intuïtieve ‘boomachtige’ structuur, zodat je jouw iPhone, Apple Watch en AirPods naadloos tegelijk kunt opladen.
 - Supersnel opladen met 15 W: Ervaar superieur opladen met een vermogen van 15 W, de garantie van een Qi2-certificering en MagSafe-compatibiliteit om altijd snel, veilig en efficiënt op te laden.
+- Esthetisch meerdere apparaten opladen: Omarm het esthetische ontwerp en de precieze afstanden met een intuïtieve ‘boomachtige’ structuur, zodat je jouw iPhone, Apple Watch en AirPods naadloos tegelijk kunt opladen.
+- Wat je krijgt: Anker MagGo draadloos oplaadstation (3-in-1, standaard), 40W-USB-C-oplader, USB-C-kabel van 1,5 m, welkomstgids, 24 maanden garantie en onze vriendelijke klantenservice.
+- Veiligheid staat voorop: Vertrouw op Ankers eigen ActiveShield-technologie, die de temperatuur meer dan drie miljoen keer per dag controleert om zo snel mogelijk te kunnen opladen.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CP1VMGXV{{</world>}}

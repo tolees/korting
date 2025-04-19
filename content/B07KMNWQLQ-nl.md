@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - VERBIND MET DE HUE BRIDGE: Maak verbinding met de apart verkrijgbare Hue Bridge om nog veel meer mogelijkheden van je slimme verlichting te ontgrendelen: dan kun je gebruik maken van alle slimme bedieningsopties en functies, zelfs als je niet thuis bent. Bedien je lampen met de Philips Hue app, voeg accessoires toe en stel timers en routines in.
+- SLIMME TUINVERLICHTING: Breid je slimme verlichting uit naar buiten met de Philips Hue Discover verstraler. Deze set bevat alle kabels die je nodig hebt om aan de slag te gaan met je tuin- of terrasverlichting.
 - BEDIEN JE LAMPEN MET JE STEM: koppel met Amazon Alexa of de Google Assistent om de lamp te bedienen met eenvoudige spraakopdrachten. Deze functie werkt met alle slimme Echo-speakers/-schermen en Google Nest-apparaten (Hue Bridge is vereist voor Echo (1e generatie) en Echo Dot (1e generatie). Wil je spraakbediening gebruiken met Apple HomeKit, voeg dan een Hue Bridge toe aan je systeem.
 - DOE OF JE THUIS BENT: Stel je verlichting zo in dat het altijd lijkt alsof er iemand is. Door je aanwezigheid na bootsen, kun je ongewenste indringers afschrikken als je niet thuis bent.
-- SLIMME TUINVERLICHTING: Breid je slimme verlichting uit naar buiten met de Philips Hue Discover verstraler. Deze set bevat alle kabels die je nodig hebt om aan de slag te gaan met je tuin- of terrasverlichting.
 - WELKOM THUIS: Stel je lampen in zodat ze je verwelkomen als je thuiskomt. Philips Hue kan je tuin en oprit automatisch verlichten op het moment dat je thuiskomt.
 
 [🛒 Buy it!!]({{< param buyurl >}})

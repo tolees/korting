@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Schoenbreedte: medium
 - Waterbestendigheid: niet waterbestendig
 - Hakvorm: blokhak
-- Schoenbreedte: medium
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BN67QFV4{{</world>}}

@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Binnenmateriaal: synthetisch
 - Hakvorm: geen hak
-- Materiaal: textiel
-- Voering: ongevoerd
 - Bovenmateriaal: nylon
+- Voering: ongevoerd
 - Sluiting: rubber
+- Materiaal: textiel
+- Binnenmateriaal: synthetisch
 - Schoenbreedte: medium
 
 [🛒 Check the deal!!]({{< param buyurl >}})

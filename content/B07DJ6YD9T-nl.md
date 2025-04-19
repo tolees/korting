@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Antibacteriële binnenzool.
-- Uitneembare binnenzool
 - Gemakkelijk te dragen, voor ongeëvenaard comfort.
 - Schoeisel dat optimale demping en bescherming biedt tegen schokken en stress.
 - Lichtgewicht schoeisel voor meer bewegingsvrijheid.
+- Uitneembare binnenzool
 - De gepatenteerde Geox-systemen garanderen de ademende werking van de buitenzool, zodat de voet comfortabel blijft.
 
 [🛒 Buy it!!]({{< param buyurl >}})

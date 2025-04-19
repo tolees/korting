@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- USB-C-compatibiliteit ideaal voor smartphones, tablets en PC’s
-- Supersnelle data transfers tot 400MB/s, varieert per capaciteit
-- 5 jaar beperkte garantie
 - USB 3.1 maar ondersteunt ook USB 3.0 en 2.0
 - 5-voudige bescherming: water, extreme temperatuur, röntgenstraling, magnetisme en schok bestendig
+- Supersnelle data transfers tot 400MB/s, varieert per capaciteit
+- 5 jaar beperkte garantie
+- USB-C-compatibiliteit ideaal voor smartphones, tablets en PC’s
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09R2CF1K2{{</world>}}

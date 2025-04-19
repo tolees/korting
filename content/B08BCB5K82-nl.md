@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kledingsstijl: informeel
-- Sneakers van het merk Columbia
 - Licht & ademend design voor soepele bewegingen
+- Sneakers van het merk Columbia
+- Kledingsstijl: informeel
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08BCB5K82{{</world>}}

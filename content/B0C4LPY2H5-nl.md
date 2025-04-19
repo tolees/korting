@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - HUAWEI Band 8 fitnesshorloge - ultradunne smartband met een batterijlevensduur tot 2 weken - Activiteitentracker compatibel met Android & iOS met volledig gezondheidsbeheer en slaaptracering - Roze
+- Wetenschappelijk gefundeerde slaaptracking: het HUAWEI TruSleep 3.0-systeem volgt elke seconde van je slaap en levert je tegelijkertijd de tools en tips voor een goede nachtrust
+- Verhoogt je fitness: 100 bandtastische sportmodi om uit te kiezen. De HUAWEI Band 8 kan zelfs onderscheid maken tussen joggen en lopen, de vier belangrijkste zwemtechnieken herkennen en je hartslag tijdens het zwemmen in real-time registreren
 - Tru Series technologieën: met de intelligente functies van HUAWEI TruSeen 5.0 registreert de band automatisch je SpO2-waarde en waarschuwt je onmiddellijk wanneer hij onder het ideale niveau valt, zodat je je snel weer kunt herstellen
 - Snel opladen, lange batterijduur: de HUAWEI Band 8 is in slechts 45 minuten volledig opgeladen, dus 30% sneller. Met slechts 5 minuten snel opladen zorgt de accu voor een hele 2 dagen looptijd. Eenmaal volledig opgeladen, biedt de accu een looptijd van maximaal 14 dagen of 9 dagen bij normaal gebruik
-- Verhoogt je fitness: 100 bandtastische sportmodi om uit te kiezen. De HUAWEI Band 8 kan zelfs onderscheid maken tussen joggen en lopen, de vier belangrijkste zwemtechnieken herkennen en je hartslag tijdens het zwemmen in real-time registreren
-- Wetenschappelijk gefundeerde slaaptracking: het HUAWEI TruSleep 3.0-systeem volgt elke seconde van je slaap en levert je tegelijkertijd de tools en tips voor een goede nachtrust
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0C4LPY2H5{{</world>}}

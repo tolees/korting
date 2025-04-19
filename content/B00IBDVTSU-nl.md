@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 3 warmtestanden / 2 snelheden, cool shot om de haarstijl te fixeren
 - Krachtige 2300 Watt professionele haardroger, Krachtige luchtstroom (130 km/uur) voor snelle droogresultaten, Duurzame AC-motor
-- Smalle blaasmond (7 mm) voor een professionele styling, Extra blaasmond voor snel drogen, Diffuser voor extra volume of het drogen van krullend haar
-- Afneembaar en gemakkelijk te reinigen rooster, met ophangoog en 3 meter lang snoer
 - Ionische conditionering - 90% meer ionen voor een glanzende kroesvrije styling*
+- Afneembaar en gemakkelijk te reinigen rooster, met ophangoog en 3 meter lang snoer
+- 3 warmtestanden / 2 snelheden, cool shot om de haarstijl te fixeren
+- Smalle blaasmond (7 mm) voor een professionele styling, Extra blaasmond voor snel drogen, Diffuser voor extra volume of het drogen van krullend haar
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00IBDVTSU{{</world>}}

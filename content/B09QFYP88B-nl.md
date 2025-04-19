@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Inclusief 2 LEGO Friends minipoppetjes van Olivia en Nandi en een micropoppetje van Santiago, plus allerlei leuk waterspeelgoed, een zwemvest, zonnebrandcrème en een duikbril
 - De speelset bevat ook een net, een watervaldouche, een octopus die water spuit, een ijskraam met terras en een grot met een aquarium
+- Inclusief 2 LEGO Friends minipoppetjes van Olivia en Nandi en een micropoppetje van Santiago, plus allerlei leuk waterspeelgoed, een zwemvest, zonnebrandcrème en een duikbril
 - Voordat ze een verfrissende duik nemen in het zwembad, kunnen kinderen zich omkleden in de kleedkamer, vervolgens kunnen ze kleine Santiago helpen om op het net te klimmen, of Nandi vanaf de toren natspuiten met de waterschieter
-- Kinderen zetten de duikbril op Olivia’s hoofd wanneer ze klaar is om een duik te nemen in het zwembad, draaien aan het model van de octopos, en maken de kluisjes open om er de accessoires veilig in op te bergen
 - Deze zomerse LEGO Friends set bestaat uit een zwembad, 2 waterglijbanen, een douche en een omkleedhokje
+- Kinderen zetten de duikbril op Olivia’s hoofd wanneer ze klaar is om een duik te nemen in het zwembad, draaien aan het model van de octopos, en maken de kluisjes open om er de accessoires veilig in op te bergen
 - Dit Heartlake City speelgoed is een origineel cadeau voor een verjaardag of speciale gelegenheid - verras kinderen vanaf 6 jaar die gek zijn op zwemmen en de zomer met deze leuke LEGO Friends set
 
 [🛒 Buy it!!]({{< param buyurl >}})
