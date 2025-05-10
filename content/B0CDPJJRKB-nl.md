@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'eufy Security Indoor Cam S350  dubbele camera  beveiligingscamera met 4K-UHD-resolutie en 8 × zoom en 360° PTZ  mens/huisdier AI  ideaal voor babyfoon/huisdiercamera/huisbeveiliging  dualband wifi'
+date: 2024-06-02 01:22:05
+image: 'https://m.media-amazon.com/images/I/21CiBgNvL8L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CDPJJRKB-nl eufy Security Indoor Cam S350 dubbele camera...'
+sku: 'B0CDPJJRKB-nl'
+tags: [ '🇳🇱', ]
+actualPrice: 99.0 EUR
+currency: EUR
+price: 99.0
+comparePrice: 129.99 EUR
+prodname: 'eufy Security Indoor Cam S350  dubbele camera  beveiligingscamera met 4K-UHD-resolutie en 8 × zoom en 360° PTZ  mens/huisdier AI  ideaal voor babyfoon/huisdiercamera/huisbeveiliging  dualband wifi'
+country: 'nl'
+flag: '🇳🇱'
+brand: ''
+buyurl: 'https://www.amazon.nl/dp/B0CDPJJRKB/?tag=tolees0b-21'
+descuento: '23.84'
+average: '99.0'
+---
+
+You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Volledige dekking: Dankzij de 360°-mogelijkheden voor draaien en kantelen kun je de hele ruimte zien, zonder dode hoeken. Hierdoor is het een uitstekende honden- of kattencamera.
+- Intelligent volgen: Dankzij de AI, op basis van een door eufy Security ontwikkeld algoritme, kan de camera familieleden of huisdieren in de kamer automatisch volgen en daarop inzoomen.
+- Uitzonderlijk nachtzicht: Dankzij een sensor met diafragma van f/1,6 en 2 krachtige infrarood LED-lampen kunnen gezichten zelfs bij weinig licht tot op tien meter afstand duidelijk worden gezien.
+- Geavanceerde zoommogelijkheden: De 4K-groothoekcamera en 2K-telelenscamera’s werken samen om de indrukwekkende 8 × hybride zoom mogelijk te maken.
+- Superieur beeld: Met twee camera’s en een 4K-UHD-resolutie levert deze binnencamera duidelijk en gedetailleerd beeld van je huis. Wat je er ook mee bewaakt, je kunt het met ongelofelijke details zien.
+
+[🛒 Check the deal!!]({{< param buyurl >}})
+{{<world>}}B0CDPJJRKB{{</world>}}
