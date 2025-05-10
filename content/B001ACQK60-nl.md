@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CAMPER  Peu Ideal 17891 Sneakers voor heren  Zwart 074  42 EU'
-date: 2025-05-09 05:21:53
+date: 2025-05-10 11:41:48
 image: 'https://m.media-amazon.com/images/I/31xa8D3M6OL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B001ACQK60-nl CAMPER Peu Ideal 17891 Sneakers voor heren Zwart 074 42 EU'
 sku: 'B001ACQK60-nl'
 tags: [ '093624ba-c879-4b38-938a-0eec9e1ff133_0','093624ba-c879-4b38-938a-0eec9e1ff133_3601','Arborist Merchandising Root','Herenmode','Herenschoenen','Klassieke & modieuze herensneakers','Kleding, schoenen & sieraden','Kleding, schoenen en sieraden','New Arrivals','Self Service','Special Features Stores','Trainings- & outdoorschoenen heren','camper','🇳🇱', ]
-actualPrice: 137.16 EUR
+actualPrice: 134.25 EUR
 currency: EUR
-price: 137.16
+price: 134.25
 comparePrice: 190.0 EUR
 prodname: 'CAMPER  Peu Ideal 17891 Sneakers voor heren  Zwart 074  42 EU'
 country: 'nl'
 flag: '🇳🇱'
 brand: 'Camper'
 buyurl: 'https://www.amazon.nl/dp/B001ACQK60/?tag=tolees0b-21'
-descuento: '27.81'
-average: '134.351111111111'
+descuento: '29.34'
+average: '134.332727272727'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

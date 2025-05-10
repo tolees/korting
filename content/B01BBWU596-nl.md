@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony NW-E394 8 GB Walkman mp3-speler met FM-radio - zwart'
-date: 2025-05-07 17:41:07
+date: 2025-05-10 12:00:24
 image: 'https://m.media-amazon.com/images/I/21Yg3mzLFAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: 'Sony'
 buyurl: 'https://www.amazon.nl/dp/B01BBWU596/?tag=tolees0b-21'
 descuento: '17.32'
-average: '88.0781818181818'
+average: '88.52'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Aluminium frontpaneel interne opslagcapaciteit van 8 GB
-- Inhoud: Sony NW-E394 Walkman 8 GB zwart
-- Muziek afspelen, opslaan van fotos en FM-radio-functie
 - Volumeregeling en hold-knop bevinden zich aan de zijkant
 - Lange batterijduur tot 35 uur bij het afspelen van MP3-s
+- Inhoud: Sony NW-E394 Walkman 8 GB zwart
+- Muziek afspelen, opslaan van fotos en FM-radio-functie
+- Aluminium frontpaneel interne opslagcapaciteit van 8 GB
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B01BBWU596{{</world>}}
