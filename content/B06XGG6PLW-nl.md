@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- POP! vinylfiguur
 - LOTR/Hobbit
 - Gandalf
-- POP! vinylfiguur
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B06XGG6PLW{{</world>}}

@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 8 latexballonnen met opdruk
-- Gelegenheid: verjaardag, feest, themafeest, jubileum, viering, faciliteiten, evenementen
 - Origineel Warner Bros / Wizarding World gelicentieerd product
+- Gelegenheid: verjaardag, feest, themafeest, jubileum, viering, faciliteiten, evenementen
+- 8 latexballonnen met opdruk
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09FTF4KNV{{</world>}}
