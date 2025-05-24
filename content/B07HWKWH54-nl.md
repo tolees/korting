@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link AC1200 wifi-toegangspunt  draadloze dual-band  1 gigabit-poort  passieve PoE ondersteund  beamforming  MU-MIMO  TL-WA1201 '
-date: 2025-05-22 08:17:25
+date: 2025-05-24 14:42:21
 image: 'https://m.media-amazon.com/images/I/31mEcd0bgAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.nl/dp/B07HWKWH54/?tag=tolees0b-21'
 descuento: '25.00'
-average: '46.9125757575757'
+average: '46.8560294117647'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - AC1200 dual-band wifi - 867 Mbps op de 5 GHz-band en 300 Mbps op de 2,4 GHz-band
-- MU-MIMO-technologie - verzendt gegevens tegelijkertijd naar meerdere apparaten voor 2x snellere prestaties
-- Flexibel in gebruik - ondersteunt passieve PoE om tegelijkertijd stroom te leveren en gegevens te verzenden
-- Captive Portal - Biedt een webpagina voor extra beveiliging en marketing
 - Meerdere modi - Ondersteunt access point, range extender, multi-SSID en client-modi om aan alle netwerkvereisten te voldoen
+- Captive Portal - Biedt een webpagina voor extra beveiliging en marketing
+- MU-MIMO-technologie - verzendt gegevens tegelijkertijd naar meerdere apparaten voor 2x snellere prestaties
 - Betere dekking - vier vaste antennes met Beamforming-technologie bundelen en breiden wifi-signalen uit
+- Flexibel in gebruik - ondersteunt passieve PoE om tegelijkertijd stroom te leveren en gegevens te verzenden
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07HWKWH54{{</world>}}
