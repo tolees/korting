@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- MILIEUVRIENDELIJK: Alle Jan van Haasteren puzzels zijn gemaakt van 100% gerycled karton.
-- PERFECT VOOR EEN ONTSPANNEN AVOND: Puzzelen is de ideale activiteit voor schermvrije tijd, het stimuleert de concentratie en is ontspannend voor kinderen en volwassenen.
-- LEGPUZZEL VOOR VOLWASSENEN: Humoristische puzzel voor volwassenen met grappige elementen.
 - EEN NIEUW AVONTUUR: Ontdek het nieuwe avontuur van de Jan van Haasteren familie in deze Wereldkampioenschap veldrijden puzzel!
+- MILIEUVRIENDELIJK: Alle Jan van Haasteren puzzels zijn gemaakt van 100% gerycled karton.
+- LEGPUZZEL VOOR VOLWASSENEN: Humoristische puzzel voor volwassenen met grappige elementen.
 - PUZZELPLEZIER GEGARANDEERD: Legpuzzel van 1000 stukjes van het populaire merk Jan van Haasteren!
+- PERFECT VOOR EEN ONTSPANNEN AVOND: Puzzelen is de ideale activiteit voor schermvrije tijd, het stimuleert de concentratie en is ontspannend voor kinderen en volwassenen.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07ZTSWZ3D{{</world>}}

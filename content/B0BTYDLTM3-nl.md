@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- PERSOONLIJKE LUISTERERVARING: gebruik de soundcore-app om de bedieningselementen aan te passen en kies uit 22 EQ-presets. Met ‘Vind mijn oordopjes’ kan een kwijtgeraakt oordopje geluid maken, zodat je het kunt vinden.
-- DRAAGBAAR ONTWERP: de draadloze P20i-oordopjes en het oplaaddoosje zijn compact, licht en voorzien van een draagkoord. Ze zijn klein genoeg om in je zak te stoppen of aan je tas of sleutels vast te klemmen, zodat je je nooit zorgen hoeft te maken over opbergruimte.
 - LANGE SPEELDUUR, SNEL OPLADEN: tot 10 uur accuduur na één keer opladen met een doosje dat de speelduur verlengt tot 30 uur. Als de draadloze P20i-oordopjes bijna leeg zijn, kun je ze snel 10 minuten opladen voor 2 uur afspeeltijd.
 - IPX5-WATERBESTENDIG: draag de draadloze P20i-oordopjes tijdens work-outs of zelfs in de regen. Ze zijn beschermd tegen water en stof, zodat je in alle omstandigheden muziek kunt blijven spelen.
 - KRACHTIGE BAS: de draadloze P20i-oordopjes hebben extra grote drivers van 10 mm drivers voor rijk geluid met betere lage tonen.
+- PERSOONLIJKE LUISTERERVARING: gebruik de soundcore-app om de bedieningselementen aan te passen en kies uit 22 EQ-presets. Met ‘Vind mijn oordopjes’ kan een kwijtgeraakt oordopje geluid maken, zodat je het kunt vinden.
+- DRAAGBAAR ONTWERP: de draadloze P20i-oordopjes en het oplaaddoosje zijn compact, licht en voorzien van een draagkoord. Ze zijn klein genoeg om in je zak te stoppen of aan je tas of sleutels vast te klemmen, zodat je je nooit zorgen hoeft te maken over opbergruimte.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BTYDLTM3{{</world>}}

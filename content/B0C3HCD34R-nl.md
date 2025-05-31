@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- HOOR JE OMGEVING: Schakel naar de transparantiemodus op je ruisonderdrukkende hoofdtelefoon als je je omgeving moet kunnen horen, zoals bij aankondigingen in het ov, bij het oversteken of gewoon als je met de wereld om je heen verbonden wilt blijven.
 - DUBBELE VERBINDING: Maak tegelijkertijd met twee apparaten verbinding en schakel er zonder vertraging tussen dankzij Bluetooth 5.0. Als je op je laptop werkt of je telefoon moet opnemen, schakelt de hoofdtelefoon automatisch naar het apparaat dat je hiervoor moet kunnen horen.
-- ACCUDUUR VAN 40 UUR EN SNELLADEN: Met een accuduur van 40 uur met ruisonderdrukking en 60 uur zonder, kun je in alle rust met het ov, zonder dat je hoeft na te denken over opladen. Na vijf minuten snelladen kun je vier uur extra luisteren.
-- APP VOOR EQ-INSTELLINGEN: Download de soundcore-app om het geluid met de instelbare EQ met 22 voorinstellingen of handmatig aan je smaak aan te passen. U kunt ook schakelen tussen drie modi (ANC, normaal en transparantie) en ontspannen met witte ruis.
-- HYBRIDE ACTIEVE RUISONDERDRUKKING: De twee interne en twee externe microfoons werken samen om geluid te detecteren en tot 90% effectief te beperken, zoals het geluid van vliegtuigen en auto’s.
+- HOOR JE OMGEVING: Schakel naar de transparantiemodus op je ruisonderdrukkende hoofdtelefoon als je je omgeving moet kunnen horen, zoals bij aankondigingen in het ov, bij het oversteken of gewoon als je met de wereld om je heen verbonden wilt blijven.
 - DOMPEL JEZELF ONDER IN GEDETAILLEERD GELUID: De hoofdtelefoon met ruisonderdrukking heeft extra grote dynamische drivers van 40 mm die gedetailleerd geluid en dankzij de BassUp-technologie dreunende beats produceren. Voor extra detail is de hoofdtelefoon compatibel met Hi-Res-gecertificeerde audio via een aux-kabel.
+- HYBRIDE ACTIEVE RUISONDERDRUKKING: De twee interne en twee externe microfoons werken samen om geluid te detecteren en tot 90% effectief te beperken, zoals het geluid van vliegtuigen en auto’s.
+- APP VOOR EQ-INSTELLINGEN: Download de soundcore-app om het geluid met de instelbare EQ met 22 voorinstellingen of handmatig aan je smaak aan te passen. U kunt ook schakelen tussen drie modi (ANC, normaal en transparantie) en ontspannen met witte ruis.
+- ACCUDUUR VAN 40 UUR EN SNELLADEN: Met een accuduur van 40 uur met ruisonderdrukking en 60 uur zonder, kun je in alle rust met het ov, zonder dat je hoeft na te denken over opladen. Na vijf minuten snelladen kun je vier uur extra luisteren.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0C3HCD34R{{</world>}}
