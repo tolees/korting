@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Achterwaarts verlichte 35-mm-full-size CMOS sensor met 24,2 MP.
-- Gevoeligheidsbereik tot ISO 51200 (uitbreidbaar tot ISO 50 - 204800 voor fotos).
 - Snelle serieopnames met maximaal 10 frames per seconde en AF/AE-tracking.
+- Gevoeligheidsbereik tot ISO 51200 (uitbreidbaar tot ISO 50 - 204800 voor fotos).
 - 4K HDR-filmopnamefunctie
 - Snelle hybride AF met 693 AF-punten voor fasedetectie en 425 AF-punten voor contrastdetectie.
+- Achterwaarts verlichte 35-mm-full-size CMOS sensor met 24,2 MP.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07B4R8QGM{{</world>}}

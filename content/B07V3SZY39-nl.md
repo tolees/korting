@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- De 3,5 mm-audio-aansluiting ondersteunt in-game audio en USB-chat
-- Pas het volume tijdens het gamen aan met het D-pad en de functieknop
 - Kleurrijk lichtontwerp met leds en personaliseerbare kleuren en verlichtingsmodi
+- Pas het volume tijdens het gamen aan met het D-pad en de functieknop
+- De 3,5 mm-audio-aansluiting ondersteunt in-game audio en USB-chat
 - Pas je gameplay aan met de dubbel programmeerbare knoppen aan de achterkant in paddle-stijl
 
 [🛒 Buy it!!]({{< param buyurl >}})

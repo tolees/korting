@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Richt op de speciale verpletterplekken en ploeg door de obstakels om de felbegeerde trofee te onthullen.
-- Vlieg door barrières met Rhinomite en voorkom dat je wordt verpletterd door een enorme band in de Rhinomite Race-uitdaging speelset
 - Laad verbrijzelde autos en extra speelgoedautos in de band voor nog meer schade als deze openbreekt. Twee verpletterde autos zijn inbegrepen; extra autos worden afzonderlijk verkocht.
 - Er hangt een bandenval, klaar om Rhinomite te verpletteren!
 - Set kan worden verbonden met andere Monstertrucks Arena Smashers sets voor uitgebreide uitdagingen en verhaallijnen. (Extra sets apart verkrijgbaar.)
+- Vlieg door barrières met Rhinomite en voorkom dat je wordt verpletterd door een enorme band in de Rhinomite Race-uitdaging speelset
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CB6H9VPY{{</world>}}
