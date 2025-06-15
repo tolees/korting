@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 5 jaar beperkte garantie
-- USB 3.1 maar ondersteunt ook USB 3.0 en 2.0
 - 5-voudige bescherming: water, extreme temperatuur, röntgenstraling, magnetisme en schok bestendig
+- USB 3.1 maar ondersteunt ook USB 3.0 en 2.0
+- 5 jaar beperkte garantie
 - Supersnelle data transfers tot 400MB/s, varieert per capaciteit
 
 [🛒 Buy it now!!]({{< param buyurl >}})

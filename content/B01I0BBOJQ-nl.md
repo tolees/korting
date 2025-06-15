@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Lichtgewicht
 - Goede grip
 - Flexibel
-- Lichtgewicht
 - Gemakkelijk te monteren
 - Extra duurzame ingrediënten
 

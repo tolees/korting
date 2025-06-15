@@ -30,8 +30,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Inhoud: WLAN-adapter, afneembare 4dBi-omnidirectionele antenne, software-cd, snelle installatiehandleiding
 - Ondersteunt Windows 2000, XP, Vista en 7
-- Eenvoudige draadloze beveiligingscodering door op de QSS-knop te drukken
 - Een uitstekende N-snelheid van maximaal 150 Mbps levert je een nieuwe ervaring voor videostreaming en internettelefonie
+- Eenvoudige draadloze beveiligingscodering door op de QSS-knop te drukken
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B002SZEOLG{{</world>}}

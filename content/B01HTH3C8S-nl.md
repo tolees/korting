@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - De Anker Plus: sluit je aan bij de meer dan 50 miljoen tevreden klanten. Laad op met anker.
-- Veelzijdig geluid: deze luidspreker biedt je de afspeelopties bluetoothsignaal, FM-radio, AUX-ingang en micro SD-kaart - voor meer flexibiliteit.
 - Compact en krachtig: de handige bluetooth-luidspreker heeft een helder geluid en robuuste bas met 5 W audiodrivers en passieve subwoofer.
+- Veelzijdig geluid: deze luidspreker biedt je de afspeelopties bluetoothsignaal, FM-radio, AUX-ingang en micro SD-kaart - voor meer flexibiliteit.
 - Enorme batterijduur: de ankeraccutechnologie maakt 15 uur ononderbroken speeltijd, meer dan twee keer zo lang mogelijk als vergelijkbare producten
 - Wat je krijgt: een Anker Soundcore mini, een micro-USB-oplaadkabel, een handleiding (mogelijk niet beschikbaar in het Nederlands).
 
