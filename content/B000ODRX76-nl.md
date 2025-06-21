@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Ideale metgezel van voorgerecht tot dessert: 6 x tafellepel, 6 x tafelblad, 6 x tafelmes, 6 x koffielepels, 6 x taartvork
-- Veelzijdig tafelbestek met een elegant, rechtlijnig design voor maximaal 6 personen, alleskunner voor dagelijks gebruik of voor het feestdagen
 - 1 x Villeroy & Boch Victor tafelbestek, gewicht: 1,6 kg (art; nr. 12-6350-9057)
 - Hoogwaardige kwaliteit: roestvrij, vaatwasmachinebestendig en gepolijst roestvrij staal, smaakneutraal voor dagelijks gebruik
 - Ligt ideaal in de hand, kan met verschillende collecties van Villeroy & Boch worden gecombineerd
+- Ideale metgezel van voorgerecht tot dessert: 6 x tafellepel, 6 x tafelblad, 6 x tafelmes, 6 x koffielepels, 6 x taartvork
+- Veelzijdig tafelbestek met een elegant, rechtlijnig design voor maximaal 6 personen, alleskunner voor dagelijks gebruik of voor het feestdagen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B000ODRX76{{</world>}}

@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Lees/schrijf snelheden tot 180/130MB/s met UHS-1 interface, snelheid varieert per capaciteit
-- 6-voudige bescherming tegen: water, extreme temperatuur, röntgenstraling, magneet, schok en slijtage
-- Inclusief adapter voor gebruik in cameras, laptops en desktopcomputers
-- 10 jaar beperkte garantie
 - Geschikt voor Android-smartphones, tablets, actiecameras, drones, gameconsoles en meer.
+- Inclusief adapter voor gebruik in cameras, laptops en desktopcomputers
+- 6-voudige bescherming tegen: water, extreme temperatuur, röntgenstraling, magneet, schok en slijtage
+- 10 jaar beperkte garantie
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BYPCY6JT{{</world>}}

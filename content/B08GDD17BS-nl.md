@@ -28,14 +28,14 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Spraakbesturing - Compatibel met Alexa en Google Assistant om de slimme stekker eenvoudig te bedienen door spraak te gebruiken.
-- Verpakking van 2
-- Uitmodus: schakel uw apparaten met geprogrammeerde tijdsintervallen in en uit om de aanwezigheid in huis te simuleren.
-- Let op: geen Europese aardingsstekker, alleen voor een Type-C stopcontact (of stopcontacten).
-- Maximale belasting: 2300 W, 10 A; strikte kwaliteitscontrole door het laboratorium van tp-link en certificering door de internationale autoriteit.
 - Amazon Frustration-Free Setup (FFS) - De installatie is sneller dan ooit met Alexa. Gebruik uw Echo-apparaat om de aansluiting via spraakopdracht in te stellen
+- Verpakking van 2
 - Toegang op afstand — Bedien apparaten die zijn aangesloten op de slimme stekker overal waar internet is met behulp van de Tapo-app op uw smartphone.
 - Geen hub nodig - Maakt verbinding met uw bestaande wifi-router.
+- Let op: geen Europese aardingsstekker, alleen voor een Type-C stopcontact (of stopcontacten).
+- Uitmodus: schakel uw apparaten met geprogrammeerde tijdsintervallen in en uit om de aanwezigheid in huis te simuleren.
+- Maximale belasting: 2300 W, 10 A; strikte kwaliteitscontrole door het laboratorium van tp-link en certificering door de internationale autoriteit.
+- Spraakbesturing - Compatibel met Alexa en Google Assistant om de slimme stekker eenvoudig te bedienen door spraak te gebruiken.
 - Planning - programmeer de slimme stekker om automatisch stroom te leveren op basis van uw behoeften, hoe u de lichten in de schemering instelt en ze bij zonsopgang uitschakelt.
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Authentieke versarkersimulatie, vervorming en speciale effecten
 - Met Berhinger RSM (Real Sound Modeling) technologie
+- Authentieke versarkersimulatie, vervorming en speciale effecten
 - 71 algoritmen, incl. echte studio-compatibele stereo- en 3D-effecten
 - 24-bits A/D en D/A converter
 - 3D multi-effectprocessor

@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Twee jaar garantie op fabrieksfouten
 - Wifi
+- Twee jaar garantie op fabrieksfouten
 - TP-Link
 
 [🛒 Buy it!!]({{< param buyurl >}})

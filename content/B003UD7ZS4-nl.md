@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Warmte-geïsoleerde metalen behuizing
-- Variabele stoomhoeveelheid tot 40 g/min
-- 2 afneembare, aluminium grillplaten met anti-aanbaklaag
 - Regelbare thermostaat met controlelampje
+- 2 afneembare, aluminium grillplaten met anti-aanbaklaag
+- Warmte-geïsoleerde metalen behuizing
 - Vermogen: 2.000 watt
+- Variabele stoomhoeveelheid tot 40 g/min
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B003UD7ZS4{{</world>}}
