@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Plastic behuizing, desktop of wandmontage
 - Plug-and-Play, geen configuratie nodig
 - Groene ethernet-technologie bespaart tot 70% energie
-- Plastic behuizing, desktop of wandmontage
 - IEEE 802.3x gegevensstroombeheer zorgt voor een betrouwbare gegevensoverdracht
 - 5 10/100Mbps Auto-Negotiation RJ45-poorten, ondersteunt Auto MDI/MDIX
 

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- USB-C PD 3.0-gecertificeerd
+- Ideaal voor op reis dankzij compacte vormgeving
+- Laad je iPhone 12 van 0-50% op in slechts 25 minuten* en je iPad van 0-50% in 40 minuten**.
 - Geschikt voor Apple, Samsung, Google en andere compatibele smartphones en tablets
 - Twee USB-C-poorten
-- Ideaal voor op reis dankzij compacte vormgeving
-- USB-C PD 3.0-gecertificeerd
-- Laad je iPhone 12 van 0-50% op in slechts 25 minuten* en je iPad van 0-50% in 40 minuten**.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B096W5RJXJ{{</world>}}

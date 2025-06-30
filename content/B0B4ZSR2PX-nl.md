@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 【DUAL BAND AC DRAADLOZE ROUTER】Dualband-netwerk met draadloze snelheid 400 Mbps (2,4G) +867 Mbps (5G), compatibel met tethering. Een zeer stabiele en krachtige IPQ4018 @717MHz CPU.
-- 【NETWERKOPSLAG】Onze netwerkopslagfunctie ondersteunt SAMBA- en WebDAV-protocollen. Door een externe USB-harde schijf op de router aan te sluiten, kunt u een privénetwerkopslag creëren om uw documenten op te slaan en te delen.
-- 【OPEN SOURCE EN PROGRAMMEERBAAR】Slate Plus werkt op het nieuwste OpenWRT 21.02 besturingssysteem en vermindert de signaalinterferentie aanzienlijk. U kunt de router aanpassen en toepassingen installeren op basis van uw voorkeuren.
 - 【KAN OP GROTE SCHAAL WORDEN GEBRUIKT】Het maakt niet uit of u zich in een hotel, café, luchthaven, restaurant, camper of op andere plaatsen bevindt, u kunt de router verbinden met de openbare wifi-hotspot en uw aangesloten apparaten beveiligen. Het is klein en licht, 118 x 84 x 33 mm (L*B*H)/429 g, wat erg handig is om mee te nemen tijdens het werk of op reis.
+- 【DUAL BAND AC DRAADLOZE ROUTER】Dualband-netwerk met draadloze snelheid 400 Mbps (2,4G) +867 Mbps (5G), compatibel met tethering. Een zeer stabiele en krachtige IPQ4018 @717MHz CPU.
+- 【OPEN SOURCE EN PROGRAMMEERBAAR】Slate Plus werkt op het nieuwste OpenWRT 21.02 besturingssysteem en vermindert de signaalinterferentie aanzienlijk. U kunt de router aanpassen en toepassingen installeren op basis van uw voorkeuren.
 - 【VPN-CLIENT & SERVER】OpenVPN en WireGuard zijn vooraf geïnstalleerd, compatibel met meer dan 30 VPN-serviceproviders. Max. VPN-snelheid van 28 Mbps (OpenVPN); 190 Mbps (WireGuard)
+- 【NETWERKOPSLAG】Onze netwerkopslagfunctie ondersteunt SAMBA- en WebDAV-protocollen. Door een externe USB-harde schijf op de router aan te sluiten, kunt u een privénetwerkopslag creëren om uw documenten op te slaan en te delen.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0B4ZSR2PX{{</world>}}

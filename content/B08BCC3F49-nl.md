@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Schoenen van het merk Columbia
-- Gemaakt van duurzame materialen
-- Duurzame design zorgt voor lang gebruik
 - Comfortabel en licht design
+- Duurzame design zorgt voor lang gebruik
+- Gemaakt van duurzame materialen
+- Schoenen van het merk Columbia
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08BCC3F49{{</world>}}

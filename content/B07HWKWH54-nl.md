@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Flexibel in gebruik - ondersteunt passieve PoE om tegelijkertijd stroom te leveren en gegevens te verzenden
-- Captive Portal - Biedt een webpagina voor extra beveiliging en marketing
-- AC1200 dual-band wifi - 867 Mbps op de 5 GHz-band en 300 Mbps op de 2,4 GHz-band
-- MU-MIMO-technologie - verzendt gegevens tegelijkertijd naar meerdere apparaten voor 2x snellere prestaties
-- Betere dekking - vier vaste antennes met Beamforming-technologie bundelen en breiden wifi-signalen uit
 - Meerdere modi - Ondersteunt access point, range extender, multi-SSID en client-modi om aan alle netwerkvereisten te voldoen
+- Captive Portal - Biedt een webpagina voor extra beveiliging en marketing
+- Betere dekking - vier vaste antennes met Beamforming-technologie bundelen en breiden wifi-signalen uit
+- MU-MIMO-technologie - verzendt gegevens tegelijkertijd naar meerdere apparaten voor 2x snellere prestaties
+- AC1200 dual-band wifi - 867 Mbps op de 5 GHz-band en 300 Mbps op de 2,4 GHz-band
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07HWKWH54{{</world>}}
