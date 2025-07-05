@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Eén schakelaar voor meerdere modi — perfect voor gebruik thuis, in een hotelkamer of onderweg. Gebruikstemperatuur 0°C ~ 40°C
 - Veelzijdig USB-gebruik — geschikt voor gegevensuitwisseling of een compatibele 3G/4G-modem
+- Eén schakelaar voor meerdere modi — perfect voor gebruik thuis, in een hotelkamer of onderweg. Gebruikstemperatuur 0°C ~ 40°C
 - Dual-band WLAN-AC-standaard — garandeert snelle verbindingen voor soepele HD-videostreaming op alle apparaten
 - Het pakket bevat AC750 draadloze router voor op reis, TL-WR902AC, voedingsadapter, RJ45 Ethernet-kabel, beknopte installatiehandleiding, USB-kabel, Wi-Fi-informatiekaart
 - Compact ontwerp, ideaal voor op reis; WiFi via LAN-kabel, 3G/4G USB-surfstick of WISP

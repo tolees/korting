@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Hi-Res Music: Hear every detail of your favorite songs thanks to soundcore Q30’s 40mm drivers. The highly-flexible silk diaphragms reproduce thumping bass and crisp treble that extends up to 40kHz for improved clarity.
-- Pressure-Free Comfort: soundcore Q30 active noise cancelling headphones have ultra-soft protein leather earcups with memory foam padding to fit snugly over your ears. The lightweight build also ensures they’re comfortable for long listening sessions.
-- Advanced Noise Cancellation Technology: Maintain your focus with soundcore Q30’s hybrid active noise cancellation. Dual noise-detecting microphones pick up and filter out up to 95% of low-frequency ambient sound to ensure nothing distracts you from your music.
 - 50-Hour Playtime: soundcore Q30 active noise cancelling headphones play up to 50 hours of music in noise cancelling mode. Standard mode extends the playtime to 70 hours, while a short 5-minute charge gives you 4 hours of listening.
+- Pressure-Free Comfort: soundcore Q30 active noise cancelling headphones have ultra-soft protein leather earcups with memory foam padding to fit snugly over your ears. The lightweight build also ensures they’re comfortable for long listening sessions.
 - Ultimate Noise Cancellation Experience: Customize soundcore Q30’s noise cancellation with 3 modes—Transport minimizes airplane engine noise, Outdoor reduces traffic and wind, and Indoor dampens the sound of busy offices with people talking in the background. Note: ANC is not compatible with an AUX Cable connection.
+- Advanced Noise Cancellation Technology: Maintain your focus with soundcore Q30’s hybrid active noise cancellation. Dual noise-detecting microphones pick up and filter out up to 95% of low-frequency ambient sound to ensure nothing distracts you from your music.
+- Hi-Res Music: Hear every detail of your favorite songs thanks to soundcore Q30’s 40mm drivers. The highly-flexible silk diaphragms reproduce thumping bass and crisp treble that extends up to 40kHz for improved clarity.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08Q89DN6V{{</world>}}

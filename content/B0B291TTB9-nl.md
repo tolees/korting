@@ -30,8 +30,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Bovenmateriaal: synthetisch
 - Hakvorm: plateauhak
-- Binnenmateriaal: 80 procent textielweefsel, polyester, 20 procent synthetisch polyurethaan
 - Sluiting: 60 procent IPEVA -40 procent rubber
+- Binnenmateriaal: 80 procent textielweefsel, polyester, 20 procent synthetisch polyurethaan
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0B291TTB9{{</world>}}

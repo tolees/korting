@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Balpen met viscoglide-technologie voor gemakkelijk en vloeibaar schrijven; de rubberen driekantige schacht zorgt voor een veilige schrijfhouding zonder vermoeidheid van de hand; ideaal voor lange tests, tests of claxon
-- Verschillende kleuren in praktisch etui met 10 stuks: zwart (onuitwisbaar volgens ISO 12757-2), rood, blauw, lichtgroen, geel, oranje, paars, roze, lichtblauw, bruin; de Slider Edge wordt CO2-neutraal gemaakt
 - De slijtvaste roestvrijstalen punt garandeert dat de grote inktvoorraad volledig en smeervrij kan worden gebruikt; de Slider Edge wordt CO2-neutraal gemaakt
+- Verschillende kleuren in praktisch etui met 10 stuks: zwart (onuitwisbaar volgens ISO 12757-2), rood, blauw, lichtgroen, geel, oranje, paars, roze, lichtblauw, bruin; de Slider Edge wordt CO2-neutraal gemaakt
 - Ook geschikt voor tekenen en schilderen omdat de speciale pasta zelfs op absorberend papier niet uitstroomt
+- Balpen met viscoglide-technologie voor gemakkelijk en vloeibaar schrijven; de rubberen driekantige schacht zorgt voor een veilige schrijfhouding zonder vermoeidheid van de hand; ideaal voor lange tests, tests of claxon
 - De tekst droogt snel, ook op glad papier en blijft zelfs bij markering met markeerstiften veegvast; geschikt voor universiteit, school of kantoor
 
 [🛒 Buy it now!!]({{< param buyurl >}})

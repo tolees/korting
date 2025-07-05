@@ -30,8 +30,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Geschikt voor: koud weer
 - Laarzen van het merk Columbia
-- Duurzame design zorgt voor lang gebruik
 - Stevig en comfortabel design voor soepele bewegingen
+- Duurzame design zorgt voor lang gebruik
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08BC3ZTB3{{</world>}}

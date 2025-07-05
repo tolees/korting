@@ -30,9 +30,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - 2 temperatuurstanden en een koude stand
 - Met ionic technologie voor sneller drogen en een gladde, glanzende afwerking
-- Ideaal voor middellang tot lang haar
 - De 2-in-1 warme luchtborstel zorgt dubbel zo snel* voor glad geföhnd haar; het ontwerp maakt bovendien een comfortabel drogen van het haar aan de achterkant mogelijk
 - Combinatie van krachtige haardroger en gladmakende paddleborstel
+- Ideaal voor middellang tot lang haar
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B00YCARW5A{{</world>}}
