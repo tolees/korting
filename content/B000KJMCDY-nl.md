@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Referentienummer: 002175.
 - Merk: Apli.
+- Referentienummer: 002175.
 - Categorie – briefpapier
 
 [🛒 Check the deal!!]({{< param buyurl >}})

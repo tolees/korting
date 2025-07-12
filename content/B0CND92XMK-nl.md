@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Type Ketting: Serpentijn
 - Kleur: Zilver
-- Sterling Zilver
 - Stijl: Collier
+- Sterling Zilver
+- Type Ketting: Serpentijn
 - Type Gesp: Gespsluiting
 
 [🛒 Buy it now!!]({{< param buyurl >}})

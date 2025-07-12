@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Optische gamingsensor van 7000 dpi voor nauwkeurige tracking en twee dpi-knoppen om de muisgevoeligheid snel aan te passen
 - Ergonomisch en licht voor comfortabele, snelle bewegingen met klauw- of vingertophandgreep
 - Gevalideerd voor gebruik in veeleisende omstandigheden met een speciale coating voor meer duurzaamheid
+- Optische gamingsensor van 7000 dpi voor nauwkeurige tracking en twee dpi-knoppen om de muisgevoeligheid snel aan te passen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07XS8Q3Q6{{</world>}}

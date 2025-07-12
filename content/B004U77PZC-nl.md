@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Dove Body Love Light Care Bodylotion: lichte verzorging en hydratatie
 - Helpt de barrière van de huid te versterken om zo vochtverlies te voorkomen
 - De lichte bodylotion trekt snel in en geeft tot 48 uur hydratatie
-- Dagelijkse verzorging, voeding en hydratatie voor de normale tot droge huid
 - Deze bodylotion is geformuleerd met een uniek ceramide restoring serum
+- Dove Body Love Light Care Bodylotion: lichte verzorging en hydratatie
+- Dagelijkse verzorging, voeding en hydratatie voor de normale tot droge huid
 - De fles van deze Dove bodylotion is gemaakt van 100% gerecycled plastic**
 
 [🛒 Check the deal!!]({{< param buyurl >}})

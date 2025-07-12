@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Afmetingen: 8,3 cm x 5,5 cm
-- Schuif gewoon de houten plectrums in de cake, geen plastic houders nodig
-- Leuke taart kaars met Bulbasaur, Charmander en Squirtle.
 - Materiaal: Papier & Hout
+- Schuif gewoon de houten plectrums in de cake, geen plastic houders nodig
 - Pokémon, ik moet ze allemaal vangen en een episch verjaardagsfeestje geven!
+- Afmetingen: 8,3 cm x 5,5 cm
+- Leuke taart kaars met Bulbasaur, Charmander en Squirtle.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CRRXZLWH{{</world>}}

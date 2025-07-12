@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Nauwsluitende pasvorm voor een op maat gemaakt gevoel
-- Verborgen trekkoord
-- Contrasterend mesh-inzetstuk aan beide zijden
-- Onderhoudsinstructie: machinewas, geen wasverzachter gebruiken
 - Materiaal: 100% polyester (gerecycled)
+- Onderhoudsinstructie: machinewas, geen wasverzachter gebruiken
+- Contrasterend mesh-inzetstuk aan beide zijden
+- Verborgen trekkoord
+- Nauwsluitende pasvorm voor een op maat gemaakt gevoel
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07W5XZ76D{{</world>}}

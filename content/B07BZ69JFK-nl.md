@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Elk puzzelstukje heeft een unieke pasvorm en vorm
 - Gemaakt van milieu vriendelijk, gerecycleerd karton
 - De gelegde puzzel lijkt een poster
+- Elk puzzelstukje heeft een unieke pasvorm en vorm
 - Jan van haasteren legpuzzel van 1000 puzzelstukjes.
 
 [🛒 Buy it!!]({{< param buyurl >}})

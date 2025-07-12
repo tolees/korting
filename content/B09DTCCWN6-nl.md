@@ -30,9 +30,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - RIJKE INTERFACE: Er is HD Multimedia Interface + OTG + USB-voedingspoort aan de voorkant, WIFI-antennepoort, gemakkelijk te gebruiken.
 - HANDIG OM TE VERBINDEN: Er is een camerakabelopening aan de zijkant voor eenvoudige aansluiting op de camera.
-- PREMIUM MATERIAAL: Deze transparante beschermende schaal heeft een hoogwaardige aluminiumlegering aangenomen, die zeer duurzaam is.
-- UITSTEKEND VAKMANSCHAP: De snijtechnologie van deze schaal past bij de digitale hotspot voor RPi en voor MMDVM-walkietalkie.
 - EENVOUDIG TE INSTALLEREN: Deze transparante digitale beschermhoes is eenvoudig te installeren, je kunt hem eenvoudig gebruiken zonder instructie.
+- UITSTEKEND VAKMANSCHAP: De snijtechnologie van deze schaal past bij de digitale hotspot voor RPi en voor MMDVM-walkietalkie.
+- PREMIUM MATERIAAL: Deze transparante beschermende schaal heeft een hoogwaardige aluminiumlegering aangenomen, die zeer duurzaam is.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09DTCCWN6{{</world>}}

@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Modelnummer: A4858-0001
 - Een super comfortabele bootcut-jeans, voordelig gesneden
 - Met innovatief inzetstuk voor een platte buik. Met Levis Sculpt weefsel met Hypersoft voor verbeterd comfort en ondersteunende stretchkwaliteit – deze zachtste jeans ooit
-- Modelnummer: A4858-0001
 - Het vormt je rondingen, verlengt de benen en benadrukt je figuur
 
 [🛒 Check the deal!!]({{< param buyurl >}})

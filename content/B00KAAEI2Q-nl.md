@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Inhoud: puzzel van 2000 stukjes
 - Formaat: ca. 98 x 75 cm
+- Inhoud: puzzel van 2000 stukjes
 - Premium puzzel met softclick-technologie
 
 [🛒 Buy it now!!]({{< param buyurl >}})

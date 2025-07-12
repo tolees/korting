@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kledingsstijl: informeel
 - Geschikt voor: alle seizoenen
+- Kledingsstijl: informeel
 - Lichte & comfortabele schoenen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

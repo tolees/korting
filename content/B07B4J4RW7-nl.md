@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 🇦🇹 KWALITEITSPRODUCT GEMAAKT IN EUROPA: Oostenrijk als kwaliteitslocatie ligt ons na aan het hart - onze producten worden uitsluitend volgens onze eigen receptuur geproduceerd
 - 🎁 PERFECT CADEAU-IDEE: Het perfecte cadeau voor vrouwen en mannen - als verjaardagscadeau, cadeau bij een verhuizing of als gastvrouwcadeau.
-- 🌱 NATUURLIJK GEURWONDER: Hoogwaardige geuren & natuurlijke essentiële oliën uit Duitsland - volledig zonder microplastics en natuurlijk veganistisch
-- 😍 INHOUD - ONZE MEEST FAVORIETE GEUREN: 2x limoen-munt voor totale verfrissing, 2x spar voor totale ontspanning, 2x mango voor volledige activering, 2x sinaasappel voor volledige energie, 2x roos voor goede stemming, 2x rozemarijn-munt voor totale losheid, 2x lavendel voor volledige ontspanning, 2x eucalyptus voor volledige frisheid
 - 🚿 AROMATHERAPY VOOR DE DOUCHE: Geurbeleving & wellnessgevoel tijdens het douchen - de perfecte time-out na een stressvolle dag - douchetabs zorgen voor ontspanning voor lichaam en geest
+- 😍 INHOUD - ONZE MEEST FAVORIETE GEUREN: 2x limoen-munt voor totale verfrissing, 2x spar voor totale ontspanning, 2x mango voor volledige activering, 2x sinaasappel voor volledige energie, 2x roos voor goede stemming, 2x rozemarijn-munt voor totale losheid, 2x lavendel voor volledige ontspanning, 2x eucalyptus voor volledige frisheid
+- 🌱 NATUURLIJK GEURWONDER: Hoogwaardige geuren & natuurlijke essentiële oliën uit Duitsland - volledig zonder microplastics en natuurlijk veganistisch
+- 🇦🇹 KWALITEITSPRODUCT GEMAAKT IN EUROPA: Oostenrijk als kwaliteitslocatie ligt ons na aan het hart - onze producten worden uitsluitend volgens onze eigen receptuur geproduceerd
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07B4J4RW7{{</world>}}

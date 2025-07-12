@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Eenvoudige Installatie: Deze TV-muurbeugel wordt geleverd met alle benodigde bevestigingsmaterialen, een gedetailleerde installatiegids, een waterpas en 3 kabelbinders. Installatie is snel en eenvoudig, meestal binnen 20 minuten.
 - Ultra Sterk en Duurzaam: Gemaakt van hoogwaardig koudgewalst staal met een duurzame zwarte poedercoating, deze zware TV-muurbeugel kan LED, LCD, OLED TVs tot 30 kg veilig dragen.
+- Eenvoudige Installatie: Deze TV-muurbeugel wordt geleverd met alle benodigde bevestigingsmaterialen, een gedetailleerde installatiegids, een waterpas en 3 kabelbinders. Installatie is snel en eenvoudig, meestal binnen 20 minuten.
 - Geoptimaliseerde Kijkervaring: Deze TV-muurbeugel beschikt over een kantelbereik van 10° naar voren, wat maximale flexibiliteit biedt voor optimale kijkhoeken, vermindert verblinding en nek- en oogvermoeidheid.
 - Ruimtebesparend Ontwerp: Onze low-profile TV-muurbeugel schuift slechts 30 mm van de muur, waardoor hij ruimte bespaart in uw woonkamer en tegelijkertijd een slanke, strakke uitstraling geeft.
 - Universele Compatibiliteit: Deze TV-muurbeugel past op de meeste 17" tot 45" TVs met een capaciteit tot 30 kg. Compatibele VESA-plaat past op VESA-montagegaten met een afstand van 50x50, 75x75, 100x100, 100x200, 200x100 en 200x200mm.

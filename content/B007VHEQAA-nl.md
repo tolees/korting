@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Geavanceerde rubberen handgreep voor perfect comfort
 - Het ontwerp met intrekbare punt is met slechts één klik klaar om te schrijven
-- De ultrazachte inkt laat je ideeën vloeien en maakt vloeibaar schrijven mogelijk
 - De middelste punt met 1,0 mm verdeelt de inkt perfect
+- De ultrazachte inkt laat je ideeën vloeien en maakt vloeibaar schrijven mogelijk
 - Bevat 12 zwarte balpennen met intrekbare punt
+- Geavanceerde rubberen handgreep voor perfect comfort
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B007VHEQAA{{</world>}}

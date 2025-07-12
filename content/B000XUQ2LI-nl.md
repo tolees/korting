@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Het opbergdoosje beschermt uw speakers in uw reistas of aktetas
-- Eén enkele USB-aansluiting levert direct stroom en digitale audio, zonder externe stroomtoevoer
 - U kunt het geluid gemakkelijk op uw wensen afstemmen met de handige volumeregelaar en aan/uit-knop
+- Eén enkele USB-aansluiting levert direct stroom en digitale audio, zonder externe stroomtoevoer
+- Het opbergdoosje beschermt uw speakers in uw reistas of aktetas
 - Geniet van uw muziek, films en videogesprekken in helder, digitaal stereogeluid
 
 [🛒 Buy it now!!]({{< param buyurl >}})

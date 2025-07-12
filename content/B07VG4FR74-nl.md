@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Lichtgewicht
 - Duurzaamheid
+- Lichtgewicht
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07VG4FR74{{</world>}}

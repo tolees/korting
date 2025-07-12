@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Columbia Powder Lite mantel
 - Maat: L
+- Columbia Powder Lite mantel
 - Kleur: olijfgroen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

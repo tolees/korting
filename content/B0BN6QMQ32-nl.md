@@ -30,8 +30,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Bovenmateriaal: synthetisch
 - Sluiting: veters
-- Binnenmateriaal: synthetisch
 - Hakvorm: plat
+- Binnenmateriaal: synthetisch
 - Zool: rubber
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Merk: Parafarm
 - Geselecteerde ingrediënten
 - L Oréal Eliminve Shampoo 690 ml. DREAM LONG RECONSTRUUUU
-- Merk: Parafarm
 - Hoogwaardige kwaliteit
 
 [🛒 Check the deal!!]({{< param buyurl >}})

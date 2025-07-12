@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Geavanceerde ruisonderdrukkingstechnologie: blijf gefocust met de hybride actieve ruisonderdrukking van de Q30. Twee microfoons detecteren ruis en filteren tot wel 95% van het omgevingsgeluid met lage frequenties weg, zodat niets u afleidt van uw muziek.
 - Afspeeltijd van 40 uur: de Q30-hoofdtelefoon met actieve ruisonderdrukking speelt tot wel 40 uur muziek af in de ruisonderdrukkingsmodus. De standaardmodus verlengt de afspeeltijd tot 60 uur. Bovendien beschikt u na 5 minuten opladen al over 4 uur aan lijstertijd.
-- De ultieme ruisonderdrukkingservaring: pas de ruisvermindering van uw Q30 aan met 3 modi: Transport vermindert ruis van vliegtuigmotoren, Buiten verminder ruis van verkeer en wind en Binnen gaat ruis tegen van drukke kantoren met pratende mensen.
-- Verbeterde gesprekshelderheid: de Q30 combineert 2 microfoons met een algoritme voor ruisvermindering om uw stem nauwkeurig te ontvangen en te versterken, terwijl andere geluiden worden onderdrukt. Dit zorgt voor heldere gesprekken.
 - Hi-Res Certified-muziek: hoor elk detail in uw favoriete muziek met de 40mm-drivers van de Q30. De zeer flexibele zijden membranen reproduceren dreunende bas en heldere hoge tonen tot wel 40 kHz voor verbeterde helderheid.
+- Verbeterde gesprekshelderheid: de Q30 combineert 2 microfoons met een algoritme voor ruisvermindering om uw stem nauwkeurig te ontvangen en te versterken, terwijl andere geluiden worden onderdrukt. Dit zorgt voor heldere gesprekken.
+- De ultieme ruisonderdrukkingservaring: pas de ruisvermindering van uw Q30 aan met 3 modi: Transport vermindert ruis van vliegtuigmotoren, Buiten verminder ruis van verkeer en wind en Binnen gaat ruis tegen van drukke kantoren met pratende mensen.
+- Geavanceerde ruisonderdrukkingstechnologie: blijf gefocust met de hybride actieve ruisonderdrukking van de Q30. Twee microfoons detecteren ruis en filteren tot wel 95% van het omgevingsgeluid met lage frequenties weg, zodat niets u afleidt van uw muziek.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08HMWZBXC{{</world>}}

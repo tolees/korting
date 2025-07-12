@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- MAC-adrestabel: 8000 entries
 - Stapelbaar
 - Aantal basis-switching RJ-45 Ethernet-poorten: 16
-- MAC-adrestabel: 8000 entries
 - Unmanaged
 
 [🛒 Buy it now!!]({{< param buyurl >}})

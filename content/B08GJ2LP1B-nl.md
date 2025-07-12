@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Elegant
 - tennisschoenen
+- Elegant
 - Duurzame stof
 
 [🛒 Buy it now!!]({{< param buyurl >}})

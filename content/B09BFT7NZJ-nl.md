@@ -28,16 +28,16 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Compact design - klein formaat zodat aangrenzende stopcontacten niet worden geblokkeerd
-- Eenvoudige installatie en eenvoudig in gebruik – geen hub vereist, stel het stopcontact snel en eenvoudig in met de gratis app
-- Schema – stel een schema in om apparaten automatisch te beheren
-- Afwezigheidsmodus – schakel apparaten automatisch op verschillende tijdstippen in en uit om de indruk te wekken dat er iemand thuis is
-- Timer - maak lijsten met een afteltimer voor aangesloten elektronica
-- Geen aparte hub of accessoires vereist
-- Afmetingen (B x D x H) 51 x 72,0 x40 mm
 - Spraakbesturing – beheer jouw smart-stopcontact met spraakopdrachten via Amazon Alexa of de Google Assistant
-- Bediening op afstand – zet verbonden apparaten overal aan/uit via de Tapo app
+- Afwezigheidsmodus – schakel apparaten automatisch op verschillende tijdstippen in en uit om de indruk te wekken dat er iemand thuis is
+- Compact design - klein formaat zodat aangrenzende stopcontacten niet worden geblokkeerd
 - Compatibel met iOS 9.0 of hoger en Android 4.3 of hoger
+- Bediening op afstand – zet verbonden apparaten overal aan/uit via de Tapo app
+- Timer - maak lijsten met een afteltimer voor aangesloten elektronica
+- Schema – stel een schema in om apparaten automatisch te beheren
+- Geen aparte hub of accessoires vereist
+- Eenvoudige installatie en eenvoudig in gebruik – geen hub vereist, stel het stopcontact snel en eenvoudig in met de gratis app
+- Afmetingen (B x D x H) 51 x 72,0 x40 mm
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09BFT7NZJ{{</world>}}

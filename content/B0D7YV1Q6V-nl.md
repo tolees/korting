@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Ondersteunt tv-modus en switch dockingstation: de oplader ondersteunt de verbinding met Switch om in tv- en draagbare modus te spelen. Gebruik de stroomvoorziening in de tv-modus om tijdens het opladen verder te spelen, zodat je altijd en overal van je thuisgameconsoles kunt genieten
-- Veilig en betrouwbaar: gemaakt van hoogwaardig ABS-materiaal, verzwaarde basis voor stabiliteit; verschillende intelligente functies zijn inbegrepen ter bescherming tegen overbelasting, overstroom, kortsluiting, temperatuur en automatisch herstel. Het heeft tot producttests doorstaan en heeft de veiligheidscertificering CE / FCC / RoHS behaald. Het intelligente circuit kan de stroom automatisch uitschakelen voor meer veiligheid
-- Compatibel met Switch OLED Switch Lite: Met de adapter kun je Switch OLED Switch Lite, dockingstation, Pro-controller en andere Type-C-apparaten opladen
 - Perfecte vervanging voor de originele 39 W Switch-oplader, de oplader maakt gebruik van snellaadtechnologie en is zelfs 20% sneller dan de originele 15 W oplader in 60 minuten
+- Compatibel met Switch OLED Switch Lite: Met de adapter kun je Switch OLED Switch Lite, dockingstation, Pro-controller en andere Type-C-apparaten opladen
+- Veilig en betrouwbaar: gemaakt van hoogwaardig ABS-materiaal, verzwaarde basis voor stabiliteit; verschillende intelligente functies zijn inbegrepen ter bescherming tegen overbelasting, overstroom, kortsluiting, temperatuur en automatisch herstel. Het heeft tot producttests doorstaan en heeft de veiligheidscertificering CE / FCC / RoHS behaald. Het intelligente circuit kan de stroom automatisch uitschakelen voor meer veiligheid
 - Draagbaar en licht, zodat je altijd en overal van een complete console-ervaring kunt genieten. Als je kwaliteitsproblemen hebt met het product dat je ontvangt, kun je altijd contact met ons opnemen via e-mail
 
 [🛒 Buy it now!!]({{< param buyurl >}})

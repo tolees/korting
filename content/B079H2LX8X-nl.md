@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Zwart
-- Soort antenne: Intern TS-9
-- Draagbaar Router voor mobiele netwerken
 - 4G standaard: LTE
-- Ethernet LAN Wifi
+- Soort antenne: Intern TS-9
+- Zwart
+- Draagbaar Router voor mobiele netwerken
 - 3G standaarden: WCDMA
+- Ethernet LAN Wifi
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B079H2LX8X{{</world>}}

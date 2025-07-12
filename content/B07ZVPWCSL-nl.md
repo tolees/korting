@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Dit artikel kan gedragen worden in combinatie met verschillende broeken
 - Het artikel kan gedragen worden tijdens verschillende seizoenen
 - Het artikel heeft een informele uitstraling
+- Dit artikel kan gedragen worden in combinatie met verschillende broeken
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07ZVPWCSL{{</world>}}

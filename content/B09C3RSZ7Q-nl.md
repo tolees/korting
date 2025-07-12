@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Laat in een enkele lamp verschillende kleuren verlichting op hetzelfde moment in elkaar overlopen voor verlichting met een uniek effect
 - Voeg tot wel 10 slimme lampen toe en bedien ze met één druk op knop in de Hue app
 - De gradient lightstrip is uitermate flexibel en kan perfect aan je ruimte aangepast worden: gebruik een verlengstuk tot 10 meter voor grotere oppervlakken of snijd de strip op maat van kleinere ruimtes
-- Dynamische lichtscenes: maak speciale momenten echt onvergetelijk met flexibele verlichting
-- Laat in een enkele lamp verschillende kleuren verlichting op hetzelfde moment in elkaar overlopen voor verlichting met een uniek effect
 - Koppel met Amazon Alexa of de Google Assistent om de lamp te bedienen met eenvoudige spraakopdrachten
+- Dynamische lichtscenes: maak speciale momenten echt onvergetelijk met flexibele verlichting
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09C3RSZ7Q{{</world>}}

@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Deze kindertandpasta met fluoride beschermt het wisselgebit tegen gaatjes
-- De tandpasta voor kinderen heeft weinig schuim en een milde muntsmaak
-- Prodent Pokémon tandpasta helpt nieuwe tanden te beschermen
 - Bevat 0% SLS schuimmiddel voor de milde verzorging van het kindergebit
+- De tandpasta voor kinderen heeft weinig schuim en een milde muntsmaak
+- Deze kindertandpasta met fluoride beschermt het wisselgebit tegen gaatjes
+- Prodent Pokémon tandpasta helpt nieuwe tanden te beschermen
 - Prodent tandpasta met 97% ingrediënten van natuurlijke oorsprong
 
 [🛒 Buy it!!]({{< param buyurl >}})

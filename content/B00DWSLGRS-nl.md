@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- The patented Geox systems guarantee breathability of the outsole, ensuring the foot enjoys a sensation of wellbeing
-- Easy to wear, for unparalleled comfort
 - Lightweight footwear for greater freedom of movement
 - Footwear that offers optimal cushioning and protection against impact and stress
 - Antibacterial insole
+- Easy to wear, for unparalleled comfort
+- The patented Geox systems guarantee breathability of the outsole, ensuring the foot enjoys a sensation of wellbeing
 - Removable insole
 
 [🛒 Check the deal!!]({{< param buyurl >}})

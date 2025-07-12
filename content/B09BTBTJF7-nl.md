@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - En het opladen van bepaalde iPhone‑ en iPad-modellen gaat er zelfs extra snel mee.
-- Inhoud van de verpakking: Apple usb-c-naar-Lightning-kabel
 - Je kunt deze kabel ook gebruiken met je Apple USB‑C-lichtnetadapter van 18 W, 20 W, 29 W, 30 W, 61 W, 87 W of 96 W om je iOS-device op te laden
+- Inhoud van de verpakking: Apple usb-c-naar-Lightning-kabel
 - Sluit je iPhone, iPad of iPod met Lightning-connector aan op de USB‑C-poort of Thunderbolt 3-poort (USB‑C) van je Mac om je device op te laden en te synchroniseren, of op je iPad met USB-C om op te laden.
 
 [🛒 Buy it!!]({{< param buyurl >}})

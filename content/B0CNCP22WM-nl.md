@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Spraakbesturing: de HITRENDS buitendimmer kan spraakopdrachten via Alexa of Google Assistant gebruiken voor handsfree bediening. Spraakbesturing van de 1% - 100% helderheid van de lichten is super comfortabel, vooral voor het gezin met kleine kinderen en ouderen.
-- ➤Technische gegevens: bedrijfsspanning: AC 220-240 V 50 Hz; maximaal vermogen: 400 W; waterdicht: IP55; dimbereik: 1%-100%; afstand van de afstandsbediening: 30M (100ft); werkapp: Smart Life/Tuya.
-- ➤ Groepering en tijdschema: je kunt meerdere dimmer-apparaten groeperen om ze samen met één commando via de Smart Life-app te bedienen. Ontwerp een tijdschema voor het automatisch in- en uitschakelen volgens je dagelijkse routine. Bovendien kun je de willekeurige modus instellen als je op vakantie bent. Zonder je zorgen te maken over het lege huis.
-- ➤Waterdicht en multicompatibel: het duurzame, waterdichte IP55-materiaal en de siliconen afdekking garanderen de veiligheid bij slechte weersomstandigheden. Deze outdoor dimmer is compatibel met een groot aantal gloeilampen om je terrasdecoratie te verlichten. Maximaal vermogen 150 W LED, 150 W CFL, 400 W INC.
 - ➤ App-afstandsbediening: de installatie van deze intelligente dimschakelaar is zeer eenvoudig. Gewoon insteken, Smart Life of Tuya-app openen, de apparaten met 2,4 GHz wifi verbinden en de eenvoudige instructies volgen. Dan kun je overal van je Smart Home genieten. Overigens, het gebruik van Bluetooth met wifi zal sneller zijn.
+- ➤Waterdicht en multicompatibel: het duurzame, waterdichte IP55-materiaal en de siliconen afdekking garanderen de veiligheid bij slechte weersomstandigheden. Deze outdoor dimmer is compatibel met een groot aantal gloeilampen om je terrasdecoratie te verlichten. Maximaal vermogen 150 W LED, 150 W CFL, 400 W INC.
+- ➤ Groepering en tijdschema: je kunt meerdere dimmer-apparaten groeperen om ze samen met één commando via de Smart Life-app te bedienen. Ontwerp een tijdschema voor het automatisch in- en uitschakelen volgens je dagelijkse routine. Bovendien kun je de willekeurige modus instellen als je op vakantie bent. Zonder je zorgen te maken over het lege huis.
+- ➤Technische gegevens: bedrijfsspanning: AC 220-240 V 50 Hz; maximaal vermogen: 400 W; waterdicht: IP55; dimbereik: 1%-100%; afstand van de afstandsbediening: 30M (100ft); werkapp: Smart Life/Tuya.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CNCP22WM{{</world>}}
