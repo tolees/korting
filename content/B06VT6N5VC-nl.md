@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Modern ontwerp
 - Hoogwaardige materialen: Zorgt voor duurzaamheid en een lange levensduur
+- Modern ontwerp
 - Elegante vakmanschap: Zorgvuldig ontworpen voor een verfijnde uitstraling
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Tot 140.160 uur opnemen en afspelen in 4K en Full HD (1080p)
 - Tot 100 MB/s lees- en 40 MB/s schrijfsnelheden
+- Tot 140.160 uur opnemen en afspelen in 4K en Full HD (1080p)
 - Betrouwbaarheid gebouwd om lang mee te gaan
 - Specifiek ontworpen voor videobewakingscameras
 

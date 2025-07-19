@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Wifi
 - TP-Link
 - Twee jaar garantie op fabrieksfouten
-- Wifi
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09FDRMZ73{{</world>}}

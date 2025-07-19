@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Krachtige lithium-ionbatterij (trimmer): 120 minuten gebruikstijd, optie voor snel opladen in 5 minuten. Opladen via USB-A (stroomadapter niet meegeleverd).
-- De precisietrimkam biedt 11 lengtestanden tussen 1-3 mm met een precisie van 0,2 mm, zodat u een gelijkmatig trimresultaat kunt bereiken op de exacte lengte die u wilt
 - Zelfslijpende roestvrijstalen mesjes (trimmer): blijven scherp voor langdurige prestaties. Geen olie nodig.
+- Krachtige lithium-ionbatterij (trimmer): 120 minuten gebruikstijd, optie voor snel opladen in 5 minuten. Opladen via USB-A (stroomadapter niet meegeleverd).
 - Unieke OneBlade-technologie: dubbelzijdig mesje scheert en beschermt uw huid terwijl u uw wangen, kin en hals aanpakt
+- De precisietrimkam biedt 11 lengtestanden tussen 1-3 mm met een precisie van 0,2 mm, zodat u een gelijkmatig trimresultaat kunt bereiken op de exacte lengte die u wilt
 - 13 accessoires voor gezicht, hoofd en lichaam: baard trimmen en scheren, ontharen, haar knippen, neus/oren/wenkbrauwen trimmen. 27 lengtestanden (0,2 - 20 mm).
 
 [🛒 Buy it!!]({{< param buyurl >}})

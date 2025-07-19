@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Trek meer dan 30 F.U.N.tastic-kostuums aan, zoals SnailBob en SpongeGar
 - Geniet van de in-game soundtrack met 101 nummers uit de serie, waaronder Sweet Victory
-- Ontgrendel klassieke en nieuwe platformvaardigheden zoals de Fishhook Swing en Karate Kick
-- Ontmoet al je favoriete Bikini Bottom-inwoners uit de serie, ingesproken door hun originele acteurs
 - Reis naar 7 verschillende Wishworlds zoals Wild West Jellyfish Fields en Halloween Rock Bottom
+- Ontmoet al je favoriete Bikini Bottom-inwoners uit de serie, ingesproken door hun originele acteurs
+- Trek meer dan 30 F.U.N.tastic-kostuums aan, zoals SnailBob en SpongeGar
+- Ontgrendel klassieke en nieuwe platformvaardigheden zoals de Fishhook Swing en Karate Kick
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09GL8XRYZ{{</world>}}

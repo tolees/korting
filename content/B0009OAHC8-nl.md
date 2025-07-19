@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Merk: Davidoff
 - Hoeveelheid product: 125 ml
+- Merk: Davidoff
 - Producttype: Eau De Toilette
 
 [🛒 Buy it now!!]({{< param buyurl >}})

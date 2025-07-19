@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Land van herkomst: Nederland
 - Puzzels die meegroeien: 2,4,6,8 puzzels zijn ideaal voor kinderen vanaf 2 jaar
 - Kleur: Multi
-- Land van herkomst: Nederland
 - Pakket gewicht: 0.71 pond
 
 [🛒 Buy it!!]({{< param buyurl >}})

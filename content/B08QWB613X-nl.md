@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Groot Nike-logo print
 - ronde hals
+- Groot Nike-logo print
 - Lichte elastische eigenschappen
 - T-shirt voor opleiding of presentatie
 

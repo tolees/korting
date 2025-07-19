@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Hoge compatibiliteit: Deze set bevat M4, M5, M6 en M8 TV-schroeven en spacers voor het monteren van vrijwel alle tvs of schermen tot 80 inch (203 cm). Compatibel met alle grote tv-merken: Samsung, LG, Sharp, Philips, Sony, Toshiba, TCL, Cello, Hitachi, RCA, JVC, Hisense en meer, zelfs Samsung gebogen tvs.
-- Duurzaam materiaal: Alle schroeven, ringen en spacers zijn uiterst betrouwbaar en duurzaam, met een anti-roest poederafwerking. Ze zijn ontworpen om extreem duurzaam en stripbestendig te zijn, zodat alles goed gaat bij het installeren van uw tv-houder of standaard.
 - Gescheiden en duidelijk geëtiketteerd: Alle hardware is vooraf verdeeld en gelabeld om u te helpen de exacte onderdelen te kiezen die u nodig hebt, waardoor het installatieproces eenvoudiger en sneller wordt.
-- Universele Hardware Kit: Het pakket bevat alle hardware voor het monteren van vrijwel alle tvs tot 80" (203 cm). Het bevat 4 stuks van elk type schroef, ring en spacer. De schroeven worden geleverd in M4 x 12mm, M4 x 30mm, M5 x 12mm, M5 x 30mm, M6 x 12mm, M6 x 20mm, M6 x 30mm, M8 x 12mm, M8 x 20mm, M8 x 25mm, M8 x 30mm, M8 x 35mm, M8 x 40mm, M8 x 45mm en M8 x 50mm. Ringen zijn beschikbaar in M4, M5 en M6, en spacers in 5mm en 10mm dikte, wat zorgt voor compatibiliteit met uw tv.
+- Hoge compatibiliteit: Deze set bevat M4, M5, M6 en M8 TV-schroeven en spacers voor het monteren van vrijwel alle tvs of schermen tot 80 inch (203 cm). Compatibel met alle grote tv-merken: Samsung, LG, Sharp, Philips, Sony, Toshiba, TCL, Cello, Hitachi, RCA, JVC, Hisense en meer, zelfs Samsung gebogen tvs.
 - Zowel voor TV Montage & Standaard: De hardware kit set kan worden gebruikt voor zowel tv-steunen als tv-standaards. Het pakket wordt geleverd met een complete set vooraf verdeelde hardware.
+- Duurzaam materiaal: Alle schroeven, ringen en spacers zijn uiterst betrouwbaar en duurzaam, met een anti-roest poederafwerking. Ze zijn ontworpen om extreem duurzaam en stripbestendig te zijn, zodat alles goed gaat bij het installeren van uw tv-houder of standaard.
+- Universele Hardware Kit: Het pakket bevat alle hardware voor het monteren van vrijwel alle tvs tot 80" (203 cm). Het bevat 4 stuks van elk type schroef, ring en spacer. De schroeven worden geleverd in M4 x 12mm, M4 x 30mm, M5 x 12mm, M5 x 30mm, M6 x 12mm, M6 x 20mm, M6 x 30mm, M8 x 12mm, M8 x 20mm, M8 x 25mm, M8 x 30mm, M8 x 35mm, M8 x 40mm, M8 x 45mm en M8 x 50mm. Ringen zijn beschikbaar in M4, M5 en M6, en spacers in 5mm en 10mm dikte, wat zorgt voor compatibiliteit met uw tv.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08R9CP5LF{{</world>}}

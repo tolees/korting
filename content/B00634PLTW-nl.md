@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Bedrijfsmodi: 3G, 4G-router, WISP-client-router en toegangspunt; voor internettoegang via een simkaart gebruik je TP-Link M7350.
 - Draadloze datasnelheden tot 300 Mbps.
 - Combinatie van een 3G, 4G-verbinding, compatibel met meer dan 120 UMTS/HSPA/EVDO-3G-USB-modems, getest in veldtest
-- Compact ontwerp, ideaal om mee te nemen. Stel meerdere gebruikers een 3G,4G-internettoegang ter beschikking, waar je het netwerk ook hebt.
 - Inhoud: TL-MR3020, snelstartgids (mogelijk niet beschikbaar in het Nederlands), USB-kabel, cd, ethernetkabel.
+- Bedrijfsmodi: 3G, 4G-router, WISP-client-router en toegangspunt; voor internettoegang via een simkaart gebruik je TP-Link M7350.
+- Compact ontwerp, ideaal om mee te nemen. Stel meerdere gebruikers een 3G,4G-internettoegang ter beschikking, waar je het netwerk ook hebt.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B00634PLTW{{</world>}}

@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Resistenza al riscaldamento
 - Confortevole
 - Tasca a canguro
-- Resistenza al riscaldamento
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08T9WJN47{{</world>}}

@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- SNOERLOZE TONDEUSE - Deze snoer-/snoerloze tondeuse kan tot 60 minuten snoerloos worden gebruikt op een volle lading, met de optie om de tondeuse aan het snoer te gebruiken als deze bijna leeg is. Het geïntegreerde oplaadlampje laat je weten wanneer de accu bijna leeg is, zodat je het snoer kunt aansluiten en verder kunt gaan met scheren.
-- NOSE TRIMMER - Deze persoonlijke trimmer maakt de verzorgingsset compleet en is ideaal voor het trimmen van ongewenst haar op de neus, oren en wenkbrauwen. De afgeronde punt kan veilig en perfect in een hoek worden geplaatst om gemakkelijk en pijnloos haar op moeilijk bereikbare plaatsen te verwijderen.
 - BATTERIJTRIMMER - De bijpassende mini-accutrimmer heeft een kleiner snijblad dat ideaal is voor het bijwerken van haarlijnen en bakkebaarden.
 - INNOVATIEVE COMBS MET KLEURCODE - De Color Pro Combi 3in1 heeft innovatieve gekleurde opzetkammen die overeenkomen met de code op de tondeuse, waardoor het gemakkelijk is om je kleur en stijl te kiezen. Dit is de perfecte tondeuse voor familiekapsels thuis.
 - EENVOUDIG REINIGEN - Het mesje is gemakkelijk te onderhouden omdat het vast- en losklikt voor grondige reiniging en geschikt is om af te spoelen onder de kraan voor hygiënisch gebruik, elke keer weer.
+- NOSE TRIMMER - Deze persoonlijke trimmer maakt de verzorgingsset compleet en is ideaal voor het trimmen van ongewenst haar op de neus, oren en wenkbrauwen. De afgeronde punt kan veilig en perfect in een hoek worden geplaatst om gemakkelijk en pijnloos haar op moeilijk bereikbare plaatsen te verwijderen.
+- SNOERLOZE TONDEUSE - Deze snoer-/snoerloze tondeuse kan tot 60 minuten snoerloos worden gebruikt op een volle lading, met de optie om de tondeuse aan het snoer te gebruiken als deze bijna leeg is. Het geïntegreerde oplaadlampje laat je weten wanneer de accu bijna leeg is, zodat je het snoer kunt aansluiten en verder kunt gaan met scheren.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0D1CRTCNM{{</world>}}

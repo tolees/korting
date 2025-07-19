@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Aangedreven door LIGHTSPEED, waardoor de PRO X SUPERLIGHT onze snelste en meest betrouwbare PRO-muis ooit is
-- Ongelooflijk nauwkeurige, snelle en consistente bediening dankzij de HERO-sensor, vanaf de basis ontworpen door Logitech G -ingenieurs voor de best mogelijke gameprestaties
-- Om optionele griptape te installeren, reinigt u eerst het oppervlak van de muis met meegeleverde oppervlaktevoorbereidingsdoek om olie of stof te verwijderen. Lijn vervolgens de griptape zorgvuldig uit met de muisoppervlakken
-- Voor optimale draadloze prestaties gebruikt u de muis binnen een straal van 20 cm ontvanger en op een afstand van meer dan 2 meter van bronnen met 2,4GHz-interferentie (zoals wifi-routers)
 - De muis heeft grote PTFE-voetjes zonder toevoegingen die ervoor zorgen dat deze Logitech G gaming-muis soepel beweegt voor een soepele verbinding met de game
 - Logitech G PRO X SUPERLIGHT draadloze gamingmuis is verkrijgbaar in zwart en wit
+- Voor optimale draadloze prestaties gebruikt u de muis binnen een straal van 20 cm ontvanger en op een afstand van meer dan 2 meter van bronnen met 2,4GHz-interferentie (zoals wifi-routers)
+- Om optionele griptape te installeren, reinigt u eerst het oppervlak van de muis met meegeleverde oppervlaktevoorbereidingsdoek om olie of stof te verwijderen. Lijn vervolgens de griptape zorgvuldig uit met de muisoppervlakken
+- Ongelooflijk nauwkeurige, snelle en consistente bediening dankzij de HERO-sensor, vanaf de basis ontworpen door Logitech G -ingenieurs voor de best mogelijke gameprestaties
+- Aangedreven door LIGHTSPEED, waardoor de PRO X SUPERLIGHT onze snelste en meest betrouwbare PRO-muis ooit is
 - De USB-ontvanger kan in de muis worden opgeborgen door het POWERPLAY-openingsdeurtje te verwijderen. Dit kan voorkomen dat de ontvanger verloren gaat bij gebruik van de muis met het Logitech G POWERPLAY draadloze oplaadsysteem
 - Ultralicht minder dan 63 g, met een hyperminimalistisch ontwerp dat bijna 25% minder weegt dan de standaard G PRO draadloze gamingmuis
 - Deze Logitech G Esports-gamingmuis is ontworpen in samenwerking met de beste professionele gamers ter wereld en ontwikkeld om u te helpen winnen, en het hoogtepunt van onze zoektocht naar de beste prestaties

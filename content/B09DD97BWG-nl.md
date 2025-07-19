@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Pak van 4 Ultradunne glazen schermen van 0,22 mm TEMPERED GLASS die het volledige scherm van rand tot rand bedekken. Reserveschermbeschermers inbegrepen voor het geval u uw scherm wilt vernieuwen en het in de toekomst eenvoudig wilt wijzigen
 - Constructie van gehard glas voor verbeterde slagvastheid en is effectief bestand tegen krassen tot 9 uur (harder dan een mes)
 - Ontworpen in Londen - we hebben een zeer groot assortiment Nintendo Switch-accessoires die je kunt zien door te zoeken op Orzly Nintendo Switch
-- Alleen gemaakt voor Nintendo Switch OLED-model (2021 release OLED-console)
 - Eenvoudig te installeren accessoires - In het pakket vindt u extra eenvoudig aan te brengen accessoires om u te helpen als u ze nodig heeft
+- Pak van 4 Ultradunne glazen schermen van 0,22 mm TEMPERED GLASS die het volledige scherm van rand tot rand bedekken. Reserveschermbeschermers inbegrepen voor het geval u uw scherm wilt vernieuwen en het in de toekomst eenvoudig wilt wijzigen
+- Alleen gemaakt voor Nintendo Switch OLED-model (2021 release OLED-console)
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09DD97BWG{{</world>}}

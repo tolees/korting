@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Vaatwasserbestendige onderdelen
 - 2 Snelheden
 - 3-in-1 staafmixer voor mixen, kloppen en pureren - inclusief mengbeker (700 ml), hakbeker (500 ml), gardeaccessoire
+- Vaatwasserbestendige onderdelen
 - 500 Watt motor en 12.000 toeren per minuut
 - Onderdelen die in contact komen met voeding zijn BPA-vrij
 

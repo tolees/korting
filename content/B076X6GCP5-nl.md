@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Binnenzool van leer.
 - Robuuste zool.
+- Binnenzool van leer.
 - Sluit met praktische klittenbandsluiting
 
 [🛒 Check the deal!!]({{< param buyurl >}})

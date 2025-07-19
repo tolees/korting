@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Je kunt nu nog meer uren aan Full HD‐video opnemen en opslaan met capaciteiten tot 512 GB
-- Zeer hoge overdrachtssnelheden tot 150 MB/s zorgen ervoor dat je content snel kann worden gekopieerd; met tot wel 1000 fotos per minuut
 - Leveringsomvang: SanDisk Ultra Android MicroSDXC UHS-I-Kaart 512 GB + SD-Adapter (Voor Smartphones En Tablets, A1, Class 10, U1, Full HD Videos, Tot 150 MB/s Leessnelheid, 10 Jaar Beperkte Garantie)
 - Voor gebruik met de MobileMate USB 3.0 microSD kaartlezer; zodat je snel grote bestanden kunt verplaatsen; snel veel bestanden kunt verplaatsen of gewoon veel sneller bestanden kunt overzetten
+- Zeer hoge overdrachtssnelheden tot 150 MB/s zorgen ervoor dat je content snel kann worden gekopieerd; met tot wel 1000 fotos per minuut
+- Je kunt nu nog meer uren aan Full HD‐video opnemen en opslaan met capaciteiten tot 512 GB
 - De SanDisk Memory Zone‐app; die beschikbaar is vanuit de Google Play store; stelt je in staat alle bestanden op je telefoon op één plek te bekijken en te openen of er back‐ups van te maken
 
 [🛒 Buy it!!]({{< param buyurl >}})

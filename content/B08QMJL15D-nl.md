@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Eenvoudig verstelbare pasvorm dankzij vetersluiting
 - Het gepatenteerde Geox systemen garanderen het ademend vermogen van de zool en zorgen voor het welzijn van de voet
-- Het zero shock systeem met dempingsballen verhoogt de schokabsorptie en zorgt voor een betere absorptie van slagen en stoten
+- Eenvoudig verstelbare pasvorm dankzij vetersluiting
 - Lichtgewicht schoen voor meer bewegingsvrijheid
+- Het zero shock systeem met dempingsballen verhoogt de schokabsorptie en zorgt voor een betere absorptie van slagen en stoten
 - Uitneembare binnenzool
 
 [🛒 Buy it now!!]({{< param buyurl >}})

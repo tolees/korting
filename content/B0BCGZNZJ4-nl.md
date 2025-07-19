@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Zeer ademend
-- Resistente rubberen zool
 - Basketbal schoenen
 - Stijlvol ontwerp
 - Retro stijl
+- Resistente rubberen zool
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BCGZNZJ4{{</world>}}

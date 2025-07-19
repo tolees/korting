@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Deze Jeans zijn gemaakt met duurzame afwerkingstechnieken
 - Broek van het merk Levis
+- Deze Jeans zijn gemaakt met duurzame afwerkingstechnieken
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00VLN9DAI{{</world>}}

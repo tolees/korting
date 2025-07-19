@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Met een accuduur tot 30 uur heb je altijd voldoende energie, ook op lange reizen. Deze Sony-hoofdtelefoon wordt geleverd met een opvouwbare hoes waardoor u hem gemakkelijk kunt opbergen en vervoeren
-- Een nieuw ontwikkelde precisiedrivereenheid van 30 mm verbetert de ruisonderdrukking, vooral in het lage frequentiebereik, zodat u nauwkeurig en zonder achtergrondgeluiden van muziek kunt genieten. Lichtgewicht en stijve driver verbetert de helderheid van het geluid en de basrespons
 - Deze Bluetooth-hoofdtelefoon kan tegelijkertijd met twee apparaten worden gekoppeld, wat erg handig is. Met Fast Pair kunt u de WH-1000XM5 lokaliseren als u hem niet kunt vinden, en Swift Pair maakt het koppelen met uw pc of tablet eenvoudiger
-- Met vier microfoons op elke oorschelp is dit onze grote stap op het gebied van ruisonderdrukking. Omgevingsgeluid wordt nog nauwkeuriger opgevangen, wat resulteert in een drastische vermindering van hoogfrequent geluid. Dankzij Auto NC Optimizer worden de prestaties van de ruisonderdrukking altijd automatisch geoptimaliseerd op basis van draagomstandigheden en externe omgevingsfactoren zoals atmosferische druk
 - De nieuwe geïntegreerde processor V1, speciaal ontwikkeld door Sony, benut het volledige potentieel van de HD-ruisonderdrukkingsprocessor QN1. Deze unieke combinatie van technologieën bestuurt acht microfoons om een ​​ongekende ruisonderdrukkingskwaliteit te bereiken
-- Nauwkeurig ontworpen voor uitzonderlijke audiokwaliteit met hoge resolutie. Onze nauwkeurige spraakopnametechnologie met nieuw ontwikkelde windruisonderdrukking zorgt er ook voor dat u tijdens gesprekken duidelijk kunt horen en gehoord kunt worden met deze ruisonderdrukkende hoofdtelefoon
+- Met een accuduur tot 30 uur heb je altijd voldoende energie, ook op lange reizen. Deze Sony-hoofdtelefoon wordt geleverd met een opvouwbare hoes waardoor u hem gemakkelijk kunt opbergen en vervoeren
+- Met vier microfoons op elke oorschelp is dit onze grote stap op het gebied van ruisonderdrukking. Omgevingsgeluid wordt nog nauwkeuriger opgevangen, wat resulteert in een drastische vermindering van hoogfrequent geluid. Dankzij Auto NC Optimizer worden de prestaties van de ruisonderdrukking altijd automatisch geoptimaliseerd op basis van draagomstandigheden en externe omgevingsfactoren zoals atmosferische druk
+- Een nieuw ontwikkelde precisiedrivereenheid van 30 mm verbetert de ruisonderdrukking, vooral in het lage frequentiebereik, zodat u nauwkeurig en zonder achtergrondgeluiden van muziek kunt genieten. Lichtgewicht en stijve driver verbetert de helderheid van het geluid en de basrespons
 - De nieuwe geïntegreerde processor V1 benut het volledige potentieel van onze HD-ruisonderdrukkingsprocessor QN1 om onze toch al toonaangevende ruisonderdrukkingstechnologie verder te verbeteren
+- Nauwkeurig ontworpen voor uitzonderlijke audiokwaliteit met hoge resolutie. Onze nauwkeurige spraakopnametechnologie met nieuw ontwikkelde windruisonderdrukking zorgt er ook voor dat u tijdens gesprekken duidelijk kunt horen en gehoord kunt worden met deze ruisonderdrukkende hoofdtelefoon
 - Adaptive Sound Control past de geluidsinstellingen automatisch aan op basis van uw omgeving en activiteit. Speak-to-Chat pauzeert automatisch de muziek wanneer je een gesprek wilt voeren zonder dat je de over-ear hoofdtelefoon hoeft af te zetten
 
 [🛒 Buy it!!]({{< param buyurl >}})

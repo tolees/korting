@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - 【Sluit tot 120 apparaten aan】Het gebruik van revolutionaire OFDMA-technologie om kanalen efficiënt toe te wijzen en met meerdere apparaten tegelijk te communiceren, helpt u de capaciteit en efficiëntie te vergroten
-- 【Krachtige hardwarecombinatie】Beschikt over 1,2 GHz quad-core CPU-processor plus extra aparte 1,5 GHz NPU (Network Process Unit) voor versnelling van de netwerksnelheid
-- 【WiFi 6-standaard met lage latentie】Wi-Fi 6-snelheden tot 1,8 Gbps om u te laten genieten van vloeiendere 4K-streaming, gaming, videogesprekken en meer (600 Mbps (2,4 GHz), 1200 Mbps (5 GHz)) De firmware is gebaseerd op Qualcomm SDK, een sterk gewijzigde OpenWrt-distributie, met Linux-kernel 4.4.60. Het ondersteunt de nieuwste vanilla OpenWrt nog niet.
-- 【Sneller OpenVPN & Wireguard】VPN-snelheid tot 500Mbps. De werkelijke snelheid kan verschillen, afhankelijk van de internetprovider, netwerkomgeving, VPN-serverlocatie, VPN-serviceprovider, enz.
 - 【AdGuard Home ondersteund】AdGuard Home is speciale internetfiltersoftware voor het blokkeren van advertenties en online trackers. We hebben het geïntegreerd met Web UI voor optimale controle en beheer.
+- 【Sneller OpenVPN & Wireguard】VPN-snelheid tot 500Mbps. De werkelijke snelheid kan verschillen, afhankelijk van de internetprovider, netwerkomgeving, VPN-serverlocatie, VPN-serviceprovider, enz.
+- 【WiFi 6-standaard met lage latentie】Wi-Fi 6-snelheden tot 1,8 Gbps om u te laten genieten van vloeiendere 4K-streaming, gaming, videogesprekken en meer (600 Mbps (2,4 GHz), 1200 Mbps (5 GHz)) De firmware is gebaseerd op Qualcomm SDK, een sterk gewijzigde OpenWrt-distributie, met Linux-kernel 4.4.60. Het ondersteunt de nieuwste vanilla OpenWrt nog niet.
+- 【Krachtige hardwarecombinatie】Beschikt over 1,2 GHz quad-core CPU-processor plus extra aparte 1,5 GHz NPU (Network Process Unit) voor versnelling van de netwerksnelheid
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09HBW45ZJ{{</world>}}

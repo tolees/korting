@@ -30,9 +30,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Zelfreiniging met stoom voor geurvrij onderhoud: de zuigwisser reinigt en desinfecteert de borstelkop na gebruik met stoom op hoge temperatuur. Het proces is geurloos, handsfree en sneldrogend.
 - Continue reiniging met vers water: met het dubbele tanksysteem van de stoomreiniger wordt het schone water van het vuil gescheiden, zodat je altijd met vers water schoonmaakt.
-- Reinigen, zuigen en stomen in één: halveer je reinigingstijd met de Floor One S5 Steam. Dankzij de iLoop Smart Sensor-technologie past de dweilzuiger automatisch het zuigvermogen, de borstelsnelheid en de waterstroom aan, voor een efficiënte reiniging.
 - Supergrotere tanks: De nat-/droogzuiger beschikt over een grotere watertank, waarmee je grotere oppervlakken zonder onderbreking kunt schoonmaken.
 - Verwijdert kleverige vervuilingen: De nat-droogzuiger kan door het gebruik van stoom hardnekkig vet en vlekken op hoge temperatuur laten smelten. Dan reinigt de borstelrol de vloer met vers water en zorgt zo voor een moeiteloze grondige reiniging.
+- Reinigen, zuigen en stomen in één: halveer je reinigingstijd met de Floor One S5 Steam. Dankzij de iLoop Smart Sensor-technologie past de dweilzuiger automatisch het zuigvermogen, de borstelsnelheid en de waterstroom aan, voor een efficiënte reiniging.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09Q5VCJJH{{</world>}}

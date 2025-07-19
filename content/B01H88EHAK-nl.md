@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Met gereedschapzoeker "Take it easy": kleurmarkering volgens profielen en maatstempeling.
 - Harde gripzones voor hoge werksnelheid, zachte gripzones voor hoge draaimomentoverdracht.
 - Met zeskantige afrolbescherming tegen wegrollen.
-- Lastip voor meer grip in de schroefkop.
 - Schroevendraaier voor kruiskopschroeven Phillips
-- Met gereedschapzoeker "Take it easy": kleurmarkering volgens profielen en maatstempeling.
+- Lastip voor meer grip in de schroefkop.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01H88EHAK{{</world>}}

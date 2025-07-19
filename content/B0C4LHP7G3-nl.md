@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Offline bediening: als wifi niet beschikbaar is om verbinding te maken met het internet, kunnen Matter-apparaten probleemloos op het lokale netwerk blijven communiceren en elkaar bedienen, of je kunt wifi-stopcontacten nog steeds via de Meross app bedienen.
-- Over Matter: het Matter-protocol wordt geleid door grote eco-platforms zoals Apple, Google, Alexa, Samsung en meer dan 500 wereldwijde bedrijven. Deze matte plug kan met alle toepassingen worden verbonden en alle apparaten bedienen. Matter geeft het apparaat sterke beveiliging met bewezen algoritmen en elk bericht is beschermd.
-- Stroomverbruikmeter: slim stopcontact volgt het stroomverbruik. Met de interne stroommeter voor stopcontact levert de Meross-app real-time rapporten over hoeveel energie je apparaten verbruiken, evenals historische gegevens.
-- Schema: stel het schema in, routine door de Meross app volgens je behoeften. Geen hub, ondersteunt afstandsbediening, deel Meross account met familie, deel apparaten.
 - Eenvoudige installatie: scan de code en alles is klaar. Het gestandaardiseerde en eenvoudige protocol vergemakkelijkt de implementatie en het gebruik van Matter-apparaten. Bestaande 2,4 GHz Wi-Fi-netwerk. Smartphone met iOS 16.1 of hoger of Android 8.1 of hoger.
+- Stroomverbruikmeter: slim stopcontact volgt het stroomverbruik. Met de interne stroommeter voor stopcontact levert de Meross-app real-time rapporten over hoeveel energie je apparaten verbruiken, evenals historische gegevens.
+- Over Matter: het Matter-protocol wordt geleid door grote eco-platforms zoals Apple, Google, Alexa, Samsung en meer dan 500 wereldwijde bedrijven. Deze matte plug kan met alle toepassingen worden verbonden en alle apparaten bedienen. Matter geeft het apparaat sterke beveiliging met bewezen algoritmen en elk bericht is beschermd.
+- Schema: stel het schema in, routine door de Meross app volgens je behoeften. Geen hub, ondersteunt afstandsbediening, deel Meross account met familie, deel apparaten.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0C4LHP7G3{{</world>}}

@@ -28,15 +28,15 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Zacht voor tanden en tandvlees: de originele Philips Sonicare tandenborstelopzetstukken zijn uitvoerig getest op uitstekende prestaties en een lange levensduur
-- Verwijder tot 2 x meer verkleuringen in vergelijking met een handtandenborstel dankzij de optimale witte opzetborstel
-- Borstelkop vervangen: BrushSync herinnert u eraan om na 3 maanden de opzetborstel te vervangen.
-- RFID-microchip maakt communicatie met de Sonicare sonische tandenborstels voor een automatische communicatie. Borstelkopwissel of instelling van de poetsmodus
-- Geen tandplak meer: Deze opzetborstels verwijderen meer tandplak dan een handtandenborstel.
-- De Optimal-witte opzetborstel is compatibel met alle Philips Sonicare sonische tandenborstels. De opzetborstel moet elke 3 maanden worden vervangen.
-- Omvang levering: 6x opzetborstels Original Optimaal White, Standard, wit, (voorheen DiamondClean borstelkop)
 - Snel wittere tanden: Al In 7 dagen* door de dicht op elkaar geplaatste ruitvormige borstelharen.
 - Bevat: 6 standaard sonische Philips Sonicare W2 Optimal White-opzetborstels
+- RFID-microchip maakt communicatie met de Sonicare sonische tandenborstels voor een automatische communicatie. Borstelkopwissel of instelling van de poetsmodus
+- Geen tandplak meer: Deze opzetborstels verwijderen meer tandplak dan een handtandenborstel.
+- Omvang levering: 6x opzetborstels Original Optimaal White, Standard, wit, (voorheen DiamondClean borstelkop)
+- Borstelkop vervangen: BrushSync herinnert u eraan om na 3 maanden de opzetborstel te vervangen.
+- Zacht voor tanden en tandvlees: de originele Philips Sonicare tandenborstelopzetstukken zijn uitvoerig getest op uitstekende prestaties en een lange levensduur
+- Verwijder tot 2 x meer verkleuringen in vergelijking met een handtandenborstel dankzij de optimale witte opzetborstel
+- De Optimal-witte opzetborstel is compatibel met alle Philips Sonicare sonische tandenborstels. De opzetborstel moet elke 3 maanden worden vervangen.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07BJT4MQR{{</world>}}

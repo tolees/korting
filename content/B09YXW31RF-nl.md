@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- PUMA Formstrip aan de mediale en laterale zijden
 - Rubberen tussenzool
-- Lederen bovenkant
 - Rubberen buitenzool
+- Lederen bovenkant
+- PUMA Formstrip aan de mediale en laterale zijden
 - PUMA Cat-logo op de hiel
 
 [🛒 Buy it!!]({{< param buyurl >}})

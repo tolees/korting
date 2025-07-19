@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- GEAVANCEERDE TECHNOLOGIE: Ontworpen met een 1,8 GHz quad-core processor, OFDMA, MU-MIMO, Dynamic QoS, 1024-QAM, Smart Connect voor één WiFi-naam, Beamforming-technologieën en Amazon Alexa en Google Assistant Voice Control. Ondersteunt WPA2/WPA3 draadloze beveiligingsprotocollen. Inclusief WiFi-toegang voor gasten, DoS, Firewall, VPN en meer
-- SPECIALE NIEUWE 6GHZ WIFI BAND: Exclusieve, congestievrije band alleen voor WiFi 6E-apparaten. Geniet van kristalheldere 4K/8K videostreaming, AR/VR-gaming en videoconferenties
 - GEAVANCEERDE CYBER THREAT BESCHERMING: NETGEAR Armor (powered by BitDefender) is netwerkbrede anti-virus, anti-malware, fraude/phishing/ransomware beveiliging op een onbeperkt aantal apparaten en netwerk/gegevensbescherming met een gratis proefperiode van 30 dagen
-- BEDRADE ETHERNET PORTS: Sluit computers, spelconsoles, streaming-spelers en andere bekabelde apparaten in de buurt aan met 4 x 1G en 1 x 2.5G Ethernet-poorten
 - EENVOUDIG TE INSTELLEN EN TE BEHEREN: Verbindt met uw bestaande kabelmodem en is binnen enkele minuten ingesteld met de Nighthawk-app - eenvoudig wifi-instellingen beheren op apparaat- en netwerkniveau, internetsnelheid testen en gegevensgebruik bewaken
 - UITZONDERLIJKE SNELHEID VOOR AL UW APPARATEN: 10,8 Gbps WiFi-snelheid, 9x sneller dan WiFi 5. Achterwaarts compatibel voor alle WiFi-apparaten op 2,4 GHz en 5 GHz banden
 - WERKT MET ALLE INTERNETPROVIDERS: Vervang uw bestaande WiFi-router (aparte modem of modemrouter vereist). Compatibel met elke internetprovider tot 2 Gbps, inclusief kabel, satelliet, glasvezel, DSL en meer
+- SPECIALE NIEUWE 6GHZ WIFI BAND: Exclusieve, congestievrije band alleen voor WiFi 6E-apparaten. Geniet van kristalheldere 4K/8K videostreaming, AR/VR-gaming en videoconferenties
+- GEAVANCEERDE TECHNOLOGIE: Ontworpen met een 1,8 GHz quad-core processor, OFDMA, MU-MIMO, Dynamic QoS, 1024-QAM, Smart Connect voor één WiFi-naam, Beamforming-technologieën en Amazon Alexa en Google Assistant Voice Control. Ondersteunt WPA2/WPA3 draadloze beveiligingsprotocollen. Inclusief WiFi-toegang voor gasten, DoS, Firewall, VPN en meer
+- BEDRADE ETHERNET PORTS: Sluit computers, spelconsoles, streaming-spelers en andere bekabelde apparaten in de buurt aan met 4 x 1G en 1 x 2.5G Ethernet-poorten
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09MSGH6GT{{</world>}}

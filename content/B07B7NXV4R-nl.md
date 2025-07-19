@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Universeel - werkt goed met zowat elke tuimelschakelaar en knop van elk toestel (behalve aanraakschermschakelaar). Slimme knopdrukker voor je slimme huis. Met de bijgeleverde add-on sticker, één Bot helpt om je licht zowel aan als uit te zetten.
-- Timers - Gebruik de SwitchBot App om ingebouwde timers in te plannen, zonder telefoon of Hub. Zet verlichting of huishoudelijke apparaten automatisch aan of uit, zelfs als je weg bent. Maak je handen vrij.
 - Gemakkelijk op te zetten - 5-seconden installatie. Plak hem naast een tuimelschakelaar of knop met een 3M sticker. Geen verwisselen, geen gereedschap nodig. Eenvoudige bediening.
-- SwitchBot Ecosystem - Koppeling met andere SwitchBot producten is mogelijk. Open SwichBot-apparaten in ingestelde Scènes via de App. Ondersteunt SwitchBot API.
+- Timers - Gebruik de SwitchBot App om ingebouwde timers in te plannen, zonder telefoon of Hub. Zet verlichting of huishoudelijke apparaten automatisch aan of uit, zelfs als je weg bent. Maak je handen vrij.
+- Universeel - werkt goed met zowat elke tuimelschakelaar en knop van elk toestel (behalve aanraakschermschakelaar). Slimme knopdrukker voor je slimme huis. Met de bijgeleverde add-on sticker, één Bot helpt om je licht zowel aan als uit te zetten.
 - Nog beter met SwitchBot Hub - Met SwitchBot Hub Plus/Mini (ondersteunt alleen 2,4 GHz wifi), kan je je SwitchBot op afstand bedienen vanaf elke locatie en stembediening inschakelen. Werkt goed met Amazon Alexa, Google Assistant, Siri en IFTTT.
+- SwitchBot Ecosystem - Koppeling met andere SwitchBot producten is mogelijk. Open SwichBot-apparaten in ingestelde Scènes via de App. Ondersteunt SwitchBot API.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07B7NXV4R{{</world>}}

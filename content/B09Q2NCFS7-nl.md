@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Hogesnelheid PCIe Gen4 x4 M.2 NVMe 1.4 Interface: Dankzij PCIe Gen4-technologie voor maximale bandbreedte levert de MP600 PRO LPX ongelooflijke opslagprestaties.
-- Maak je gaming sneller: De MP600 PRO LPX overstijgt alle prestatievereisten van de Sony PS5 M.2 en grote gamebestanden laden dan ook sneller dan ooit, rechtstreeks vanaf de SSD.
-- Vooraf geïnstalleerde aluminium warmtespreider: Helpt warmte af te voeren en throttling te verminderen, zodat de SSD direct uit de doos blijvend hoge prestaties levert.
 - Opslagcapaciteit voor je hele collectie: Breid de opslagcapaciteit van je console uit met 500 GB, 1 TB, 2 TB of een indrukwekkende 4 TB om te voorzien in alle behoeften van je gamebibliotheek.
+- Vooraf geïnstalleerde aluminium warmtespreider: Helpt warmte af te voeren en throttling te verminderen, zodat de SSD direct uit de doos blijvend hoge prestaties levert.
+- Maak je gaming sneller: De MP600 PRO LPX overstijgt alle prestatievereisten van de Sony PS5 M.2 en grote gamebestanden laden dan ook sneller dan ooit, rechtstreeks vanaf de SSD.
+- Hogesnelheid PCIe Gen4 x4 M.2 NVMe 1.4 Interface: Dankzij PCIe Gen4-technologie voor maximale bandbreedte levert de MP600 PRO LPX ongelooflijke opslagprestaties.
 - Uitzonderlijke Gen4 op PS5: PCIe Gen4 x4 SSD die sequential read-snelheden tot 7.100 MB/s en sequential write-snelheden tot 6.800 MB/s voor fenomenale lees-, schrijf- en reactiesnelheden.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

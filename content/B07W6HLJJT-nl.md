@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Meerdere Computers, één Workflow - Combineer het slanke toetsenbord met een MX Master 3 of MX Anywhere 3 en typ op meerdere computers of laptops in één vloeiende workflow (1)
-- Meerdere Apparaten, Meerdere OS - Koppel het MX Keys Mini compact toetsenbord met maximaal 3 apparaten op bijna elk besturingssysteem via Bluetooth Low Energy en schakel naadloos tussen de apparaten
-- Slimme Verlichting - De toetsen van het draadloze toetsenbord hebben achtergrondverlichting en lichten op zodra jouw handen dichtbij komen. Ook passen ze zich automatisch aan lichtomstandigheden aan
-- Perfect Typen met Smart Keys - Typ op toetsen die zijn gevormd voor jouw vingertoppen, met spraak-naar-tekst dicteren, microfoon dempen/dempen opheffen (1) en emoji-toetsen
 - Mini-formaat, Klein maar Krachtig - Met een lay-out ontworpen voor moeiteloze precisie en met een minimalistische vorm. Het ergonomisch toetsenbord is ook draagbaar, om mee te nemen naar elke werkplek
+- Perfect Typen met Smart Keys - Typ op toetsen die zijn gevormd voor jouw vingertoppen, met spraak-naar-tekst dicteren, microfoon dempen/dempen opheffen (1) en emoji-toetsen
+- Meerdere Computers, één Workflow - Combineer het slanke toetsenbord met een MX Master 3 of MX Anywhere 3 en typ op meerdere computers of laptops in één vloeiende workflow (1)
+- Slimme Verlichting - De toetsen van het draadloze toetsenbord hebben achtergrondverlichting en lichten op zodra jouw handen dichtbij komen. Ook passen ze zich automatisch aan lichtomstandigheden aan
+- Meerdere Apparaten, Meerdere OS - Koppel het MX Keys Mini compact toetsenbord met maximaal 3 apparaten op bijna elk besturingssysteem via Bluetooth Low Energy en schakel naadloos tussen de apparaten
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07W6HLJJT{{</world>}}

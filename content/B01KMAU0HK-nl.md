@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Materiaal: 925 sterling zilver, gepolijst
+- Kleur: zilver
 - Lengte: 42 cm
 - Bolvormige clipsluiting met logogravure
 - Gepolijste slangenketting, dikte 3 mm
-- Kleur: zilver
-- Materiaal: 925 sterling zilver, gepolijst
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01KMAU0HK{{</world>}}

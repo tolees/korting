@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Oprolbare manchetten als dikke beschermlaag tegen koud weer.
 - Opmerkelijke keuze aan kleuren, elke veelzijdig te combineren.
 - Inhoud: 1 x Columbia unisex watch cap beanie, 96% acryl/4% nylon, oranje (burnished amber), maat O/S (eenheidsmaat), 1464091795O/S.
+- Oprolbare manchetten als dikke beschermlaag tegen koud weer.
 - Beanie in klassieke matrozenmutsstijl voor aangenaam warme oren bij het kampvuur, op de piste of op het water.
 - Zacht en rekbaar mengweefsel van nylon en acryl.
 

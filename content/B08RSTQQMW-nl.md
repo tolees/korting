@@ -30,8 +30,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Alle drie zijn bezet met een grotere siersteen, wat de ring extra fonkelt
 - De fonkelende drievoudige ring geeft je outfit een klassieke touch
-- De met de hand veredelde stijl van Pandora (14 karaat rosévergulde metaallegering) bestaat uit drie met elkaar verbonden ringen
 - Het product wordt niet in een doos verzonden. Deze moet apart worden gekocht
+- De met de hand veredelde stijl van Pandora (14 karaat rosévergulde metaallegering) bestaat uit drie met elkaar verbonden ringen
 - De ring is aan de bovenkant versierd met kleine, heldere zirkonias
 
 [🛒 Buy it now!!]({{< param buyurl >}})

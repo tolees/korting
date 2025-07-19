@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Pakketgewicht: 2.06 kg
 - Voeding: Batterij
 - Afmetingen pakket: 14.9 L x 24.8 B x 33.5 H cm
-- Pakketgewicht: 2.06 kg
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CQ53RVTW{{</world>}}

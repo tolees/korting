@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Bevat 12 zwarte balpennen met intrekbare punt
 - Geavanceerde rubberen handgreep voor perfect comfort
+- De ultrazachte inkt laat je ideeën vloeien en maakt vloeibaar schrijven mogelijk
 - De middelste punt met 1,0 mm verdeelt de inkt perfect
 - Het ontwerp met intrekbare punt is met slechts één klik klaar om te schrijven
-- Bevat 12 zwarte balpennen met intrekbare punt
-- De ultrazachte inkt laat je ideeën vloeien en maakt vloeibaar schrijven mogelijk
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B007VHEQAA{{</world>}}

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Uitneembare binnenpan met antiaanbaklaag die je snel schoonmaakt
 - Handig stoom-accessoire voor gezonde gestoomde recepten
 - Automatische rijstkoker die je niet in de gaten hoeft te houden, voor smakelijke rijst die perfect wordt gekookt
-- Uitneembare binnenpan met antiaanbaklaag die je snel schoonmaakt
-- Inhoud van 1,8 L, geschikt voor 10 kopjes rijst.
 - Automatische warmhoudfunctie voor smakelijke rijst die klaar is als jij dat bent
+- Inhoud van 1,8 L, geschikt voor 10 kopjes rijst.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B00UICED5I{{</world>}}

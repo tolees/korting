@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Zeer flexibel.
 - Lichtgewicht.
 - Lederen Werkgroep Gecertificeerd
-- Zeer flexibel.
 - Hoofdmateriaal: Glad leer
 - Kleur: bruin
 

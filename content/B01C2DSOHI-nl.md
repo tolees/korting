@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Krachtige 2300 Watt haardroger
-- Ionengenerator - 90% meer ionen voor glanzend haar zonder pluis
-- 3 warmtestanden / 2 snelheden
 - Cool shot om je haarstijl te fixeren
+- 3 warmtestanden / 2 snelheden
+- Ionengenerator - 90% meer ionen voor glanzend haar zonder pluis
+- Krachtige 2300 Watt haardroger
 - Blaaskracht 85 km/uur - voor een snel droogresultaat
 
 [🛒 Check the deal!!]({{< param buyurl >}})

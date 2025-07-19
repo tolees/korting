@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- "Perfect Toast"-technologie voor gelijkmatig roosteren
 - Geïntegreerde snoeropbergvoorziening; opwarmrek; roestvrij staal
 - Verwijderbare kruimellade voor gemakkelijke reiniging
+- "Perfect Toast"-technologie voor gelijkmatig roosteren
 - Ontdooi-, opwarm- en annuleerfunctie, en variabele instelling van de bruiningsgraad
 - Één lange en extra brede sleuf - geschikt voor dikke en dunne sneden
 

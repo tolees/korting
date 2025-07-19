@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Verwarming van stof
 - Geschikt voor alle leeftijden
+- Binnenvoering van fleece
+- Verwarming van stof
 - Manchetten op de enkel
 - Duwfunctie
-- Binnenvoering van fleece
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08R44RDB4{{</world>}}

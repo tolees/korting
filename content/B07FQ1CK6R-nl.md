@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Kleur: zwart
+- XL EXTRALIGHT voor meer lichtheid en schokdemping
 - Bovenmateriaal: leer (rundleer)
 - Rondom naad voor hoge duurzaamheid
-- XL EXTRALIGHT voor meer lichtheid en schokdemping
-- Kleur: zwart
 - Loopzool/eigenschappen: EVA-loopzool voor een laag gewicht
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- 100 procent katoen
+- Regular fit
 - Geribbelde ronde hals
 - PUMA Nee. 1 Logo rubberen print op de borst
-- Regular fit
-- 100 procent katoen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08SHPX2J7{{</world>}}

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- tussenzool en rubberen zool
+- Halslijn:
+- PUMA Karakteristieke strepen aan de zijkanten en in het midden
 - Rijk ontworpen bovenmateriaal van gerecyclede materialen
 - Gedrukt PUMA branding op tong en hiel
-- Halslijn:
-- tussenzool en rubberen zool
-- PUMA Karakteristieke strepen aan de zijkanten en in het midden
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09L5KJS9M{{</world>}}

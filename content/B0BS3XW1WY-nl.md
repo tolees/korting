@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Thumb straps at the cuffs help hold the sleeves in place while players move.
-- Mesh at sleeves and sides provides breathability to help keep athletes cool.
 - Nike Dri-FIT technology moves sweat away from athletes skin for quicker evaporation, helping them stay dry and comfortable.
+- Mesh at sleeves and sides provides breathability to help keep athletes cool.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BS3XW1WY{{</world>}}

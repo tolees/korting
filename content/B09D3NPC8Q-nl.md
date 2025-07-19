@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - 10 jaar beperkte garantie
-- 6-voudige bescherming tegen: water, extreme temperatuur, röntgenstraling, magnetisme, schok en slijtage
-- Voeg extra opslagruimte aan uw dagelijks gebruikte apparaten zoals: PC, DSLR, spiegelloze cameras en vele andere devices
 - Overdrachtssnelheden tot 130MB/s met UHS-1 interface, snelheid varieert per capaciteit
+- Voeg extra opslagruimte aan uw dagelijks gebruikte apparaten zoals: PC, DSLR, spiegelloze cameras en vele andere devices
+- 6-voudige bescherming tegen: water, extreme temperatuur, röntgenstraling, magnetisme, schok en slijtage
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09D3NPC8Q{{</world>}}

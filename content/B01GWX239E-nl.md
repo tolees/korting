@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Schoeisel zonder sluiting
 - De gepatenteerde Geox-systemen garanderen de ademende werking van de buitenzool, zodat de voet comfortabel blijft.
 - Gemakkelijk te dragen, voor ongeëvenaard comfort.
-- Schoeisel zonder sluiting
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B01GWX239E{{</world>}}
