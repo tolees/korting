@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - 【Hoogwaardige materialen: gemaakt van hoogwaardig acrylmateriaal, ultradun en lichtgewicht, elektrisch lekvrij, stof- en waterafstotend, met afgeronde randontwerp om je handen te beschermen, geniet van een hoge lichtdoorlatendheid.
-- 【Veel gebruikt】: geschikt voor gebruik op kantoor, thuis, café, keuken, bar, buitentafel, koelkast, kantoor, feest, camping, warme en koude dranken, bier, sap enzovoort.
-- 【Waterdicht en transparant】Onderzetters van antislip, geïsoleerde kunststof in levensmiddelenkwaliteit, perfect voor je kopjes of servies. En volledig verzegeld waterdicht ontwerp, en de acrylplaat kan worden gerecycled.
 - 3 lichtmodi: wit en veranderbaar ledlicht, met aan/uit-knop, flits, langzaam knipperen, continu licht, drie modi om uit te kiezen, volledig verzegeld, waterdicht ontwerp om slecht batterijcontact te maken.
 - Verwisselbare batterij: led-onderzetter met CR1620-batterij, ca. 18 uur gebruik, langdurig gebruik, eenvoudig wisselen zonder gereedschap, voldoet aan je dagelijkse behoeften.
+- 【Waterdicht en transparant】Onderzetters van antislip, geïsoleerde kunststof in levensmiddelenkwaliteit, perfect voor je kopjes of servies. En volledig verzegeld waterdicht ontwerp, en de acrylplaat kan worden gerecycled.
+- 【Veel gebruikt】: geschikt voor gebruik op kantoor, thuis, café, keuken, bar, buitentafel, koelkast, kantoor, feest, camping, warme en koude dranken, bier, sap enzovoort.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CQT8CVZT{{</world>}}

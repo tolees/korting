@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Tot 250 uur batterijlevensduur: Met tot 400 uur gamen via Bluetooth en 250 uur naadloos gamen met lage latentie via Razer HyperSpeed Wireless, kun je nog langer doorgaan in het heetst van de strijd zonder de batterij in je muis te vervangen. (vastgesteld met een AA alkalinebatterij).
+- Razer Focus Pro 30K optische sensor: Deze gloednieuwe sensor van Razer levert vlekkeloze tracking prestaties op een verscheidenheid van oppervlakken, waaronder glas, aangevuld met intelligente functies voor nog beter richten en controle.
 - Razer HyperSpeed Wireless (2.4 GHz) en Bluetooth: Ervaar naadloze, vrijwel latentie-vrije prestaties dankzij draadloze technologie die 25% sneller is dan vergelijkbare technologieën, of schakel over naar Bluetooth om nog langer te genieten van gaming - met ondersteuning voor meerdere apparaten voor een minimalistische set-up.
 - 19 programmeerbare knoppen: Of u nu gewoon het toewijzen van de belangrijkste opdrachten of gaan all in met macros voor professionals, deze muis heeft ergonomisch geplaatste knoppen, zodat u uw hele arsenaal van commandos snel en gemakkelijk toegang.
+- Tot 250 uur batterijlevensduur: Met tot 400 uur gamen via Bluetooth en 250 uur naadloos gamen met lage latentie via Razer HyperSpeed Wireless, kun je nog langer doorgaan in het heetst van de strijd zonder de batterij in je muis te vervangen. (vastgesteld met een AA alkalinebatterij).
 - Aangedreven door Razer HyperScroll: Freewheel-modus om spam inputs of scrollen door de inhoud razendsnel - Activeer Tactile Mode voor nog meer precisie en rijke feedback, ideaal voor wapen of vaardigheid swipen.
-- Razer Focus Pro 30K optische sensor: Deze gloednieuwe sensor van Razer levert vlekkeloze tracking prestaties op een verscheidenheid van oppervlakken, waaronder glas, aangevuld met intelligente functies voor nog beter richten en controle.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BD5L1ZJQ{{</world>}}

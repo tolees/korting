@@ -30,9 +30,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - De nieuwste Apple Pencil voor iPad Pro is intuïtief, uiterst nauwkeurig en nog prettiger om mee te schrijven en te tekenen.
 - Hij klikt magnetisch vast aan iPadPro en laadt draadloos op, dus hij is altijd klaar voor gebruik. En met twee keer tikken wissel je van tool.
-- Aansluitingen: Bluetooth
-- Compatibiliteit: 12,9‑inch iPad Pro (3e, 4e, 5e en 6e generatie), 11‑inch iPad Pro (1e, 2e, 3e en 4e generatie), iPad Air (4e en 5e generatie), iPad mini (6e generatie)
 - Dus pak ’m op en maak jepunt.
+- Compatibiliteit: 12,9‑inch iPad Pro (3e, 4e, 5e en 6e generatie), 11‑inch iPad Pro (1e, 2e, 3e en 4e generatie), iPad Air (4e en 5e generatie), iPad mini (6e generatie)
+- Aansluitingen: Bluetooth
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07K2PK3BV{{</world>}}

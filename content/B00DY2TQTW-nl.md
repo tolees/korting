@@ -30,9 +30,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Leer als bovenmateriaal van de sneakers
 - Duurzame, ademende en waterdichte rubberen zool
-- Herensneakers zonder sluiting
-- Mesh als binnenmateriaal van de sneakers
 - De hak van de herensneakers is 1,5 cm hoog
+- Mesh als binnenmateriaal van de sneakers
+- Herensneakers zonder sluiting
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B00DY2TQTW{{</world>}}

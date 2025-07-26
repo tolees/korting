@@ -30,8 +30,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Korte mouwen
 - Rib gebreide ronde hals
-- Borstzak
 - Zware jersey; borstzak
+- Borstzak
 - Relaxed fit
 
 [🛒 Buy it now!!]({{< param buyurl >}})

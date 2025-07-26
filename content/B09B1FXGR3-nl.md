@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- De shampoo zorgt voor intensere kleuren en meer glans. De rijke en romige textuur maakt het haar direct gladder en zachter.
 - 97% minder haarbreuk, twee keer meer glans en intensere kleuren - dat is Metal DX. De rijke, romige textuur maakt het haar ook meteen gladder en gevoed.
+- De shampoo zorgt voor intensere kleuren en meer glans. De rijke en romige textuur maakt het haar direct gladder en zachter.
 - Premium Metal DX haarverzorging is speciaal ontworpen om elk haartype metaalafzettingen te verwijderen. Dit zijn vaak de oorzaken van haarbreuk en kleurveranderingen.
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Je kunt de verschrikkingen van het station alleen trotseren, of met een team de uitdaging aangaan in coöp met 3 spelers
 - Dodelijke robots, genadeloze monsters, buit en reusachtige beesten wachten op je bij elke hoek
 - Hoe vertrouwd je ook bent met het Endless-universum, het Station heeft meer verhalen te vertellen
 - Een unieke mix van roguelite, tactische actie en tower defence in het bekroonde Endless-universum
-- Je kunt de verschrikkingen van het station alleen trotseren, of met een team de uitdaging aangaan in coöp met 3 spelers
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CM291ZDY{{</world>}}

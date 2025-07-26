@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - PUMA Formstrip aan de zijkant
-- PUMA-merkdetails op het bovenwerk, de hiel en het tonglabel
 - Rubberen buitenzool
+- PUMA-merkdetails op het bovenwerk, de hiel en het tonglabel
 - Gestapelde rubberen tussenzool
 
 [🛒 Check the deal!!]({{< param buyurl >}})

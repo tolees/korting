@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Ontdooi-, opwarm- en annuleerfunctie, en variabele instelling van de bruiningsgraad
-- Verwijderbare kruimellade voor gemakkelijke reiniging
-- Geïntegreerde snoeropbergvoorziening; opwarmrek; roestvrij staal
 - Één lange en extra brede sleuf - geschikt voor dikke en dunne sneden
+- Ontdooi-, opwarm- en annuleerfunctie, en variabele instelling van de bruiningsgraad
+- Geïntegreerde snoeropbergvoorziening; opwarmrek; roestvrij staal
+- Verwijderbare kruimellade voor gemakkelijke reiniging
 - "Perfect Toast"-technologie voor gelijkmatig roosteren
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- POP! vinylfiguur
 - Gandalf
+- POP! vinylfiguur
 - LOTR/Hobbit
 
 [🛒 Check the deal!!]({{< param buyurl >}})

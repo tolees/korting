@@ -30,8 +30,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Verkrijgbaar met heatsink of low-profile warmteverspreider
 - Low-profile grafeen-aluminium warmteverspreider
-- Slim M.2 2280 vormfactor
 - Ongelooflijke PCIe Gen 4x4 NVMe-prestaties
+- Slim M.2 2280 vormfactor
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09K3NNGDS{{</world>}}

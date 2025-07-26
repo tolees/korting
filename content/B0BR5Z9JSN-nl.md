@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Dove Bath Therapy Glow Douche- & Scheerschuim is verrijkt met niacinamide
 - De douchegel zorgt voor een stralende huid met een gezonde ‘glow’
-- Het zachte schuim is geschikt om mee te scheren onder de douche
 - Het doucheschuim is verpakt in een 100% recyclebare aluminium verpakking
-- Een douchemousse met de heerlijke geur van bloedsinaasappel en rabarber
 - Ondersteunt je huidbarrière, waardoor je huid er gezond en stralend uitziet
+- Dove Bath Therapy Glow Douche- & Scheerschuim is verrijkt met niacinamide
+- Een douchemousse met de heerlijke geur van bloedsinaasappel en rabarber
+- Het zachte schuim is geschikt om mee te scheren onder de douche
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BR5Z9JSN{{</world>}}

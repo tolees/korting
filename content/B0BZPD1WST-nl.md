@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- SPEEL SAMEN THUIS EN ONLINE
 - RACE OM DE SKY TROFEE
 - DE ULTIEME LEGO RIJERVARING
-- OPEN WERELD ONTDEKKING
 - ONTGRENDEL JE CREATIVITEIT
-- SPEEL SAMEN THUIS EN ONLINE
+- OPEN WERELD ONTDEKKING
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BZPD1WST{{</world>}}

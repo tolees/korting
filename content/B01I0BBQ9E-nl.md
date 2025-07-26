@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Hoofdmateriaal: Glad leer
 - Zeer flexibel.
+- Hoofdmateriaal: Glad leer
 - Lichtgewicht.
 - Kleur: bruin
 - Lederen Werkgroep Gecertificeerd

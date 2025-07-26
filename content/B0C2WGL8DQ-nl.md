@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Tot 80% besparing op Acronis Cyber Protect Home - Bescherm uw fotos, bestanden, toepassingen, besturingssysteem en apparaten.
 - Ruime opslag tot 4TB, solide Gen3 performance
 - NVMe (PCIe Gen3 x4) technologie met tot 3500MB/s sequentiële lezingen, random lezen/schrijven 650K/700K IOPS
-- Tot 80% besparing op Acronis Cyber Protect Home - Bescherm uw fotos, bestanden, toepassingen, besturingssysteem en apparaten.
 - Beoordeeld aan MTTF groter dan 1,5 miljoen uren voor langere levensduur en betrouwbaarheid, 5 jaar beperkte Crucial garantie
 - Presteert tot 45% beter dan de vorige generatie
 

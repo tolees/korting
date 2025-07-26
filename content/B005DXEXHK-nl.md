@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Gepatenteerde ademende zool
+- Klassiek jurkssilhouet
 - Luxueus nappa leer
 - Leren voering en binnenzool
-- Klassiek jurkssilhouet
+- Gepatenteerde ademende zool
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B005DXEXHK{{</world>}}

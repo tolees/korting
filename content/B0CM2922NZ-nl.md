@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Een klassieker in een nieuw jasje gestoken met volledige 3D-graphics, nieuwe krachten en vaardigheden, een compleet nieuwe setting en nieuwe manieren om te spelen
+- Voor de allereerste keer in een Sonic-spel kun je de hele campagne spelen met maximaal 3 andere spelers met drop-in en drop-out 4-Player Local Co-op
 - Speel als je favoriete personages
 - Vermenigvuldig je, zwem watervallen op, verander van vorm en nog veel meer met de krachten van de Chaos Emeralds
-- Voor de allereerste keer in een Sonic-spel kun je de hele campagne spelen met maximaal 3 andere spelers met drop-in en drop-out 4-Player Local Co-op
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CM2922NZ{{</world>}}

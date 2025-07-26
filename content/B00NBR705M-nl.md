@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Keuze van kleuren die bij jouw stijl passen
 - Neodymiummagneten met hoge energie zorgen voor een krachtig geluid
+- Keuze van kleuren die bij jouw stijl passen
 - Frequentiebereik 12-22 kHz
 - Dome drivers van 30 mm voor gebalanceerd geluid
 - Gewatteerde oorschelpen voor comfortabel luisteren

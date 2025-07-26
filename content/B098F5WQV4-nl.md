@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Basketbalschoenen
-- Retrostijl
 - Duurzame rubberen zool
+- Retrostijl
+- Basketbalschoenen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B098F5WQV4{{</world>}}

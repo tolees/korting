@@ -30,8 +30,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Cilindrische loodhuls, ideaal voor gebruik met linialen en sjablonen
 - Gevoerde lijn voor hoge breukbestendigheid
-- Hoogwaardig vulpotlood voor schrijven en tekenen
 - Enkel potlood met 0.9mm lijnbreedte met HB lood
+- Hoogwaardig vulpotlood voor schrijven en tekenen
 - Potlood heeft anti-slip rubberen grip zone en metalen clip, drukknop en punt
 
 [🛒 Check the deal!!]({{< param buyurl >}})

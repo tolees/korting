@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - De set bestaat uit meer dan 525 stenen en gedrukte handleiding. De bouwstenen in onze sets zijn 100% compatibel met andere fabrikanten van klembouwstenen
-- De BlueBrixx Star Trek Enterprise NCC-1701 is een van onze medium display-modellen
 - De USS Enterprise (NCC-1701) is een ruimteschip van de Constitution-klasse, dat in 2245 op zijn maagdenvlucht opbreekt. Door zijn beroemde commandanten en de eveneens zeer gerespecteerde vijfjarige missies behoort het ongetwijfeld tot de beroemdste ruimteschepen van de Starflet.
+- De BlueBrixx Star Trek Enterprise NCC-1701 is een van onze medium display-modellen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BSH434MT{{</world>}}

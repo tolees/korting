@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Krachtige bas: Anker BassUp-technologie dekt geluidsgeleiders zelfs in de diepte, gedetailleerd en over een breed oppervlak. Eersteklas diepe bass in vergelijking met soortgelijke luidsprekers van dezelfde prijsklasse.
 - Stabiele verbinding: laat je altijd op een absoluut betrouwbare Bluetooth-verbinding voor een glashelder, vervormingsvrij klankprofiel.
 - Ongelooflijke speelduur: Anker toonaangevende batterijtechnologie en energiebeheer maakt een speelduur van 24 uur of ongeveer 500 titels mogelijk. De krachtige lithium-ion-accu laat je het hele kerstfeest lang niet in de steek.
+- Krachtige bas: Anker BassUp-technologie dekt geluidsgeleiders zelfs in de diepte, gedetailleerd en over een breed oppervlak. Eersteklas diepe bass in vergelijking met soortgelijke luidsprekers van dezelfde prijsklasse.
 - Muziek overal: ultracompact en vederlicht, IPX7 waterdicht en stofbestendig. Weegt 360 g, net zo veel als een maxipack. Ideaal voor elk kerstfeest – ongeacht waar je bent.
 - Wat je krijgt: een Anker SoundCore 2 Bluetooth-luidspreker, een micro-USB-kabel, een handleiding (mogelijk niet beschikbaar in het Nederlands).
 

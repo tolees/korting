@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Breed toepassingsgebied: creëer een romantische sfeer, perfect voor het decoreren van feestjes, terras, tuin, bruiloft, kerstboom, wikkel het om fietswielen, tipi
-- Wij zijn een professionele lampenfabrikant. Als u niet tevreden bent met onze producten, neem dan contact met ons op, wij bieden u vervangende of terugbetalingsservices.
 - Doe-het-zelfdecoraties: 2 m led-lichtketting voor binnen met uitstekende koperdraad, die gemakkelijk doe-het-zelf kan worden gebogen en 360 graden fonkelt met mooi effect, gevormd rond kerstcadeaus, kerstboom, desktop enz.
+- Wij zijn een professionele lampenfabrikant. Als u niet tevreden bent met onze producten, neem dan contact met ons op, wij bieden u vervangende of terugbetalingsservices.
+- Breed toepassingsgebied: creëer een romantische sfeer, perfect voor het decoreren van feestjes, terras, tuin, bruiloft, kerstboom, wikkel het om fietswielen, tipi
 - Waterdicht IP67: de led-lichtketting op batterij bestaat uit waterdicht IP67-gecertificeerd koperdraad en kan in het water worden ondergedompeld (batterijdoos niet inbegrepen) om een geweldig lichteffect te bereiken.
 - CR2032-batterijen: de led-lichtketting bevat 34 3 V energiebesparende, duurzamere CR2032-batterijen, waarvan 24 in de batterijbox zijn inbegrepen.
 - 【Veiligheidskwaliteit】 De led-lichtketting op batterijen met lagere hitte is veilig voor kinderen om aan te raken.

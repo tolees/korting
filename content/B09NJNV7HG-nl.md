@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Voering van textiel
 - Bovenwerk van synthetisch leer
-- Gedempt gevoel
-- EVA-inlegzool
-- Normale pasvorm
 - Vetersluiting
+- EVA-inlegzool
+- Gedempt gevoel
+- Voering van textiel
+- Normale pasvorm
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09NJNV7HG{{</world>}}

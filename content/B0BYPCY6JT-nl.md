@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Inclusief adapter voor gebruik in cameras, laptops en desktopcomputers
-- 6-voudige bescherming tegen: water, extreme temperatuur, röntgenstraling, magneet, schok en slijtage
 - Geschikt voor Android-smartphones, tablets, actiecameras, drones, gameconsoles en meer.
+- 6-voudige bescherming tegen: water, extreme temperatuur, röntgenstraling, magneet, schok en slijtage
+- Inclusief adapter voor gebruik in cameras, laptops en desktopcomputers
 - 10 jaar beperkte garantie
 - Lees/schrijf snelheden tot 180/130MB/s met UHS-1 interface, snelheid varieert per capaciteit
 

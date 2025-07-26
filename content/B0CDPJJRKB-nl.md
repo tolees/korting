@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Superieur beeld: Met twee camera’s en een 4K-UHD-resolutie levert deze binnencamera duidelijk en gedetailleerd beeld van je huis. Wat je er ook mee bewaakt, je kunt het met ongelofelijke details zien.
 - Geavanceerde zoommogelijkheden: De 4K-groothoekcamera en 2K-telelenscamera’s werken samen om de indrukwekkende 8 × hybride zoom mogelijk te maken.
 - Uitzonderlijk nachtzicht: Dankzij een sensor met diafragma van f/1,6 en 2 krachtige infrarood LED-lampen kunnen gezichten zelfs bij weinig licht tot op tien meter afstand duidelijk worden gezien.
-- Intelligent volgen: Dankzij de AI, op basis van een door eufy Security ontwikkeld algoritme, kan de camera familieleden of huisdieren in de kamer automatisch volgen en daarop inzoomen.
 - Volledige dekking: Dankzij de 360°-mogelijkheden voor draaien en kantelen kun je de hele ruimte zien, zonder dode hoeken. Hierdoor is het een uitstekende honden- of kattencamera.
+- Superieur beeld: Met twee camera’s en een 4K-UHD-resolutie levert deze binnencamera duidelijk en gedetailleerd beeld van je huis. Wat je er ook mee bewaakt, je kunt het met ongelofelijke details zien.
+- Intelligent volgen: Dankzij de AI, op basis van een door eufy Security ontwikkeld algoritme, kan de camera familieleden of huisdieren in de kamer automatisch volgen en daarop inzoomen.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CDPJJRKB{{</world>}}

@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Sneakers met modern & ademend design
-- Geschikt voor: alle seizoenen
 - Kledingsstijl: informeel
+- Geschikt voor: alle seizoenen
+- Sneakers met modern & ademend design
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B089FH8RN8{{</world>}}

@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Gestructureerde en ondersteunende pasvorm
 - Flexibele groeven volgen de beweging van de voet
+- Gestructureerde en ondersteunende pasvorm
 - Rubberen zool
 
 [🛒 Buy it now!!]({{< param buyurl >}})

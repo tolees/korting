@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Sluiting: rubber
-- Bovenmateriaal: synthetisch
-- Binnenmateriaal: synthetisch
 - Schouderriem
+- Sluiting: rubber
+- Binnenmateriaal: synthetisch
+- Bovenmateriaal: synthetisch
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BN6QLBQK{{</world>}}

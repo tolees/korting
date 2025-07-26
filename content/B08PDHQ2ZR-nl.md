@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Met discreet logo op de borst
-- Van licht, ademend piqueweefsel
 - Een veelzijdig poloshirt dat stijlvol, chique en allesbehalve oud is
+- Van licht, ademend piqueweefsel
+- Met discreet logo op de borst
 - Kies een maat groter voor een casual stijl of blijf bij je maat voor een klassieke look
 
 [🛒 Buy it!!]({{< param buyurl >}})

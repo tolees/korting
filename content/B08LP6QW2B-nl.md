@@ -30,8 +30,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Het materiaal voert zweet af en droogt zeer snel
 - Stretch-mesh rug- en zijpanelen zorgen voor strategische ventilatie
-- Bijgewerkt ergonomisch ontwerp houdt naden weg van gebieden met hoge slijtage en verhoogt de duurzaamheid
 - Anti-geurtechnologie voorkomt de groei van geurveroorzakende microben
+- Bijgewerkt ergonomisch ontwerp houdt naden weg van gebieden met hoge slijtage en verhoogt de duurzaamheid
 - Stoere, lichtgewicht HeatGear-stof, met alle prestatievoordelen van UA Compression
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 100% polyester.
 - Park20 Pant KP
+- 100% polyester.
 - Broek:
 
 [🛒 Buy it!!]({{< param buyurl >}})

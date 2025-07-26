@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- MAAT: Bij aankoop van Havaianas slippers op Amazon, moet je de maat BR/Leverancier beschouwen als equivalent aan de EU-maat, ongeacht wat er op de productzool wordt weergegeven
-- Flip Flop Kleur: Lichtroze
 - GESLACHT: Teenslippers voor dames
 - TYPE ZOOL: Comfortabel, duurzaam, lichtgewicht, hittebestendig, antislip en waterbestendig
+- MAAT: Bij aankoop van Havaianas slippers op Amazon, moet je de maat BR/Leverancier beschouwen als equivalent aan de EU-maat, ongeacht wat er op de productzool wordt weergegeven
+- Flip Flop Kleur: Lichtroze
 - BAND: PVC | ZOOL MATERIAAL: Rubber
 
 [🛒 Buy it!!]({{< param buyurl >}})

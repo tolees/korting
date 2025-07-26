@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- koordsluiting
+- Fleecevoering
+- Manchetten aan de enkels
 - Geschikt voor alle leeftijden
 - Het verwarmingsmateriaal
-- koordsluiting
-- Manchetten aan de enkels
-- Fleecevoering
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08QW96R1X{{</world>}}

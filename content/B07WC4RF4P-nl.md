@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Zijvakken voor persoonlijke voorwerpen
-- Dri-FIT-technologie houdt je droog en comfortabel
 - Met kalfsleer-elementen kan gemakkelijk met laarzen worden verwisseld
 - Elastische tailleband met koord
+- Dri-FIT-technologie houdt je droog en comfortabel
+- Zijvakken voor persoonlijke voorwerpen
 - Standaard pasvorm voor een ontspannen sfeer, eenvoudig gevoel
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,16 +28,16 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 【Schema en zonsopkomst en zonsondergang】Er wordt een schema ingesteld in de app, de wifi-timeraansluiting wordt automatisch in- of uitgeschakeld volgens het schema. Sunrise/sunset-functie en ondersteuning voor aftellen. Nadat u het schema van uw apparaat hebt ingesteld, kan uw schema normaal blijven werken, zelfs als de verbinding met het netwerk is verbroken. Opmerking Er is een netwerk vereist om scènes in te plannen
 - Zorg ervoor dat het apparaat niet op de zwarte lijst van de router staat of door de firewall is geblokkeerd
 - 【Lokale bediening】Als u thuis bent, ondersteunt de Meross-app lokale bediening (LAN), uw acties reageren binnen milliseconden.
 - Tijdens de configuratie moet het apparaat zich zo dicht mogelijk bij de router bevinden om ervoor te zorgen dat het signaal van het apparaat goed is
-- Lees de handleiding aandachtig door en bedien deze volgens de handleiding voordat u het apparaat gebruikt
-- 【Spraakbediening】De slimme aansluiting werkt met Alexa en Google Assistant, waarmee met spraakopdrachten apparaten kunnen worden in- en uitgeschakeld die op het wifi-stopcontact zijn aangesloten.
-- 【Werkt met Apple HomeKit】De WiFi-aansluiting kan worden bediend via Siri of elk ander apparaat met Apple HomeKit (iOS 13 of hoger). De verbinding is stabiel. Een home hub-apparaat is vereist om Siri op afstand te kunnen bedienen. Als het alleen thuis wordt gebruikt, is er geen hub-apparaat nodig.
 - Blijf tijdens het configureren uit de buurt van andere draadloze apparaten, zoals magnetrons, om interferentie door draadloze kanalen te voorkomen
+- Lees de handleiding aandachtig door en bedien deze volgens de handleiding voordat u het apparaat gebruikt
+- 【Schema en zonsopkomst en zonsondergang】Er wordt een schema ingesteld in de app, de wifi-timeraansluiting wordt automatisch in- of uitgeschakeld volgens het schema. Sunrise/sunset-functie en ondersteuning voor aftellen. Nadat u het schema van uw apparaat hebt ingesteld, kan uw schema normaal blijven werken, zelfs als de verbinding met het netwerk is verbroken. Opmerking Er is een netwerk vereist om scènes in te plannen
 - Gebruik alsjeblieft 2,4 GHz wifi, geen 5 GHz wifi. Schakel het 5 GHz WiFi-signaal uit wanneer u verbinding maakt. Zorg ervoor dat u het juiste wifi-wachtwoord invoert tijdens het configureren
 - 【App voor afstandsbediening】Met de Meross-app kan de Alexa Smart Plug overal met een netwerk worden bediend. De smart home-aansluiting heeft een functie voor offline bediening. Zelfs als de router is losgekoppeld van het internet, kan het schakelbare stopcontact nog steeds via de Meross-app worden bediend, zolang de smartsocket en de telefoon nog steeds verbonden zijn met hetzelfde WLAN. (geen hub vereist voor de meross-app)
+- 【Werkt met Apple HomeKit】De WiFi-aansluiting kan worden bediend via Siri of elk ander apparaat met Apple HomeKit (iOS 13 of hoger). De verbinding is stabiel. Een home hub-apparaat is vereist om Siri op afstand te kunnen bedienen. Als het alleen thuis wordt gebruikt, is er geen hub-apparaat nodig.
+- 【Spraakbediening】De slimme aansluiting werkt met Alexa en Google Assistant, waarmee met spraakopdrachten apparaten kunnen worden in- en uitgeschakeld die op het wifi-stopcontact zijn aangesloten.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B091HVVY2Y{{</world>}}

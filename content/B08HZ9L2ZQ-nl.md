@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - [Groot formaat] XXL-formaat van 800*300*4 mm voor al uw randapparatuur.
-- [WATERDICHT GLAD OPPERVLAK]Hoogwaardige stof voor optimale verplaatsing van de muis.
 - [12 RGBLED-backlightmodi] Gaming muismat Dark Rainbow inclusief 5 dynamische effecten: 2 respiratiemodi, 2 regenboogmodi, 1 verlichtingsmodus en 7 statische effecten: rood, blauw, groen, roze, cyaan, geel en paars.
+- [WATERDICHT GLAD OPPERVLAK]Hoogwaardige stof voor optimale verplaatsing van de muis.
 - [PLUG AND PLAY] USB-verbinding, geen pilot nodig.
 - [ANTISLIP] Dikke rubberbasis voor optimale aanhechting.
 
