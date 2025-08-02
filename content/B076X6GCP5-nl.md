@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Binnenzool van leer.
 - Sluit met praktische klittenbandsluiting
 - Robuuste zool.
-- Binnenzool van leer.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B076X6GCP5{{</world>}}

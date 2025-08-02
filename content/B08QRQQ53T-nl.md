@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Meerkleurig: creëer heel eenvoudig scenarios voor je dagelijkse routine of activiteiten, door helderheid, lichttemperatuur en kleuren aan te passen, met 16.000 kleuren naar keuze
-- Geen hub nodig: sluit de slimme gloeilamp rechtstreeks aan op je wifi thuis
-- Energiezuinig: dezelfde helderheid met een laag energieverbruik van 8,7 W in vergelijking met een gewone gloeilamp van 60 W
 - Toegang op afstand – bedien je slimme gloeilamp comfortabel via je smartphone met Tapo-app, overal en altijd
-- Aflopen en tijdschemas – plan bepaalde tijden voor het in- of uitschakelen van je gloeilampen
+- Energiezuinig: dezelfde helderheid met een laag energieverbruik van 8,7 W in vergelijking met een gewone gloeilamp van 60 W
 - Eenvoudige voorinstelling: stel verschillende verlichtingsopties vooraf in om je gloeilampen met een druk op de knop direct aan te passen
+- Aflopen en tijdschemas – plan bepaalde tijden voor het in- of uitschakelen van je gloeilampen
+- Geen hub nodig: sluit de slimme gloeilamp rechtstreeks aan op je wifi thuis
+- Meerkleurig: creëer heel eenvoudig scenarios voor je dagelijkse routine of activiteiten, door helderheid, lichttemperatuur en kleuren aan te passen, met 16.000 kleuren naar keuze
 - Spraakbediening – verbind je slimme gloeilamp met Amazon Alexa of Google Assistant. De controle is eenvoudig met de stem mogelijk
 
 [🛒 Buy it!!]({{< param buyurl >}})

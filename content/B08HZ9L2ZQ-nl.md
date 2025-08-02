@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - [PLUG AND PLAY] USB-verbinding, geen pilot nodig.
-- [Groot formaat] XXL-formaat van 800*300*4 mm voor al uw randapparatuur.
 - [WATERDICHT GLAD OPPERVLAK]Hoogwaardige stof voor optimale verplaatsing van de muis.
-- [ANTISLIP] Dikke rubberbasis voor optimale aanhechting.
+- [Groot formaat] XXL-formaat van 800*300*4 mm voor al uw randapparatuur.
 - [12 RGBLED-backlightmodi] Gaming muismat Dark Rainbow inclusief 5 dynamische effecten: 2 respiratiemodi, 2 regenboogmodi, 1 verlichtingsmodus en 7 statische effecten: rood, blauw, groen, roze, cyaan, geel en paars.
+- [ANTISLIP] Dikke rubberbasis voor optimale aanhechting.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08HZ9L2ZQ{{</world>}}

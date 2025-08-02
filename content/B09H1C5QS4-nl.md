@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- MANDALORIAANSE DEATH WATCH: Death Watchers zijn standvastige Mandaloriaanse strijders die de oude tradities van hun volk in ere houden; ze zijn een extremistische clan die geprobeerd heeft Mandalore over te nemen tijdens de Clone Wars
-- VERZAMEL OOK ANDERE FIGUREN UIT EEN STERRENSTELSEL HEEL, HEEL VER WEG: ontdek op de film en animatieserie geïnspireerde Star Wars-figuren uit The Black Series en bouw daarmee een Star Wars-sterrenstelsel (Elk afzonderlijk verkrijgbaar. Zolang de voorraad strekt)
-- HOOGWAARDIGE SCHARNIERPUNTEN EN DETAILS: fans en verzamelaars van Star Wars kunnen deze zeer beweegbare figuur met verstelbaar hoofd, armen en benen en hoogwaardig uiterlijk uitstallen in hun verzameling
 - ACCESSOIRES GEÏNSPIREERD OP HET PERSONAGE VAN DE SERIE: deze actiefiguur van Star Wars The Black Series heeft 2 op de animatieserie geïnspireerde accessoires die een perfecte aanvulling vormen op elke Star Wars-collectie
+- HOOGWAARDIGE SCHARNIERPUNTEN EN DETAILS: fans en verzamelaars van Star Wars kunnen deze zeer beweegbare figuur met verstelbaar hoofd, armen en benen en hoogwaardig uiterlijk uitstallen in hun verzameling
+- VERZAMEL OOK ANDERE FIGUREN UIT EEN STERRENSTELSEL HEEL, HEEL VER WEG: ontdek op de film en animatieserie geïnspireerde Star Wars-figuren uit The Black Series en bouw daarmee een Star Wars-sterrenstelsel (Elk afzonderlijk verkrijgbaar. Zolang de voorraad strekt)
+- MANDALORIAANSE DEATH WATCH: Death Watchers zijn standvastige Mandaloriaanse strijders die de oude tradities van hun volk in ere houden; ze zijn een extremistische clan die geprobeerd heeft Mandalore over te nemen tijdens de Clone Wars
 - STAR WARS: THE MANDALORIAN: fans en verzamelaars kunnen scènes uit het Star Wars-sterrenstelsel naspelen met deze hoogwaardige Mandaloriaanse Death Watch-figuur, geïnspireerd op de serie Star Wars: The Mandalorian (Elk afzonderlijk verkrijgbaar. Zolang de voorraad strekt.)
 
 [🛒 Buy it!!]({{< param buyurl >}})

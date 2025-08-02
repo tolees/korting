@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- En als je hem gebruikt met bepaalde iPhone- of iPad Pro-modellen, gaat het opladen van die devices extra snel. Je kan er ook supersnel je iPhone 8 of een nieuwer model mee opladen.
-- Thuis, op kantoor of onderweg. De lichtnetadapter is compatibel met elk USB‑C-device.
 - Voor optimaal opladen kun je ’m het beste aansluiten op de 12‑inch MacBook of de 13‑inch MacBook Air met Retina-display.
+- Thuis, op kantoor of onderweg. De lichtnetadapter is compatibel met elk USB‑C-device.
+- En als je hem gebruikt met bepaalde iPhone- of iPad Pro-modellen, gaat het opladen van die devices extra snel. Je kan er ook supersnel je iPhone 8 of een nieuwer model mee opladen.
 - Met de Apple USB‑C-lichtnetadapter van 30 W laad je snel en efficiënt op.
 
 [🛒 Buy it!!]({{< param buyurl >}})

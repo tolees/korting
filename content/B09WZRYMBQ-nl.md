@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Beleef de met elkaar verbonden verhalen van Franklin, Michael en Trevor in de bruisende open wereld van Los Santos en Blaine County
-- Inclusief het verhaalspeltype van Grand Theft Auto V en Grand Theft Auto Online.
-- Ervaar GTA Online, waar je kunt opklimmen van een oplichter op straatniveau naar een leider van je eigen criminele imperium.
 - Huidige spelers kunnen zowel de GTAV Story Mode-voortgang als de GTA Online-personages en -progressie overzetten naar PlayStation 5.
+- Inclusief het verhaalspeltype van Grand Theft Auto V en Grand Theft Auto Online.
+- Beleef de met elkaar verbonden verhalen van Franklin, Michael en Trevor in de bruisende open wereld van Los Santos en Blaine County
+- Ervaar GTA Online, waar je kunt opklimmen van een oplichter op straatniveau naar een leider van je eigen criminele imperium.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09WZRYMBQ{{</world>}}

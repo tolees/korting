@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Verleidelijk comfort: geformuleerd met 80% voedende ingrediënten.
-- Voler werkende lippen: glijdt zacht over de lippen en vermindert lijntjes, voor gladdere en voller werkende lippen.
 - De perfecte combinatie van zeer effectieve verf in een intens hydraterende formule.
 - Verschillende iconische tinten: druk jezelf met een uitgebreid kleurenpalet in twee geraffineerde uitvoeringen: crème en parel.
+- Verleidelijk comfort: geformuleerd met 80% voedende ingrediënten.
+- Voler werkende lippen: glijdt zacht over de lippen en vermindert lijntjes, voor gladdere en voller werkende lippen.
 - Luxe kleur: gemaakt met microfijne pigmenten voor kleursterke lippenstiften met een licht draaggevoel.
 
 [🛒 Buy it!!]({{< param buyurl >}})

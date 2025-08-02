@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Door zijn compacte vorm ideaal als leeslamp, tafellamp in het thuiskantoor of als eerste lamp voor het kinderbureau
 - Bevordert de concentratie met daglicht wit licht (6500 Kelvin)
-- Echt helder met 1300 lux lichtsterkte bij 33 cm afstand en een lichtstroom van 230 lumen
 - Flexibel: de lampkop (10 cm diameter) is 180 graden kantelbaar
+- Door zijn compacte vorm ideaal als leeslamp, tafellamp in het thuiskantoor of als eerste lamp voor het kinderbureau
+- Echt helder met 1300 lux lichtsterkte bij 33 cm afstand en een lichtstroom van 230 lumen
 - Uittrekbaar met dubbele telescopische arm van stevig staal 18,5 cm - 33 cm, en klein en compact inklapbaar (geschikt voor laden)
 
 [🛒 Buy it now!!]({{< param buyurl >}})

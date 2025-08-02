@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Verbeterde beveiliging: Ondersteunt 64/128 WEP, WPA, PA2/WPA-PSK/WPA2-PSK (TKIP/AES)
-- Optie 2 via WPS Tools. Druk op de WPS-knop op uw router. Houd binnen 2 minuten de WPS-knop op de adapter ingedrukt totdat WPS Tool wordt geopend
 - Ondersteunt zachte AP-functie voor draadloos internet delen
-- Maak in een mum van tijd verbinding met eenvoudige installatie hulpprogramma in 14 talen
 - Slank miniatuurontwerp eenmaal aangesloten, kan in de USB-poort van een laptop worden achtergelaten
+- Maak in een mum van tijd verbinding met eenvoudige installatie hulpprogramma in 14 talen
 - Snelle draadloze transmissie tot 150 Mbps ideaal voor videostreaming of internetgesprekken
+- Optie 2 via WPS Tools. Druk op de WPS-knop op uw router. Houd binnen 2 minuten de WPS-knop op de adapter ingedrukt totdat WPS Tool wordt geopend
 - Compatibel met 32/64bits Windows 10, 8.1/8, 7, Vista, XP, Mac OS X 10.9 ~ 10.13 beta voor Mac 10.14, Linux 2.6.18~4.4.3
+- Verbeterde beveiliging: Ondersteunt 64/128 WEP, WPA, PA2/WPA-PSK/WPA2-PSK (TKIP/AES)
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B008IFXQFU{{</world>}}

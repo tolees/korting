@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Dove badschuim met plantaardige reinigers en (huideigen) voedingsstoffen
-- Met de heerlijke geur van bloedsinaasappel en spiced rabarber
 - Ondersteunt je huidbarrière, waardoor je huid er gezond en stralend uitziet
 - Deze Dove douchegel is pH-huidneutraal en SLES sulfaatvrij
-- Dove Bath Therapy Glow Badschuim & Douchegel is verrijkt met niacinamide
 - Het badschuim is verpakt in 100% gerecyclede fles (behalve dop en label)
+- Dove Bath Therapy Glow Badschuim & Douchegel is verrijkt met niacinamide
+- Met de heerlijke geur van bloedsinaasappel en spiced rabarber
+- Dove badschuim met plantaardige reinigers en (huideigen) voedingsstoffen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BR5Z2P4C{{</world>}}

@@ -31,8 +31,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 - Werkt met alle gangbare Europese SIM-kaarten: Telekom, Vodafone, O2 m Swisscom etc; incl; ondersteuning van de mobiele standaard 4G/LTE met maximaal 150 Mbs in download en 50 Mbs upload snelheid
 - LCD-display biedt een snel overzicht van de belangrijkste bedrijfsgegevens, de 2000 mAh-accu levert energie voor maximaal acht uur netwerkonafhankelijke werking
 - Inhoud: mobiele 4G/LTE wifi-router M7350, verwisselbare 2000 mAh accu, USB-oplaadkabel, micro-naar standaard simkaartadapter
-- WLAN-werking op 2,4 GHz met maximaal 300 MB
 - Tegelijkertijd surfen voor maximaal 10 gebruikers/apparaten, micro-SD-kaartsleuf voor maximaal 32 GB extra opslagruimte
+- WLAN-werking op 2,4 GHz met maximaal 300 MB
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B01EK8CVHW{{</world>}}

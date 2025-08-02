@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- De verwerkte TV-antennekabel van hoge kwaliteit is geschikt voor zowel digitale als analoge signalen. Hij is ideaal voor aardse ontvangst (DVB-T/DVB-T2) en voor digitale kabel-tv (DVB-C) in Full HD of 4K UHD
-- De antennestekkers van onze kabels worden niet alleen beschermd door een robuuste huls van breukvast metaal, maar zijn ook voorzien van een versterkte binnenstructuur om de draden van zeer zuiver koper optimaal te beschermen
 - 36 maanden fabrieksgarantie. Je wettelijke garantierechten blijven onaangetast
 - De gehele koperen kabel heeft een doorlopende en meervoudige afscherming bestaande uit aluminium mylarfolie en een dicht koperen vlechtwerk. Hierdoor is hij uitstekend beschermd tegen interferentie en behoudt hij toch zijn hoge flexibiliteit
+- De antennestekkers van onze kabels worden niet alleen beschermd door een robuuste huls van breukvast metaal, maar zijn ook voorzien van een versterkte binnenstructuur om de draden van zeer zuiver koper optimaal te beschermen
+- De verwerkte TV-antennekabel van hoge kwaliteit is geschikt voor zowel digitale als analoge signalen. Hij is ideaal voor aardse ontvangst (DVB-T/DVB-T2) en voor digitale kabel-tv (DVB-C) in Full HD of 4K UHD
 - Sluit tv-toestellen, tv-ontvangers, radio-ontvangers (DAB en DAB+), DVB-T-antennes of antennecontactdozen eenvoudig aan met onze antenne-ontvangstkabel
 
 [🛒 Buy it now!!]({{< param buyurl >}})

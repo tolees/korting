@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- VOEG TOT WEL 10 SLIMME LAMPEN TOE: Bedien ze allemaal heel eenvoudig met één druk op knop in de Hue app op je smartphone of tablet.
 - VERLICHTING VOOR ELK MOMENT VAN DE DAG: Met vier voorgeprogrammeerde lichtrecepten: Read, Relax, Concentrate of Energize. Stel het perfecte licht in voor je dagelijkse activiteiten. Elk afzonderlijk lichtrecept is volledig afgestemd op de juiste kleur en temperatuur voor optimale verlichting bij alles wat je doet​.
-- MOEITELOOS DRAADLOOS DIMMEN: Doe je slimme lampen aan en uit of dim ze snel van helder licht naar het subtiele lichtniveau van een nachtlampje. Je hebt geen nieuwe bedrading nodig in je huis.
 - GEMAAKT VOOR GROTE KAMERS: met een lichtopbrengst die gelijkwaardig is aan die van een gloeilamp van 75 Watt, leveren deze slimme LED-lampen de juiste hoeveelheid warm-wit tot koelwit licht voor het verlichten van delen van je woonkamer of keuken, vooral als ze als hanglampen worden gebruikt.
 - MAAK VERBINDING MET DE APART VERKRIJGBARE HUE BRIDGE: Om nog veel meer mogelijkheden van je slimme verlichting te ontgrendelen: dan kun je gebruik maken van alle slimme bedieningsopties en functies; zelfs als je niet thuis bent bedien je lampen met de Philips Hue app; voeg accessoires toe en stel timers en routines in
-- VOEG TOT WEL 10 SLIMME LAMPEN TOE: Bedien ze allemaal heel eenvoudig met één druk op knop in de Hue app op je smartphone of tablet.
+- MOEITELOOS DRAADLOOS DIMMEN: Doe je slimme lampen aan en uit of dim ze snel van helder licht naar het subtiele lichtniveau van een nachtlampje. Je hebt geen nieuwe bedrading nodig in je huis.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B099NP74QF{{</world>}}

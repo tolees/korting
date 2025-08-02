@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Geschikt voor gebruik onder de douche, nat- en droogtrimmen, 100% Waterproef
-- Slank, lichtgewicht en makkelijk hanteerbaar model
-- Comfort tip afgeronde snijbladen - voorkomt sneetjes en krasjes, Roestvrijstalen bladen
 - 60 minuten snoerloos te gebruiken, 4 uur oplaadtijd
+- Slank, lichtgewicht en makkelijk hanteerbaar model
 - 3 vaste kammen (2, 4 en 6 mm), trimt tot 0,2 mm voor een gladgeschoren resultaat zonder irritatie
+- Geschikt voor gebruik onder de douche, nat- en droogtrimmen, 100% Waterproef
+- Comfort tip afgeronde snijbladen - voorkomt sneetjes en krasjes, Roestvrijstalen bladen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B00T2XXJQS{{</world>}}

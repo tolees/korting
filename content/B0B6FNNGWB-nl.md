@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Nike sportschoen
-- Nike Luchtkussen om schokken te absorberen
 - Bestand en licht
 - Duurzame stijl
+- Nike Luchtkussen om schokken te absorberen
 - Zichtbare Max Air-demping helpt elke stap comfortabel te houden
 
 [🛒 Check the deal!!]({{< param buyurl >}})

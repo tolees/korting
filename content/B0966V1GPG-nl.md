@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- ULTRA-LICHTGEWICHT - Doelgericht ontworpen geperforeerde behuizing vermindert gewicht tot 68 g voor moeiteloze, snelle gameplay
 - AQUABARRIER - De binnenkant van de muis is beschermd tegen spatwater, stof en vuil, technologieclassificatie IP54
-- PRACHTIGE RGB - Stralende 3-zone PrismSync RGB schittert in 16,8 miljoen configureerbare kleuren
+- ULTRA-LICHTGEWICHT - Doelgericht ontworpen geperforeerde behuizing vermindert gewicht tot 68 g voor moeiteloze, snelle gameplay
 - NEXT-GEN SCHAKELAARS - Golden Micro IP54-schakelaars gaan langer dan een mensenleven mee voor scherpe klikken, met extra stof- en waterbestendigheid
+- PRACHTIGE RGB - Stralende 3-zone PrismSync RGB schittert in 16,8 miljoen configureerbare kleuren
 - PRESTATIES DIE LANGER MEEGAAN DAN JIJ - Uitgebreide batterijlevensduur van 200 uur dankzij vertragingsvrije Quantum 2.0 draadloze technologie met 2,4GHz voor gamen en Bluetooth 5.0-verbinding
 
 [🛒 Buy it!!]({{< param buyurl >}})

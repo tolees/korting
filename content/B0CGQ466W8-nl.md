@@ -30,9 +30,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Valbestendig tot 3 meter hoog
 - Compact formaat vergelijkbaar met een gewone creditcard
-- Hogere overdrachtssnelheden dan externe harde schijven (2000 MB/s)
-- Compatibel met Windows, macOS, Android
 - Inclusief USB Type-C-naar-C en USB Type-C-naar-A kabels
+- Compatibel met Windows, macOS, Android
+- Hogere overdrachtssnelheden dan externe harde schijven (2000 MB/s)
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CGQ466W8{{</world>}}

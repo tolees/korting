@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Gevoerd elastische taille
-- Slim fit voor een touch-maatregel
+- Dri-FIT
 - Het helpt je blijft droog en comfortabel en gericht
 - Gevoerd met mesh voor ventilatie
-- Dri-FIT
+- Slim fit voor een touch-maatregel
+- Gevoerd elastische taille
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07W5XYSSJ{{</world>}}

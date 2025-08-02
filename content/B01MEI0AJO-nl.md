@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Droogt snel, zodat de inkt niet vlekt.
-- Verkrijgbaar in 14 krachtige kleuren.
-- Comfortabel drukmechanisme.
 - Zachte gelinkt voor een vloeibaar schrijfgevoel.
+- Comfortabel drukmechanisme.
 - Getextureerde greep voor comfortabel schrijven.
+- Verkrijgbaar in 14 krachtige kleuren.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01MEI0AJO{{</world>}}

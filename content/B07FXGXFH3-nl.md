@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - 【Stabiele Maattolerantie】 Minimale tolerantie en weinig kromtrekken om consistente invoer en stabiele afdrukken te garanderen, goede laaghechting, minder rijgen, geen luchtbellen, eenvoudige bediening, wat resulteert in een uitstekende oppervlakteafwerking en is zeer nauwkeurig.
-- 【PETG Filament】 Uitstekende helderheid, lichttransmissie en hoogglans. Hoge taaiheid. Goede slagvastheid. Goede mechanische sterkte. Uitstekende flexibiliteit. Weersbestendigheid. Chemische weerstand. Lage wateropname. Goede stabiliteit.
-- 【Hoge Compatibiliteit】 PETG heeft de voordelen van hoge taaiheid en goede mechanische eigenschappen (zoals ABS), heeft ook de kenmerken van printgemak en minimale vervorming (zoals PLA). Veel gebruikt in speelgoed, briefpapier, elektronische accessoires, enz.
 - 【Vacuüm Verzegelde Verpakking】 Netto gewicht filament: 1 kg. eSUN-filament wordt geleverd in een verzegelde vacuümzak met een droogzak, bewaar uw 3D-printerfilamenten gemakkelijk in een optimale opslagconditie en vrij van stof of vuil voordat u de gestofzuigde verzegelde verpakking opent.
 - 【Wirwar Gratis & Geen Verstopping】Totale lengte: 350-355m. Volledige 1KG 3D-printer filamenthaspel, perfecte rondheid en zeer nauwe diametertolerantie, overlapt niet of raakt niet in de war. Smelt goed, voer soepel en constant zonder het mondstuk of de extruder te verstoppen.
+- 【PETG Filament】 Uitstekende helderheid, lichttransmissie en hoogglans. Hoge taaiheid. Goede slagvastheid. Goede mechanische sterkte. Uitstekende flexibiliteit. Weersbestendigheid. Chemische weerstand. Lage wateropname. Goede stabiliteit.
+- 【Hoge Compatibiliteit】 PETG heeft de voordelen van hoge taaiheid en goede mechanische eigenschappen (zoals ABS), heeft ook de kenmerken van printgemak en minimale vervorming (zoals PLA). Veel gebruikt in speelgoed, briefpapier, elektronische accessoires, enz.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07FXGXFH3{{</world>}}

@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - EDUCATIEF: Ontdek de wereld van elektronica, mechanica, robotica, hydraulica of pneumatiek met de coole robotkits van Velleman. Perfect voor de toekomstige ingenieur!
-- GEDETAILLEERDE HANDLEIDING: In de handleiding wordt stap voor stap met duidelijke tekeningen, tips en tricks uitgelegd hoe je de robot bouwt.
-- PERFECT VOOR JONG EN OUD: Met deze kit kunnen kinderen vanaf 14 jaar zelf experimenteren en ontdekken hoe een robot werkt en welke techniek daarachter zit.
-- IDEAAL STEM-PROJECT:
 - TWEE MOEILIJKHEIDSNIVEAUS: Niveau 1 is perfect voor beginners, bouwniveau 2 is geschikt voor gevorderden.
+- PERFECT VOOR JONG EN OUD: Met deze kit kunnen kinderen vanaf 14 jaar zelf experimenteren en ontdekken hoe een robot werkt en welke techniek daarachter zit.
+- GEDETAILLEERDE HANDLEIDING: In de handleiding wordt stap voor stap met duidelijke tekeningen, tips en tricks uitgelegd hoe je de robot bouwt.
+- IDEAAL STEM-PROJECT:
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B075V99YPR{{</world>}}

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Zool: rubber
-- Sluiting: veters
-- Binnenmateriaal: synthetisch
-- Bovenmateriaal: synthetisch
 - Hakvorm: plat
+- Binnenmateriaal: synthetisch
+- Zool: rubber
+- Bovenmateriaal: synthetisch
+- Sluiting: veters
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BN6QMQ32{{</world>}}

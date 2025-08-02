@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Ethernet WAN
-- Aantal Ethernet LAN (RJ-45)-poorten: 4 USB-poort
-- Dual-band (2.4 GHz / 5 GHz) Wi-Fi 6 (802.11ax) 5400 Mbit/s
 - Router om neer te zetten Zwart
+- Dual-band (2.4 GHz / 5 GHz) Wi-Fi 6 (802.11ax) 5400 Mbit/s
+- Aantal Ethernet LAN (RJ-45)-poorten: 4 USB-poort
+- Ethernet WAN
 - Gigabit Ethernet
 
 [🛒 Buy it now!!]({{< param buyurl >}})

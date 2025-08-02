@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Inhoud: AC1200-Repeater RE305 installatiehandleiding (mogelijk niet beschikbaar in het Nederlands).
-- Werkt zowel op 2,4 GHz (300 Mbps) als 5GHz (867 Mbps) voor stabielere verbindingen.
-- Werkt met alle gangbare WLAN-routers en -toegangspunts.
 - De intelligente signaalsterktemeter helpt je bij het bepalen van de optimale werkplek.
+- Inhoud: AC1200-Repeater RE305 installatiehandleiding (mogelijk niet beschikbaar in het Nederlands).
+- Werkt met alle gangbare WLAN-routers en -toegangspunts.
+- Werkt zowel op 2,4 GHz (300 Mbps) als 5GHz (867 Mbps) voor stabielere verbindingen.
 - Wifi-uitbreiding met één druk op de knop voor het verwijderen van radiografische gaten tot 1,2 Gbps.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

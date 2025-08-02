@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Bovenwerk van mesh en suède biedt uitzonderlijke pasvorm en ondersteuning
-- Gegoten veiligheidsneus
 - Omni-grip niet-markerend tractierubber
+- Gegoten veiligheidsneus
 - Techlite tussenzool voor langdurig comfort, superieure demping en hoge energieteruggave
 
 [🛒 Buy it now!!]({{< param buyurl >}})

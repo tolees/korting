@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Edition: Standard
-- Platform: SWITCH
 - It Takes Two
+- Platform: SWITCH
+- Edition: Standard
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BFB35MNK{{</world>}}

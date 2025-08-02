@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Laarzen met stevig design voor soepele bewegingen
 - Geschikt voor: koud weer
+- Laarzen met stevig design voor soepele bewegingen
 - De duurzame materialen zorgen voor extra warmte
 
 [🛒 Check the deal!!]({{< param buyurl >}})

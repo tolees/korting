@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- USB-C-Ladekabel mit 3 Meter Länge
+- Kabelloser Controller mit Bluetooth 5.0-Technologie
+- Bewegungssteuerungen und programmierbare Tasten für erweiterte Spielfunktionen
 - LEDs für Spieler-Nummer, Tastenprogrammierung und Warnung bei niedrigem Batteriestand
 - Zweijährige eingeschränkte Garantie – Details auf PowerA.com/Support
 - Offiziell für Nintendo Switch und Nintendo Switch Lite lizenziert
-- Kabelloser Controller mit Bluetooth 5.0-Technologie
-- USB-C-Ladekabel mit 3 Meter Länge
-- Bewegungssteuerungen und programmierbare Tasten für erweiterte Spielfunktionen
 - Kabelloser Gaming-Controller mit internem wiederaufladbaren Akku: bis zu 30 Stunden pro Ladung
 
 [🛒 Check the deal!!]({{< param buyurl >}})

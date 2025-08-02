@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Deze Ravensburger puzzel van 1000 stukjes is geschikt voor zowel beginnende als ervaren puzzelaars. Jong en oud zullen genieten van deze hp: Harry Potter 5 puzzel
+- Deze legpuzzel toont de jonge tovenaar Harry Potter die vecht tegen de dementors. Zowel het motief als de verpakking inspireren door hun buitengewone design
 - Merk: Ravensburger
 - De puzzelkwaliteit van Ravensburger in één oogopslag: verscheidenheid aan vormen dankzij handgemaakte stansmessen, precies passende en knikbestendige puzzelstukken, reflexvrij puzzelbeeld dankzij natuurlijk linnen reliëf
-- Deze legpuzzel toont de jonge tovenaar Harry Potter die vecht tegen de dementors. Zowel het motief als de verpakking inspireren door hun buitengewone design
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08KF578RR{{</world>}}

@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Gevlochten USB-A-kabel naar Lightning-kabel
-- Het gevlochten nylon buitenmateriaal is op kwaliteit getest en is bestand tegen cycli van meer dan 10.000 buigingen
 - Apple-MFi-gecertificeerd voor veilige en betrouwbare werking met iOS-apparaten
 - Kleur: Wit
-- Laad en synchroniseer je iPhone, iPad en AirPods
 - Lengte: 3.048 cm
+- Laad en synchroniseer je iPhone, iPad en AirPods
+- Het gevlochten nylon buitenmateriaal is op kwaliteit getest en is bestand tegen cycli van meer dan 10.000 buigingen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B086H3YDVM{{</world>}}

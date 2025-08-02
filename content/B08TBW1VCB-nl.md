@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Brede pasvorm voor een casual draagcomfort.
 - Synthetische vulling voor warmte bij een laag gewicht
-- De waterafstotende afwerking zorgt voor droogte bij regen.
 - Zakken met drukknopen.
+- De waterafstotende afwerking zorgt voor droogte bij regen.
+- Brede pasvorm voor een casual draagcomfort.
 - Het verlengde ontwerp met doorlopende ritssluiting biedt bescherming tegen weer en wind.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

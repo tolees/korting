@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - SoftFoam+: Pumas innovatieve zachte binnenzool voor maximaal loopcomfort van de eerste tot de laatste stap
-- Bovenmateriaal van textiel
 - Lage snit
+- Bovenmateriaal van textiel
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07SBWMD2V{{</world>}}

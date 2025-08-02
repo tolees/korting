@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Concentrator-opzetstuk voor nauwkeurige styling
-- Draaibaar snoer en ophanglus om gemakkelijk op te bergen
 - Speciaal ontworpen voor op reis, compacte haardroger, inklapbare handgreep, past gemakkelijk in je sporttas op reistas
+- Draaibaar snoer en ophanglus om gemakkelijk op te bergen
 - Reishaardroger van 1400 Watt met universeel voltage
 - 2 temperatuurstanden & snelheden
 

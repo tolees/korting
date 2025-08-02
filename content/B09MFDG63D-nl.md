@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Met de indicator van de loodhardheid kunt u potloden snel identificeren tijdens het werken
-- Messing mechanisme levert precisie lood vooruitgang
-- Premium mechanisch potlood met lichtgewicht plastic behuizing en gestructureerde metalen gripzone biedt comfort bij het schrijven of schetsen
 - Vaste loodgeleidingshuls voorkomt breuk en biedt een ongehinderde paginaweergave voor nauwkeurige liniaalgebaseerde tekening
+- Met de indicator van de loodhardheid kunt u potloden snel identificeren tijdens het werken
+- Premium mechanisch potlood met lichtgewicht plastic behuizing en gestructureerde metalen gripzone biedt comfort bij het schrijven of schetsen
+- Messing mechanisme levert precisie lood vooruitgang
 - Zeshoekig vat zorgt voor moeiteloos schrijven en tekenen en voorkomt dat het gereedschap rolt, zelfs op schuine tekentafels
 
 [🛒 Check the deal!!]({{< param buyurl >}})

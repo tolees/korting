@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Geschikt voor: warm weer
 - Sandalen met absorberend design voor soepele bewegingen
+- Geschikt voor: warm weer
 - Kledingsstijl: informeel
 
 [🛒 Check the deal!!]({{< param buyurl >}})

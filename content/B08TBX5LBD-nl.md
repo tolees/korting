@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Synthetische vulling voor warmte bij een laag gewicht
 - De waterafstotende afwerking zorgt voor droogte bij regen.
 - Brede pasvorm voor een casual draagcomfort.
-- Het verlengde ontwerp met doorlopende ritssluiting biedt bescherming tegen weer en wind.
 - Zakken met drukknopen.
+- Synthetische vulling voor warmte bij een laag gewicht
+- Het verlengde ontwerp met doorlopende ritssluiting biedt bescherming tegen weer en wind.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08TBX5LBD{{</world>}}

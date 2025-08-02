@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Instelbaar: kantelen 5 graden omhoog en omlaag en 2 in hoogte verstelbare montagegaten voor een betere kijkflexibiliteit.
-- Bescherming: 3mm voeten zachte pad op basis voorkomt krassen op vloer of kastoppervlak.
-- Pakket bevat: Wordt compleet geleverd met instructies plus alle accessoires die nodig zijn voor eenvoudige installatie.
-- Compatibiliteit: De tv-standaards bevatten de meeste 23-inch - 42-inch tvs en ondersteunen een gewicht tot 40 kg. Compatibel met VESA van 50x50mm tot 200x400mm.
 - Kabelbeheer: decoratieve plastic hoezen kunnen de tv-kabel effectief verbergen en het tafelblad opgeruimd maken.
+- Compatibiliteit: De tv-standaards bevatten de meeste 23-inch - 42-inch tvs en ondersteunen een gewicht tot 40 kg. Compatibel met VESA van 50x50mm tot 200x400mm.
+- Pakket bevat: Wordt compleet geleverd met instructies plus alle accessoires die nodig zijn voor eenvoudige installatie.
+- Bescherming: 3mm voeten zachte pad op basis voorkomt krassen op vloer of kastoppervlak.
+- Instelbaar: kantelen 5 graden omhoog en omlaag en 2 in hoogte verstelbare montagegaten voor een betere kijkflexibiliteit.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B075WTX82R{{</world>}}

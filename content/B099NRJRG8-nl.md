@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Voeg tot wel 10 slimme lampen toe en bedien ze allemaal heel eenvoudig met één druk op knop in de Hue app op je smartphone of tablet.
-- Deze twee slimme E27 LED-lampen passen in de meeste armaturen en geven koel licht, warm licht en alles daartussenin. Bovendien kun je ze moeiteloos dimmen.
 - Maak verbinding met de apart verkrijgbare Hue Bridge om nog veel meer mogelijkheden van je slimme verlichting te ontgrendelen: dan kun je gebruik maken van alle slimme bedieningsopties en functies, zelfs als je niet thuis bent. Bedien je lampen met de Philips Hue app, voeg accessoires toe en stel timers en routines in.
 - Verlichting voor elk moment van de dag met vier voorgeprogrammeerde lichtrecepten: Read, Relax, Concentrate of Energize. Stel het perfecte licht in voor je dagelijkse activiteiten. Elk afzonderlijk lichtrecept is volledig afgestemd op de juiste kleur en temperatuur voor optimale verlichting bij alles wat je doet​.
 - Moeiteloos, draadloos dimmen - Doe je slimme lampen aan en uit of dim ze snel van helder licht naar het subtiele lichtniveau van een nachtlampje. Je hebt geen nieuwe bedrading nodig in je huis.
+- Deze twee slimme E27 LED-lampen passen in de meeste armaturen en geven koel licht, warm licht en alles daartussenin. Bovendien kun je ze moeiteloos dimmen.
+- Voeg tot wel 10 slimme lampen toe en bedien ze allemaal heel eenvoudig met één druk op knop in de Hue app op je smartphone of tablet.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B099NRJRG8{{</world>}}

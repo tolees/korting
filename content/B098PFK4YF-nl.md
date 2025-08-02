@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - RECYCLED
-- Flexibel en elastisch:
 - LICHTGEWICHT
+- Flexibel en elastisch:
 - EASY FIT
 - Zacht gevoel
 

@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - 3 extra reservepads
-- Dikke, ronde siliconen pad voor een optimale swing
 - Voor perfect gebogen wimpers
+- Dikke, ronde siliconen pad voor een optimale swing
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B000EMWHD2{{</world>}}

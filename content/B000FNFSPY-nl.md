@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 5 10/100Mbps Auto-Negotiation RJ45-poorten, ondersteunt Auto MDI/MDIX
-- Plug-and-Play, geen configuratie nodig
 - Groene ethernet-technologie bespaart tot 70% energie
 - Plastic behuizing, desktop of wandmontage
 - IEEE 802.3x gegevensstroombeheer zorgt voor een betrouwbare gegevensoverdracht
+- 5 10/100Mbps Auto-Negotiation RJ45-poorten, ondersteunt Auto MDI/MDIX
+- Plug-and-Play, geen configuratie nodig
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B000FNFSPY{{</world>}}

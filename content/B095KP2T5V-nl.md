@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- hoogwaardig en robuust ontwerp, reinig de onderdelen (zonder stickers) onder stromend water zonder chemicaliën. Speelgoed voor kinderen vanaf 5 jaar
-- Legendarische bus uit de cultserie The A-Team: PLAYMOBIL A-Team bus met ruim interieur en personages uit de A-Team serie
+- Inhoud levering: 1 x PLAYMOBIL De A-Team bestelwagen, 69-delige speelfiguurset met instructies: 1 De A-Team bestelwagen, 4 A-Team figuren, 64 accessoires, materiaal: kunststof, LxBxH voertuig: 29x12,5 cm, schaal (A-Team model bestelwagen): ca. 1:17, gewicht: 592 g, 70750
 - Afneembaar dak, achterklep kan open, toegankelijke zijdeur, 5 zitplaatsen en nog veel meer incl. de personages uit de serie: Hannibal, B.A. Baracus, Faceman, Captain Murdock
 - A-Team bus met iconisch lakwerk, verlengde zonneklep en rode velgen, een ideaal verzamelobject of een origineel cadeau om te geven
-- Inhoud levering: 1 x PLAYMOBIL De A-Team bestelwagen, 69-delige speelfiguurset met instructies: 1 De A-Team bestelwagen, 4 A-Team figuren, 64 accessoires, materiaal: kunststof, LxBxH voertuig: 29x12,5 cm, schaal (A-Team model bestelwagen): ca. 1:17, gewicht: 592 g, 70750
+- hoogwaardig en robuust ontwerp, reinig de onderdelen (zonder stickers) onder stromend water zonder chemicaliën. Speelgoed voor kinderen vanaf 5 jaar
+- Legendarische bus uit de cultserie The A-Team: PLAYMOBIL A-Team bus met ruim interieur en personages uit de A-Team serie
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B095KP2T5V{{</world>}}

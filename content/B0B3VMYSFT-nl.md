@@ -28,15 +28,15 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Zachte, ademende oorkussens
 - Ruisonderdrukkende, flip-to-mute microfoon
 - Officieel gelicentieerd door Nintendo Compatibel met Nintendo Switch, Nintendo Switch Lite en Nintendo Switch (OLED-model)
 - Ultralicht ontwerp
-- Ultralicht ontwerp
+- Eersteklas audio dankzij 40 mm drivers
 - Eersteklas audio dankzij 40 mm drivers
 - Ruisonderdrukkende, flip-to-mute microfoon
+- Ultralicht ontwerp
 - Zachte, ademende oorkussens
-- Zachte, ademende oorkussens
-- Eersteklas audio dankzij 40 mm drivers
 - Officieel gelicentieerd door Nintendo Compatibel met Nintendo Switch, Nintendo Switch Lite en Nintendo Switch (OLED-model)
 
 [🛒 Check the deal!!]({{< param buyurl >}})

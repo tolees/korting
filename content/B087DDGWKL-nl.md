@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Compatibiliteit: Windows 7 en hoger, Mac OS X 10.10 en hoger, of Android 5.1 (Lollipop) en hoger. Oudere versies van de besturingssystemen Windows, Mac en Android worden mogelijk niet ondersteund
 - Supersnel bestanden overzetten tot 1050 MB/s, tot 9,5x sneller dan een externe HDD
-- Beveiliging: optionele wachtwoordbeveiliging en AES 256 bit hardware-encryptie
 - Stevig: schokbestendig intern frame waardoor de T7 bestand is tegen vallen tot 2 m
+- Beveiliging: optionele wachtwoordbeveiliging en AES 256 bit hardware-encryptie
 - Interface: USB 3.2 Gen 2 (tot 10 Gbps). Ondersteunt ook ouder versies
+- Compatibiliteit: Windows 7 en hoger, Mac OS X 10.10 en hoger, of Android 5.1 (Lollipop) en hoger. Oudere versies van de besturingssystemen Windows, Mac en Android worden mogelijk niet ondersteund
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B087DDGWKL{{</world>}}

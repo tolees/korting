@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Eco-verpakking: in plaats van kunststof spoelen gebruiken we papieren spoelen en papieren dozen om PLA-filament te verpakken. Het PLA-filament is vacuüm verpakt met hoogwaardig droogmiddel om het droog te houden.
+- 【Levenslange garantie】 Sovol biedt een terugbetaling als de zijde PLA niet werkt zoals verwacht. Als je vragen hebt, neem dan contact met ons op
 - Gemakkelijk te printen: de diametertolerantie van dit 1,75 PLA-filament bedraagt +/- 0,03 mm. Een stabielere diametertolerantie van 3D-printerfilament zorgt voor een soepelere 3D-printerervaring. Universele compatibiliteit met de meeste FDM 3D-printers en 3D-pennen.
 - Geïmporteerde PLA-grondstof: de grondstof komt uit de VS en is ontwikkeld en gemoduleerd om een charmante glans op de PLA te tonen. Geen files, geen luchtbellen, geen klitten en geen gelaagde lijn. Perfecte hechting van de eerste laag ter vermindering van kromtrekken, krimp, rolhelling en drukfouten.
 - Driekleurig co-geëxtrudeerd filament: anders dan normaal PLA-filament met kleurverandering, bestaat elke centimeter van het Sovol Magic 3D-filament uit drie kleuren. Je ontvangt gemakkelijk alle 3 kleuren, zelfs voor zeer kleine prints. Je kunt de zichtbare kleur veranderen door het kleurenmengfilament in verschillende richtingen te draaien. Meerkleurige zijdefilamenten kunnen met ongelooflijke parelglans en een prachtig glanzend oppervlak worden afgegeven.
-- Eco-verpakking: in plaats van kunststof spoelen gebruiken we papieren spoelen en papieren dozen om PLA-filament te verpakken. Het PLA-filament is vacuüm verpakt met hoogwaardig droogmiddel om het droog te houden.
-- 【Levenslange garantie】 Sovol biedt een terugbetaling als de zijde PLA niet werkt zoals verwacht. Als je vragen hebt, neem dan contact met ons op
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0C38B5K7R{{</world>}}

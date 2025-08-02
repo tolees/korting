@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- De ritszakken houden je handen warm en je kunt je waardevolle spullen, zoals smartphones, enz. veilig opbergen
 - Verkrijgbaar in diverse kleuren; ideaal voor dagelijks gebruik
-- Inhoud: 1x Columbia Fast Trek II jack voor dames; 100% polyester microfleece; kleur: zwart; maat: M; art.nr. 1465351
-- Zachte, lichte fleece voor dames om je warm te houden tijdens je avonturen in de buitenlucht; geschikt voor alle seizoenen
 - Optimaal comfort dankzij de verstelbare zoom met trekkoord
+- Zachte, lichte fleece voor dames om je warm te houden tijdens je avonturen in de buitenlucht; geschikt voor alle seizoenen
+- Inhoud: 1x Columbia Fast Trek II jack voor dames; 100% polyester microfleece; kleur: zwart; maat: M; art.nr. 1465351
+- De ritszakken houden je handen warm en je kunt je waardevolle spullen, zoals smartphones, enz. veilig opbergen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B008CDT6E8{{</world>}}
