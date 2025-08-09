@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - ronde hals
-- T-shirt voor opleiding of presentatie
 - Lichte elastische eigenschappen
+- T-shirt voor opleiding of presentatie
 - Groot Nike-logo print
 
 [🛒 Check the deal!!]({{< param buyurl >}})

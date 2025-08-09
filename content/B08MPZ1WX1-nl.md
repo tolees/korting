@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- De duurzame materialen zorgen voor extra warmte
 - Geschikt voor: koud weer
+- De duurzame materialen zorgen voor extra warmte
 - Laarzen met stevig design voor soepele bewegingen
 
 [🛒 Buy it!!]({{< param buyurl >}})

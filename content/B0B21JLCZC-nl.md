@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Altijd online: Toegang tot internet op plaatsen waar de vaste lijn niet wordt bereikt
-- Twee verwijderbare LTE-antennes: Geniet van stabiele, efficiënte en snelle verbindingen met al uw apparaten
 - Gastennet: Toegang en besturing van meerdere gasten
+- Twee verwijderbare LTE-antennes: Geniet van stabiele, efficiënte en snelle verbindingen met al uw apparaten
+- Altijd online: Toegang tot internet op plaatsen waar de vaste lijn niet wordt bereikt
 - Snel: tot 150 Mbit/s download, 5 keer sneller dan HSPA+ (3G)
 - Plug and play: Plaats de simkaart en direct zonder kabel verbinden
 

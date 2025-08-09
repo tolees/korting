@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Navulbaar met de STABILO Ballpoint navulling
-- Balpen in het design van de STABILO point 88 fineliner
 - Voor bijzonder soepel en snel schrijven
-- Antislip gripzone en praktische clip voor onderweg
+- Balpen in het design van de STABILO point 88 fineliner
 - Verkrijgbaar in 6 kleuren en de lijndikte: 0,5 mm
+- Antislip gripzone en praktische clip voor onderweg
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B00AVQ8IAC{{</world>}}

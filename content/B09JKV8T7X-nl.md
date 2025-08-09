@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 100% officieel gelicentieerd origineel product
-- Tosti-ijzer met vakken voor kinderen om mee te nemen
 - Gemaakt van duurzaam kunststof
 - Het zal je kleintjes blij maken om ze overal mee naartoe te nemen
+- Tosti-ijzer met vakken voor kinderen om mee te nemen
+- 100% officieel gelicentieerd origineel product
 - Aantrekkelijke ontwerpen gebaseerd op de hoofdfiguren
 
 [🛒 Check the deal!!]({{< param buyurl >}})

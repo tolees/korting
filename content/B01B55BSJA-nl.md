@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- PRETPARK BOUWSPEELGOED: De pretpark-bouwset van KNEX bevat 3 grote, beweegbare schaalmodellen van iconische attracties. Met de 744 speelstukjes van deze realistische bouwset kunnen kinderen het beroemde reuzenrad, de zweefmolen en de ‘Boom Ride’ bouwen.
+- LEEFTIJD EN GESCHIKTHEID: Ideaal voor kinderen van 9 jaar en ouder om hun fantasie en nieuwsgierigheid te prikkelen tijdens het ontwerpen en bouwen van indrukwekkende reproducties van beroemde attracties.
 - EDUCATIEF LEERPROCES: Deze knutselset voor kinderen biedt volledig operationele, op batterijen werkende miniatuurattracties waarmee kinderen op een spannende manier vertrouwd kunnen raken met de basisprincipes van ontwerp en structuur.
 - FANTASTISCH CADEAU VOOR KINDEREN: Bouwspeelgoed van KNEX is ideaal als kerst- of verjaardagscadeau voor jongens en meisjes. Het helpt ze op een boeiende manier hun ideeën tot leven te laten komen terwijl ze nieuwe dingen leren en zich verder ontwikkelen.
-- LEEFTIJD EN GESCHIKTHEID: Ideaal voor kinderen van 9 jaar en ouder om hun fantasie en nieuwsgierigheid te prikkelen tijdens het ontwerpen en bouwen van indrukwekkende reproducties van beroemde attracties.
 - EDUCATIEF SPEELPLEZIER: De bouwset met pretparkattracties van KNEX helpt kinderen bij het ontwikkelen van STEM-basisvaardigheden terwijl ze de eenvoudige bouwinstructies opvolgen of hun eigen creaties bouwen met de staafjes en verbindingsstukjes.
-- PRETPARK BOUWSPEELGOED: De pretpark-bouwset van KNEX bevat 3 grote, beweegbare schaalmodellen van iconische attracties. Met de 744 speelstukjes van deze realistische bouwset kunnen kinderen het beroemde reuzenrad, de zweefmolen en de ‘Boom Ride’ bouwen.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01B55BSJA{{</world>}}

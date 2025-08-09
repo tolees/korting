@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Antibacterial insole
+- Easy to wear, for unparalleled comfort
+- Lightweight footwear for greater freedom of movement
 - Removable insole
 - The patented Geox systems guarantee breathability of the outsole, ensuring the foot enjoys a sensation of wellbeing
-- Lightweight footwear for greater freedom of movement
-- Easy to wear, for unparalleled comfort
-- Antibacterial insole
 - Footwear that offers optimal cushioning and protection against impact and stress
 
 [🛒 Check the deal!!]({{< param buyurl >}})

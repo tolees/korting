@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Deze prachtige pop wordt aanbevolen voor kinderen vanaf 3 jaar oud
 - De Mirabel-pop is 26 cm lang en heeft beweegbare ledematen en een prachtig krullend kapsel
 - Inbegrepen: 1 pop, 1 poppenjurk, 1 bloemenhaarclip en 1 paar poppenschoenen
-- Deze prachtige pop wordt aanbevolen voor kinderen vanaf 3 jaar oud
 - Mirabel draagt ​​iconische brillen, pompom-oorbellen en espadrilles bij haar jurk, die door authentieke filmdetails en ontwerpen opvalt
 
 [🛒 Buy it!!]({{< param buyurl >}})

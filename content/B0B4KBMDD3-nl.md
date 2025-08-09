@@ -28,16 +28,16 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 180° brede kijkhoek: Vind de juiste positie voor uw deurbel met zijn 15° wedge kit en geniet van het super brede gezichtsveld. Krijg meer extra omgevingsdetails voor betere en snellere reacties.
-- Werkt met Alexa: Met Alexa is het mogelijk om dit product te bedienen via spraakopdrachten met behulp van een Alexa Built-in apparaat. Het Alexa Built-in apparaat wordt apart verkocht.
+- Gong inbegrepen: Sluit de meegeleverde gong aan op elk stopcontact in elke kamer en word vol vertrouwen gewaarschuwd wanneer bezoekers "kloppen". U kunt 1 van de 10 melodieën kiezen en het volume regelen.
 - 5MP Super HD Dag & Nacht: Onovertroffen 5MP HD, met geavanceerde HDR/3D DNR en vervormingscorrectietechnologieën, zorgt voor scherpe en gedetailleerde beelden, zelfs bij weinig licht.
 - 2,4/5GHz Dual-Band WiFi: Geen zorgen over de netwerkverbinding; de 5GHz WiFi zorgt voor een stabiele en vloeiende netwerkervaring. Ook geen zorgen over slecht weer; hij is waterdicht!
-- Gong inbegrepen: Sluit de meegeleverde gong aan op elk stopcontact in elke kamer en word vol vertrouwen gewaarschuwd wanneer bezoekers "kloppen". U kunt 1 van de 10 melodieën kiezen en het volume regelen.
-- Beantwoord de deur sneller: Met de ingebouwde microfoon en luidspreker kunt u de bezoekers horen en terugpraten, zelfs als u niet thuis bent. U kunt ook spraakberichten of automatische antwoorden instellen voor tijden dat u bezet bent.
 - Nauwkeurige waarschuwingen: U kunt hem zo instellen dat u wordt gewaarschuwd wanneer mensen worden gedetecteerd, waarbij triviale niet-menselijke voorbijgangers worden genegeerd, en u kunt een bewegingszone instellen om te bepalen waar bewegingen van objecten worden gedetecteerd.
 - Beantwoord uw deur, handsfree: Je zegt gewoon "Hé Google, laat me de achtertuin zien" en je kunt op je Google Nest Hub of Chromecast-televisie zien wat daar gebeurt.
+- Werkt met Alexa: Met Alexa is het mogelijk om dit product te bedienen via spraakopdrachten met behulp van een Alexa Built-in apparaat. Het Alexa Built-in apparaat wordt apart verkocht.
 - Flexibele opslagmogelijkheden: Het ondersteunt pre-rol opname, die waardevolle 6s beelden van voordat een gebeurtenis wordt geactiveerd biedt. Opnamen kunnen worden opgeslagen op een micro SD-kaart (max. 256 GB, niet meegeleverd), Reolink NVR of Reolink Cloud.
+- 180° brede kijkhoek: Vind de juiste positie voor uw deurbel met zijn 15° wedge kit en geniet van het super brede gezichtsveld. Krijg meer extra omgevingsdetails voor betere en snellere reacties.
 - Twee oplaadopties: U kunt uw deurbel opladen door deze aan te sluiten op de bestaande draden van uw huis of door de stroomadapter te gebruiken. Kies er een die het beste bij uw huis past.
+- Beantwoord de deur sneller: Met de ingebouwde microfoon en luidspreker kunt u de bezoekers horen en terugpraten, zelfs als u niet thuis bent. U kunt ook spraakberichten of automatische antwoorden instellen voor tijden dat u bezet bent.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0B4KBMDD3{{</world>}}

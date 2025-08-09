@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Keuze uit kleuren voor afstemming op uw stijl
 - Frequentiebereik van 8 Hz-22 kHz
-- Comfortabele, nauwsluitende siliconen oordopjes
+- Keuze uit kleuren voor afstemming op uw stijl
 - Lichtgewicht voor ultieme mobiliteit in muziek
 - Neodymium-drivers van 9 mm voor dynamisch geluid
+- Comfortabele, nauwsluitende siliconen oordopjes
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00I3LUQPW{{</world>}}

@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Met de exclusieve WiFi 6E-band voor superieure HD-videoconferenties, games en streaming. Sluit de dongle eenvoudig aan op een desktop of laptop. Geen netwerkkaart of ISP-abonnement vereist
-- Compatibel met alle routers en mesh-systemen; werkt het beste met WiFi 6E-routers of mesh-systemen. WiFi 6E-router vereist voor toegang tot 6GHz-band
-- Het sterkste WiFi-signaal en de beste dekking met de kantelbare antenne
 - Compacte houder voor flexibele plaatsing
 - Snelle AX3000 WiFi-snelheid, tot 3 Gbps, 2,5x sneller dan WiFi 5, achterwaarts compatibel met 802.11 a/b/g/n/ac WiFi
+- Compatibel met alle routers en mesh-systemen; werkt het beste met WiFi 6E-routers of mesh-systemen. WiFi 6E-router vereist voor toegang tot 6GHz-band
+- Het sterkste WiFi-signaal en de beste dekking met de kantelbare antenne
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BT7PYRLT{{</world>}}

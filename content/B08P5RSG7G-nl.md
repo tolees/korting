@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Schoenen van het merk Columbia
-- Gemaakt van duurzame materialen
-- Comfortabel en licht design
 - Duurzame design zorgt voor lang gebruik
+- Comfortabel en licht design
+- Gemaakt van duurzame materialen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08P5RSG7G{{</world>}}

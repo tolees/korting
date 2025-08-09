@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Ongelooflijke details die deze Pokémon laten lijken alsof het rechtstreeks uit de Pokémon animatieserie is gesprongen
+- 15+ articulatiepunten!
 - Wordt geleverd met een accessoire, perfect om te tentoonstellen!
 - Veel meer figuren om te verzamelen! Pak ze allemaal!
-- 15+ articulatiepunten!
+- Ongelooflijke details die deze Pokémon laten lijken alsof het rechtstreeks uit de Pokémon animatieserie is gesprongen
 - Een officieel gelicentieerd Pokémon product van Jazwares! Geschikt vanaf 8 jaar.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Medium gesneden - gevoerd ontwerp
 - Pasvorm: smal
-- Geweldig swoosh-design voor een Rétro touch
 - Zool met visstopmotief
+- Medium gesneden - gevoerd ontwerp
 - Schoenbreedte: gemiddeld
+- Geweldig swoosh-design voor een Rétro touch
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08GJ3XNBH{{</world>}}

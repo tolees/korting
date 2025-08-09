@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- La figura mide 15 cm y viene en una caja de exhibición de ventana
-- POP Deluxe: Harry Potter Anniversary- Harry Pushing Trolley Vinilo de lujo de Funko
+- Colecciónalos todos!
 - Mira las otras figuras de Funko dedicadas a esta colección
 - Funko POP! es el juguete del año 2018 Peoples Choice
-- Colecciónalos todos!
+- POP Deluxe: Harry Potter Anniversary- Harry Pushing Trolley Vinilo de lujo de Funko
+- La figura mide 15 cm y viene en una caja de exhibición de ventana
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08WCQ4TG7{{</world>}}

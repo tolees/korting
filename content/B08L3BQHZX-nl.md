@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 2,4 GHz: Het Homekit nachtlampje werkt op je 2,4 g WiFi-netwerk. Werkt niet met 5G-netwerk. Om milieuredenen ondersteunt het led-nachtlampje geen batterij. Dit Wifi led-nachtlampje maakt gebruik van een DC-kabel voor de stroomvoorziening. Geen hub nodig.
+- Perfecte sfeer: Het omgevingslicht beschikt over twee kleurmodi, heldere kleuren en zuiver warm wit licht. Bedien je slimme led-nachtlampje altijd en overal met de Meross-app. Pas de helderheid vrij aan en stel meerdere RGB-kleuren in. Heel schattig en modieus.
 - - Geldt alleen voor 2,4 GHz Wifi. - -
 - Spraakherkenning: Wifi nachtlampjes zijn compatibel met Apple HomeKit, Siri, Alexa Google Assistant en SmartThings. Je kunt de spraakherkenning gebruiken om de Smart tafellamp via de Apple Watch of iPhone te beheren. Het is eenvoudig en comfortabel en biedt je een ontspannen leven.
+- 2,4 GHz: Het Homekit nachtlampje werkt op je 2,4 g WiFi-netwerk. Werkt niet met 5G-netwerk. Om milieuredenen ondersteunt het led-nachtlampje geen batterij. Dit Wifi led-nachtlampje maakt gebruik van een DC-kabel voor de stroomvoorziening. Geen hub nodig.
 - Siri & HomeKit: Meross led-nachtlampje, kan met Apple HomeKit (iOS 13 of hoger), Apple Watch, Alexa, Google Assistant en IFTTT samenwerken om je apparaat met spraakherkenning te beheren. Zeg gewoon: ""Hé Siri, stel de lamp in op paars". De HomeKit lamp creëert onbeperkte mogelijkheden naar wens.
-- Perfecte sfeer: Het omgevingslicht beschikt over twee kleurmodi, heldere kleuren en zuiver warm wit licht. Bedien je slimme led-nachtlampje altijd en overal met de Meross-app. Pas de helderheid vrij aan en stel meerdere RGB-kleuren in. Heel schattig en modieus.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08L3BQHZX{{</world>}}

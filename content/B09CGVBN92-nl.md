@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 1x uitnodigingskaart / speelkaart van karton / karton inbegrepen in de set
 - Past perfect bij de rode cape - masker van de schurk - of 067 driehoek, vierkant of cirkelmasker
+- 1x uitnodigingskaart / speelkaart van karton / karton inbegrepen in de set
 - Hoogwaardig eng masker met garantie voor alle Halloween-fans
 
 [🛒 Buy it now!!]({{< param buyurl >}})

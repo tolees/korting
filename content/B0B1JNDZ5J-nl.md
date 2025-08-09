@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Het ontwerp van de bewegende kap beschermt de USB-connector
 - De lus kan eenvoudig aan sleutelringen worden bevestigd
+- Het ontwerp van de bewegende kap beschermt de USB-connector
 - Meerdere kleuropties per capaciteit
 
 [🛒 Check the deal!!]({{< param buyurl >}})

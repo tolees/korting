@@ -30,8 +30,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - De gepatenteerde Geox-systemen garanderen de ademende werking van de buitenzool, zodat de voet comfortabel blijft.
 - Het Zero Shock-systeem met schokabsorberende bolletjes versterkt het dempingseffect en biedt meer bescherming tegen schokken en stress.
-- Gemakkelijk aanpasbare pasvorm, dankzij de vetersluiting.
 - Lichtgewicht schoeisel voor meer bewegingsvrijheid.
+- Gemakkelijk aanpasbare pasvorm, dankzij de vetersluiting.
 - Uitneembare binnenzool
 
 [🛒 Buy it!!]({{< param buyurl >}})

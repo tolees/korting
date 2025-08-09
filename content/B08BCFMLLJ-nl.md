@@ -30,8 +30,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Techlite tussenzool voor langdurig comfort, superieure demping en hoge energieteruggave
 - Omni-grip niet-markerend tractierubber
-- Bovenwerk van mesh en suède biedt uitzonderlijke pasvorm en ondersteuning
 - Gegoten veiligheidsneus
+- Bovenwerk van mesh en suède biedt uitzonderlijke pasvorm en ondersteuning
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08BCFMLLJ{{</world>}}

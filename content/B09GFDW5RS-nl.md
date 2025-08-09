@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Laad maximaal twee controllers tegelijkertijd op
-- Ruimtebesparend, verticaal dockingontwerp past bij de stijl van je console
-- USB-voeding via de poort van je console
-- Indicatielampjes geven de laad- en verbindingsstatus aan (console moet aan of in slaapmodus staan)
 - Geen converters nodig dankzij de naadloze en directe verbinding
+- Ruimtebesparend, verticaal dockingontwerp past bij de stijl van je console
+- Laad maximaal twee controllers tegelijkertijd op
+- Indicatielampjes geven de laad- en verbindingsstatus aan (console moet aan of in slaapmodus staan)
+- USB-voeding via de poort van je console
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09GFDW5RS{{</world>}}

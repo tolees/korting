@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Sinds 1967 het origineel onder de jeansjassen
 - Dit is een origineel Levis product
 - B07ZVPWFWJ
+- Sinds 1967 het origineel onder de jeansjassen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07ZVPWFWJ{{</world>}}

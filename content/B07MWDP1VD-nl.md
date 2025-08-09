@@ -30,9 +30,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Inclusief Sony Alpha 6400 systeemcamera zwart, SEL-P1650 lens, accu (NP-FW50), micro-USB-kabel, netsnoer, voeding: AC-UUE12, lensdop, oculairdop, schouderriem, accessoireschoendop
 - Autofocus met 84% sensorveldafdekking en 425-fasen en contrast AF-punten real-time autofocus met 0,02 seconden reactietijd inclusief oog-AF en real-time AF-tracking
-- 7,5 cm (3 inch) 180 ° touch-display met touch-shutter en touch-focus-bediening
-- 24,2 megapixel resolutie van de Exmor APS-C-sensor met ISO 102400
 - Hoge resolutie interne 4K video-opname
+- 24,2 megapixel resolutie van de Exmor APS-C-sensor met ISO 102400
+- 7,5 cm (3 inch) 180 ° touch-display met touch-shutter en touch-focus-bediening
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07MWDP1VD{{</world>}}

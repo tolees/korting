@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Inhoud: 1 x Columbia unisex zonnehoed, mooie bank, materiaal: nylon, kleur: groen (sage), grootte: One size, CU9108
 - Nekbescherming, UVA- en UVB-bescherming (LSF 50), ook op bijzonder zonnige dagen dankzij Omni-Shade-technologie.
-- Omni-Wick zweetband voor meer koeling, ook op warme dagen.
 - Unisex zonnehoed met nekbescherming, ideaal voor indoor- en outdoor-, sport- en vrijetijdsactiviteiten.
+- Inhoud: 1 x Columbia unisex zonnehoed, mooie bank, materiaal: nylon, kleur: groen (sage), grootte: One size, CU9108
+- Omni-Wick zweetband voor meer koeling, ook op warme dagen.
 - Verstelbaar trekkoord voor een veilige en perfecte pasvorm.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

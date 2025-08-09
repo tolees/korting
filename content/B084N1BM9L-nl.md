@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Verkrijgbaar in de lengtes 3 m, 2 m, 1 m en 15 cm
 - Bestand tegen 10.000 bochten en is dienovereenkomstig getest
+- Verkrijgbaar in de lengtes 3 m, 2 m, 1 m en 15 cm
 - De versterkte gevlochten nylon ommanteling zorgt voor meer stevigheid
 - MFi-gecertificeerd om compatibiliteit
 

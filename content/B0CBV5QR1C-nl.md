@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- De shampoo is speciaal ontwikkeld om zeer beschadigd haar te herstellen. De luxueuze textuur dringt diep door in de haarvezel en zorgt voor moleculair herstel en intensieve verzorging. Voor sterk, gezond en soepel haar.
 - De haarvezel wordt van binnenuit versterkt en het haar wordt intensief gevoed, voor een soepel en zacht resultaat.
 - Breng de shampoo gelijkmatig aan op nat haar en laat het schuimen tot er een rijk schuim ontstaat.
+- De shampoo is speciaal ontwikkeld om zeer beschadigd haar te herstellen. De luxueuze textuur dringt diep door in de haarvezel en zorgt voor moleculair herstel en intensieve verzorging. Voor sterk, gezond en soepel haar.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CBV5QR1C{{</world>}}

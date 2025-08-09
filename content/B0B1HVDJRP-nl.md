@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - 【💡Comfortabele batterijbediening】: vereist 3 AA-batterijen (niet meegeleverd), elke set bevat een kleine waterdichte batterijbehuizing. In vergelijking met de wandstekker is de batterijbox eenvoudig te bedienen, eenvoudig van stroom te voorzien en kan naar wens worden gebruikt, zonder je zorgen te hoeven maken over stroomproblemen.
+- 【💡 Uitstekende kwaliteitsborging]: onze kogellampen worden aangedreven door batterijen met een laag warmtevermogen en veilig gebruik. Wij bieden 12 maanden kwaliteitsgarantie voor sprookjeslampen. Als u vragen heeft, laat ons dan een bericht achter en wij staan binnen twaalf uur tot uw beschikking.
 - 【💡Veilig te gebruiken, IP65 waterdicht】: de lichtketting werkt op 5 V laagspanning, laag stroomverbruik voor warmteopwekking, solide platinadraad-isolatie, veilig voor kinderen en huisdieren, geen risico op warmteontwikkeling na uren. De lichtketting en het batterijvak zijn beide IP65 waterdicht, zodat je ze in de regen of in de badkamer kunt gebruiken, zonder je zorgen te hoeven maken over onderbrekingen. Perfect voor elke binnen- of buitendecoratie.
 - 【💡40 warmwitte led-lichtsnoer】: het bolvormige oppervlak bestaat uit gematteerd kunststof met 40 superheldere warmwitte leds en een waterdicht batterijvak. Elke bal heeft een diameter van 19 mm en is 5 m lang genoeg om te gebruiken rond bomen, tuinen, terrassen, struiken enz.
-- 【💡 Uitstekende kwaliteitsborging]: onze kogellampen worden aangedreven door batterijen met een laag warmtevermogen en veilig gebruik. Wij bieden 12 maanden kwaliteitsgarantie voor sprookjeslampen. Als u vragen heeft, laat ons dan een bericht achter en wij staan binnen twaalf uur tot uw beschikking.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0B1HVDJRP{{</world>}}

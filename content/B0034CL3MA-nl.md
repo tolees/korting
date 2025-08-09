@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Inhoud: 8-poorts 10/100 Mbps desktopswitch, spanningsadapter, gebruikershandleiding
-- 8 10/100 Mbps RJ45-poorten met automatische tuning en automatische MDI/MDIX
-- plastic hoesje voor desktop. Bedrijfstemperatuur: 0° C ~ 40° C (32° F ~ 104° F)
 - Plug and play, geen configuratie vereist
+- Inhoud: 8-poorts 10/100 Mbps desktopswitch, spanningsadapter, gebruikershandleiding
+- plastic hoesje voor desktop. Bedrijfstemperatuur: 0° C ~ 40° C (32° F ~ 104° F)
 - Groene IT bespaart tot 70% energie
+- 8 10/100 Mbps RJ45-poorten met automatische tuning en automatische MDI/MDIX
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0034CL3MA{{</world>}}

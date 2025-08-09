@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- De bedel is handgemaakt van sterling zilver en op meerdere plaatsen versierd met de gegraveerde boodschap "Love is Love"
-- Bovendien is het sieraad voorzien van een 14-karaats roséverguld, uitneembaar binnenhart, dat is versierd met een uitgestanst sleutelgat op de plaats van de "o" in de "Love"-gravure
-- Het product wordt niet in een doos verzonden. Deze moet apart worden gekocht
 - Draag de bedels bij elkaar, style ze afzonderlijk of deel de charme met een heel bijzonder iemand
+- De bedel is handgemaakt van sterling zilver en op meerdere plaatsen versierd met de gegraveerde boodschap "Love is Love"
+- Het product wordt niet in een doos verzonden. Deze moet apart worden gekocht
+- Bovendien is het sieraad voorzien van een 14-karaats roséverguld, uitneembaar binnenhart, dat is versierd met een uitgestanst sleutelgat op de plaats van de "o" in de "Love"-gravure
 - Deel je liefde met ons tweekleurig hangslot, deelbare hart-bedel
 
 [🛒 Buy it!!]({{< param buyurl >}})

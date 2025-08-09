@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 5-voudige bescherming: water, extreme temperatuur, röntgenstraling, magnetisme en schok bestendig
 - 5 jaar beperkte garantie
+- 5-voudige bescherming: water, extreme temperatuur, röntgenstraling, magnetisme en schok bestendig
 - USB-C-compatibiliteit ideaal voor smartphones, tablets en PC’s
-- USB 3.1 maar ondersteunt ook USB 3.0 en 2.0
 - Supersnelle data transfers tot 400MB/s, varieert per capaciteit
+- USB 3.1 maar ondersteunt ook USB 3.0 en 2.0
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09R2C9DH9{{</world>}}

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Loopzool/eigenschappen: TPU-zool met Contact Earth-technologie voor hoge slijtvastheid
-- Rondom naad voor hoge duurzaamheid
 - Bovenmateriaal: leer (rundleer)
 - Kleur: zwart
 - Elastische riem voor een comfortabele pasvorm
+- Loopzool/eigenschappen: TPU-zool met Contact Earth-technologie voor hoge slijtvastheid
+- Rondom naad voor hoge duurzaamheid
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07W1V9LFZ{{</world>}}

@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kinderen
-- Binnenshuis
 - Puzzel
+- Binnenshuis
+- Kinderen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00CFV24TC{{</world>}}

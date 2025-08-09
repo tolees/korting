@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Met A2 classificatie voor sneller laden en betere app prestaties en Leessnelheden tot 200 MB/s en schrijfsnelheden van 90 MB/s om de actie te kunnen bijhouden
-- Leveringsomvang: SanDisk Extreme PRO 128 GB microSDXC UHS I Kaart en SD Adapter; A2 App Performance; 2 Jaar RescuePRO Deluxe Software; 200 MB/s; Class 10; UHS-I; U3; V30; 30 jaar garantie
 - Maak snelle actiefotos of leg 4K UHD video vast met schrijfsnelheden tot 200 MB/s; Met de SanDisk Extreme PRO microSDXC UHS I kaart kun je snel meer opnemen
-- Ideaal voor het opnemen van buitenavonturen; weekenduitstapjes of sportevenementen zonder frames kwijt te raken
 - SanDisk Extreme PRO microSDXC UHS I kaarten zijn schokbestendig; temperatuurbestendig; waterbestendig en röntgenbestendig; zodat je van je avonturen kunt genieten
+- Leveringsomvang: SanDisk Extreme PRO 128 GB microSDXC UHS I Kaart en SD Adapter; A2 App Performance; 2 Jaar RescuePRO Deluxe Software; 200 MB/s; Class 10; UHS-I; U3; V30; 30 jaar garantie
+- Ideaal voor het opnemen van buitenavonturen; weekenduitstapjes of sportevenementen zonder frames kwijt te raken
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09X7DNF6G{{</world>}}

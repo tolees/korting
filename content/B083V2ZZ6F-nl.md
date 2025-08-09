@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 💡 Spraakbesturingssysteem: Smart LED-lamp kan worden gebruikt met Alexa, Google Assistant en IFTTT om uw apparaat met stembesturing te beheren. Eenvoudig en handig om u een comfortabel en ontspannen leven te bezorgen.
-- 💡 DIY-dimfunctie: met 16 miljoen kleuraanpassingen die door uw smartphone worden ondersteund, kunt u de helderheid en tint regelen door de lichten te dimmen. Op deze manier kunt u uw stemming veranderen en uw zicht verbeteren. Alexa-lampen bieden meer opties voor feestjes.
-- 💡Service: Wij bieden levenslange technische ondersteuning. Laat andere minderwaardige lampen nooit de veiligheid van uw gezin in gevaar brengen.
 - 💡 Timing-functie: als u uw slimme lamp plant voordat u naar huis gaat, ga dan niet naar een donker huis terwijl u elektriciteitskosten bespaart. Bespaart tot 78,3% energie in vergelijking met gloeilampen met vergelijkbare helderheid.
+- 💡 DIY-dimfunctie: met 16 miljoen kleuraanpassingen die door uw smartphone worden ondersteund, kunt u de helderheid en tint regelen door de lichten te dimmen. Op deze manier kunt u uw stemming veranderen en uw zicht verbeteren. Alexa-lampen bieden meer opties voor feestjes.
+- 💡 Spraakbesturingssysteem: Smart LED-lamp kan worden gebruikt met Alexa, Google Assistant en IFTTT om uw apparaat met stembesturing te beheren. Eenvoudig en handig om u een comfortabel en ontspannen leven te bezorgen.
+- 💡Service: Wij bieden levenslange technische ondersteuning. Laat andere minderwaardige lampen nooit de veiligheid van uw gezin in gevaar brengen.
 - 💡 BedienungAfstandsbediening: Met de Meross-app kunt u de verlichting van WiFi-lampen overal bedienen met een smartphone (compatibel met iOS 9 of hoger, Android 4.1 of hoger) zonder afstandsbeperkingen. Bijzonder geschikt voor ouderen en gehandicapten en mensen met beperkte mobiliteit. Geen hubs of accessoires vereist
 
 [🛒 Buy it!!]({{< param buyurl >}})

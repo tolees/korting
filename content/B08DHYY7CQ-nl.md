@@ -28,14 +28,14 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Ionisatiefunctie - Vermindert statische lading op het haar en zorgt voor glans
-- Vochtvasthoudende keramische coating – helpt de perfecte vochtbalans te behouden
-- Echte koude stand om de styling te fixeren
 - Voor het beste resultaat droogt u uw haar zoals normaal totdat het ongeveer 70-80% droog is
+- Ionisatiefunctie - Vermindert statische lading op het haar en zorgt voor glans
 - Speciale, ovale borstel met gemengde haren
-- Krachtige heteluchtborstel van 1200 watt - Geeft het haar tijdens het drogen maximaal volume direct bij de haarlijn
 - Hydracare-temperatuurinstelling - Styling op een lagere temperatuur voor gezond uitziend haar
 - Om topprestaties van het product te behouden en de levensduur van de motor te verlengen, is het belangrijk om regelmatig stof en vuil van het inlaatrooster te verwijderen
+- Echte koude stand om de styling te fixeren
+- Krachtige heteluchtborstel van 1200 watt - Geeft het haar tijdens het drogen maximaal volume direct bij de haarlijn
+- Vochtvasthoudende keramische coating – helpt de perfecte vochtbalans te behouden
 - 3 verwarming / 2 afzonderlijke ventilatorniveaus
 
 [🛒 Check the deal!!]({{< param buyurl >}})
