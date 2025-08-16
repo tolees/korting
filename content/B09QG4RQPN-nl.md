@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Directe upgrade naar WiFi 6 — Upgrade uw pc via USB en profiteer van de 802.11ax-standaard met snelheden tot 1800 Mbps
 - Versterkt signaal — externe antenne en laadstation voor een sterk WiFi-signaal
 - Ultrahoge efficiëntie — Maakt snellere overdrachten mogelijk in drukke omgevingen met OFDMA, MU-MIMO en BSS Coloring
+- Directe upgrade naar WiFi 6 — Upgrade uw pc via USB en profiteer van de 802.11ax-standaard met snelheden tot 1800 Mbps
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09QG4RQPN{{</world>}}

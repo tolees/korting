@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Inhoud levering: Tapo L510E, snelstartgids
-- Afwezigheidsmodus: laat je verlichting op verschillende tijdstippen automatisch in- en uitgaan om de aanwezigheid van een persoon te simuleren
 - Toegang op afstand – bedien je slimme gloeilamp comfortabel via je smartphone met Tapo-app – overal en altijd
 - Volume en tijdschemas – plan bepaalde tijden voor het in- of uitschakelen van je gloeilampen
-- Spraakbesturing: compatibel met Amazon Alexa of Google Assistant
+- Afwezigheidsmodus: laat je verlichting op verschillende tijdstippen automatisch in- en uitgaan om de aanwezigheid van een persoon te simuleren
 - Dimbaar licht: kies met individueel instelbare helderheid de verlichting die bij de situatie past
+- Spraakbesturing: compatibel met Amazon Alexa of Google Assistant
+- Inhoud levering: Tapo L510E, snelstartgids
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B087RZVBQW{{</world>}}

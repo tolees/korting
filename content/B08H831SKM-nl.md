@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Lange levensduur: ervaar een levensduur tot 15 jaar met Philips LED-lampen.
-- Met bewegingssensor: de Philips LED-lamp met sensor gaat automatisch aan bij beweging in de avond.
 - Eenvoudig te installeren. Bevestig of hang de lamp aan de muur of het plafond.
-- Laag energieverbruik: bespaar tot 90% energie in vergelijking met conventionele lichtbronnen. Goed voor het milieu en jouw portemonnee.
+- Lange levensduur: ervaar een levensduur tot 15 jaar met Philips LED-lampen.
 - Philips LED-plafondlamp: geniet van warmwit licht (2700K) voor een gezellige sfeer in huis.
+- Met bewegingssensor: de Philips LED-lamp met sensor gaat automatisch aan bij beweging in de avond.
+- Laag energieverbruik: bespaar tot 90% energie in vergelijking met conventionele lichtbronnen. Goed voor het milieu en jouw portemonnee.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08H831SKM{{</world>}}

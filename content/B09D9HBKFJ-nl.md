@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Verfrist zonder wassen of stomerij: handstomer voor thuis en onderweg verwijdert luchtjes en doodt 99,9%* van de bacteriën - Stoom tussen wasbeurten door voor frissere kleding waar u langer van geniet
-- Afneembare watertank van 100 ml: De stomer wordt geleverd met een 100ml afneembare watertank om tot 1 outfit te stomen zonder bijvullen
 - Verfrist zonder wassen of stomerij: handstomer voor thuis en onderweg verwijdert luchtjes en doodt 99,9%* van de bacteriën - Stoom tussen wasbeurten door voor frissere kleding waar u langer van geniet
+- Afneembare watertank van 100 ml: De stomer wordt geleverd met een 100ml afneembare watertank om tot 1 outfit te stomen zonder bijvullen
 - Eenvoudig kreukvrij: het automatische, continu stoom tot 20 g/min maakt uw strijkgoed snel en makkelijk kreukvrij - Stoom horizontaal om die lastige gebieden, zoals kragen, perfect glad te krijgen
 - Gegarandeerd geen schroeiplekken: veilig voor alle strijkbare stoffen - De SmartFlow-stoomplaat kan op elk kledingstuk worden gedrukt zonder gevaar van schroeiplekken - Ideaal voor delicate stoffen
 

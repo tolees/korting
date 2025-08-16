@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Verborgen trekkoord
-- Onderhoudsinstructie: machinewas, geen wasverzachter gebruiken
 - Contrasterend mesh-inzetstuk aan beide zijden
 - Materiaal: 100% polyester (gerecycled)
+- Onderhoudsinstructie: machinewas, geen wasverzachter gebruiken
 - Nauwsluitende pasvorm voor een op maat gemaakt gevoel
+- Verborgen trekkoord
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07W5XZ76D{{</world>}}

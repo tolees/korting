@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Horizontale installatie, nivellering
+- Laag profiel: staat slechts 3,3 cm van de muur voor een strakke look
 - Inklikbare, vergrendelbare monitorarmen met bekabelde en gemakkelijke ontgrendeling
+- Tv-muurbeugel voor tvs van 32-86 inch, met horizontale kolomnivellering
 - Gewichtscapaciteit: 68 kg
 - Geschikt voor VESA-montagepatronen 200 x 100, 200 x 200, 300 x 200, 300 x 300, 400 x 200, 400 x 300, 400 x 400, 600 x 400 mm (de VESA-montagepatronen zijn de afstanden (in mm) tussen de vier schroefgaten aan de achterkant van de tv)
-- Laag profiel: staat slechts 3,3 cm van de muur voor een strakke look
-- Tv-muurbeugel voor tvs van 32-86 inch, met horizontale kolomnivellering
+- Horizontale installatie, nivellering
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09JWQH8XG{{</world>}}

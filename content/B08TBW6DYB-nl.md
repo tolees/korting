@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- De waterafstotende afwerking zorgt voor droogte bij regen.
+- Zakken met drukknopen.
 - Het verlengde ontwerp met doorlopende ritssluiting biedt bescherming tegen weer en wind.
 - Synthetische vulling voor warmte bij een laag gewicht
-- Zakken met drukknopen.
-- De waterafstotende afwerking zorgt voor droogte bij regen.
 - Brede pasvorm voor een casual draagcomfort.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Duurzame, verstelbare stalen glijders
+- Meeslepende in-game audio
+- Officiële Xbox gelicentieerde headset
+- Forward compatibiliteit: Werkt op Xbox Series X
 - Lichtgewicht headset met 90° draaibare oorschelpen
 - Signature HyperX Comfort
-- Meeslepende in-game audio
-- Forward compatibiliteit: Werkt op Xbox Series X
-- Officiële Xbox gelicentieerde headset
+- Duurzame, verstelbare stalen glijders
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07WJRF4XY{{</world>}}

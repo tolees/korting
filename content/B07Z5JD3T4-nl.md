@@ -29,13 +29,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Compact design - klein formaat zodat aangrenzende stopcontacten niet worden geblokkeerd
-- Timer - maak lijsten met een afteltimer voor aangesloten elektronica
-- Schema – stel een schema in om apparaten automatisch te beheren
-- Afwezigheidsmodus – schakel apparaten automatisch op verschillende tijdstippen in en uit om de indruk te wekken dat er iemand thuis is
-- Eenvoudige installatie en eenvoudig in gebruik – geen hub vereist, stel het stopcontact snel en eenvoudig in met de app
 - LET OP: ondanks de verpakkingsfoto wordt dit artikel binnen Europa verzonden met stekker type E
 - Spraakbesturing – beheer jouw smart-stopcontact met spraakopdrachten via Amazon Alexa of Google Assistant
+- Schema – stel een schema in om apparaten automatisch te beheren
+- Afwezigheidsmodus – schakel apparaten automatisch op verschillende tijdstippen in en uit om de indruk te wekken dat er iemand thuis is
 - Bediening op afstand – zet verbonden apparaten overal aan/uit via de Tapo app
+- Timer - maak lijsten met een afteltimer voor aangesloten elektronica
+- Eenvoudige installatie en eenvoudig in gebruik – geen hub vereist, stel het stopcontact snel en eenvoudig in met de app
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07Z5JD3T4{{</world>}}

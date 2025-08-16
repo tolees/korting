@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Set van 2 draadloze stopcontacten voor het gemakkelijk in- en uitschakelen van elektrische apparaten en lampen binnenshuis tot 1000 W
-- 4-kanaals handzender (433,92 MHz) voor het schakelen van alle kanalen - tot 25 m bereik
 - Draadloze stopcontacten zijn ideaal voor talrijke doe-het-zelfprojecten met 433 MHz radiosysteem (bijv. Raspberry Pi)
-- Draadloze stopcontacten met verhoogde aanraakbescherming: kunststof plaatjes sluiten de contacten van het stopcontact af
 - Inhoud: 2 x draadloze schakelontvanger, 1 x handzender, 1 x batterij type A23 (12 V) in de kleur wit - in de beste kwaliteit van brennenstuhl
+- 4-kanaals handzender (433,92 MHz) voor het schakelen van alle kanalen - tot 25 m bereik
+- Set van 2 draadloze stopcontacten voor het gemakkelijk in- en uitschakelen van elektrische apparaten en lampen binnenshuis tot 1000 W
+- Draadloze stopcontacten met verhoogde aanraakbescherming: kunststof plaatjes sluiten de contacten van het stopcontact af
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07CGBRS7T{{</world>}}

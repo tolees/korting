@@ -30,10 +30,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Toonaangevende lees-/schrijfsnelheden tot 2.000MB/s¹.
 - Capaciteiten tot 4 TB²
-- Compacte, zakformaat vormfactor
-- Onderdeelnummer: SXS2000/1000G
 - IP55 rating⁴ met afneembare rubberen huls
+- Compacte, zakformaat vormfactor
 - Vereist compatibele apparaten om USB 3.2 Gen 2x2 USB-C Performance te bereiken¹.
+- Onderdeelnummer: SXS2000/1000G
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09F5YHQ1K{{</world>}}

@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Kledingsstijl: informeel
 - Sneakers met modern & ademend design
+- Kledingsstijl: informeel
 - Geschikt voor: alle seizoenen
 
 [🛒 Buy it!!]({{< param buyurl >}})

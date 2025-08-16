@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Muiswijzerfunctie, gebarenbediening
-- Ideaal voor Google Assistant en Alexa
-- Kalibratiefunctie voor tv-geluid
 - Spraakbesturing met microfoonknop
+- Ideaal voor Google Assistant en Alexa
+- Muiswijzerfunctie, gebarenbediening
+- Kalibratiefunctie voor tv-geluid
 - Snelle toegang tot Amazon Prime en Netflix
 
 [🛒 Buy it!!]({{< param buyurl >}})

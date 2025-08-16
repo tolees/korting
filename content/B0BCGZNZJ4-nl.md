@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Retro stijl
-- Basketbal schoenen
 - Zeer ademend
+- Retro stijl
 - Stijlvol ontwerp
 - Resistente rubberen zool
+- Basketbal schoenen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BCGZNZJ4{{</world>}}

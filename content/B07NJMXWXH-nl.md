@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Hoor elke opdracht dankzij de krachtige audiodrivers van 50 mm
-- Compatibel met Xbox One, Sony Playstation 4 & 5
-- Demp je microfoon in één snelle beweging met de flip-to-mute-functie
-- Bidirectionele microfoon met ruisonderdrukking voor duidelijke gesprekken
 - Ademend, lichtgewicht ontwerp voor lange gamesessies
+- Demp je microfoon in één snelle beweging met de flip-to-mute-functie
+- Hoor elke opdracht dankzij de krachtige audiodrivers van 50 mm
+- Bidirectionele microfoon met ruisonderdrukking voor duidelijke gesprekken
+- Compatibel met Xbox One, Sony Playstation 4 & 5
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07NJMXWXH{{</world>}}

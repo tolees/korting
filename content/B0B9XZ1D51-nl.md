@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - [Waarschuwingssysteem en domotica] Door het Aqara waarschuwingssysteem in te stellen of het met HomeKit of andere ondersteunde systemen te gebruiken, geniet u van constante monitoring, plaatselijk geluid, lichtalarm en cloudmeldingen als beweging wordt waargenomen. De sensor maakt ook deel uit van de smart home-automatiseringen: configureer de ALS-omstandigheden en DAN-handelingen, en veel routinetaken zoals lichten aandoen met de Aqara Slimme Wand Schakelaa of de tv bedienen met de Aqara Slimme Stekker kunnen geautomatiseerd worden.
+- [Batterijduur van 5 jaar] de Beweging Sensor P1 heeft een marktleidende batterijduur van vijf jaar en zal ook bij lage temperaturen of supersnelle detectie-timeouts een redelijke batterijduur hebben.
 - ✽[NOTES] vereist een Aqara Zigbee 3.0 hub en een beveiligde 2,4 GHz Wi-Fi netwerkverbinding. De Beweging Sensor P1 is compatibel met Aqara Home, HomeKit, Alexa, SmartThings, IFTTT, en meer. *Voor gebruik moet de meest recente firmware geïnstalleerd zijn.
 - [Configureerbare detectie-timeout] de detectie-timeout kan eenvoudig geconfigureerd worden zonder aanpassingen aan de hardware. Door de timeout van 1 tot 200 seconden in de Aqara Home app te configureren bespaart u energie en neemt u beweging zeer snel waar.
 - [Verstelbare beeldhoek en detectieafstand] Extra-breed gezichtsveld: 170° voor tot 4 meter en 150° voor tot 7 meter. Met een veelzijdige 360° stand kunt u de beeldhoek eenvoudig aanpassen en de sensor alleen laten activeren wanneer dat nodig is. Daarbij zijn de drie gevoeligheidsstanden (hoog, gemiddeld en laag) configureerbaar en slaan ze op de afstand vanwaar de sensor geactiveerd wordt.
-- [Batterijduur van 5 jaar] de Beweging Sensor P1 heeft een marktleidende batterijduur van vijf jaar en zal ook bij lage temperaturen of supersnelle detectie-timeouts een redelijke batterijduur hebben.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0B9XZ1D51{{</world>}}

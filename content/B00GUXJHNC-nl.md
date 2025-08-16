@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Wandelschoenen
 - Woodburn 2 Chukka Waterproof (waterbestendig) Omni-Heat
+- Wandelschoenen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00GUXJHNC{{</world>}}

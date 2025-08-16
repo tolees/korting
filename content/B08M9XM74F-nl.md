@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Bevat 2 batterijpacks en 4 batterijkleppen voor Series X/S en One
-- Handig opladen voor maximaal 2 controllers tegelijk
-- De JAZZ USB-oplader kan rechtstreeks op de console of op een andere USB-aansluiting (min. 500mA) worden gebruikt
 - Oplaadstation voor originele Xbox Series X-, S- en Xbox One-controllers, met antislip onderkant
+- De JAZZ USB-oplader kan rechtstreeks op de console of op een andere USB-aansluiting (min. 500mA) worden gebruikt
+- Handig opladen voor maximaal 2 controllers tegelijk
+- Bevat 2 batterijpacks en 4 batterijkleppen voor Series X/S en One
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08M9XM74F{{</world>}}

@@ -28,14 +28,14 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- FLUISTERSTIL ONTWERP: Vermindert ventilatorgeluid en zorgt voor een rustige thuis- of bedrijfsomgeving
 - VEELZIJDIGE MONTAGEOPTIES: Desktop- of wandmontage mogelijk, alle benodigde bevestigingsmiddelen zijn inbegrepen
+- CONFIGURATIE VAN NETWERKVERBINDING: 8 Gigabit-poorten (10/100/1000 Mbps) en 2 x 1G SFP-uplinkpoorten netwerkswitch, IGMP-snooping, VLAN en meer.
+- POWER-OVER-ETHERNET: LAN-switches met 8 PoE+ poorten en een totaal vermogen van 55 W.
+- ENERGIEZUINIG: Optimaliseert het stroomverbruik en verlaagt de bedrijfskosten, de meeste modellen zijn compatibel met de energiezuinige Ethernet-modus IEEE802.3az
 - FLEXIBELE CONFIGURATIE EN BEDIENING: Intuïtieve beheersoftware voor veilige installatie/toegang en SNMP-beheer (NMS 300) - lokaal of via de cloud
 - PROSAFE LEVENSLANGE GARANTIE: Toonaangevende beperkte levenslange hardwaregarantie, vervanging op de volgende werkdag, 24-uurs chat met NETGEAR-experts
-- FLUISTERSTIL ONTWERP: Vermindert ventilatorgeluid en zorgt voor een rustige thuis- of bedrijfsomgeving
 - FLEXIBILITEIT DOOR UPLINK-POORTEN: 2x 1G SFP uplink-poorten
-- POWER-OVER-ETHERNET: LAN-switches met 8 PoE+ poorten en een totaal vermogen van 55 W.
-- CONFIGURATIE VAN NETWERKVERBINDING: 8 Gigabit-poorten (10/100/1000 Mbps) en 2 x 1G SFP-uplinkpoorten netwerkswitch, IGMP-snooping, VLAN en meer.
-- ENERGIEZUINIG: Optimaliseert het stroomverbruik en verlaagt de bedrijfskosten, de meeste modellen zijn compatibel met de energiezuinige Ethernet-modus IEEE802.3az
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07ZZMH17D{{</world>}}

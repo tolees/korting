@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Urban Classics Logo-patch op de linkerbroekspijp
-- Twee mesh-steekzakken aan de zijkanten en een achterzak met ritssluiting
-- Sportieve bermuda zwemshort voor mannen van sneldrogend materiaal met mesh-binnenslip
 - Brede, elastische tailleband met trekkoord aan de binnenkant voor een optimale, betrouwbare pasvorm
 - Cool en casual op het strand of in het zwembad met de zwemshorts voor heren van Urban Classics
+- Twee mesh-steekzakken aan de zijkanten en een achterzak met ritssluiting
+- Sportieve bermuda zwemshort voor mannen van sneldrogend materiaal met mesh-binnenslip
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B078H8TY9N{{</world>}}

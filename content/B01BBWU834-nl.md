@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Klaar voor stof, vuil en voor extreme (van -5 °C tot 45 °C)
 - Geoptimaliseerde ergonomie: V-vormige nekband, licht en klein.
+- Bruikbaar bij het zwemmen: waterdicht tot 2 m diepte – zelfs in zout water.
 - Inhoud: Sony NW-WS413 Walkman 4 GB zwart, standaard oorkussens (S/M/L/LL), waterdichte oorkussens (S/M/L/LL), laadstation met USB-kabel
 - Tot 12 uur batterijduur; gesloten systeem, waarbij de besturingseenheid op de oortelefoon is geïntegreerd.
-- Bruikbaar bij het zwemmen: waterdicht tot 2 m diepte – zelfs in zout water.
+- Klaar voor stof, vuil en voor extreme (van -5 °C tot 45 °C)
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01BBWU834{{</world>}}

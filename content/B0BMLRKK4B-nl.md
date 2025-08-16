@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 3-in-1 laadkubus voor Apple-apparaten: De compacte alles-in-één oplaadoplossing voor iPhone, Apple Watch en AirPods.
-- Inhoud van de levering: Anker 3-in-1 Cube met MagSafe-oplader, 30 W voeding, een 150 cm USB-C naar USB-C oplaadkabel, een gebruiksaanwijzing (mogelijk niet beschikbaar in het Nederlands).
 - Ontworpen voor Magsafe: Laad je iPhone serie 14/13/12 naadloos en draadloos op met 15 W laadvermogen en magnetische aantrekkingskracht via Apple MagSafe.
-- Compact ontwerp: De kleine, inklapbare oplader past moeiteloos in je laptoptas voor onderweg of op je bureau voor een extra portie energie.
 - Instelbare hoek tot 60 graden: Gebruik je iPhone gewoon verticaal of horizontaal verder, terwijl je tegelijkertijd geniet van een gelijkmatige laadkracht.
+- 3-in-1 laadkubus voor Apple-apparaten: De compacte alles-in-één oplaadoplossing voor iPhone, Apple Watch en AirPods.
+- Compact ontwerp: De kleine, inklapbare oplader past moeiteloos in je laptoptas voor onderweg of op je bureau voor een extra portie energie.
+- Inhoud van de levering: Anker 3-in-1 Cube met MagSafe-oplader, 30 W voeding, een 150 cm USB-C naar USB-C oplaadkabel, een gebruiksaanwijzing (mogelijk niet beschikbaar in het Nederlands).
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BMLRKK4B{{</world>}}

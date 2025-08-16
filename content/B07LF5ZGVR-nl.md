@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Levis Logo op de borst
-- Verpakking van 2 stuks
 - Dit is een origineel Levis product
+- Verpakking van 2 stuks
 - T-shirt met korte mouwen van zacht jersey
 
 [🛒 Check the deal!!]({{< param buyurl >}})

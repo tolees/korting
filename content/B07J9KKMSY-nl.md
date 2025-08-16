@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Waterafstotend damesjack; ideaal voor koude winterdagen in de stad, wandelen en andere buitenactiviteiten; Active fit
-- Inhoud: 1x Columbia Powder Lite Mid Jack voor dames; materiaal: 100% polyester; kleur; zwart; maat: L; 1748311
 - Bijzonder warm dankzij de Omni-Heat-technologie met reflecterende thermo-voering; waterafstotend voor optimale bescherming tegen vocht
+- Inhoud: 1x Columbia Powder Lite Mid Jack voor dames; materiaal: 100% polyester; kleur; zwart; maat: L; 1748311
 - Thermarator-isolatie voor extra bescherming tegen de kou; perfecte pasvorm dankzij trekkoord in zoom en kraag
+- Waterafstotend damesjack; ideaal voor koude winterdagen in de stad, wandelen en andere buitenactiviteiten; Active fit
 - Praktische volledige 2-weg-rits; 2 zakken met rits voor warme, veilige handen; binnenzak voor waardevolle spullen
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Ravensburger Sneaker graffiti - 3D puzzel. *Met 108 stevige kunststof puzzelstukjes ontstaat een sneaker met een cool design van Graffiti, de perfecte decoratie voor je kamer! * Handig: na het puzzelplezier kan de sneaker gebruikt worden als praktische opbergplaats. *Zo kun je alle dingen opbergen die je liever niet laat rondslingeren!
 - Vorm van artikel: Schoenen
+- Ravensburger Sneaker graffiti - 3D puzzel. *Met 108 stevige kunststof puzzelstukjes ontstaat een sneaker met een cool design van Graffiti, de perfecte decoratie voor je kamer! * Handig: na het puzzelplezier kan de sneaker gebruikt worden als praktische opbergplaats. *Zo kun je alle dingen opbergen die je liever niet laat rondslingeren!
 - Pakketgewicht: 0.39 kg
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Elegant dienblad in elegant golfdesign voor het stijlvol serveren van gerechten of als decoratief element
 - 1x Villeroy & Boch NewWave Eye-Catcher Double Shell, 49 x 27 cm, gewicht: 1,91 kg (artikelnummer 10-2525-6500)
-- Ideaal voor het presenteren van fruit of als decoratief element op tafel of dressoir
 - Grote kom met verhoogde tanden voor de presentatie van culinaire lekkernijen of voor decoratie
 - Vaatwasmachinebestendig, magnetronbestendig, hoge kwaliteit: premium porselein, made in Germany
+- Ideaal voor het presenteren van fruit of als decoratief element op tafel of dressoir
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0070TN6DC{{</world>}}

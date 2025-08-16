@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Hoogwaardig ontwerp - De iconische vorm die de grenzen van gaminguitrusting heeft verlegd, is nog verder ontwikkeld voor draadloze prestaties
-- Draadloos met Lightspeed – eSports-professionals vertrouwen op het LIGHTSPEED-ecosysteem van draadloze technologieën voor supersnelle, betrouwbare spelprestaties van professionele kwaliteit
-- Afstembaar gewichtssysteem – Pas het gewicht en de balans van je muis aan met de zes meegeleverde gewichten voor optimale tracking en nauwkeurig richten in de game
-- Upgrade naar 25k DPI: Verhoog de maximale DPI naar 25.600 om s werelds eerst sub-micron prestaties te ervaren; beschikbaar voor alle muizen met HERO 16k sensor via een software update via G Hub
 - 11 knoppen en supersnel scrolwiel – primaire knoppen hebben metalen springveren voor snelle, scherpe werking pas sneltoetsen en macros voor elke game en app aan
 - Upgrade naar 25k DPI: Verhoog de maximale DPI naar 25.600 om s werelds eerst sub-micron prestaties te ervaren; beschikbaar voor alle muizen met HERO 16k sensor via een software update via G Hub
+- Afstembaar gewichtssysteem – Pas het gewicht en de balans van je muis aan met de zes meegeleverde gewichten voor optimale tracking en nauwkeurig richten in de game
+- Draadloos met Lightspeed – eSports-professionals vertrouwen op het LIGHTSPEED-ecosysteem van draadloze technologieën voor supersnelle, betrouwbare spelprestaties van professionele kwaliteit
+- Upgrade naar 25k DPI: Verhoog de maximale DPI naar 25.600 om s werelds eerst sub-micron prestaties te ervaren; beschikbaar voor alle muizen met HERO 16k sensor via een software update via G Hub
+- Hoogwaardig ontwerp - De iconische vorm die de grenzen van gaminguitrusting heeft verlegd, is nog verder ontwikkeld voor draadloze prestaties
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07QKC4WWD{{</world>}}

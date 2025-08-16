@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Ontgrendel klassieke en nieuwe platformvaardigheden zoals de Fishhook Swing en Karate Kick
 - Ontmoet al je favoriete Bikini Bottom-inwoners uit de serie, ingesproken door hun originele acteurs
-- Reis naar 7 verschillende Wishworlds zoals Wild West Jellyfish Fields en Halloween Rock Bottom
 - Geniet van de in-game soundtrack met 101 nummers uit de serie, waaronder Sweet Victory
+- Ontgrendel klassieke en nieuwe platformvaardigheden zoals de Fishhook Swing en Karate Kick
+- Reis naar 7 verschillende Wishworlds zoals Wild West Jellyfish Fields en Halloween Rock Bottom
 - Trek meer dan 30 F.U.N.tastic-kostuums aan, zoals SnailBob en SpongeGar
 
 [🛒 Buy it now!!]({{< param buyurl >}})

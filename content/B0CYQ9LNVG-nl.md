@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Bevrijd Citadel Station van de kwaadaardige AI SHODAN
 - Volwaardige remake van het baanbrekende origineel uit 1994
 - Volledig nieuwe HD-beelden, geüpdatete besturing, een vernieuwde interface en gloednieuwe geluiden en muziek
-- Bevrijd Citadel Station van de kwaadaardige AI SHODAN
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CYQ9LNVG{{</world>}}

@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Gemaakt van Blueboard-kwaliteit
 - Ideaal als cadeau
+- Gemaakt van Blueboard-kwaliteit
 - Puzzel van 1000 stukjes in formaat 96 x 32 cm
 - Perfect als woondecoratie
 

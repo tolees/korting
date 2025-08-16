@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Capacity: 1 TB
-- Read speed up to 535 MB/s and write speed up to 515 MB/s
-- Format: 2.5 inch
 - Easy and cost-effective HDD replacement for your existing PC system
+- Format: 2.5 inch
 - Interface : SATA III /6 Gbps (backwards compatible with SATA-II)
+- Read speed up to 535 MB/s and write speed up to 515 MB/s
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07Y5VDNT9{{</world>}}

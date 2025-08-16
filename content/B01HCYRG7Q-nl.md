@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Stofmix voor duurzaamheid en flexibiliteit
+- Anatomisch correcte H-vorm voor hoog comfort
 - Machinewasbaar op 60 °C
 - 95% katoen, 5% elastaan
 - Contrasterende en elastische tailleband
-- Anatomisch correcte H-vorm voor hoog comfort
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01HCYRG7Q{{</world>}}

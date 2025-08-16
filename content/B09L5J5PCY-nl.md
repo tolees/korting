@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Rubberen buitenzool
 - Rubberen tussenzool
+- Rubberen buitenzool
 - Gerecycled bovenwerk
 - PUMA Cat-logo op de hiel
 - PUMA Formstrip aan de laterale en mediale zijden

@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Multifunctioneel
 - Buitenzool: 100 procent rubber, binnenzool: 50 procent leer - 50 procent synthetisch
 - Bovenwerk: 100 procent leer, voering: 68 procent textiel-32 procent synthetisch
-- Multifunctioneel
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B01N25I1OQ{{</world>}}

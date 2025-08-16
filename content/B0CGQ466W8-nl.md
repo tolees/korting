@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Portable SSD T9  1 TB  2.000 MB/s lezen  2.000 MB/s schrijven  USB 3.2 Gen.2x2  externe harde schijf voor professionele gebruikers  compatibel met Mac  PC  Android en 12K camera s'
-date: 2025-08-07 22:10:47
+date: 2025-08-16 10:18:54
 image: 'https://m.media-amazon.com/images/I/41gLqIMuVFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: 'Samsung'
 buyurl: 'https://www.amazon.nl/dp/B0CGQ466W8/?tag=tolees0b-21'
 descuento: '24.73'
-average: '126.13'
+average: '124.24'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Inclusief USB Type-C-naar-C en USB Type-C-naar-A kabels
+- Valbestendig tot 3 meter hoog
+- Hogere overdrachtssnelheden dan externe harde schijven (2000 MB/s)
 - Compact formaat vergelijkbaar met een gewone creditcard
 - Compatibel met Windows, macOS, Android
-- Hogere overdrachtssnelheden dan externe harde schijven (2000 MB/s)
-- Valbestendig tot 3 meter hoog
+- Inclusief USB Type-C-naar-C en USB Type-C-naar-A kabels
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CGQ466W8{{</world>}}

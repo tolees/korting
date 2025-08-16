@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Rubberen buitenzool voor grip
 - Lage laars
 - Bovenwerk van Anzarun DNA-mesh
-- PUMA Cat-logo op de teen en tong
-- Rubberen buitenzool voor grip
 - EVA-tussenzool voor comfort
+- PUMA Cat-logo op de teen en tong
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07SD13YT5{{</world>}}

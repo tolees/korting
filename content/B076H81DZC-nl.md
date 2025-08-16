@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Compatibel met andere slider-bedels halskettingen en armbanden zoals Pandora, enz
 - Uniek en onnavolgbaar design
 - Officieel Harry Potter gelicentieerd product
+- Compatibel met andere slider-bedels halskettingen en armbanden zoals Pandora, enz
 - Afmetingen: 3,3 x 0,5 cm
-- verzilverd
 - - Een topproduct voor elk feest.
+- verzilverd
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B076H81DZC{{</world>}}

@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Hoogte van de verpakking van het artikel: 95 mm
-- Breedte van het artikelpakket: 180 mm
 - Lengte van de verpakking van het artikel: 245 mm
+- Breedte van het artikelpakket: 180 mm
 - Gewicht van het artikelpakket: 0.13 Kg
 
 [🛒 Buy it now!!]({{< param buyurl >}})

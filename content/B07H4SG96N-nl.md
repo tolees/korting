@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Herleef je favoriete Crash momenten met de volledig in HD geremasterde games
-- Prachtig nieuwe animaties & graphics
 - 3 Volledige games, 100+ levels & 2 speelbare karakters
+- Prachtig nieuwe animaties & graphics
 - Ervaar N.Tense platforming, epische uitdagingen en avonturen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

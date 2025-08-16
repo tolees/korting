@@ -30,9 +30,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - [Brede compatibiliteit]- Compatibel voor iPhone 15/15 Plus/15 Pro/15 Pro max/14 Plus/14 Pro/14 Pro max/13 Pro/13 Pro Max/13 mini/12 Pro/12 Pro Max/12 mini/11Pro/11Pro Max/XS/XR/XS MAX/X/8/ 8Plus & Apple Watch Ultra/SE 9/8/7/6/5/4/3/2/1 & AirPods 2/3/Pro/Pro 2. De lader is compatibel met Qi-opladen, dus je kunt hem gebruiken om draadloos op te laden met alle andere Qi-gecertificeerde apparaten
 - [Wat je krijgt]-KEEPRO 3-in-1 inklapbaar draadloos oplaadstation, 21W-USB-C-oplader, 1m USB-C naar USB-C oplaadkabel, welkomstgids, 24 maanden garantie en onze vriendelijke klantenservice
-- [Supercompact inklapbaar ontwerp]-7,6x 7,6x 2,2 cm, op slechts 3,9 oz, en ingeklapt is het ongeveer even groot als een pak kaarten, het is perfect voor op reis, kantoor en thuis, of andere gelegenheden
-- [3-in-1 opladen, compatibel met MagSafe]-Naadloos compatibel met MagSafe, laad je iPhone (15W), AirPods (3,5W) en Apple Watch (2,5W) (Opmerking: voor de beste resultaten een 20W USB-C PD oplader)
 - [Ontwerp voor reizen]-Deze draadloze oplader is licht van gewicht en compact, en past gemakkelijk in je zak, tas of koffer, en biedt een stabiele en snelle oplaadervaring
+- [3-in-1 opladen, compatibel met MagSafe]-Naadloos compatibel met MagSafe, laad je iPhone (15W), AirPods (3,5W) en Apple Watch (2,5W) (Opmerking: voor de beste resultaten een 20W USB-C PD oplader)
+- [Supercompact inklapbaar ontwerp]-7,6x 7,6x 2,2 cm, op slechts 3,9 oz, en ingeklapt is het ongeveer even groot als een pak kaarten, het is perfect voor op reis, kantoor en thuis, of andere gelegenheden
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CX53F61S{{</world>}}

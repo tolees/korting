@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Ideale verzamelgrootte: met een hoogte van ca. 9,5 cm vult deze vinyl-minifiguur andere verzamelstukken aan en past perfect in je vitrine of op je bureau.
 - Ideaal cadeau voor fans van Overwatch – ideaal voor feestdagen, verjaardagen of speciale gelegenheden en als cadeau is dit exclusieve figuur een onmisbare aanvulling voor elke Overwatch merchandise-collectie
 - Premium vinyl: gemaakt van hoogwaardig, duurzaam vinyl, is dit verzamelstuk duurzaam en bestand tegen dagelijks gebruik, zodat fans en verzamelaars er lang plezier van zullen hebben.
-- Breid je verzameling uit – voeg je groeiende assortiment Funko Pop toe. Figuren met dit unieke vinyl display en zoek naar andere zeldzame en verzamelstukken voor een complete set.
-- Ideale verzamelgrootte: met een hoogte van ca. 9,5 cm vult deze vinyl-minifiguur andere verzamelstukken aan en past perfect in je vitrine of op je bureau.
 - LEADING POP CULTURE MERK - Vertrouw op de expertise van Funko, de toonaangevende fabrikant van popcultuurartikelen zoals vinylfiguren, actiefoys, pluche, kleding, bordspellen en nog veel meer.
+- Breid je verzameling uit – voeg je groeiende assortiment Funko Pop toe. Figuren met dit unieke vinyl display en zoek naar andere zeldzame en verzamelstukken voor een complete set.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07SQX8CKR{{</world>}}

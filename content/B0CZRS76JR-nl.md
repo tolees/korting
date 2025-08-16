@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- AFSPEELTIJD: Tot 55 uur afspeeltijd na 2 uur volledig laden. Snelle boost nodig? Na slechts 15 minuten kun je twee uur afspelen. De headphones worden geladen via de meegeleverde USB-C-kabel
-- LICHT EN COMPACT: Stijlvol ontwerp met hoofdband met voering en zachte oorkussens voor dagelijks comfort tijdens langdurig dragen. Ieder oorkussen is gevoerd met geheugenschuim, kan opgevouwen worden en kan gedraaid worden voor de perfecte pasvorm
-- DUIDELIJKE GESPREKKEN: je stem is goed verstaanbaar tijdens het bellen. Een speciale mic haalt het geluid van je stem op en een lawaaionderdrukkingsalgoritme dempt een deel van het achtergrondgeluid van de wereld om je heen
-- ROBUUSTE BLUETOOTH-VERBINDING: De geavanceerde Bluetooth-verbinding biedt een stabielere verbinding voor naadloos streamen. Sluit twee apparaten tegelijkertijd aan (iOS of Android) voor ononderbroken muziek/podcasts zonder hinderlijke dips in het geluid
 - GEWELDIG GELUID MET DYNAMIC BASS: Drivers van 32 mm bieden geweldig geluid met on-ear-pasvorm voor voldoende geluidsisolatie. Activeer Dynamic Bass via Philips headphones-app voor krachtige bass, zelfs bij lage volumes
+- AFSPEELTIJD: Tot 55 uur afspeeltijd na 2 uur volledig laden. Snelle boost nodig? Na slechts 15 minuten kun je twee uur afspelen. De headphones worden geladen via de meegeleverde USB-C-kabel
+- ROBUUSTE BLUETOOTH-VERBINDING: De geavanceerde Bluetooth-verbinding biedt een stabielere verbinding voor naadloos streamen. Sluit twee apparaten tegelijkertijd aan (iOS of Android) voor ononderbroken muziek/podcasts zonder hinderlijke dips in het geluid
+- DUIDELIJKE GESPREKKEN: je stem is goed verstaanbaar tijdens het bellen. Een speciale mic haalt het geluid van je stem op en een lawaaionderdrukkingsalgoritme dempt een deel van het achtergrondgeluid van de wereld om je heen
+- LICHT EN COMPACT: Stijlvol ontwerp met hoofdband met voering en zachte oorkussens voor dagelijks comfort tijdens langdurig dragen. Ieder oorkussen is gevoerd met geheugenschuim, kan opgevouwen worden en kan gedraaid worden voor de perfecte pasvorm
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CZRS76JR{{</world>}}

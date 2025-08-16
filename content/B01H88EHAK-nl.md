@@ -30,9 +30,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Schroevendraaier voor kruiskopschroeven Phillips
 - Lastip voor meer grip in de schroefkop.
-- Harde gripzones voor hoge werksnelheid, zachte gripzones voor hoge draaimomentoverdracht.
-- Met zeskantige afrolbescherming tegen wegrollen.
 - Met gereedschapzoeker "Take it easy": kleurmarkering volgens profielen en maatstempeling.
+- Met zeskantige afrolbescherming tegen wegrollen.
+- Harde gripzones voor hoge werksnelheid, zachte gripzones voor hoge draaimomentoverdracht.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01H88EHAK{{</world>}}

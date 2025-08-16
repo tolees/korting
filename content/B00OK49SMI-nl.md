@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Comfortabele, zachte toetsen typen zonder geluid zodat jij en de mensen om je heen in alle rust gefocust kunnen werken of studeren zonder afgeleid te worden
-- Logitech Keys-To-Go is een superdun, superlicht toetsenbord dat je de hele dag bij je kunt hebben, of je nu aan het werken of studeren bent, in de achtertuin of op kantoor
 - Te gebruiken met de meeste schermen die je gebruikt, zoals je iPhone, iPad en Apple TV. Heeft zelfs een handige standaard voor je telefoon
+- Logitech Keys-To-Go is een superdun, superlicht toetsenbord dat je de hele dag bij je kunt hebben, of je nu aan het werken of studeren bent, in de achtertuin of op kantoor
 - Het afgedichte, compacte toetsenbord is beschermd tegen kruimels, knoeipartijen, en bijna alles wat jij er overheen kunt gooien (of je kinderen), en is in een paar seconden schoon te vegen
+- Comfortabele, zachte toetsen typen zonder geluid zodat jij en de mensen om je heen in alle rust gefocust kunnen werken of studeren zonder afgeleid te worden
 - Volledige rij iOS toetsenbord-snelkoppelingen voor één-kliks toegang tot populaire functies zoals volume harder/zachter, mute, media-controls en meer
 
 [🛒 Buy it!!]({{< param buyurl >}})

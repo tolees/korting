@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- USB WLAN
-- 433 Mbit/s
-- Wifi Dual-band (2.4 GHz / 5 GHz)
 - Draadloos
+- USB WLAN
+- Wifi Dual-band (2.4 GHz / 5 GHz)
+- 433 Mbit/s
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B00GOKE8LW{{</world>}}
