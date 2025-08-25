@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - mottenbeschermingsblokken. Verwijdert geuren en schimmel
-- 100% natuurlijk product, vers cederhout
 - Veilig voor kinderen
-- Afmetingen: 10 x 1 x 1 cm
 - Verpakking met 20 cederhouten blokken
+- Afmetingen: 10 x 1 x 1 cm
+- 100% natuurlijk product, vers cederhout
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07YSTPCCD{{</world>}}

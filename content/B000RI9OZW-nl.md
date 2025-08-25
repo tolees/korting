@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Creamy texture
 - Vitamins and moisturizers
 - Liquisilk formula
+- Creamy texture
 - Seals in colour
 - Soft and smooth lips
 

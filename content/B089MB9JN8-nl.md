@@ -30,9 +30,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - 1000-delige puzzel, met afmetingen 69 x 50 cm.
 - De Clementoni IMPOSSIBLE lijn is dit alles en meer: een puzzellijn, ontworpen voor mensen met een passie voor detail.
-- Geschikt voor kinderen vanaf 10 jaar. Gemaakt in Italië.
-- Suggestieve afbeeldingen, kwaliteitsdruk, nauwkeurige uitsparingen, stevige en kostbare materialen.
 - Clementoni is altijd attent op ecologische kwesties en gebruikt een hoge hoeveelheid gerecyclede materialen, waardoor het gebruik van verontreinigende componenten wordt vermeden.
+- Suggestieve afbeeldingen, kwaliteitsdruk, nauwkeurige uitsparingen, stevige en kostbare materialen.
+- Geschikt voor kinderen vanaf 10 jaar. Gemaakt in Italië.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B089MB9JN8{{</world>}}

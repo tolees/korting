@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 50.000 UUR PLEZIER: Betrouwbare LED verlichting van hoge kwaliteit die tot wel 50.000 uur meegaat
+- LANGE LEVENSDUUR: dankzij de robuuste materialen; de muurlamp is gemaakt van kunststoffen van hoge kwaliteit.
+- BESTENDIG TEGEN ALLE WEERSOMSTANDIGHEDEN: Ontworpen om te presteren in alle weersomstandigheden; getest om corrosie en roest te weerstaan in zware regenval - hoge luchtvochtigheid - felle zon - UV-straling en extreme temperaturen dankzij de IP44-classificatie.
 - DUURZAAM: De energie-efficiëntie van deze lamp zorgt voor minder stroom verbruik. Dit zorgt voor een lagere energierekening en minder CO2 uitstoot omdat er minder stroom opgewekt hoeft te worden. Ook gaat het product lang mee dankzij de kwaliteitsmaterialen - waardoor je de komende jaren geen vervangend product hoeft te kopen.
 - 50% MINDER ENERGIEVERBRUIK: Ultra Efficient LED lampen verbruiken 50% minder energie in vergelijking met gelijkwaardige standaard LED-producten en hebben een energie-efficiëntie van 210lm/W.
-- BESTENDIG TEGEN ALLE WEERSOMSTANDIGHEDEN: Ontworpen om te presteren in alle weersomstandigheden; getest om corrosie en roest te weerstaan in zware regenval - hoge luchtvochtigheid - felle zon - UV-straling en extreme temperaturen dankzij de IP44-classificatie.
-- LANGE LEVENSDUUR: dankzij de robuuste materialen; de muurlamp is gemaakt van kunststoffen van hoge kwaliteit.
+- 50.000 UUR PLEZIER: Betrouwbare LED verlichting van hoge kwaliteit die tot wel 50.000 uur meegaat
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CRJZV3GK{{</world>}}

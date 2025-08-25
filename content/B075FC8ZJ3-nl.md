@@ -30,9 +30,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Gemaakt om lang mee te gaan: snelle kookprestaties van een superefficiënt vak verwarmingselement
 - Elegant controlelampje: blauwe verlichting in de schakelaar gaat branden wanneer de waterkoker wordt ingeschakeld
-- Eenvoudig reinigen: veerdeksel met grote opening voor gemakkelijk schoonmaken - Met drukknop om contact met stoom te vermijden
 - RVS design: van duurzaam voedselveilig geborsteld roestvast staal voor lang betrouwbaar gebruik
 - 1,7 liter inhoud: meer dan 7 kopjes uit een volle kan
+- Eenvoudig reinigen: veerdeksel met grote opening voor gemakkelijk schoonmaken - Met drukknop om contact met stoom te vermijden
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B075FC8ZJ3{{</world>}}

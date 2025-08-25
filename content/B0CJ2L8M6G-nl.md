@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 4de Veiligheid en bescherming: dankzij onze kerntechnologie zorgt onze oplader voor de veiligheid van je speler. Hij beschikt over geïntegreerde beveiligingen die beschermen tegen overstroom, overspanning en kortsluiting.
 - 1ste Compatibiliteit en prestaties: de 45 W snellader is compatibel met Switch/Oled. Deze oplader is volledig compatibel met je game-speler en garandeert optimale prestaties en veiligheid.
-- 5. Veel gebruikt, perfect cadeau: 20 V-2,25 A uitgang, geïntegreerde USB-C-kabel, past perfect bij de meeste type C-apparaten. Het compacte en lichte design en het hoogwaardige gevoel maken het tot een goede cadeaukeuze voor gaming-liefhebbers. Het is een uitstekend cadeau voor verjaardagen, feestdagen en kerstcadeaus.
+- 4de Veiligheid en bescherming: dankzij onze kerntechnologie zorgt onze oplader voor de veiligheid van je speler. Hij beschikt over geïntegreerde beveiligingen die beschermen tegen overstroom, overspanning en kortsluiting.
 - 2de TV-modus ondersteuning: de reservelader is niet alleen geschikt voor handheld games, maar is ook perfect voor het spelen op de tv. En het 5 voet lange netsnoer biedt vanwege het dunnere ontwerp een comfortabeler gebruik op de bank of als leuke reserve oplader op reis.
+- 5. Veel gebruikt, perfect cadeau: 20 V-2,25 A uitgang, geïntegreerde USB-C-kabel, past perfect bij de meeste type C-apparaten. Het compacte en lichte design en het hoogwaardige gevoel maken het tot een goede cadeaukeuze voor gaming-liefhebbers. Het is een uitstekend cadeau voor verjaardagen, feestdagen en kerstcadeaus.
 - 3de Snel opladen: type-C 45 W, 100 V - 240 V 1,5 A ingang en 20 V - 2,25 A uitgang maken snel opladen mogelijk als de batterij leeg is. Volledig opladen met hoge snelheid in 2,5 uur.
 
 [🛒 Buy it!!]({{< param buyurl >}})

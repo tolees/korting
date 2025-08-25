@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Goede grip
 - Vulling:
+- Goede grip
 - Lichtgewicht
 
 [🛒 Check the deal!!]({{< param buyurl >}})

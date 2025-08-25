@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Stijlvol ontwerp
 - Resistente rubberen zool
 - Retro stijl
-- Zeer ademend
 - Basketbal schoenen
+- Zeer ademend
+- Stijlvol ontwerp
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BCGWHG86{{</world>}}

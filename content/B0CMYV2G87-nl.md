@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Notitieblok voor kantoorplanning - eenvoudig maar modieus uiterlijk zorgt voor populariteit en duurzaamheid onder mensen.
-- Decoratief notitieblok met spiraal - het ontwerp van het notitieblok van de planner is eenvoudig en genereus, maar het is praktisch voor studenten om te gebruiken.
 - Planner - geschikt voor veel mensen, zoals personeel, studenten, docenten, kantoorpersoneel.
-- Planner voor kantoor - hoge duurzaamheid en niet gemakkelijk te vervormen. vakmanschap en goede textuur zorgen voor bruikbaarheid.
+- Notitieblok voor kantoorplanning - eenvoudig maar modieus uiterlijk zorgt voor populariteit en duurzaamheid onder mensen.
 - Studentenplanner - je het gebruiken om je plan te noteren en te maken, je reis en ervaringen vast te leggen, of een dagboek te schrijven in het dagelijks leven.
+- Planner voor kantoor - hoge duurzaamheid en niet gemakkelijk te vervormen. vakmanschap en goede textuur zorgen voor bruikbaarheid.
+- Decoratief notitieblok met spiraal - het ontwerp van het notitieblok van de planner is eenvoudig en genereus, maar het is praktisch voor studenten om te gebruiken.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CMYV2G87{{</world>}}

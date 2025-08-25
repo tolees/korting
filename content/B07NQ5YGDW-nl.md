@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Ondersteunde besturingssystemen – ondersteunt windows 10/8.1/8/7/xp
-- Bluetooth 4.0 – voorzien van de nieuwste bluetooth low energy (ble 4.0) en achterwaarts compatibel met bluetooth 3.0/2.1/2.0/1.1
-- Geen stuurprogramma– plug and play voor windows 8, 8.1 en 10
 - Het voorgestelde werkbereik van UB400 ligt binnen 10 meter en de maximale verbindingsapparaten van UB400 is 7 tegelijk
+- Geen stuurprogramma– plug and play voor windows 8, 8.1 en 10
 - Klein design – zeer klein en handzaam met betrouwbare, hoogwaardige prestaties
+- Bluetooth 4.0 – voorzien van de nieuwste bluetooth low energy (ble 4.0) en achterwaarts compatibel met bluetooth 3.0/2.1/2.0/1.1
+- Ondersteunde besturingssystemen – ondersteunt windows 10/8.1/8/7/xp
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07NQ5YGDW{{</world>}}

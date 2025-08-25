@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Scroll type: Wiel Aantal knoppen: 17 Rubberen handgrepen
-- Stroombron: Kabel
-- Rechtshandig USB Type-A 1,8 m
 - Gamen Optisch 18000 DPI Zwart
+- Stroombron: Kabel
+- Scroll type: Wiel Aantal knoppen: 17 Rubberen handgrepen
+- Rechtshandig USB Type-A 1,8 m
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B083JL8CLF{{</world>}}

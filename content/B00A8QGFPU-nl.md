@@ -30,8 +30,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - 1/4" zeskant-aandrijving
 - Torsievorm tegen vroegtijdige slijtage
-- Voor kruiskopschroeven Phillips-Recess
 - Tandhard, voor universeel gebruik
+- Voor kruiskopschroeven Phillips-Recess
 - Geschikt voor Bosch, Fein, HolzHer, Lecreux, Metabo
 
 [🛒 Buy it now!!]({{< param buyurl >}})

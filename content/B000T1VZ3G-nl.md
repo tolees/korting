@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Vermindert 5 tekenen van vermoeidheid
 - Voor een fris gevoel
 - 24 Uur lang hydratatie
+- Vermindert 5 tekenen van vermoeidheid
 - Geeft een extra energie boost en zorgt voor een frisse blik!
 - Boost de vermoeide huid
 

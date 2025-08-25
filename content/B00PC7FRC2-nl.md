@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- ✅ Montage: rekenhouder achter monitor aan monitortafelhouder, wandhouder, monitorarm, monitorstandaard, monitorstandaard
+- ✅ Compatibel met: Intel NUC complete pc i3, i5, i7 – mogelijk ook geschikt voor andere modellen
 - Opmerking: schroefgaten in de behuizing van de mini-computer moeten 10 cm x 10 cm/100 mm x 100 mm bedragen
 - ✅ Geschikt voor: professioneel kantoor, computer, kantoor, gaming, pc, werkstation en thuiskantoor, voor monitoren met ca. 33-86 cm
 - ✅ Functies: belastbaarheid tot 3 kg. Meer ruimte op het bureau. Van staal. Bevestiging aan universele schermhouder met bijpassende gatafstand
-- ✅ Compatibel met: Intel NUC complete pc i3, i5, i7 – mogelijk ook geschikt voor andere modellen
-- ✅ Montage: rekenhouder achter monitor aan monitortafelhouder, wandhouder, monitorarm, monitorstandaard, monitorstandaard
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00PC7FRC2{{</world>}}

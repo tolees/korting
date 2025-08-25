@@ -30,8 +30,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Lichtgewicht schoeisel voor meer bewegingsvrijheid.
 - Antibacteriële binnenzool.
-- Schoeisel dat optimale demping en bescherming biedt tegen schokken en stress.
 - De gepatenteerde Geox-systemen garanderen de ademende werking van de buitenzool, zodat de voet comfortabel blijft.
+- Schoeisel dat optimale demping en bescherming biedt tegen schokken en stress.
 - Gemakkelijk te dragen, voor ongeëvenaard comfort.
 - Uitneembare binnenzool
 

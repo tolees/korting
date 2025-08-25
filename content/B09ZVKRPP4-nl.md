@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Sluiting: ethyleenvinylacetaat
 - Bovenmateriaal: leer
+- Sluiting: ethyleenvinylacetaat
 - Hakvorm: plateauhak
 
 [🛒 Buy it!!]({{< param buyurl >}})

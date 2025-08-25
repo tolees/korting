@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Wanneer bestanden eenmaal op je drive staan; kun je de snelle USB 3.0 aansluiting gebruiken om ze over te brengen naar je USB Type C computer
 - Nooit meer bijzondere herinneringen kwijtraken; Telkens wanneer je de drive inplugt; worden er automatisch backups van de fotos en videos op je iPhone gemaakt
 - Wil je je bestanden privé houden terwijl je je drive deelt; Gebruik de app van de iXpand drive om je bestanden en fotos met een wachtwoord te beschermen op iOS apparaten en pcs
 - De SanDisk iXpand flashdrive Luxe wordt geleverd met niet één maar twee aansluitingen zodat je gemakkelijk bestanden kunt overbrengen tussen je iPhone; iPad Pro; Mac en USB Type C apparaten
 - Sluit simpelweg de drive aan en maak snel ruimte vrij; Geen internet vereist voor het overbrengen van bestanden; Nu beschik je over de ruimte die je nodig hebt voor meer fotos; videos en games
+- Wanneer bestanden eenmaal op je drive staan; kun je de snelle USB 3.0 aansluiting gebruiken om ze over te brengen naar je USB Type C computer
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08JD2LXXG{{</world>}}

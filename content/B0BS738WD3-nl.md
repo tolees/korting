@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- De bodyscrub bevat zachte exfolianten die de doffe, droge huid verwijderen
-- Dove Bath Therapy Glow Bodyscrub met niacinamide en bruine suiker
-- Een scrub met de heerlijke geur van bloedsinaasappel en spiced rabarber
-- De pot van deze bodyscrub is gemaakt van 100% gerecycled plastic*
 - Deze exfoliërende scrub voedt je huid en laat deze weer gezond aanvoelen
+- Een scrub met de heerlijke geur van bloedsinaasappel en spiced rabarber
+- De bodyscrub bevat zachte exfolianten die de doffe, droge huid verwijderen
+- De pot van deze bodyscrub is gemaakt van 100% gerecycled plastic*
+- Dove Bath Therapy Glow Bodyscrub met niacinamide en bruine suiker
 - Deze scrubbehandeling verzorgt de huid tijdens het exfoliëren
 
 [🛒 Check the deal!!]({{< param buyurl >}})

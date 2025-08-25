@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Manchetten aan de enkels
-- Geschikt voor alle leeftijden
 - koordsluiting
+- Geschikt voor alle leeftijden
 - Het verwarmingsmateriaal
 - Fleecevoering
 

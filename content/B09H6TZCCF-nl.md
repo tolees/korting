@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kledingsstijl: informeel
 - Geschikt voor: koud weer
+- Kledingsstijl: informeel
 - Trui met warm design voor extra comfort
 
 [🛒 Check the deal!!]({{< param buyurl >}})

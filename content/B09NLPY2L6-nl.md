@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Inhoud: 1 Zweinstein Express-speelset, 2 figuren, 2 wezens, 10 accessoires
-- Breid je Wizarding World-spel uit met 10 accessoires. Breng de chocokikkers rond de cabine aan, berg spulletjes in de koffer op en smul van traktaties uit Zacharinus Zoetwarenhuis van de trolley
-- Wizarding World Magical Minis-speelgoed (afzonderlijk verkocht) en de Zweinstein Express-speelset zijn geweldig cadeau voor kinderen. Breid je Wizarding World uit
 - Zet elke pop van 7,5 cm met authentieke details en unieke outfits neer. Draai hun hoofd, beweeg hun armen en laat je poppen in de treincabine zitten
 - Ga aan boord van de Zweinstein Express op Platform 9¾ met Harry, Hermelien, Hedwig en Knikkebeen. Deze speelgoedtrein bevat 10 accessoires om je favoriete Harry Potter-scènes na te spelen
+- Inhoud: 1 Zweinstein Express-speelset, 2 figuren, 2 wezens, 10 accessoires
+- Wizarding World Magical Minis-speelgoed (afzonderlijk verkocht) en de Zweinstein Express-speelset zijn geweldig cadeau voor kinderen. Breid je Wizarding World uit
+- Breid je Wizarding World-spel uit met 10 accessoires. Breng de chocokikkers rond de cabine aan, berg spulletjes in de koffer op en smul van traktaties uit Zacharinus Zoetwarenhuis van de trolley
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09NLPY2L6{{</world>}}

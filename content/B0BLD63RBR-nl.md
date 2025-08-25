@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- PUMA Formstrip aan de mediale en laterale zijde
-- PUMA Woordmerk op de hiel
-- Step-in inlegzool
 - Perforaties op de teen
+- PUMA Formstrip aan de mediale en laterale zijde
+- Step-in inlegzool
+- PUMA Woordmerk op de hiel
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BLD63RBR{{</world>}}

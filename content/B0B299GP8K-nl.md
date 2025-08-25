@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 100% textiel mesh-polyester
-- 100% thermoplastisch rubber
-- klittenbandsluiting
 - synthetisch, 65% synthetisch polyurethaan, 35% mesh-polyester
+- 100% thermoplastisch rubber
 - Sluiting: rubber
+- 100% textiel mesh-polyester
+- klittenbandsluiting
 - Hakvorm: plat
 
 [🛒 Buy it!!]({{< param buyurl >}})

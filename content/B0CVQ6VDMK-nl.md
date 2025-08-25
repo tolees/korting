@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Huisdieren en wilde dieren om voor te zorgen
 - Meerdere locaties om te verkennen: Boerderij, schuur, markt & meer
 - Character Creator met veel stijlen en mogelijkheden
 - Meer dan tien gewassen om te planten en te oogsten en meer dan honderd andere voorwerpen
-- Huisdieren en wilde dieren om voor te zorgen
 - Kindvriendelijke graphics, muziek en geluidseffecten
 
 [🛒 Check the deal!!]({{< param buyurl >}})

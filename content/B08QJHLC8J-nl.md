@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Beschikbare capaciteit: 250GB / 500GB/ 1TB / 2TB
-- Vormfactor: M.2 (2280)
 - Ontworpen voor tech-enthousiastelingen, hardcore gamers en professionals die razendsnelle snelheid willen.
-- Om de prestaties van de 980 PRO te maximaliseren, controleert u op de Intel- of AMD-website of uw systeem PCIe 4.0 ondersteunt.
-- Interface: PCIe 4.0 NVMe (PCIe Gen 4.0 x 4)
 - Sequentiële leessnelheden tot 7.000 MB/s. Prestaties variëren op basis van systeemhardware en configuratie
+- Vormfactor: M.2 (2280)
+- Interface: PCIe 4.0 NVMe (PCIe Gen 4.0 x 4)
+- Om de prestaties van de 980 PRO te maximaliseren, controleert u op de Intel- of AMD-website of uw systeem PCIe 4.0 ondersteunt.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08QJHLC8J{{</world>}}

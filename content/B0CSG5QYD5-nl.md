@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - High-Density 3D TLC NAND: Biedt de ideale combinatie van prestaties en levensduur, zodat je drive jarenlang optimaal presteert.
+- Uitzonderlijke Gen4-opslagprestaties: Een PCIe Gen4 x4-controller levert tot 7.000 MB/s sequentiële leessnelheden en 6.500 MB/s sequentiële schrijfsnelheden* voor uitzonderlijke lees-, schrijf- en reactiesnelheden. *Prestaties en levensduur zijn afhankelijk van capaciteit.
 - Supersnelle PCIe 4.0 x4 NVMe 1.4 M.2-interface: Door PCIe Gen4-technologie voor maximale bandbreedte te gebruiken, levert de MP600 ELITE indrukwekkende opslagprestaties.
 - Maakt je pc sneller: Games laden, Windows opstarten, bestanden openen en overzetten, alles sneller dan ooit.
-- Uitzonderlijke Gen4-opslagprestaties: Een PCIe Gen4 x4-controller levert tot 7.000 MB/s sequentiële leessnelheden en 6.500 MB/s sequentiële schrijfsnelheden* voor uitzonderlijke lees-, schrijf- en reactiesnelheden. *Prestaties en levensduur zijn afhankelijk van capaciteit.
 - Hoogwaardige heatsink: Een vooraf geïnstalleerde prestatiegerichte aluminium-heatsink zorgt voor optimale bedrijfstemperaturen en beperkte throttling.
 
 [🛒 Buy it!!]({{< param buyurl >}})

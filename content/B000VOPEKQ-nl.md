@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Merk : Calvin Klein
 - Producttype: Eau de Toilette
+- Merk : Calvin Klein
 - Hoeveelheid product : 150 ml
 
 [🛒 Check the deal!!]({{< param buyurl >}})

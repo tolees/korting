@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Handleiding voor het samen opbouwen met de ouders (mogelijk niet beschikbaar in het Nederlands). Hoogwaardige kwaliteit en robuust design. Reiniging van de onderdelen (zonder stickers) onder stromend water zonder chemische middelen
 - Gouden Jubileum: PLAYMOBIL viert zijn verjaardag! Al 50 jaar lang betovert PLAYMOBIL kinderen en volwassenen over de hele wereld met diverse speelwerelden. Sluit je bij ons aan en vier vijf decennia vol onvergetelijke avonturen
+- Handleiding voor het samen opbouwen met de ouders (mogelijk niet beschikbaar in het Nederlands). Hoogwaardige kwaliteit en robuust design. Reiniging van de onderdelen (zonder stickers) onder stromend water zonder chemische middelen
 - Inhoud: 160-delige speelfigurenset met handleiding: 3 figuren, 2 dieren, 155 accessoires, materiaal: kunststof, LxDxH: 31,5 x 25,5 x 28,5 cm, Gewicht: 877 g, 71509
 - Gedetailleerde inrichting: Ontdek het perfecte kleine huis voor grote avonturen met de Tiny House speelwereld van PLAYMOBIL. Met keuken, badkamer, slaapgedeeltes en een verticale tuin biedt het alles wat je maar wilt voor urenlang speelplezier
 - Fantastische accessoires: Het Tiny House wordt geleverd met een overvloed aan liefdevol ontworpen accessoires zoals een teddybeer, een wekker, een boek, een bloembak en nog veel meer om realistische scenarios te creëren

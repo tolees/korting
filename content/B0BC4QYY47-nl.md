@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Ideaal als cadeau
 - Perfect als woondecoratie
-- Puzzel van 1000 stukjes in formaat 96 x 32 cm
+- Ideaal als cadeau
 - Gemaakt van Blueboard-kwaliteit
+- Puzzel van 1000 stukjes in formaat 96 x 32 cm
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BC4QYY47{{</world>}}

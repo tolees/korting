@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Laarzen met stevig design voor soepele bewegingen
 - Geschikt voor: koud weer
+- Laarzen met stevig design voor soepele bewegingen
 - De duurzame materialen zorgen voor extra warmte
 
 [🛒 Buy it now!!]({{< param buyurl >}})

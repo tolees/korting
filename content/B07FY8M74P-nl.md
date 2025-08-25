@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Synchroniseer je lampen met films of tv-programmas - Creëer een echte bioscoopervaring terwijl je knus thuis op de bank zit. Met de Philips Hue Play tafellampen breng je de sfeer van je lievelingsfilm naar je woonkamer. Kijk je liever voetbal? Als je de lampen laat meekleuren met de kleuren van je club, lijkt het net alsof je in het stadion zit.
-- Spelen met kleur - Creëer een unieke lichtervaring door te spelen met 16 miljoen kleuren en warm tot koelwit licht, waarmee je bij elke gelegenheid voor de juiste sfeer zorgt. Ontdek de perfecte slimme verlichting voor filmavondjes, feestjes, verhalen voor het slapen gaan of als je gewoon even lekker tot rust wil komen.
-- Wat heb je nodig? – Voor deze uitbreidingsset waarmee je je lightstrips kunt verlengen, heb je een Philips Hue Bridge en een Philips Hue Play basiseenheid nodig (allebei los verkrijgbaar).
 - Bedien je lampen met je stem - koppel met Amazon Alexa of de Google Assistent om de lamp te bedienen met eenvoudige spraakopdrachten. Deze functie werkt met alle slimme Echo-speakers/-schermen en Google Nest-apparaten (Hue Hub is vereist voor Echo (1e generatie) en Echo Dot (1e generatie)). Wil je spraakbediening gebruiken met Apple HomeKit, voeg dan een Hue Bridge toe aan je systeem.
 - Next-level gamen – Laat je helemaal meeslepen door de omgevingen en effecten in je games over te brengen naar je kamer. Van langzame effecten die passen bij de achtergronden in je game tot snelle knippereffecten tijdens scènes boordevol actie, Philips Hue Sync trekt je nog dieper de game in. Voor deze functie heb je de gratis Hue Sync app voor Mac of pc nodig.
+- Wat heb je nodig? – Voor deze uitbreidingsset waarmee je je lightstrips kunt verlengen, heb je een Philips Hue Bridge en een Philips Hue Play basiseenheid nodig (allebei los verkrijgbaar).
+- Synchroniseer je lampen met films of tv-programmas - Creëer een echte bioscoopervaring terwijl je knus thuis op de bank zit. Met de Philips Hue Play tafellampen breng je de sfeer van je lievelingsfilm naar je woonkamer. Kijk je liever voetbal? Als je de lampen laat meekleuren met de kleuren van je club, lijkt het net alsof je in het stadion zit.
+- Spelen met kleur - Creëer een unieke lichtervaring door te spelen met 16 miljoen kleuren en warm tot koelwit licht, waarmee je bij elke gelegenheid voor de juiste sfeer zorgt. Ontdek de perfecte slimme verlichting voor filmavondjes, feestjes, verhalen voor het slapen gaan of als je gewoon even lekker tot rust wil komen.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07FY8M74P{{</world>}}

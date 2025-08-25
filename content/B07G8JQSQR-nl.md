@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Whirltech-technologie - geavanceerd sproeisysteem voor een uitstekende smaak
-- Glazen kan voor 10 grote koppen of 15 kleine koppen(1,25 l); oppervlak van hoogwaardig gepolijst roestvrij staal met kunststof applicaties; 1.100 Watt
+- Warmhoudsfunctie van 40 min. met automatische uitschakeling; druppelstop; controlelampje; uitneembare filterdrager
 - Inclusief geïntegreerde maatlepel en buitenliggende waterniveau-indicator met vulniveaumarkering
 - Programmeerbare 24-uurstimer, met digitale bediening en LCD-display
-- Warmhoudsfunctie van 40 min. met automatische uitschakeling; druppelstop; controlelampje; uitneembare filterdrager
+- Glazen kan voor 10 grote koppen of 15 kleine koppen(1,25 l); oppervlak van hoogwaardig gepolijst roestvrij staal met kunststof applicaties; 1.100 Watt
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07G8JQSQR{{</world>}}
