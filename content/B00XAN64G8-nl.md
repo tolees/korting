@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Dove Body Love Intense Care Bodylotion herstelt de zeer droge huid
+- Biedt diepe voeding voor een herstelde en gezond uitziende huid
 - De voedende bodylotion trekt snel in en geeft tot 48 uur hydratatie
 - Dove Body Love Intense Care Bodylotion voedt de huid diep
 - Deze bodylotion is geformuleerd met een uniek Ceramide Restoring Serum
+- Dove Body Love Intense Care Bodylotion herstelt de zeer droge huid
 - Deze rijke lotion is dermatologisch getest en geschikt voor alle huidtypen
-- Biedt diepe voeding voor een herstelde en gezond uitziende huid
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00XAN64G8{{</world>}}

@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 🎮 Premium audio & ergonomie: 3.5mm audio + lasergegraveerde grip - ultiem comfort urenlang.
-- Beperkte aanbieding. Koop 1 G7 SE White en krijg 1 Black Desert Faceplate GRATIS! Koop de jouwe hier, https://www.amazon.nl/promotion/psp/A26SYILR8MJY1U
-- 🎮 Immersieve feedback: Pulserende vibratietriggers + asymmetrische handgreepmotoren - voel elk schot.
-- 🎮 Plug & Play: Afneembare USB-kabel - start binnen 3 seconden, geen drivers nodig.
 - 🎮 Precisiebediening: Hall Effect-joysticks & triggers: soepel, driftvrij en extreem nauwkeurig.
-- 🎮 Aanpasbare knoppen: 2 programmeerbare achterknoppen - elimineer foutieve triggers.
 - Belangrijke tips: Plaats het product NICHT in een vochtige of stoffige omgeving. Houd de USB-aansluiting NICHT direct vast, anders kunnen er storingen optreden.
+- 🎮 Immersieve feedback: Pulserende vibratietriggers + asymmetrische handgreepmotoren - voel elk schot.
+- 🎮 Aanpasbare knoppen: 2 programmeerbare achterknoppen - elimineer foutieve triggers.
+- 🎮 Plug & Play: Afneembare USB-kabel - start binnen 3 seconden, geen drivers nodig.
+- Beperkte aanbieding. Koop 1 G7 SE White en krijg 1 Black Desert Faceplate GRATIS! Koop de jouwe hier, https://www.amazon.nl/promotion/psp/A26SYILR8MJY1U
+- 🎮 Premium audio & ergonomie: 3.5mm audio + lasergegraveerde grip - ultiem comfort urenlang.
 - 🎮 Brede compatibiliteit: Werkt met Xbox Series X/S, Xbox One X/S én PC (Windows 10/11+) - inclusief Steam.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

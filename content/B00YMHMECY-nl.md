@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Verwijdert mee-eters en onzuiverheden
 - Grondige reiniging die tegelijkertijd zacht is voor de huid
-- Verfijnt de textuur van de huid
+- Verwijdert mee-eters en onzuiverheden
 - Zorgt voor een stralende, frisse en heldere huid
 - Past zich goed aan onregelmatige gebieden zoals neus en kin dankzij het zachte materiaal
+- Verfijnt de textuur van de huid
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00YMHMECY{{</world>}}

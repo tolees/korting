@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Geschikt voor de vaatwasser, magnetron en bakoven tot 200 °C, hoogwaardige kwaliteit: Premium porselein Made in Germany
 - Tijdloos tafelservies voor hoofdgerechten en soepen voor tot 6 personen, ideaal voor dagelijks gebruik of als origineel cadeau
-- Ook geschikt voor de gastronomie dankzij de handige vorm; stapelbaar, stoot- en slagvaste randen, ideaal formaat voor in de vaatwasser
+- Geschikt voor de vaatwasser, magnetron en bakoven tot 200 °C, hoogwaardige kwaliteit: Premium porselein Made in Germany
 - 6 grote borden (27 cm) voor hoofdgerechten en 6 soepborden (24 cm), eenvoudig design en glanzend porselein, op verschillende manieren te combineren
+- Ook geschikt voor de gastronomie dankzij de handige vorm; stapelbaar, stoot- en slagvaste randen, ideaal formaat voor in de vaatwasser
 - Leveringsinhoud: 1x Villeroy & Boch, Royal, tafel-set, inhoud: 6x eetbord, 6x diep bord, materiaal: Premium Porselein, kleur: wit (art.-nr. 10-4412-7611)
 
 [🛒 Buy it!!]({{< param buyurl >}})

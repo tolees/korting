@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 4K HDR-filmopnamefunctie
-- Snelle serieopnames met maximaal 10 frames per seconde en AF/AE-tracking.
 - Achterwaarts verlichte 35-mm-full-size CMOS sensor met 24,2 MP.
+- Snelle serieopnames met maximaal 10 frames per seconde en AF/AE-tracking.
+- 4K HDR-filmopnamefunctie
 - Gevoeligheidsbereik tot ISO 51200 (uitbreidbaar tot ISO 50 - 204800 voor fotos).
 - Snelle hybride AF met 693 AF-punten voor fasedetectie en 425 AF-punten voor contrastdetectie.
 

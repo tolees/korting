@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Wat je krijgt: Anker-oplader (twee poorten, 20 W), met USB-C-kabel van 1,5 m, een welkomstgids, onze zorgeloze garantie van achttien maanden en vriendelijke klantenservice.
-- Veiligheid staat voorop: je kunt er gerust op vertrouwen dat Ankers MultiProtect-veiligheidssysteem je apparaten uitgebreid beschermt, dus je kunt met een gerust hart opladen.
-- Klein en compact: de compacte oplader is ontworpen voor draagbaarheid, dus je kunt hem overal mee naartoe nemen, zodat je nooit zonder stroom komt te zitten wanneer dat niet uitkomt.
 - Gelijktijdig via twee poorten opladen: je kunt de USB-C- en USB-A-poort tegelijk gebruiken om twee apparaten op te laden zonder dat dit ten koste van de snelheid of prestaties gaat.
+- Wat je krijgt: Anker-oplader (twee poorten, 20 W), met USB-C-kabel van 1,5 m, een welkomstgids, onze zorgeloze garantie van achttien maanden en vriendelijke klantenservice.
+- Klein en compact: de compacte oplader is ontworpen voor draagbaarheid, dus je kunt hem overal mee naartoe nemen, zodat je nooit zonder stroom komt te zitten wanneer dat niet uitkomt.
+- Veiligheid staat voorop: je kunt er gerust op vertrouwen dat Ankers MultiProtect-veiligheidssysteem je apparaten uitgebreid beschermt, dus je kunt met een gerust hart opladen.
 - Snelladen met 20 W: laad je iPhone 15, Samsung-telefoon en andere apparaten met maximaal 20 W snel op.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

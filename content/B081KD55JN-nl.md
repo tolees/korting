@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Hoogste draaimoment door geïntegreerde inbussleutel
-- Schroeven, beitelen en losmaken van vastzittende schroeven
 - Uitstekende hantering dankzij ergonomische vorm en soft-grip-zone
 - Extreme robuustheid dankzij het doorlopend roestvrijstalen lemmet, massieve stalen neus en geharde punt
+- Hoogste draaimoment door geïntegreerde inbussleutel
+- Schroeven, beitelen en losmaken van vastzittende schroeven
 - Inhoud: kruisschroevendraaier PH1, schachtlengte: 1 mm
 
 [🛒 Buy it!!]({{< param buyurl >}})

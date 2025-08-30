@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - 【HDMI SWITCH 3 IN 1 OUT met afstandsbediening】: HDMI switch 3 poorten in en 1 HDMI uit voor de meeste apparaten, laat je los van de stekker en loskoppelen van HDMI-kabels, geniet gemakkelijk van werktijd en speeltijd door te schakelen tussen 3 apparaten met afstandsbediening of één knop.
-- 【4K-resolutie】: de HDMI-schakelaar ondersteunt 4K 3840x2160@30Hz en 3D-scherm voor u, deze swicher levert Ultra Full HDR-resolutie en verrijkt audio voor een filmisch videofeest. (Opmerking: bevestig de HDMI-kabel is hoge kwaliteit en de lange onder 8M, en stel het tv-scherm in HDCP 1.4/1080P resolutie)
 - 【Plug and Play】: eenvoudig in te stellen en te bedienen. Geen externe driver nodig, sluit gewoon uw HDMI-apparaten aan om van te genieten! Gebruik de afstandsbediening of druk op een knop om het signaal binnen één seconde te wisselen en het LED-lampje vertelt u welke poort actief is. Voeding met Micro USB-kabel van 5V USB-voedingsadapter voor de beste prestaties.
+- 【4K-resolutie】: de HDMI-schakelaar ondersteunt 4K 3840x2160@30Hz en 3D-scherm voor u, deze swicher levert Ultra Full HDR-resolutie en verrijkt audio voor een filmisch videofeest. (Opmerking: bevestig de HDMI-kabel is hoge kwaliteit en de lange onder 8M, en stel het tv-scherm in HDCP 1.4/1080P resolutie)
 - 【Brede compatibiliteit】: HDMI Splitter is geschikt voor de meeste apparaten met standaard HDMI-poort. Zoals ingang: Computer, Notebook, XBox 360, Xbox One, PS3/PS4, DVD-speler Fire TV, ROKU, Apple TV, Blu-Ray DVD enz. Output: HD-Ready of HDTV, Monitor, Projector enz.
 - 【Eenvoudig te Bedienen en Automatisch te Schakelen】: Met HDMI Switcher kunt u schakelen tussen verschillende ingangsbronnen, net als de afstandsbediening van de tv, zonder naar de tv te hoeven gaan. Bovendien ondersteunt de HDMI-splitter ook automatisch overschakelen naar het nieuwste plug-in-apparaat wanneer de verbindende wordt uitgeschakeld.
 

@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Nylon, synthetisch suède, accent
-- Ethylen-vinylacetaat: duurzaam, gevormd, gevoerd comfort
 - Duurzame, gripvaste buitenzool van rubber
 - Of het nu gaat om coole halfschoen, casual sportschoen of sportieve straatschoen: vrijetijdssneakers van Puma zorgen altijd voor goed bedde voeten in combinatie met een unieke stijl
+- Ethylen-vinylacetaat: duurzaam, gevormd, gevoerd comfort
+- Nylon, synthetisch suède, accent
 - Tussenzool van ethyleen-vinylacetaat
 
 [🛒 Buy it now!!]({{< param buyurl >}})

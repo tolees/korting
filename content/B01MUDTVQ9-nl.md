@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Buitenzool: 100 procent rubber, binnenzool: 50 procent leer - 50 procent synthetisch
 - Bovenwerk: 100 procent leer, voering: 68 procent textiel-32 procent synthetisch
+- Buitenzool: 100 procent rubber, binnenzool: 50 procent leer - 50 procent synthetisch
 - Multifunctioneel
 
 [🛒 Buy it!!]({{< param buyurl >}})

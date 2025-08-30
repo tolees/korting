@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Grote, afneembare toevoergoot (6 cm Ø), tamper met speciale bevestigingshulp voor optimale herpositionering, aan/uit-schakelaar met controlelampje
-- 2-voudig beveiligingssysteem tegen onbedoeld gebruik, veilige standaard, 4 grote antislip rubberen voetjes
+- Kan volledig worden gedemonteerd - verwijderbare onderdelen vaatwasserbestendig, ruimtebesparende opslag van accessoires in de container, Inclusief: reinigingsborstel
 - 5 mesinzetten voor verschillende vormen en breedtes: Tagliatelle (8,5 mm), linguine (6 mm), spaghetti (3 mm), stripspiralen glad of geribbeld (tot 30 mm)
 - Modern design - onderhoudsvriendelijke roestvrijstalen behuizing, extra grote opvangbak van 2,5 liter, gemaakt van BPA-vrij kunststof
-- Kan volledig worden gedemonteerd - verwijderbare onderdelen vaatwasserbestendig, ruimtebesparende opslag van accessoires in de container, Inclusief: reinigingsborstel
+- 2-voudig beveiligingssysteem tegen onbedoeld gebruik, veilige standaard, 4 grote antislip rubberen voetjes
+- Grote, afneembare toevoergoot (6 cm Ø), tamper met speciale bevestigingshulp voor optimale herpositionering, aan/uit-schakelaar met controlelampje
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07HBKQ7CH{{</world>}}

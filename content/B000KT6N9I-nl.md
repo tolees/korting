@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Enkel potlood met 0.9mm lijnbreedte met HB lood
 - Hoogwaardig vulpotlood voor schrijven en tekenen
-- Potlood heeft anti-slip rubberen grip zone en metalen clip, drukknop en punt
-- Gevoerde lijn voor hoge breukbestendigheid
 - Cilindrische loodhuls, ideaal voor gebruik met linialen en sjablonen
+- Potlood heeft anti-slip rubberen grip zone en metalen clip, drukknop en punt
+- Enkel potlood met 0.9mm lijnbreedte met HB lood
+- Gevoerde lijn voor hoge breukbestendigheid
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B000KT6N9I{{</world>}}

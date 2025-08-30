@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Comfortabel afgedekt in zacht vlies
 - Het ontwerp met volledige ritssluiting zorgt voor warmte tijdens het trainen
+- Comfortabel afgedekt in zacht vlies
 - Met trekkoord kun je je afdekking aanpassen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

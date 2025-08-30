@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Het artikel kan gedragen worden tijdens verschillende seizoenen
 - Het artikel heeft een informele uitstraling
+- Het artikel kan gedragen worden tijdens verschillende seizoenen
 - Dit artikel kan gedragen worden in combinatie met verschillende broeken
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- De Magic Mouse is meteen gebruiksklaar en pairt automatisch met je Mac.
-- Magic Mouse is draadloos en oplaadbaar, en heeft een geoptimaliseerde voet die soepel over je bureau glijdt.
 - Dankzij het Multi‑Touch-oppervlak kun je vlot van de ene naar de andere webpagina swipen en door documenten scrollen.
+- De Magic Mouse is meteen gebruiksklaar en pairt automatisch met je Mac.
 - En met de meegeleverde geweven USB‑C-oplaadkabel kun je ’m aansluiten op een USB-C‑poort op je Mac om te pairen en op te laden.
 - De oplaadbare batterij van Magic Mouse levert zonder tussentijds opladen voldoende stroom voor ongeveer een maand.
+- Magic Mouse is draadloos en oplaadbaar, en heeft een geoptimaliseerde voet die soepel over je bureau glijdt.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DL6KSW78{{</world>}}

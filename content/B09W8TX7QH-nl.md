@@ -30,8 +30,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Rijk aan huideigen Q10 en vitamine C
 - Vermindert rimpels en fijne lijntjes
-- Geeft de vermoeide huid een opfrisser
 - Beschermt de huid met SPF 15 en krachtige antioxidanten
+- Geeft de vermoeide huid een opfrisser
 - Voor de normale en vermoeide huid
 
 [🛒 Check the deal!!]({{< param buyurl >}})

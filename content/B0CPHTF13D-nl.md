@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 【Brede compatibiliteit】M.2 2280 (80 x 22 x 3,5 mm), de ingebouwde SSD is compatibel met Windows7, 8, 10, 11, Linux, Mac OS 10.9 en hoger. Compatibel met laptops, desktops en all-in-ones (moederborden van computers moeten zijn uitgerust met M.2-interfaces)
-- 【Uitstekende】Met HMB-geheugenbuffertechnologie en intelligente SLC-cacheversnelling biedt de SSD uitstekende lees- en schrijfprestaties.
 - 【Lange-termijn service】: Fanxiang zet zich in om wereldwijde zakelijke partners te voorzien van producten van hoge kwaliteit en biedt een 3-jarige garantie service (installatieschroeven en schroevendraaiers zijn opgenomen in de verpakking van het product).
 - 【Supersnel】 Leessnelheid tot 3.200 MB/s en schrijfsnelheid tot 1.300 MB/s. Totale schrijfcapaciteit tot 160 TB.
+- 【Uitstekende】Met HMB-geheugenbuffertechnologie en intelligente SLC-cacheversnelling biedt de SSD uitstekende lees- en schrijfprestaties.
+- 【Brede compatibiliteit】M.2 2280 (80 x 22 x 3,5 mm), de ingebouwde SSD is compatibel met Windows7, 8, 10, 11, Linux, Mac OS 10.9 en hoger. Compatibel met laptops, desktops en all-in-ones (moederborden van computers moeten zijn uitgerust met M.2-interfaces)
 - 【Energiezuinig】 fanxiang S501Q SSDs maken gebruik van QLC deeltjes om de laadsnelheid en energiezuinigheid van het apparaat te verbeteren en de latentie van besturingssystemen en games/software te verminderen.
 
 [🛒 Buy it!!]({{< param buyurl >}})

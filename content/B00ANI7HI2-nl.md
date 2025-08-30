@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Maak van elke ruimte een vergaderruimte: Ideaal voor een-op-een-gesprekken of telefonische vergaderingen met een paar deelnemers, voor tot 4 personen in een kamer
-- Draagbare luidspreker, volledig geoptimaliseerd voor flexibiliteit en de beste gebruikservaring: Gewoon in uw computer pluggen met de USB kabel of verbinden met uw smartphone, tablet of headset met behulp van de Bluetooth dongle
 - Audioconferenties met uitmuntende audiokwaliteit en bediening: Versta gesprekken gemakkelijker dankzij de omnidirectionele, 360° microfoon, gespreksbediening en aanraakknoppen
+- Maak van elke ruimte een vergaderruimte: Ideaal voor een-op-een-gesprekken of telefonische vergaderingen met een paar deelnemers, voor tot 4 personen in een kamer
 - Leveringsomvang: 1x Jabra Speak 510, lithium-ion-accu inbegrepen, speaker-reishoesje, Quick Start-instructieblad – 120 mm diameter en hoogte van 33 mm, Kleur: zwart
+- Draagbare luidspreker, volledig geoptimaliseerd voor flexibiliteit en de beste gebruikservaring: Gewoon in uw computer pluggen met de USB kabel of verbinden met uw smartphone, tablet of headset met behulp van de Bluetooth dongle
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00ANI7HI2{{</world>}}

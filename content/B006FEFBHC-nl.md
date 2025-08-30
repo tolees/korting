@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- ✅ FUNKTIEKEN: Ophang-Beugel kan tot 180° (+/-90) gezwenkt worden als de scherm-breedte maximaal 80 cm is. Helling: Kantel-bereik +/-15°. Voor optimale afstelling na montage kan de frontplaat +/-6° gedraaid worden. Wand-Afstand tussen 115 mm - 522 mm.
 - ✅ COMPATIBILITEIT: Ongeveer geschikte Beeldscherm Diagonaal 79cm/31" 94cm/37" 102cm/40" 107cm/42" 109cm/43" 122cm/48" 124cm/49" 127cm/50" 132cm/52" 140cm/55" 147cm/58" 152cm/60" 165cm/65" Inch
-- ✅ CAPACITEIT: Wandbeugel ondersteunt VESA-Normen 200x200 300x200 300x300 400x200 400x400. Ophang Systeem out Staal, Zwart
 - ✅ STEUN VOOR TELEVISIEAPPARATEN: van de meeste bekende merken
+- ✅ CAPACITEIT: Wandbeugel ondersteunt VESA-Normen 200x200 300x200 300x300 400x200 400x400. Ophang Systeem out Staal, Zwart
 - ❗ LET OP: De beeldschermdiagonaal is slechts een richtlijn - belangrijk zijn de positie en afstand van de VESA-gaten en het schermgewicht. Bijgevoegd pluggen alleen voor massieve betonnen wanden!
+- ✅ FUNKTIEKEN: Ophang-Beugel kan tot 180° (+/-90) gezwenkt worden als de scherm-breedte maximaal 80 cm is. Helling: Kantel-bereik +/-15°. Voor optimale afstelling na montage kan de frontplaat +/-6° gedraaid worden. Wand-Afstand tussen 115 mm - 522 mm.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B006FEFBHC{{</world>}}

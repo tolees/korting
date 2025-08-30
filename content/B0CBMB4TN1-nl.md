@@ -28,16 +28,16 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- A2-classificatie voor sneller laden en in-app prestaties
+- Werkt met Android smartphones, tablets, action cams, drones, gameconsoles en meer.
 - Bereik topsnelheid met de Samsung kaartlezer
+- A2-classificatie voor sneller laden en in-app prestaties
+- Sequential Read/Write speeds up to 200/130 MB/s with UHS-I interface.
 - Reach top speed with the Samsung card reader
 - Rated A2 for faster loading and in-app performance
-- Werkt met Android smartphones, tablets, action cams, drones, gameconsoles en meer.
 - 6-voudige bescherming: Waterdicht, Temperatuurbestendig, Röntgenbestendig, Magneetbestendig, Valbestendig, Slijtvast
 - 6-Proof protection: Waterproof, Temperature proof, X-ray proof, Magnet proof, Drop proof, Wearout proof
-- Sequential Read/Write speeds up to 200/130 MB/s with UHS-I interface.
-- Works with Android smartphones, tablets, action cams, drones, gaming consoles and more.
 - Sequentiële lees-/schrijfsnelheden tot 200/130 MB/s met UHS-I interface.
+- Works with Android smartphones, tablets, action cams, drones, gaming consoles and more.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CBMB4TN1{{</world>}}

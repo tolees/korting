@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Huidverzorging voor mannen & vrouwen, alle huidtypes. Bij voorkeur s avonds gebruiken. Zachtjes aanbrengen op het gezicht na het wassen van de cleanser & toner. Laat de peeling niet langer dan 8 minuten op het gezicht zitten.
+- YEOUTH Glycolzuur 30% Gel Peel met Retinol Serum. Gemaakt in de VS! Eigendom van een cosmetisch chemicus. Natuurlijk, zonder parabenen. Dermatologisch getest. Al uw huid nodig heeft van onze fontein van YEOUTH!
 - Anti aging huidverzorging tegen rimpels, poriën en fijne lijntjes. Het helpt de elasticiteit en stevigheid van de huid te verbeteren, waardoor rimpels minder opvallen en poriën minder zichtbaar worden.
 - Onze crèmes en gezichtsserums zijn vrij van kunstmatige geur- en kleurstoffen, parabenen, sulfaten en gluten. Onze huidverzorgingsproducten bieden voeding voor een stralende en jeugdige gloed. Geniet van een verfrissende uitstraling met YEOUTH!
 - Face Exfoliator tegen pigmentvlekken. Deze hydraterende peeling verwijdert zachtjes oude huidcellen voor een stralende teint. Het helpt ongelijkmatige teint, littekens, pigmentvlekken & puistjes te verbeteren voor een helderdere, stralende huid.
-- YEOUTH Glycolzuur 30% Gel Peel met Retinol Serum. Gemaakt in de VS! Eigendom van een cosmetisch chemicus. Natuurlijk, zonder parabenen. Dermatologisch getest. Al uw huid nodig heeft van onze fontein van YEOUTH!
-- Huidverzorging voor mannen & vrouwen, alle huidtypes. Bij voorkeur s avonds gebruiken. Zachtjes aanbrengen op het gezicht na het wassen van de cleanser & toner. Laat de peeling niet langer dan 8 minuten op het gezicht zitten.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B01HWD737K{{</world>}}

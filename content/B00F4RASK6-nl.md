@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Of sluit je device via deze kabel aan op de Apple USB-lichtnetadapter en een stopcontact.
-- Symmetrisch ontwerp
+- USB
 - Lightning
 - Met deze USB 2.0-kabel kun je je iPhone, iPad of iPod met Lightning-connector aansluiten op de USB-poort van je computer om de batterij op te laden en je device te synchroniseren.
-- USB
+- Symmetrisch ontwerp
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B00F4RASK6{{</world>}}

@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Verstelbare standaard waarmee je het device altijd in een prettige kijkhoek zet.
-- Handig tweedelig design dat de voor- en achterkant beschermt, met afneembaar toetsenbord.
-- Klikken, Multi-Touch-bewegingen en de cursor in iPadOS gebruiken met de grote trackpad.
-- 14 functietoetsen waarmee je snel toegang hebt tot shortcuts.
 - Prettig typen dankzij een schaarmechanisme met een key travel van 1 mm.
+- 14 functietoetsen waarmee je snel toegang hebt tot shortcuts.
+- Klikken, Multi-Touch-bewegingen en de cursor in iPadOS gebruiken met de grote trackpad.
+- Handig tweedelig design dat de voor- en achterkant beschermt, met afneembaar toetsenbord.
+- Verstelbare standaard waarmee je het device altijd in een prettige kijkhoek zet.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BJLBCJX4{{</world>}}

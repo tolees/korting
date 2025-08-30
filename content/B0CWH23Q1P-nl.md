@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Nog meer vriendschapsverhalen – bekijk ook ander rollenspelspeelgoed (apart verkrijgbaar) in het LEGO Friends assortiment. Hier komen kinderen verschillende personages en locaties tegen terwijl ze avonturen uit het echte leven naspelen
 - Inclusief 2 waterscooters – dit bouwpakket voor kinderen met strandwachtthema wordt geleverd met de LEGO Friends personages Leo en Candi en 2 waterscooters, zodat kinderen allerlei verhalen aan het strand van Heartlake City kunnen verzinnen
+- Nog meer vriendschapsverhalen – bekijk ook ander rollenspelspeelgoed (apart verkrijgbaar) in het LEGO Friends assortiment. Hier komen kinderen verschillende personages en locaties tegen terwijl ze avonturen uit het echte leven naspelen
 - Educatief speelgoed voor jonge bouwers – jonge kinderen kunnen hun bouwvaardigheden oefenen en vervolgens verhalen bedenken over de vrienden die op hun waterscooters racen en de dolfijn proberen te spotten
 - Breng het verhaal tot leven – dit rollenspel speelgoed voor kinderen is inclusief verschillende accessoires, waaronder zonnebrandcrème, een verrekijker, een schelp, zeester, zwemvest en een reddingsboei, plus een speelgoed krab die graag ijsjes steelt
 - Een cadeautip voor kinderen – deze set is een leuk cadeau of een traktatie voor kinderen die dol zijn op strandwachten en creatief spelen

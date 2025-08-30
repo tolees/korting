@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Breedte van het artikelpakket: 205 mm
 - Lengte van de verpakking van het artikel: 300 mm
+- Breedte van het artikelpakket: 205 mm
 - Hoogte van de verpakking van het artikel: 110 mm
 - Gewicht van het artikelpakket: 0.195 Kg
 

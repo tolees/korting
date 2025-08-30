@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Contrasterend mesh-inzetstuk aan beide zijden
 - Materiaal: 100% polyester (gerecycled)
+- Contrasterend mesh-inzetstuk aan beide zijden
 - Onderhoudsinstructie: machinewas, geen wasverzachter gebruiken
 - Nauwsluitende pasvorm voor een op maat gemaakt gevoel
 - Verborgen trekkoord

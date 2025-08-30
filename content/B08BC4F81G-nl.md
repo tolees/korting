@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Stevig design voor simpele bewegingen
-- Laarzen van het merk COLUMBIA
 - Geschikt voor: koud weer
+- Laarzen van het merk COLUMBIA
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08BC4F81G{{</world>}}

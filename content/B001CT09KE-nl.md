@@ -30,8 +30,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Het herenparfum van Giorgio Beverly Hills werd gecreëerd in 1981, en belichaamt sindsdien de luxe van Beverly Hills en Rodeo Drive
 - Giorgio for MEN van Giorgio Beverly Hills is een parfum met oriëntaalse, houtachtige en kruidige geur voor mannen.
-- Een intens parfum met fruit- en houtnoten, voor een romantisch en mannelijk resultaat.
 - Om ervoor te zorgen dat het parfum lang aanhoudt, verstuift u het op ongeveer 20 cm van uw huid over de pulsatiepunten, als onderdeel van uw dagelijkse routine.
+- Een intens parfum met fruit- en houtnoten, voor een romantisch en mannelijk resultaat.
 - 0
 
 [🛒 Buy it!!]({{< param buyurl >}})

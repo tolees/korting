@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- ONTWORPEN IN DENEMARKEN: Wij zijn een familiebedrijf. Deze heren t-shirts zijn ontworpen in Kopenhagen met de beste materialen voor maximale kwaliteit en comfort
-- ZIJDEZACHT: Gemaakt van biologisch katoen en modal voor een tweede-huid gevoel. Kraag zonder label, korte mouwen en zachte naden voor maximaal comfort. Lichtgewicht en ademende t-shirts voor heren om je de hele dag droog en koel te houden
-- UITSTEKENDE KLANTENSERVICE: We willen dat onze klanten tevreden zijn - Als je vragen hebt over dit product, aarzel dan niet om contact met ons op te nemen. Ons team staat altijd klaar om je te helpen
 - KLASSIEK ONTWERP VOOR IEDERE DAG: Normale pasvorm met een comfortabele stretch. Een duurzame en klassieke stijl die perfect is voor dagelijks gebruik en lichte sportactiviteiten. Verkrijgbaar in een crew- of v-halsontwerp
+- ONTWORPEN IN DENEMARKEN: Wij zijn een familiebedrijf. Deze heren t-shirts zijn ontworpen in Kopenhagen met de beste materialen voor maximale kwaliteit en comfort
+- UITSTEKENDE KLANTENSERVICE: We willen dat onze klanten tevreden zijn - Als je vragen hebt over dit product, aarzel dan niet om contact met ons op te nemen. Ons team staat altijd klaar om je te helpen
 - PREMIUM MATERIALEN: Gemaakt van 50% Katoen (biologisch) en 50% Modal. OEKO-TEX standaard 100 gecertificeerd en vrij van schadelijke stoffen. Machinewasbaar met vergelijkbare kleuren op max. 30°C
+- ZIJDEZACHT: Gemaakt van biologisch katoen en modal voor een tweede-huid gevoel. Kraag zonder label, korte mouwen en zachte naden voor maximaal comfort. Lichtgewicht en ademende t-shirts voor heren om je de hele dag droog en koel te houden
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08CZWFB2X{{</world>}}

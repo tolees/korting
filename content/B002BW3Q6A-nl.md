@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Baraka - Eine Welt jenseits der Worte: Special Edition'
-date: 2025-08-26 20:17:02
+date: 2025-08-30 08:40:26
 image: 'https://m.media-amazon.com/images/I/51DjSznVDEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: ''
 buyurl: 'https://www.amazon.nl/dp/B002BW3Q6A/?tag=tolees0b-21'
 descuento: '31.36'
-average: '17.135'
+average: '17.0088235294118'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

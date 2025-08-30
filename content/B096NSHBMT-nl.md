@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Bovenmateriaal: nylon
+- Hakvorm: geen hak
+- Materiaal: textiel
 - Sluiting: rubber
 - Voering: ongevoerd
-- Hakvorm: geen hak
-- Binnenmateriaal: synthetisch
-- Materiaal: textiel
 - Schoenbreedte: medium
+- Bovenmateriaal: nylon
+- Binnenmateriaal: synthetisch
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B096NSHBMT{{</world>}}

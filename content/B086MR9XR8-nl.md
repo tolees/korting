@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- PERSONALISEER: Maak jouw entertainmentmediabeleving helemaal van jou- Gebruik de app om je lichtinstellingen te wijzigen, zoals de helderheid en snelheid van de effecten, en om standaard opstartinstellingen te definiëren.
-- 4K COMPATIBEL: De Philips Hue Play HDMI Sync Box is compatibel met 4K, Dolby Vision en HDR10+ - Zo kun je thuis genieten van de hoogste beeldkwaliteit terwijl je Philips Hue slimme verlichting met het beeld synchroniseert voor surround verlichting.
-- VOEG TOT WEL 10 HUE LAMPEN TOE: De sync box werkt met alle Philips Hue White en color ambiance lampen en armaturen- Voeg tot wel 10 Philips Hue lampen met kleurfunctie toe aan je entertainmentruimte en zie hoe elke lamp afzonderlijk reageert op wat er op het scherm van je tv te zien is.
 - WERKT OP ALLE HDMI-APPARATEN: Sluit de sync box gewoon aan op een HDMI-apparaat, bijvoorbeeld een streamingapparaat, een gameconsole of een settopbox, om streamingdiensten als Netflix en Amazon Prime te bekijken.
+- VOEG TOT WEL 10 HUE LAMPEN TOE: De sync box werkt met alle Philips Hue White en color ambiance lampen en armaturen- Voeg tot wel 10 Philips Hue lampen met kleurfunctie toe aan je entertainmentruimte en zie hoe elke lamp afzonderlijk reageert op wat er op het scherm van je tv te zien is.
+- 4K COMPATIBEL: De Philips Hue Play HDMI Sync Box is compatibel met 4K, Dolby Vision en HDR10+ - Zo kun je thuis genieten van de hoogste beeldkwaliteit terwijl je Philips Hue slimme verlichting met het beeld synchroniseert voor surround verlichting.
+- PERSONALISEER: Maak jouw entertainmentmediabeleving helemaal van jou- Gebruik de app om je lichtinstellingen te wijzigen, zoals de helderheid en snelheid van de effecten, en om standaard opstartinstellingen te definiëren.
 - CREËER EEN TOTALE MEDIABELEVING: Synchroniseer je lampen zonder enige vertraging met je tv-scherm om films te kijken, muziek te luisteren of te gamen- Met de sync box beleef je je favoriete content zoals nooit tevoren.
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Het doucheschuim is verpakt in een 100% recyclebare aluminium verpakking
 - Een douchemousse met de heerlijke geur van bloedsinaasappel en rabarber
 - Het zachte schuim is geschikt om mee te scheren onder de douche
 - De douchegel zorgt voor een stralende huid met een gezonde ‘glow’
-- Het doucheschuim is verpakt in een 100% recyclebare aluminium verpakking
 - Ondersteunt je huidbarrière, waardoor je huid er gezond en stralend uitziet
 - Dove Bath Therapy Glow Douche- & Scheerschuim is verrijkt met niacinamide
 

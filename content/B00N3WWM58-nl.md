@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 80 uur batterijduur
 - 30 mm driverunits - voel de kracht van dynamisch geluid Geluidskwaliteit - levert direct en nauwkeurig geluid met een gebalanceerde toon Lichtgewicht voor hoge muziekmobiliteit. Frequentiebereik: 10 Hz - 22.000 Hz Hoofdtelefoon geschikt voor smartphones met in-line externe microfoon. Gevoeligheden (decibel / mW): 110 decibel / mW - uitschakelen, 115 decibel / mW - inschakelen Snoerlengte is 1,2 meter
+- 80 uur batterijduur
 - Geïntegreerde technologie voor geluidsreductie
 
 [🛒 Buy it!!]({{< param buyurl >}})

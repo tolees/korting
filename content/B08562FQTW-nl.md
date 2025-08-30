@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Met 8 PoE+-aansluitingen: gegevensoverdracht en stroomvoorziening via één kabel.
+- 9 RJ45-poorten 10/100/1000 Mbps, 1 Gigabit -SFP-poort.
 - 802.p/DSCP QoS voor latentiegevoelige Broadcast-dataverkeer
 - Eenvoudig te bedienen, geen configuratie of installatie nodig.
-- 9 RJ45-poorten 10/100/1000 Mbps, 1 Gigabit -SFP-poort.
-- Met 8 PoE+-aansluitingen: gegevensoverdracht en stroomvoorziening via één kabel.
 - IEEE 802.3at en 802.3af compatibel
 
 [🛒 Check the deal!!]({{< param buyurl >}})
