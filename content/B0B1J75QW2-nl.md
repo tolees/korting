@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Betrouwbaarheid gebouwd om lang mee te gaan
 - Tot 100 MB/s lees- en 40 MB/s schrijfsnelheden
+- Betrouwbaarheid gebouwd om lang mee te gaan
 - Tot 140.160 uur opnemen en afspelen in 4K en Full HD (1080p)
 - Specifiek ontworpen voor videobewakingscameras
 

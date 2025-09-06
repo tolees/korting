@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Geïntroduceerd in 1989
-- Ein sehr schöner Duft, mit Akkorden aus weißem Zedernholz und Muskat. Duftnoten: Würzig, Orientalisch, Blumig.
 - Een mix van mannelijke geuren en specerijen
-- Fris en levendig
+- Geïntroduceerd in 1989
 - Geur voor heren uit het designerhuis van Joop
+- Ein sehr schöner Duft, mit Akkorden aus weißem Zedernholz und Muskat. Duftnoten: Würzig, Orientalisch, Blumig.
+- Fris en levendig
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0009OAHEQ{{</world>}}

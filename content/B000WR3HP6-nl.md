@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Elegant tafelbestek van roestvrij staal voor maximaal 6 personen, alleskunner voor dagelijks gebruik en voor de feestelijke tafel
-- Ligt perfect in de hand, kan met verschillende collecties van Villeroy & Boch worden gecombineerd
 - Ideale metgezel van voorgerecht tot dessert: 6 eetlepels, 6 eetvorken, 6 messen, 6 koffielepeltjes
+- Ligt perfect in de hand, kan met verschillende collecties van Villeroy & Boch worden gecombineerd
 - Inhoud van de levering: 1 x Villeroy & Boch Piemont tafelbestekset, 24-delig. Materiaal: roestvrij staal
 - Hoogwaardige kwaliteit: roestvrij en vaatwasmachinebestendig staal, smaakneutraal, voor dagelijks gebruik
 

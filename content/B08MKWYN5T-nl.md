@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Cat5
-- MAC-adrestabel: 8000 entries Switchingcapaciteit: 48 Gbit/s
 - Vermogenstoevoer inclusief
 - Unmanaged
-- Aantal basis-switching RJ-45 Ethernet-poorten: 24
 - Rack-montage
 - Quality of Service (QoS)
+- Aantal basis-switching RJ-45 Ethernet-poorten: 24
+- Cat5
+- MAC-adrestabel: 8000 entries Switchingcapaciteit: 48 Gbit/s
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08MKWYN5T{{</world>}}

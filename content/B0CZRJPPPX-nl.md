@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Helpt de gevoelige huid te kalmeren
-- Alcoholvrije formule
-- Verrijkt met kamille en vitamine E
 - Diep hydraterende crème met verzachtende werking
+- Verrijkt met kamille en vitamine E
+- Alcoholvrije formule
 - Beschermt je huid met SPF 15
 
 [🛒 Check the deal!!]({{< param buyurl >}})

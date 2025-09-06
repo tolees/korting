@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Deze aftershave is alcoholvrij*, dus geeft geen branderig gevoel als je je huid na het scheren besprenkelt
-- Verkleint de kans op roodheid en irritaties en laat scheerwondjes sneller helen
-- Aftershave van het iconische en vertrouwde merk NIVEA
 - Het zeewierextract werkt hydraterend: voor een soepele en gladde huid
+- Verkleint de kans op roodheid en irritaties en laat scheerwondjes sneller helen
+- Deze aftershave is alcoholvrij*, dus geeft geen branderig gevoel als je je huid na het scheren besprenkelt
+- Aftershave van het iconische en vertrouwde merk NIVEA
 - Bevat huidkalmerende kamille en een heerlijk zachte, kruidige geur
 
 [🛒 Check the deal!!]({{< param buyurl >}})

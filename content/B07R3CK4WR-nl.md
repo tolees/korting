@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Met hydraterend Aloë water
-- Hydrateert je haar en maakt het glad, zonder het te verzwaren
 - Speciaal ontwikkeld voor fijn, pluizig haar
 - John Frieda Weightless Wonder Featherlight Smoothing Crѐme voor fijn, pluizig haar
+- Met hydraterend Aloë water
 - Transformeert pluizig, fijn haar naar gewichtloos glad
+- Hydrateert je haar en maakt het glad, zonder het te verzwaren
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07R3CK4WR{{</world>}}

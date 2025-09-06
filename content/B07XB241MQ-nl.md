@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- PERFECT GIFT VOOR NARUTO FANS - Ideaal voor vakanties, verjaardagen of speciale gelegenheden en als cadeau is dit exclusieve beeldje een must-have toevoeging aan elke Naruto merchandise collectie.
 - IDEALE COLLECTIBELE GROOTTE - Met een hoogte van ongeveer 9,5 cm vult dit vinyl minifiguurtje andere verzamelobjecten aan en past het perfect in je vitrinekast of op je bureau.
+- PERFECT GIFT VOOR NARUTO FANS - Ideaal voor vakanties, verjaardagen of speciale gelegenheden en als cadeau is dit exclusieve beeldje een must-have toevoeging aan elke Naruto merchandise collectie.
 - UITBREID UW COLLECTIE - Voeg dit unieke Naruto Uzumaki vinyl display stuk toe aan je groeiende assortiment van Funko Pop! figuren, en zoek naar andere zeldzame en exclusieve verzamelobjecten voor een complete set.
 - VOORNAAMSTE POP CULTUUR MERK - Vertrouw op de expertise van Funko, de belangrijkste maker van popcultuur merchandise die vinyl figuren, actie speelgoed, pluche, kleding, bordspellen en nog veel meer omvat.
 - PREMIUM VINYL MATERIAAL - Gemaakt van hoogwaardig, duurzaam vinyl, is deze collectible gemaakt om lang mee te gaan en dagelijkse slijtage te weerstaan, zodat fans en verzamelaars er lang plezier van hebben.

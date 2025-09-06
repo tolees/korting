@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Aantal basis-switching RJ-45 Ethernet-poorten: 16
+- Unmanaged
 - Stapelbaar
 - MAC-adrestabel: 8000 entries
-- Unmanaged
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0002IPFBY{{</world>}}

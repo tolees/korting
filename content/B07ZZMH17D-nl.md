@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- CONFIGURATIE VAN NETWERKVERBINDING: 8 Gigabit-poorten (10/100/1000 Mbps) en 2 x 1G SFP-uplinkpoorten netwerkswitch, IGMP-snooping, VLAN en meer.
-- PROSAFE LEVENSLANGE GARANTIE: Toonaangevende beperkte levenslange hardwaregarantie, vervanging op de volgende werkdag, 24-uurs chat met NETGEAR-experts
-- VEELZIJDIGE MONTAGEOPTIES: Desktop- of wandmontage mogelijk, alle benodigde bevestigingsmiddelen zijn inbegrepen
-- FLUISTERSTIL ONTWERP: Vermindert ventilatorgeluid en zorgt voor een rustige thuis- of bedrijfsomgeving
-- ENERGIEZUINIG: Optimaliseert het stroomverbruik en verlaagt de bedrijfskosten, de meeste modellen zijn compatibel met de energiezuinige Ethernet-modus IEEE802.3az
 - POWER-OVER-ETHERNET: LAN-switches met 8 PoE+ poorten en een totaal vermogen van 55 W.
+- ENERGIEZUINIG: Optimaliseert het stroomverbruik en verlaagt de bedrijfskosten, de meeste modellen zijn compatibel met de energiezuinige Ethernet-modus IEEE802.3az
+- PROSAFE LEVENSLANGE GARANTIE: Toonaangevende beperkte levenslange hardwaregarantie, vervanging op de volgende werkdag, 24-uurs chat met NETGEAR-experts
+- CONFIGURATIE VAN NETWERKVERBINDING: 8 Gigabit-poorten (10/100/1000 Mbps) en 2 x 1G SFP-uplinkpoorten netwerkswitch, IGMP-snooping, VLAN en meer.
 - FLEXIBILITEIT DOOR UPLINK-POORTEN: 2x 1G SFP uplink-poorten
+- FLUISTERSTIL ONTWERP: Vermindert ventilatorgeluid en zorgt voor een rustige thuis- of bedrijfsomgeving
+- VEELZIJDIGE MONTAGEOPTIES: Desktop- of wandmontage mogelijk, alle benodigde bevestigingsmiddelen zijn inbegrepen
 - FLEXIBELE CONFIGURATIE EN BEDIENING: Intuïtieve beheersoftware voor veilige installatie/toegang en SNMP-beheer (NMS 300) - lokaal of via de cloud
 
 [🛒 Check the deal!!]({{< param buyurl >}})

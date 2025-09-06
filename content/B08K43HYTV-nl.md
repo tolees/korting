@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- vlekkeloos en soepele applicatie in 1 seconde per nagel
-- Droogt binnen 50 seconden
 - Sneldrogende nagellak
 - Intense kleur met een ultra shiny finish
+- vlekkeloos en soepele applicatie in 1 seconde per nagel
 - De fan-effect borstel levert een eenvoudig
+- Droogt binnen 50 seconden
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08K43HYTV{{</world>}}

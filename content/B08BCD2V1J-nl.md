@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Wandelschoenen
 - Redmond 3 Waterproof (waterbestendig)
+- Wandelschoenen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08BCD2V1J{{</world>}}

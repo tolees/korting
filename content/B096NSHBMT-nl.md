@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Schoenbreedte: medium
-- Hakvorm: geen hak
-- Voering: ongevoerd
 - Materiaal: textiel
-- Sluiting: rubber
+- Hakvorm: geen hak
 - Bovenmateriaal: nylon
+- Voering: ongevoerd
+- Sluiting: rubber
 - Binnenmateriaal: synthetisch
 
 [🛒 Check the deal!!]({{< param buyurl >}})

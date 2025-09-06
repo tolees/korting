@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Sluiting: rubber
+- Schoenbreedte: medium
 - Bovenmateriaal: nylon
-- Binnenmateriaal: synthetisch
 - Voering: ongevoerd
 - Hakvorm: geen hak
 - Materiaal: textiel
-- Schoenbreedte: medium
+- Binnenmateriaal: synthetisch
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B096NSZVSB{{</world>}}

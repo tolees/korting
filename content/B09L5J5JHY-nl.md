@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Lederen bovenwerk; EVA en rubberen tussenzool; Robuuste rubberen buitenzool; Vetersluiting voor een goede pasvorm
-- PUMA No. 2 Logo op kwartaal
 - PUMA No. 1 Logo op de tong
+- PUMA No. 2 Logo op kwartaal
 - PUMA Formstrip aan mediale en laterale zijden
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nike Herenpolo met korte mouwen M Nk Df Park20 Polo  dennengroen/wit/wit  BV6879-302  M'
-date: 2025-08-30 11:35:56
+date: 2025-09-05 15:36:29
 image: 'https://m.media-amazon.com/images/I/31uZS2JZQaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Het achterpaneel mesh voegt ademend
+- Slim fit voor een touch-maatregel
 - Jersey korte mouw
 - Normale pasvorm
+- Het achterpaneel mesh voegt ademend
 - De Dri-FIT technologie helpt je droog en comfortabel te blijven
-- Slim fit voor een touch-maatregel
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07WC88RX8{{</world>}}

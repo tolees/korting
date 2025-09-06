@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Beschikbaar in waaier van volledige capaciteiten
-- Opmerkelijke prestaties
 - Ondersteunt een volledige beveiligingssuite (TCG Opal, AES 256-bit, eDrive)
+- Opmerkelijke prestaties
 - Beschikt over de nieuwste 3D TLC NAND-technologie
+- Beschikbaar in waaier van volledige capaciteiten
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08ZNSQYXS{{</world>}}

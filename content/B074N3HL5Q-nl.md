@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- De 10 watt piekvermogen/5 watt RMS zorgt voor kamervullend geluid met twee actieve drivers voor de perfecte balans tussen middentonen en hoge tonen zorgen, en twee passieve radiators voor de bass
 - Veelzijdige installatie – Koppel tot twee Bluetooth-apparaten en/of verbind één apparaat via de 3,5mm-ingang; met Easy-Switch van Logitech kun je naadloos schakelen tussen geluidsbronnen
-- Gebruik de handige hoofdtelefoonaansluiting om je hoofdtelefoon aan te sluiten en in volledige privacy naar muziek te luisteren, films te kijken en games te spelen
+- De 10 watt piekvermogen/5 watt RMS zorgt voor kamervullend geluid met twee actieve drivers voor de perfecte balans tussen middentonen en hoge tonen zorgen, en twee passieve radiators voor de bass
 - Eenvoudige bediening – Profiteer van gemakkelijke toegang tot de knop voor Bluetooth-koppeling, de aan/uit- en volumeknoppen en de hoofdtelefoonaansluiting op de rechterspeaker
+- Gebruik de handige hoofdtelefoonaansluiting om je hoofdtelefoon aan te sluiten en in volledige privacy naar muziek te luisteren, films te kijken en games te spelen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B074N3HL5Q{{</world>}}

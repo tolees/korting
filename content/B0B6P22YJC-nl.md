@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- 🔥Ondersteuning van smart home-platforms zoals Home Assistant, openHAB, Zigbee2MQTT, enz.
 - 🔥Externe SMA-interfaceantenne, aluminium behuizing
 - 🔥SONOFF Zigbee 3.0 USB dongle Plus kann mit den folgenden Geraten functies: router :ZBMINI smart switch, S26R2ZBTPF Zigbee smart switch Endgerat:Zbmini-l intelligente schakelaar, snzb-01 schakelaar, snzb-02 temperatuur en Feuchtigkeitssensor.bewegunssensor SNZB-03, r- fenstersensor SNZB-04
-- 🔥Based on EFR32MG21 + CH9102F/CP2102N, +20dBm Ausgangsverstärkun
 - 🔥Voorgeflitst met op EZNet gebaseerde Zigbee-coördinatorfirmware 6.10.3 uit de doos
-- 🔥Ondersteuning van smart home-platforms zoals Home Assistant, openHAB, Zigbee2MQTT, enz.
+- 🔥Based on EFR32MG21 + CH9102F/CP2102N, +20dBm Ausgangsverstärkun
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0B6P22YJC{{</world>}}

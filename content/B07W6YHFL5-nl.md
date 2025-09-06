@@ -30,8 +30,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Nike biedt innovatieve producten, ervaringen en diensten om atleten te inspireren
 - Park20 regenjas
-- 100% polyester
 - jas
+- 100% polyester
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07W6YHFL5{{</world>}}

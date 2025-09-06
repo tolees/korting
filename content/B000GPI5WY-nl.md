@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Eenvoudig navulbaar met 12 op één keer met Mars micro carbon 250 fijne vullingen
-- Onbreekbaar door veerkrachtig gelagerde vulling
-- Met antislip rubberen gripzone
-- Stijve cilindrische vulbuisjes, ideaal voor linialen en sjablonen
 - Met ISO-markering en verwisselbare gum
+- Onbreekbaar door veerkrachtig gelagerde vulling
+- Eenvoudig navulbaar met 12 op één keer met Mars micro carbon 250 fijne vullingen
+- Stijve cilindrische vulbuisjes, ideaal voor linialen en sjablonen
+- Met antislip rubberen gripzone
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B000GPI5WY{{</world>}}

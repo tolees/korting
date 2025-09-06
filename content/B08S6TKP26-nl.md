@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Dag en Nacht Duidelijk Zicht: Met de 2K 4MP-resolutie zie je beelden met superhelderheid en de fijnste details. Mis nooit meer iets, zelfs s nachts met geweldig nachtzicht tot 12 meter.
-- Hou Actie in de Gaten: Bij bewegingen stelt de camera automatisch scherp en wordt het bewegende object gevolgd. Mis niks meer.
 - Dual-band Wifi: De camera werkt op zowel 2,4 GHz als 5 GHz wifi voor superieure netwerkprestaties. Je kunt verschillende wifi-banden kiezen, wat je zelf fijn vindt.
-- Detectie van Personen/Huisdieren & Waarschuwingen: De camera kan mensen en huisdieren detecteren en je in realtime bewegingswaarschuwingen sturen. Hou belangrijke gebieden altijd goed in de gaten.
 - Flexibele Opslagopties: Videos kun je opslaan op de micro SD-kaart (tot 256 GB, niet meegeleverd) en Reolink NVR, of uploaden naar Reolink Cloud.
+- Dag en Nacht Duidelijk Zicht: Met de 2K 4MP-resolutie zie je beelden met superhelderheid en de fijnste details. Mis nooit meer iets, zelfs s nachts met geweldig nachtzicht tot 12 meter.
+- Detectie van Personen/Huisdieren & Waarschuwingen: De camera kan mensen en huisdieren detecteren en je in realtime bewegingswaarschuwingen sturen. Hou belangrijke gebieden altijd goed in de gaten.
+- Hou Actie in de Gaten: Bij bewegingen stelt de camera automatisch scherp en wordt het bewegende object gevolgd. Mis niks meer.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08S6TKP26{{</world>}}

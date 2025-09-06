@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Hoogte van de verpakking van het artikel: 95 mm
 - Lengte van de verpakking van het artikel: 245 mm
-- Gewicht van het artikelpakket: 0.13 Kg
+- Hoogte van de verpakking van het artikel: 95 mm
 - Breedte van het artikelpakket: 180 mm
+- Gewicht van het artikelpakket: 0.13 Kg
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08BLQ2BGT{{</world>}}

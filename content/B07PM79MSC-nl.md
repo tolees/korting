@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Het serum voorkomt dankzij zijn zeer effectieve formule met 10% vitamine C effectief de zichtbare huidveroudering. Salicylzuur verwijdert dode huidschilfers en hyaluronzuur laat een vale huid stralen. Neurosensine en thermaal water hebben een kalmerend en ontstekingsremmend effect.
-- Breng s ochtends vier tot zes druppels aan op de gereinigde gezichtshuid, hals en decolleté en klop met de vingertoppen. Vermijd het gebied rond de ogen. Gebruik het serum altijd in combinatie met een zonnebrandproduct, omdat de huid door vitamine C lichtgevoeliger wordt.
 - Vanaf het eerste gebruik worden rimpels, droogheidsrimpels, pigmentvlekken en oneffenheden zichtbaar verminderd.
+- Breng s ochtends vier tot zes druppels aan op de gereinigde gezichtshuid, hals en decolleté en klop met de vingertoppen. Vermijd het gebied rond de ogen. Gebruik het serum altijd in combinatie met een zonnebrandproduct, omdat de huid door vitamine C lichtgevoeliger wordt.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07PM79MSC{{</world>}}

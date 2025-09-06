@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Merk : Calvin Klein
-- Producttype: Eau de Toilette
 - Hoeveelheid product : 150 ml
+- Producttype: Eau de Toilette
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B000VOPEKQ{{</world>}}

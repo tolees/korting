@@ -30,9 +30,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Laag energieverbruik: bespaar tot 90% energie in vergelijking met conventionele lichtbronnen. Goed voor het milieu en jouw portemonnee.
 - Slank ontwerp, ideaal voor kamers met een laag plafond, valt gelijk met het oppervlak.
-- Gelijkmatige lichtverdeling: verlicht je ruimtes gelijkmatig en uniform
-- Philips LED-plafondlamp: geniet van warmwit licht (2700K) voor een gezellige sfeer in huis.
 - Dimbaar: gebruik je bestaande lichtschakelaar om de lamp op 100%, 40% of 10% helderheid in te stellen.
+- Philips LED-plafondlamp: geniet van warmwit licht (2700K) voor een gezellige sfeer in huis.
+- Gelijkmatige lichtverdeling: verlicht je ruimtes gelijkmatig en uniform
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B097RC8K3P{{</world>}}

@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Makkelijk te gebruiken
 - Voor kinderen en volwassenen vanaf 14 jaar
 - 2000 delen
-- Makkelijk te gebruiken
 - Formaat: 99 x 76 cm
 
 [🛒 Buy it now!!]({{< param buyurl >}})

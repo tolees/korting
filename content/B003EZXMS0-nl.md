@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 24-bits A/D en D/A converter
+- Authentieke versarkersimulatie, vervorming en speciale effecten
 - 3D multi-effectprocessor
+- 24-bits A/D en D/A converter
 - Met Berhinger RSM (Real Sound Modeling) technologie
 - 71 algoritmen, incl. echte studio-compatibele stereo- en 3D-effecten
-- Authentieke versarkersimulatie, vervorming en speciale effecten
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B003EZXMS0{{</world>}}

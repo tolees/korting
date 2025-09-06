@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Producttype: Gezichtscrème
 - Merk: Piz Buin
+- Producttype: Gezichtscrème
 - Hoeveelheid product: 150 ml
 
 [🛒 Buy it now!!]({{< param buyurl >}})

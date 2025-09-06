@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Goede grip
 - Lichtgewicht
 - Vulling:
-- Goede grip
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07P8T9K3R{{</world>}}

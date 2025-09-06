@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Warm herenjack; ideaal voor koude winterdagen in de stad, wandelen en andere buitenactiviteiten; moderne pasvorm
 - Volledige rits; 2 zakken met rits voor warme en veilige handen; binnenzak voor belangrijke spullen
 - Optimale pasvorm dankzij trekkoord in de zoom en gedeeltelijk elastische manchetten
 - Inhoud: 1x Columbia Pike Lake jack voor heren; materiaal: 100% polyester; kleur: zwart; maat L; 1738022
+- Warm herenjack; ideaal voor koude winterdagen in de stad, wandelen en andere buitenactiviteiten; moderne pasvorm
 - Bijzonder warm dankzij de Omni-Heat-technologie met reflecterende thermo-voering; waterafstotend voor optimale bescherming tegen regen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
