@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Gegevensuitwisseling via USB 2.0
-- Uitgangsvermogen: maximaal 100 watt (20 V 5 A)
-- Kabellengte: 1 m
 - Deel je power tussen twee compatibele apparaten met USB Type-C
+- Uitgangsvermogen: maximaal 100 watt (20 V 5 A)
+- Gegevensuitwisseling via USB 2.0
+- Kabellengte: 1 m
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07V7GDKBJ{{</world>}}

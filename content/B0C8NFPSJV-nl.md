@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 5Gbps Overdrachtssnelheid: Deze HDMI KVM heeft 3 USB 3.0 +1 USB C poorten, ondersteunt het tegelijkertijd aansluiten van 4 verschillende USB apparaten, de gegevensoverdrachtsnelheid kan tot 5Gbps zijn, aangedreven door de USB C poort (Opmerking: sluit aan op minimaal één USB Kabel aan op de computer om een goede werking te garanderen).
-- Twee Schakelmodi: U kunt eenvoudig tussen twee computers schakelen door op de knop van de HDMI KVM schakelaar of op de desktopcontroller te klikken (Opmerking: Sneltoetsschakeling en automatisch schakelen worden niet ondersteund). Blauwe LED lampjes geven aan welke apparaten actief zijn.
 - 4K@60Hz HDMI KVM Switch: Deze HDMI KVM Switch ondersteunt de resoluties 4K@60Hz, 2K@120Hz en 1080P@240Hz. Deze switcher ondersteunt HDMI 2.0, HDCP1.4/2.2, 3D, CEC en andere functies. Met HDR-technologie is de beeldkwaliteit gedetailleerder en levensechter en zijn de kleuren levendiger, waardoor u gemakkelijk kunt genieten van het visuele feest.
 - Paklijst: 1*HDMI KVM Switch, 2*USB A naar B Kabel (1,5M), 2*HDMI 2.0 Kabel (1M), 1*Desktopcontroller (1,5M), 1*Gebruikershandleiding. Zorg ervoor dat u de meegeleverde USB Kabel aansluit op uw hostapparaat voor stroomvoorziening.
+- 5Gbps Overdrachtssnelheid: Deze HDMI KVM heeft 3 USB 3.0 +1 USB C poorten, ondersteunt het tegelijkertijd aansluiten van 4 verschillende USB apparaten, de gegevensoverdrachtsnelheid kan tot 5Gbps zijn, aangedreven door de USB C poort (Opmerking: sluit aan op minimaal één USB Kabel aan op de computer om een goede werking te garanderen).
 - HDMI 2.0 KVM Switch: UGREEN HDMI KVM Switch ondersteunt twee computerapparaten om één monitor en 4 USB 3.0 poorten te delen. U kunt eenvoudig toetsenbord, muis, USB flashdrive, printer en HDMI signaalbron schakelen tussen de twee apparaten, waardoor uw bureaublad opgeruimder en uw werk efficiënter wordt.
+- Twee Schakelmodi: U kunt eenvoudig tussen twee computers schakelen door op de knop van de HDMI KVM schakelaar of op de desktopcontroller te klikken (Opmerking: Sneltoetsschakeling en automatisch schakelen worden niet ondersteund). Blauwe LED lampjes geven aan welke apparaten actief zijn.
 - Brede Compatibiliteit: UGREEN KVM HDMI Switch is compatibel met Windows, Mac OS en Linux systemen, plug and play. En ook compatibel met de meeste apparaten met HDMI poort, zoals PS5/4/3, Xbox One, TV Box, PC, Laptop, Nintendo Switch en andere apparaten.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

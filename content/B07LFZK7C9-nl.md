@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Hakhoogte: 5,5 cm
-- Schoeisel dat optimale demping en bescherming biedt tegen schokken en stress.
-- Gemakkelijk te dragen, voor ongeëvenaard comfort.
 - Lichtgewicht schoeisel voor meer bewegingsvrijheid.
 - De gepatenteerde Geox-systemen garanderen de ademende werking van de buitenzool, zodat de voet comfortabel blijft.
 - Schoeisel zonder sluiting
+- Schoeisel dat optimale demping en bescherming biedt tegen schokken en stress.
+- Hakhoogte: 5,5 cm
+- Gemakkelijk te dragen, voor ongeëvenaard comfort.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07LFZK7C9{{</world>}}

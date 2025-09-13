@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Posterformaat: de puzzel ziet eruit als een poster, de grootte van de afgewerkte puzzel is 68 x 49 cm
-- Hoogwaardig gemaakt van milieuvriendelijk, gerecycled karton.
 - Uniek: elk puzzelstuk heeft een unieke pasvorm en contouren.
+- Hoogwaardig gemaakt van milieuvriendelijk, gerecycled karton.
 - Volwassen puzzel: puzzel voor volwassenen met 1000 stukjes.
+- Posterformaat: de puzzel ziet eruit als een poster, de grootte van de afgewerkte puzzel is 68 x 49 cm
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09WJ2VN5Z{{</world>}}

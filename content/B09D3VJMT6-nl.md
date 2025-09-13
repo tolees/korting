@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Voor geavanceerde functies, zoals het integreren van lampen in de timer of het verbinden met sensoren en schakelaars, verbind je de Smart Plug met de Hue Bridge.
-- Door het discrete en compacte design past de Philips Hue Smart Plug in elk interieur.
 - Bedien het slimme stopcontact via Bluetooth om je lampen comfortabel in en uit te schakelen. Bovendien is spraakbesturing via Amazon Echo/Echo Dot mogelijk.
-- Geen nieuwe bedrading nodig: steek de lamp gewoon in het stopcontact van je keuze en sluit elke klassieke lamp aan op je Hue-systeem.
+- Door het discrete en compacte design past de Philips Hue Smart Plug in elk interieur.
 - Geniet van onbeperkte flexibiliteit voor je Hue-systeem: de intelligente aansluiting maakt elke lamp met Hue instelbaar en vult het Zigbee- en Bluetooth-netwerk aan. Richting signaalstroom: bidirectioneel
+- Voor geavanceerde functies, zoals het integreren van lampen in de timer of het verbinden met sensoren en schakelaars, verbind je de Smart Plug met de Hue Bridge.
+- Geen nieuwe bedrading nodig: steek de lamp gewoon in het stopcontact van je keuze en sluit elke klassieke lamp aan op je Hue-systeem.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09D3VJMT6{{</world>}}

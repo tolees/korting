@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Geschikt voor Nintendo Switch, draagbare game-apparaten, smartphones en tablets
-- Bewaar meer videos, films, games, muziek en je favoriete content met grote capaciteit
 - Snelle overdrachtssnelheden voor een snelle laadtijd met tot 150 MB/s lezen
+- Bewaar meer videos, films, games, muziek en je favoriete content met grote capaciteit
+- Geschikt voor Nintendo Switch, draagbare game-apparaten, smartphones en tablets
 - Laadt apps sneller met A1-beoordeelde prestaties
 - Beperkte productondersteuning van vijf jaar
 

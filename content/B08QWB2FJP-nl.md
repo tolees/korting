@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- koordsluiting
-- Fleecevoering
 - Geschikt voor alle leeftijden
 - Het verwarmingsmateriaal
+- Fleecevoering
+- koordsluiting
 - Manchetten aan de enkels
 
 [🛒 Buy it!!]({{< param buyurl >}})

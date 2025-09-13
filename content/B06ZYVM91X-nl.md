@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- De krachtige 800 lumen van deze keukenlamp is ideaal voor werken of voor werkvlakverlichting. Afmetingen van de lamp: 573x22x30 mm
+- Energiebesparend dankzij ledtechnologie (verbruik 8 watt)
 - Daarnaast inbegrepen: montagemateriaal, 1 m voedingskabel, 10 cm verlengkabel
 - Moderne led-onderbouwlamp in wit, die veelzijdig inzetbaar is, bijvoorbeeld als kastlamp, werkplaatslamp, onderkastlamp, kastlamp, enz
 - Voor het eenvoudig in- en uitschakelen bevindt zich de schakelaar direct aan het begin van de keukenlamp. Ideaal als extra verlichting in de keuken door 4.000 Kelvin
-- Energiebesparend dankzij ledtechnologie (verbruik 8 watt)
+- De krachtige 800 lumen van deze keukenlamp is ideaal voor werken of voor werkvlakverlichting. Afmetingen van de lamp: 573x22x30 mm
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B06ZYVM91X{{</world>}}

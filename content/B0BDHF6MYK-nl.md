@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Zoals alle hoesjes van Apple is ook dit model duizenden uren getest, zowel tijdens de ontwerpfase als het fabricageproces. Het ziet er daarom niet alleen fantastisch uit, maar beschermt je iPhone ook tegen krassen en vallen.
-- Het hoesje is gemaakt van een mix van helder polycarbonaat en flexibele materialen, en past precies over de knoppen. Daardoor werkt alles zoals je gewend bent. Op zowel de buiten- als de binnenkant is een krasbestendige coating aangebracht. Bovendien zijn alle materialen en coatings geoptimaliseerd om vergeling tegen te gaan.
 - Dankzij de ingebouwde magneten die perfect matchen met iPhone 14 Pro Max is koppelen een kwestie van klik en klaar. En gaat draadloos opladen nog sneller. Is het tijd om op te laden, laat het hoesje dan gewoon om je iPhone en klik je MagSafe‑oplader eraan vast of leg je iPhone op je Qi‑oplader.
+- Het hoesje is gemaakt van een mix van helder polycarbonaat en flexibele materialen, en past precies over de knoppen. Daardoor werkt alles zoals je gewend bent. Op zowel de buiten- als de binnenkant is een krasbestendige coating aangebracht. Bovendien zijn alle materialen en coatings geoptimaliseerd om vergeling tegen te gaan.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BDHF6MYK{{</world>}}

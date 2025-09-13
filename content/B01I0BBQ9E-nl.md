@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Zeer flexibel.
-- Hoofdmateriaal: Glad leer
 - Lichtgewicht.
-- Lederen Werkgroep Gecertificeerd
 - Kleur: bruin
+- Hoofdmateriaal: Glad leer
+- Lederen Werkgroep Gecertificeerd
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01I0BBQ9E{{</world>}}

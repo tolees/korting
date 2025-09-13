@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - WASGIJ MYSTERY: Gebruik de aanwijzingen en je fantasie om uit te puzzelen wat er gaat gebeuren met de personen die afgebeeld staan op de doos
+- Puzzel van 1000 stukjes voor volwassenen / De gelegde puzzel heeft een afmeting van 68 x 49cm
 - MILIEUVRIENDELIJK: Gemaakt van milieu vriendelijk, gerecycleerd karton
 - SPECIAAL ONTWIKKELT VOOR VOLWASSENEN: Het unieke Wasgij concept stimuleert volwassenen om hun fantasie te gebruiken!
 - UNIEK CONCEPT: Wasgij Legpuzzel van 1000 stukjes waarbij de afbeelding op de doos verschilt van de afbeelding die je puzzelt!
-- Puzzel van 1000 stukjes voor volwassenen / De gelegde puzzel heeft een afmeting van 68 x 49cm
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09T3KZRQC{{</world>}}

@@ -30,9 +30,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Slimme verdeeldoos met meerdere stopcontacten met stembediening via Amazon Alexa of Google Assistant - handig in- en uitschakelen van apparaten tot 3680W binnenshuis (3 stekkerdozen worden samen geschakeld)
 - WiFi stekkerdoos met 3 stekkerdozen incl. verhoogde aanrakingsbeveiliging in een praktische 45° opstelling, eenvoudige installatie en slimme functies via de gratis Brennenstuhl Connect app in de 2,4 GHz band van de WiFi router
+- Flexibele schemas en timerfunctie - met de praktische timerfunctie van de stekkerdoos kun je dagelijkse en wekelijkse schemas programmeren en automatiseren in de app
 - 3-weg WiFi stekkerdoos maakt slimme bediening van je huis mogelijk vanaf elke plek en op elk moment via je smartphone met de gratis Brennenstuhl Connect app - de WiFi stekkerdoos kan ook handmatig worden geschakeld
 - Gebruik de WiFi stekkerdoos om alle aangesloten apparaten te bedienen via spraak of de gratis Brennenstuhl Connect app - met internettoegang op elk moment en vanaf elke locatie
-- Flexibele schemas en timerfunctie - met de praktische timerfunctie van de stekkerdoos kun je dagelijkse en wekelijkse schemas programmeren en automatiseren in de app
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B082QD9LQN{{</world>}}

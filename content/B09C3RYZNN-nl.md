@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Containing product: Dit product is geclassificeerd als een Containing product vanwege de permanent geïnstalleerde lichtbron. Daarom is er geen EEL-label aanwezig en vereist.
 - VERLICHTING VOOR ELK MOMENT VAN DE DAG: Met vier voorgeprogrammeerde lichtrecepten: Read, Relax, Concentrate of Energize. Stel het perfecte licht in voor je dagelijkse activiteiten. Elk afzonderlijk lichtrecept is volledig afgestemd op de juiste kleur en temperatuur voor optimale verlichting bij alles wat je doet​.
-- VOEG TOT WEL 10 SLIMME LAMPEN TOE: Bedien ze allemaal heel eenvoudig met één druk op knop in de Hue app op je smartphone of tablet.
 - BEDIEN JE LAMPEN MET JE STEM: Koppel met Amazon Alexa of de Google Assistent om de lamp te bedienen met eenvoudige spraakopdrachten. Deze functie werkt met alle slimme Echo-speakers/-schermen en Google Nest-apparaten (Hue Bridge is vereist voor Echo (1e generatie) en Echo Dot (1e generatie)). Wil je spraakbediening gebruiken met Apple HomeKit, voeg dan een Hue Bridge toe aan je systeem.
-- DIMMER SWITCH: De Philips Hue dimmer switch is klaar voor gebruik om bijvoorbeeld je lampen te dimmen of feller te zetten, zonder dat je een kabel naar de dimmer switch nodig hebt. Kies een van de bestaande lichtrecepten Ontspannen, Lezen, Concentreren of Energie en haal alles uit je dagelijkse routines wat erin zit.
 - MOEITELOOS DRAADLOOS DIMMEN: Doe je slimme lampen aan en uit of dim ze snel van helder licht naar het subtiele lichtniveau van een nachtlampje. Je hebt geen nieuwe bedrading nodig in je huis.
+- Containing product: Dit product is geclassificeerd als een Containing product vanwege de permanent geïnstalleerde lichtbron. Daarom is er geen EEL-label aanwezig en vereist.
+- DIMMER SWITCH: De Philips Hue dimmer switch is klaar voor gebruik om bijvoorbeeld je lampen te dimmen of feller te zetten, zonder dat je een kabel naar de dimmer switch nodig hebt. Kies een van de bestaande lichtrecepten Ontspannen, Lezen, Concentreren of Energie en haal alles uit je dagelijkse routines wat erin zit.
+- VOEG TOT WEL 10 SLIMME LAMPEN TOE: Bedien ze allemaal heel eenvoudig met één druk op knop in de Hue app op je smartphone of tablet.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09C3RYZNN{{</world>}}

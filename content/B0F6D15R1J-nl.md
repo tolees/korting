@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Geschikt voor dagelijks gebruik op gezicht, lichaam en handen
+- 100% klimaatneutraal, met compensatie van CO2-uitstoot
 - Bevat vitamine E en 100% natuurlijke jojoba-olie
 - 48 uur hydratatie voor een zachte, goed verzorgde huid
-- 100% klimaatneutraal, met compensatie van CO2-uitstoot
-- Geschikt voor dagelijks gebruik op gezicht, lichaam en handen
 - Snel intrekkende formule die niet vet aanvoelt
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Afneembare 10 ft (3 m) USB-kabel
-- Toewijsbare Advanced Gaming-knoppen
 - Geen batterijen nodig
 - 3,5 mm audio-aansluiting
+- Afneembare 10 ft (3 m) USB-kabel
+- Toewijsbare Advanced Gaming-knoppen
 - Officieel gelicentieerd door Nintendo met twee jaar beperkte garantie - bezoek PowerA.com/Support
 
 [🛒 Buy it!!]({{< param buyurl >}})

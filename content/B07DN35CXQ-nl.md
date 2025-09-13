@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - 1,75 mm gloeidraaddiameter (maatnauwkeurigheid +/- 0,11 mm).
+- 1 kg (2,2 lbs) per spoel. Spoeldiameter* breedte 20* 5,7 cm (8* 2,2 inch). Diameter van het gat van de spoelnaaf: 3,15”
+- PLA (polymelkzuur) 3D-printerfilament, gevacumeerd, verzegeld met droogmiddel.
 - Aanbevolen extrusie-/spuitmondtemperatuur 190 ¡ÃC - 220 ¡Ãc (374 ¡Ãf - 428 ¡Ãf)
 - Jam Free: speciaal ontworpen om vastgelopen spuitkoppen te verminderen
-- PLA (polymelkzuur) 3D-printerfilament, gevacumeerd, verzegeld met droogmiddel.
-- 1 kg (2,2 lbs) per spoel. Spoeldiameter* breedte 20* 5,7 cm (8* 2,2 inch). Diameter van het gat van de spoelnaaf: 3,15”
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07DN35CXQ{{</world>}}

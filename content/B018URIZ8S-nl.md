@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Mooie aanwinst voor ieders persoonlijke verzorgingskit
 - Crème Clinique
+- Mooie aanwinst voor ieders persoonlijke verzorgingskit
 - Elke dag mooi voelen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

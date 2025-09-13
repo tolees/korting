@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- EZVIZ C6N Wifi-camera voor binnen, 1080p, bewakingscamera, pan/tilt/zoom, compatibel met Alexa, 360°-rotatie, nachtzicht, bewegingstracking en 2-weg audio
+- Twee-weg audio: voor momenten dat je ver weg van huis bent en met je huisdieren wilt praten, is er een twee-weg systeem om te praten. Druk gewoon op de knop op de EZVIZ app en de IP-camera helpt je om de rest te doen. Je hoeft er niet elke keer te zijn.
+- Uitstekend nachtzicht: deze binnencamera is uitgerust met twee krachtige infraroodlichten voor verlichting tot 10 m, die ver genoeg is om vrijwel elke ruimte te bedekken. De camera schakelt automatisch tussen dag- en nachtmodus door het omgevingslicht te wisselen.
 - Intelligente bewegingsdetectie: bij bewegingsdetectie registreert en volgt de binnencamera automatisch de beweging, terwijl hij meldingen en video-opnames in real-time levert. Met de Smart Motion Tracking beweegt de camera automatisch om elke beweging te volgen en te volgen.
 - Compatibel met Smart Home: werkt met Alexa. Deze wifi-camera kan via Alexa via Echo Show met spraakondersteuning worden aangestuurd. Het kan ook worden verbonden met andere smart home-systemen zoals Google Home of IFTTT en alles gesynchroniseerd houden.
-- EZVIZ C6N Wifi-camera voor binnen, 1080p, bewakingscamera, pan/tilt/zoom, compatibel met Alexa, 360°-rotatie, nachtzicht, bewegingstracking en 2-weg audio
-- Uitstekend nachtzicht: deze binnencamera is uitgerust met twee krachtige infraroodlichten voor verlichting tot 10 m, die ver genoeg is om vrijwel elke ruimte te bedekken. De camera schakelt automatisch tussen dag- en nachtmodus door het omgevingslicht te wisselen.
-- Twee-weg audio: voor momenten dat je ver weg van huis bent en met je huisdieren wilt praten, is er een twee-weg systeem om te praten. Druk gewoon op de knop op de EZVIZ app en de IP-camera helpt je om de rest te doen. Je hoeft er niet elke keer te zijn.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07W4FMSD9{{</world>}}

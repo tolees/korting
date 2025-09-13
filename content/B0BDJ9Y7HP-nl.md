@@ -28,14 +28,14 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- iOS 16 biedt nog meer manieren om te personaliseren, te communiceren en te delen
-- Toonaangevend stevig en waterbestendig design met Ceramic Shield
 - Filmmodus nu in 4K Dolby Vision tot 30 bps
-- Geavanceerd camerasysteem voor betere foto’s in elk soort licht
-- Batterij voor een hele dag en tot 26 uur video afspelen
-- Actiemodus voor vloeiende en stabiele handheld video’s
-- Belangrijke veiligheidsfeatures – SOS-noodmelding via satelliet en Ongelukdetectie
 - A15 Bionic-chip met 5-core GPU voor razendsnelle prestaties. Supersnel 5G voor mobiele data
+- Batterij voor een hele dag en tot 26 uur video afspelen
+- Toonaangevend stevig en waterbestendig design met Ceramic Shield
+- Actiemodus voor vloeiende en stabiele handheld video’s
+- iOS 16 biedt nog meer manieren om te personaliseren, te communiceren en te delen
+- Belangrijke veiligheidsfeatures – SOS-noodmelding via satelliet en Ongelukdetectie
+- Geavanceerd camerasysteem voor betere foto’s in elk soort licht
 - 6,7-inch Super Retina XDR-display
 
 [🛒 Buy it!!]({{< param buyurl >}})

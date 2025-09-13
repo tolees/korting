@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Niet waterbestendig
-- Sluiting: ethyleenvinylacetaat
-- Hakvorm: plat
 - Bovenmateriaal: stof
+- Sluiting: ethyleenvinylacetaat
+- Niet waterbestendig
+- Hakvorm: plat
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09ZVJYR31{{</world>}}

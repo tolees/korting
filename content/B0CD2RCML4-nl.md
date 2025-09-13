@@ -28,14 +28,14 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- ZO HEB JE HET NOG NOOIT GEHOORD: Met zes transducers, waaronder twee op maat gemaakte, naar boven gerichte dipoolspeakers, voelt het alsof je kamer gevuld is met geluid dat uit elke richting komt, zelfs van bovenaf
-- SPRAAKBEDIENING OP JOUW BEVEL: Gebruik je stem om je entertainment te bedienen, dagelijkse taken uit te voeren en toegang te krijgen tot informatie via Amazon Alexa
-- ULTRA HELDERE DIALOGEN: A.I. Dialogue Mode brengt stem en surroundgeluid in balans voor superscherpe vocale helderheid, zodat je nooit meer mist wat je favoriete personages zeggen met deze surround sound speaker
 - GEWOON AANSLUITEN EN AFSPELEN: Plaats de Bluetooth soundbar waar je maar wilt of sluit de draadloze speaker aan op je tv met de meegeleverde optische audiokabel en HDMI eARC-kabel
-- BOSE-APP: Download de Bose-app om de laatste software-updates te ontvangen. Ga voor optimale functionaliteit en krijg toegang tot de nieuwste functies en geavanceerde technologie.
-- ALLEEN LUISTEREN OF TIJDENS EEN FEEST Koppel je Bose Smart Ultra Soundbar met bepaalde Bose Headphones of groepeer hem met andere Bose Bluetooth speakers met behulp van Bose SimpleSync. Maak verbinding met één druk op de knop.
 - ZO HEB JE JE FAVORIETE CONTENT NOG NOOIT GEHOORD: Bose Smart Ultra Soundbar met Dolby Atmos en spraakbediening is de beste draadloze luidspreker, surround sound-systeem voor tv en nog veel meer
 - DOLBY ATMOS SOUNDBAR: Tv-soundbar is voorzien van Dolby Atmos en Bose TrueSpace-technologie die geluiden scheidt en in verschillende delen van een kamer plaatst voor een meeslepende ruimtelijke audio-ervaring
+- SPRAAKBEDIENING OP JOUW BEVEL: Gebruik je stem om je entertainment te bedienen, dagelijkse taken uit te voeren en toegang te krijgen tot informatie via Amazon Alexa
+- ALLEEN LUISTEREN OF TIJDENS EEN FEEST Koppel je Bose Smart Ultra Soundbar met bepaalde Bose Headphones of groepeer hem met andere Bose Bluetooth speakers met behulp van Bose SimpleSync. Maak verbinding met één druk op de knop.
+- ZO HEB JE HET NOG NOOIT GEHOORD: Met zes transducers, waaronder twee op maat gemaakte, naar boven gerichte dipoolspeakers, voelt het alsof je kamer gevuld is met geluid dat uit elke richting komt, zelfs van bovenaf
+- BOSE-APP: Download de Bose-app om de laatste software-updates te ontvangen. Ga voor optimale functionaliteit en krijg toegang tot de nieuwste functies en geavanceerde technologie.
+- ULTRA HELDERE DIALOGEN: A.I. Dialogue Mode brengt stem en surroundgeluid in balans voor superscherpe vocale helderheid, zodat je nooit meer mist wat je favoriete personages zeggen met deze surround sound speaker
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CD2RCML4{{</world>}}

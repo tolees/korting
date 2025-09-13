@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Met trekkoord kun je je afdekking aanpassen
 - Comfortabel afgedekt in zacht vlies
+- Met trekkoord kun je je afdekking aanpassen
 - Het ontwerp met volledige ritssluiting zorgt voor warmte tijdens het trainen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

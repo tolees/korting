@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Schoenbreedte: gemiddeld
-- chamois leer, textiel
 - Pasvorm: smal
+- chamois leer, textiel
+- Schoenbreedte: gemiddeld
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B082PHSJ5L{{</world>}}

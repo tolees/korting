@@ -30,10 +30,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Gedurfd, opvallend ontwerp ziet er geweldig uit bij elke gaming-opstelling
 - Opladen voor Nintendo Switch-controllers
-- Laadt Joy-Con en draadloze controllers tegelijkertijd op
-- Volledig compatibel met alle PowerA draadloze Nintendo Switch-controllers
-- Volledig compatibel met Nintendo Switch Pro-controllers
 - LED-lampjes geven aan wanneer controllers zijn opgeladen
+- Laadt Joy-Con en draadloze controllers tegelijkertijd op
+- Volledig compatibel met Nintendo Switch Pro-controllers
+- Volledig compatibel met alle PowerA draadloze Nintendo Switch-controllers
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0B5RYVHXG{{</world>}}

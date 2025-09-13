@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Beroemd, bekroond HyperX -comfort
-- Duurzaam aluminium frame met instelbare beugel; afneembare microfoon met ruisonderdrukking
-- Afneembare, gevlochten kabel met handige geïntegreerde audio-bediening; compatibel met vele platforms
 - Inhoud HyperX Cloud Alpha Pro-gamingheadset
 - Omdat de Cloud Alpha een afneembare kabel heeft, is het ook belangrijk om ervoor te zorgen dat de kabel volledig in de oorschelp van de headset wordt gestoken. Er mag geen grijs deel op de jackplug zichtbaar zijn als de kabel eenmaal is aangesloten
+- Duurzaam aluminium frame met instelbare beugel; afneembare microfoon met ruisonderdrukking
+- Afneembare, gevlochten kabel met handige geïntegreerde audio-bediening; compatibel met vele platforms
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B076GT6XJ9{{</world>}}

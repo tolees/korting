@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Digitale decodering maakt gedetailleerde surround sound mogelijk in uw soundtracks met Dolby Digital- of DTS-codering, van het gebulder van een menigte tot de voetstappen direct achter u
 - Het RMS-vermogen van 500 watt maakt van elke avond een première en levert overdonderend geluid waarmee u uw huis (en de hele buurt!) op zijn grondvesten kan laten schudden
 - Deze speakers voldoen aan de strikte prestatie-eisen die gesteld worden voor THX-goedkeuring; u kunt er dus gerust op zijn dat uw entertainment klinkt zoals het hoort
-- U hebt de touwtjes in handen met het bedieningspaneel en de draadloze afstandsbediening; selecteer ingangen en stem de surround sound en volumeniveaus af op uw luisterervaring
 - Dankzij de meerdere ingangen kunt u tot zes componenten tegelijk aansluiten: Sluit uw tv, Blu-ray-, dvd-speler, Xbox 360, PLAYSTATION3, Wii, iPod, pc en meer aan
+- U hebt de touwtjes in handen met het bedieningspaneel en de draadloze afstandsbediening; selecteer ingangen en stem de surround sound en volumeniveaus af op uw luisterervaring
+- Digitale decodering maakt gedetailleerde surround sound mogelijk in uw soundtracks met Dolby Digital- of DTS-codering, van het gebulder van een menigte tot de voetstappen direct achter u
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B004PGM9KY{{</world>}}

@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Sandal met ademend design voor extra comfort
-- Kledingsstijl: informeel
 - Geschikt voor: warm weer
+- Kledingsstijl: informeel
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0963ZGKMR{{</world>}}

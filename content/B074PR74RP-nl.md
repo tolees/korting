@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Geborduurde ogen
 - Zwart PUMA Cat-logo in vintage metalen look aan de voorzijde
+- Geborduurde ogen
 - Cap met zes delen
 - Verstelbare rug voor de ideale pasvorm
 

@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Uitneembare binnenzool
 - Lichtgewicht schoeisel voor meer bewegingsvrijheid.
 - Gemakkelijk aanpasbare pasvorm, dankzij de vetersluiting.
 - De gepatenteerde Geox-systemen garanderen de ademende werking van de buitenzool, zodat de voet comfortabel blijft.
-- Uitneembare binnenzool
 - Het Zero Shock-systeem met schokabsorberende bolletjes versterkt het dempingseffect en biedt meer bescherming tegen schokken en stress.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
