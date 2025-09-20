@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Handig tweedelig design dat de voor- en achterkant beschermt, met afneembaar toetsenbord.
 - Prettig typen dankzij een schaarmechanisme met een key travel van 1 mm.
 - Verstelbare standaard waarmee je het device altijd in een prettige kijkhoek zet.
+- Handig tweedelig design dat de voor- en achterkant beschermt, met afneembaar toetsenbord.
 - 14 functietoetsen waarmee je snel toegang hebt tot shortcuts.
 - Klikken, Multi-Touch-bewegingen en de cursor in iPadOS gebruiken met de grote trackpad.
 

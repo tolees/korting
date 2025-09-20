@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 5.N.W: 1kg, G.W: 1.35kg, spoel binnendiameter 57mm, spoel buitendiameter 200mm, hoogte 64mm.
+- 1. Sterke taaiheid en slagvastheid.
 - 2.Print Temperatuurbereik & Diameter: 200-250℃. 1.75mm (tolerantie ±0.03mm).
 - 3. Geen bel of stof binnen, lagere klomp of verwarring tarief.
 - 4. Verzegelde vacuümzak om het droog te houden en stof buiten te houden.
-- 1. Sterke taaiheid en slagvastheid.
+- 5.N.W: 1kg, G.W: 1.35kg, spoel binnendiameter 57mm, spoel buitendiameter 200mm, hoogte 64mm.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07XLC2FV9{{</world>}}

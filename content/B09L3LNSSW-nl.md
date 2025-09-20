@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Aanpasbare RGB: Kies uit 16,8 miljoen mogelijke kleuren, snel aanpasbaar zonder software met behulp van muisknoppen. Pas het grondig aan in Glorious CORE, zodat het past bij de rest van uw bureaublad.
-- Razendsnel: Gebouwd met 2,4GHz draadloze connectiviteit, heeft de Model O- (Small) Wireless de laagste draadloze latentie van alle muizen in zijn klasse. Krijg razendsnelle 1ms latentie met een sterke en stabiele verbinding, voor superconsistente prestaties.
 - Geoptimaliseerd voor competitief gamen: Pinpoint precisie met 400 IPS trackingsnelheid, 19.000 Max DPI en tot 1.000Hz polling rate. De gepatenteerde BAMF Senor geeft je ongeëvenaarde prestaties, met een lager stroomverbruik, voor lange draadloze gamesessies.
+- Razendsnel: Gebouwd met 2,4GHz draadloze connectiviteit, heeft de Model O- (Small) Wireless de laagste draadloze latentie van alle muizen in zijn klasse. Krijg razendsnelle 1ms latentie met een sterke en stabiele verbinding, voor superconsistente prestaties.
+- Aanpasbare RGB: Kies uit 16,8 miljoen mogelijke kleuren, snel aanpasbaar zonder software met behulp van muisknoppen. Pas het grondig aan in Glorious CORE, zodat het past bij de rest van uw bureaublad.
 - Batterijduur: Model O- (Small) Wireless heeft de langste batterijduur van alle muizen in zijn klasse. U krijgt tot 71 uur* speeltijd in de draadloze modus en u kunt spelen terwijl u oplaadt, met behulp van de ultraflexibele USB-C Ascended paracord oplaadkabel (*Met RGB uit).
 - Gebouwd om lang mee te gaan: Model O- (Small) Wireless honingraatontwerp helpt de ultieme draadloze lichtgewicht muis te creëren, zonder in te leveren op duurzaamheid. State-of-the-art Omron-switches die goed zijn voor 20 miljoen klikken en de beste bouwkwaliteit maken de Model O- (Small) Wireless gebouwd om lang mee te gaan.
 

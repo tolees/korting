@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Veilig en betrouwbaar: De USB C oplaadstekker is uitgerust met een robuuste en vuurvaste PC-behuizing en een intelligente chip om je apparaten te beschermen tegen kortsluiting, overspanning, oververhitting en overstroom.
 - Universele compatibiliteit: De USB C voedingsadapter is perfect compatibel met iPhone 16 Pro Max, 16 Pro, 16, 16, 15 Pro Max, 15 Pro, 15, 14, 14 Plus, 14 Pro Max, 14 Pro, 13, 13 Mini, 13 Pro, 13 Pro Max, 12, 12 Pro, 12 Pro Max, 11, SE 2022/2020, XR, XS, XS Max, X, 8, 8 Plus, iPad Pro 2020/2018, AirPods Pro, MagSafe; Galaxy S23, S22, S21, S20, A53, A52, A23, A73, S10, Z Flip, A80, M43; Pixel 7, 7 Pro, 6, 5, 4; Xiaomi Mi 9, 8, Mi 6, Mi A3, A2; Redmi Note 11, 10, 9; Poco F3, M3 enz.
-- 20W enorm laadvermogen: UGREEN 20W USB C lader kan je apparaat zoals iPhone 14 opladen van 0% tot 60% in slechts 30 minuten. Dat is 3x sneller dan een normale oplaadadapter.
 - Een voor allen: De USB C plug ondersteunt PD 3.0, PPS en Quick Charge 4.0/3.0/2.0 snellaadfunctie. Dus apparaten zoals Galaxy S23, S22, S21, A53 kunnen ook genieten van bliksemsnel opladen.
+- 20W enorm laadvermogen: UGREEN 20W USB C lader kan je apparaat zoals iPhone 14 opladen van 0% tot 60% in slechts 30 minuten. Dat is 3x sneller dan een normale oplaadadapter.
+- Veilig en betrouwbaar: De USB C oplaadstekker is uitgerust met een robuuste en vuurvaste PC-behuizing en een intelligente chip om je apparaten te beschermen tegen kortsluiting, overspanning, oververhitting en overstroom.
 - Vederlicht en compact: De 20W USB C-lichtnetadapter is erg klein en licht (55 g), handig om in je tas op te bergen en overal mee naartoe te nemen zonder zorgen.
 
 [🛒 Buy it!!]({{< param buyurl >}})

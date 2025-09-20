@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Probeer ook de andere premium geuren van de AXE Fine Fragrance Collection
 - AXE Fine Fragrance Collection Blue Lavender Premium Deodorant Bodyspray
+- Probeer ook de andere premium geuren van de AXE Fine Fragrance Collection
+- Deodorant met de geur van luxe parfum, 72 uur effectieve bescherming
+- Deze deodorant bodyspray is verpakt in oneindig recyclebaar aluminium
 - Bodyspray met de onweerstaanbare geur van lavendel, mint en amber
 - 2 keer meer geurbestrijdende zink-technologie dan onze standaard deodorant
-- Deze deodorant bodyspray is verpakt in oneindig recyclebaar aluminium
-- Deodorant met de geur van luxe parfum, 72 uur effectieve bescherming
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BS6ZTRNX{{</world>}}

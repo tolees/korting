@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- De gloednieuwe Megalodon RC op een schaal van 1:24 is het ideale cadeau voor kinderen en Monster Jam-fans. Koop hem vandaag nog. Batterijen niet inbegrepen. 5 AAA-batterijen vereist
-- Megalodon op een schaal van 1:24 is een officiële Monster Jam-truck. De truck wordt geleverd met banden van de officiële sponsor BKT en een lookalike chassis waardoor je monstertruck net echt lijkt
-- Het is nu nog eenvoudig om samen met je vrienden je eigen Monster Jam-rally te organiseren
 - Deze volledig functionele rc-monstertruck beschikt over een dual-joystickcontroller met een frequentie van 2,4 ghz met een bereik tot 76 meter. Je kunt tot en met 6 trucks tegelijk racen
 - Inhoud: 1 Monstertruck, 1 Controller, 1 instructiegids
+- Megalodon op een schaal van 1:24 is een officiële Monster Jam-truck. De truck wordt geleverd met banden van de officiële sponsor BKT en een lookalike chassis waardoor je monstertruck net echt lijkt
+- Het is nu nog eenvoudig om samen met je vrienden je eigen Monster Jam-rally te organiseren
+- De gloednieuwe Megalodon RC op een schaal van 1:24 is het ideale cadeau voor kinderen en Monster Jam-fans. Koop hem vandaag nog. Batterijen niet inbegrepen. 5 AAA-batterijen vereist
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07KMFZTVX{{</world>}}

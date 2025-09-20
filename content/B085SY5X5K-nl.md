@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Loodhardheid grade indicator voor snelle identificatie
-- Zeshoekige vorm voorkomt glijden op tekentafels
-- Voor nauwkeurige liniaal gebaseerde tekening biedt de schuifhuls een hoge mate van breukweerstand en een ongehinderde weergave van de pagina
-- Antislip metalen gekartelde grip is comfortabel voor frequent schrijven en doodling en beschikt ook over een ingebouwde gum onder drukknop dop
 - Volledig metalen lichaam dat ideale balans tussen gewicht en gevoel biedt
+- Zeshoekige vorm voorkomt glijden op tekentafels
+- Antislip metalen gekartelde grip is comfortabel voor frequent schrijven en doodling en beschikt ook over een ingebouwde gum onder drukknop dop
+- Loodhardheid grade indicator voor snelle identificatie
+- Voor nauwkeurige liniaal gebaseerde tekening biedt de schuifhuls een hoge mate van breukweerstand en een ongehinderde weergave van de pagina
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B085SY5X5K{{</world>}}

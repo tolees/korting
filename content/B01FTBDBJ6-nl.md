@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Equave Instant Beauty - voedende ontwarrende conditioner
-- Een exclusief product van het merk Revlon
 - Geeft een gevoel van lichtheid, maakt het haar zijdezacht
+- Een exclusief product van het merk Revlon
+- Equave Instant Beauty - voedende ontwarrende conditioner
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01FTBDBJ6{{</world>}}

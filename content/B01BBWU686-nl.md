@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Inhoud: Sony NW-E394 Walkman 8 GB blauw
-- Muziek afspelen, opslaan van fotos en FM-radio-functie
 - Lange batterijduur tot 35 uur bij het afspelen van MP3-s
-- Volumeregeling en hold-knop bevinden zich aan de zijkant
+- Inhoud: Sony NW-E394 Walkman 8 GB blauw
 - Aluminium frontpaneel interne opslagcapaciteit van 8 GB
+- Muziek afspelen, opslaan van fotos en FM-radio-functie
+- Volumeregeling en hold-knop bevinden zich aan de zijkant
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B01BBWU686{{</world>}}

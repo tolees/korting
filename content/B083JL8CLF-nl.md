@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Stroombron: Kabel
 - Gamen Optisch 18000 DPI Zwart
 - Rechtshandig USB Type-A 1,8 m
 - Scroll type: Wiel Aantal knoppen: 17 Rubberen handgrepen
+- Stroombron: Kabel
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B083JL8CLF{{</world>}}

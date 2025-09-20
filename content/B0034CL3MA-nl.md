@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Plug and play, geen configuratie vereist
-- Groene IT bespaart tot 70% energie
 - Inhoud: 8-poorts 10/100 Mbps desktopswitch, spanningsadapter, gebruikershandleiding
+- Groene IT bespaart tot 70% energie
 - 8 10/100 Mbps RJ45-poorten met automatische tuning en automatische MDI/MDIX
+- Plug and play, geen configuratie vereist
 - plastic hoesje voor desktop. Bedrijfstemperatuur: 0° C ~ 40° C (32° F ~ 104° F)
 
 [🛒 Buy it!!]({{< param buyurl >}})

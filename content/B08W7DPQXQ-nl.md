@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Fire Truck Coloring Book: Variety of Fire Truck Images to Color | for Kids Ages 4-8'
-date: 2025-08-21 11:06:49
+date: 2025-09-19 22:30:35
 image: 'https://m.media-amazon.com/images/I/51AqaiTviUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08W7DPQXQ-nl Fire Truck Coloring Book: Variety of Fire Truck Images to...'
 sku: 'B08W7DPQXQ-nl'
-tags: [ 'Activiteiten & spelletjes voor kinderen','Activiteitenboeken voor kinderen','Boeken','Engelstalige boeken','Featured Categories','Kinderboeken','🇳🇱', ]
+tags: [ 'Activiteiten & spelletjes voor kinderen','Activiteitenboeken voor kinderen','Boeken','Engelstalige boeken','Featured Categories','Kinderboeken','Literatuur & fictie voor kinderen','🇳🇱', ]
 actualPrice: 5.29 EUR
 currency: EUR
 price: 5.29

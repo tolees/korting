@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 【ABS+ Filament】ABS+ is een verbeterde versie van gewoon ABS, het scheuren en kromtrekken zijn sterk verbeterd bij het printen van grote objecten. Het heeft een hoge sterkte, betere taaiheid, uitstekende slagvastheid, slijtvastheid en hittebestendigheid.
-- 【Totale Lengte】410-425m. Volledig 1kg 3D printer filament rol, perfecte rondheid en zeer strakke diameter tolerantie, goede wikkeling, zal niet overlappen of klitten. Smelt goed, voedt gelijkmatig en consistent zonder de nozzle of extruder te verstoppen.
 - 【Stabiele Dimensionale Tolerantie】 Minimale tolerantie en weinig kromtrekken om te zorgen voor uniforme voeding en stabiele afdrukken, goede laaghechting, minder draden, geen bellen, geen scheuren, eenvoudige bediening, wat resulteert in een uitstekende oppervlakte-afwerking en is zeer nauwkeurig.
-- 【Hoge Compatibiliteit】Sterk en duurzaam ABS+ filament is engineering thermoplastic. Geschikt voor het printen van onderdelen met hogere hittebestendigheidseisen, zoals onderdelen van industriële machines, modelmachines, elektronische apparaten en instrumenten.Compatibel met Bamboo Lab Bamboo Lab X1 and X1C/ AnkerMake M5/ Voron 2.4 / Creality Ender 7 and K1 K1 MAX/ Raise 3D en Prusa.
 - 【Vacuüm Verzegelde Verpakking】Filament Netto Gewicht: 1kg. eSUN Filament wordt geleverd in een verzegelde vacuüm zak met een droogmiddel. Bewaar uw 3D printer filamenten in optimale opslag conditie en vrij van stof of vuil voordat u de vacuüm verzegelde verpakking opent.
+- 【Hoge Compatibiliteit】Sterk en duurzaam ABS+ filament is engineering thermoplastic. Geschikt voor het printen van onderdelen met hogere hittebestendigheidseisen, zoals onderdelen van industriële machines, modelmachines, elektronische apparaten en instrumenten.Compatibel met Bamboo Lab Bamboo Lab X1 and X1C/ AnkerMake M5/ Voron 2.4 / Creality Ender 7 and K1 K1 MAX/ Raise 3D en Prusa.
+- 【Totale Lengte】410-425m. Volledig 1kg 3D printer filament rol, perfecte rondheid en zeer strakke diameter tolerantie, goede wikkeling, zal niet overlappen of klitten. Smelt goed, voedt gelijkmatig en consistent zonder de nozzle of extruder te verstoppen.
+- 【ABS+ Filament】ABS+ is een verbeterde versie van gewoon ABS, het scheuren en kromtrekken zijn sterk verbeterd bij het printen van grote objecten. Het heeft een hoge sterkte, betere taaiheid, uitstekende slagvastheid, slijtvastheid en hittebestendigheid.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07RT35GSF{{</world>}}

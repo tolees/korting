@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Meerdere campagnes met meer dan 40 missies die van kwaad tot erger gaan
 - Sandbox-modus waarin je meerdere werelden kunt verkennen, volbouwen en vernietigen
 - Realistische simulatie van voorwerpen, puin, voertuigen, water, vuur en rook
 - Veel gereedschap, waaronder een hamer, gasbrander en brandblusser, maar ook wapens en explosieven
+- Meerdere campagnes met meer dan 40 missies die van kwaad tot erger gaan
 - Voxelwerelden die je volledig met de grond gelijk kunt maken
 
 [🛒 Check the deal!!]({{< param buyurl >}})

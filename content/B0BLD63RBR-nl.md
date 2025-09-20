@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- PUMA Woordmerk op de hiel
 - Perforaties op de teen
 - Step-in inlegzool
+- PUMA Woordmerk op de hiel
 - PUMA Formstrip aan de mediale en laterale zijde
 
 [🛒 Check the deal!!]({{< param buyurl >}})

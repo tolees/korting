@@ -34,8 +34,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 - Eenvoudige voertuigbouwset voor jonge kinderen – de Star Wars starfighter heeft een startsteenbasis voor eenvoudig bouwen, een cockpit die open kan voor de Mandalorian en een passagiersruimte voor Grogu
 - Compacte set om onderweg mee te spelen – het bouwbare voertuig in deze set met 92 onderdelen is ca. 5 cm hoog, 22 cm lang en 17 cm breed
 - Een leuke gezinsactiviteit – in de doos vind je stapsgewijze instructies met afbeeldingen. Bekijk ook de LEGO Builder app voor digitale functies om de creatieve ervaring nog leuker te maken
-- Authentieke, speelse accessoires – de Mandalorian heeft een darksaber en jetpack-accessoire, Grogu heeft zijn zweefkinderwagen en de set bevat ook een bouwbaar tankstation
 - Star Wars cadeautje voor jongens, meisjes en fans vanaf 4 jaar – geef deze Star Wars: The Mandalorian bouw- en speelset cadeau aan een kleuter als traktatie of beloning
+- Authentieke, speelse accessoires – de Mandalorian heeft een darksaber en jetpack-accessoire, Grogu heeft zijn zweefkinderwagen en de set bevat ook een bouwbaar tankstation
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHSBCB59{{</world>}}

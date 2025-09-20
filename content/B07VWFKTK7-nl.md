@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- De prachtig vormgegeven G815 heeft een aluminiumlegering van luchtvaartkwaliteit, waardoor het een ongelooflijk dun maar sterk en duurzaam ontwerp heeft
-- De nieuwe hoogwaardige toetsschakelaars bieden de snelheid, nauwkeurigheid en prestaties van een mechanische schakelaar en zijn twee keer zo laag
-- De vijf speciale G-toetsen kunnen worden ingesteld met aangepaste macros en opdrachten voor games of app-profielen download Logitech G HUB via LogitechG.com/downloads om in te stellen
 - Je kunt de verlichting voor elke toets apart aanpassen en verlichtingseffecten aanpassen met 16,8 miljoen kleuren met de Logitech G HUB-software (LogitechG.com/downloads)
+- De nieuwe hoogwaardige toetsschakelaars bieden de snelheid, nauwkeurigheid en prestaties van een mechanische schakelaar en zijn twee keer zo laag
+- De prachtig vormgegeven G815 heeft een aluminiumlegering van luchtvaartkwaliteit, waardoor het een ongelooflijk dun maar sterk en duurzaam ontwerp heeft
 - USB-doorvoer - De USB 2.0-doorvoerpoort kan met de extra, toegewezen USB-kabel op zijn eigen invoer worden aangesloten voor een optimale vermogensdoorgifte en gegevensnelheid
+- De vijf speciale G-toetsen kunnen worden ingesteld met aangepaste macros en opdrachten voor games of app-profielen download Logitech G HUB via LogitechG.com/downloads om in te stellen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07VWFKTK7{{</world>}}

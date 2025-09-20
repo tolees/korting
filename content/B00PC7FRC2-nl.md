@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- ✅ Functies: belastbaarheid tot 3 kg. Meer ruimte op het bureau. Van staal. Bevestiging aan universele schermhouder met bijpassende gatafstand
-- Opmerking: schroefgaten in de behuizing van de mini-computer moeten 10 cm x 10 cm/100 mm x 100 mm bedragen
+- ✅ Compatibel met: Intel NUC complete pc i3, i5, i7 – mogelijk ook geschikt voor andere modellen
 - ✅ Geschikt voor: professioneel kantoor, computer, kantoor, gaming, pc, werkstation en thuiskantoor, voor monitoren met ca. 33-86 cm
 - ✅ Montage: rekenhouder achter monitor aan monitortafelhouder, wandhouder, monitorarm, monitorstandaard, monitorstandaard
-- ✅ Compatibel met: Intel NUC complete pc i3, i5, i7 – mogelijk ook geschikt voor andere modellen
+- ✅ Functies: belastbaarheid tot 3 kg. Meer ruimte op het bureau. Van staal. Bevestiging aan universele schermhouder met bijpassende gatafstand
+- Opmerking: schroefgaten in de behuizing van de mini-computer moeten 10 cm x 10 cm/100 mm x 100 mm bedragen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00PC7FRC2{{</world>}}

@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Voor een fris gevoel
+- Geeft een extra energie boost en zorgt voor een frisse blik!
+- Vermindert 5 tekenen van vermoeidheid
 - Boost de vermoeide huid
 - 24 Uur lang hydratatie
-- Vermindert 5 tekenen van vermoeidheid
-- Geeft een extra energie boost en zorgt voor een frisse blik!
-- Voor een fris gevoel
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B000T1VZ3G{{</world>}}

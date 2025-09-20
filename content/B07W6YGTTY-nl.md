@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - 100% polyester
-- Park20 regenjas
 - jas
+- Park20 regenjas
 - Nike biedt innovatieve producten, ervaringen en diensten om atleten te inspireren
 
 [🛒 Buy it!!]({{< param buyurl >}})

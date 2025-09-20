@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Ruim 15 cm hoog, met bouwstenen in pixelstijl voor een retro-look
-- Bouwset van Bulbasaur figuur, gebaseerd op officiële Pokémon Pixel Art
-- Ideaal voor volwassen bouwers en verzamelaars
 - Verschillende presentatiemogelijkheden: de set heeft een vlakke voet om m gemakkelijk ergens neer te zetten en een inkeping aan de achterkant voor bevestiging aan de wand
+- Ideaal voor volwassen bouwers en verzamelaars
+- Ruim 15 cm hoog, met bouwstenen in pixelstijl voor een retro-look
 - Met officiële licentie van The Pokémon Company International
+- Bouwset van Bulbasaur figuur, gebaseerd op officiële Pokémon Pixel Art
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CB6LNC61{{</world>}}

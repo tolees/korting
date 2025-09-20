@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - De Dri-FIT technologie helpt je droog en comfortabel te blijven
-- Normale pasvorm
-- Het achterpaneel mesh voegt ademend
-- Jersey korte mouw
 - Slim fit voor een touch-maatregel
+- Jersey korte mouw
+- Het achterpaneel mesh voegt ademend
+- Normale pasvorm
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07WC88RX8{{</world>}}

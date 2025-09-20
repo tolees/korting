@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Normale pasvorm
-- Ronde hals
 - Dri-Fit-technologie
+- Ronde hals
+- Normale pasvorm
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08R5JM7MH{{</world>}}

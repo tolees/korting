@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Bovenwerk van synthetisch leer
 - Gedempt gevoel
-- EVA-inlegzool
-- Voering van textiel
 - Normale pasvorm
 - Vetersluiting
-- Bovenwerk van synthetisch leer
+- EVA-inlegzool
+- Voering van textiel
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09NJP62C7{{</world>}}

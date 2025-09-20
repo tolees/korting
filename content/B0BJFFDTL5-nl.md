@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Vervang de koning van de koningin en het valet van het traditionele kaartspel met je favoriete figuren uit de cartoon Lilo & Stitch
-- Dit is een officieel gelicentieerd product van Disney Lilo & Stitch
 - Hoge kwaliteit
 - 54 speelkaarten
+- Dit is een officieel gelicentieerd product van Disney Lilo & Stitch
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BJFFDTL5{{</world>}}

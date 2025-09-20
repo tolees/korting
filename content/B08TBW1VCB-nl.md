@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Het verlengde ontwerp met doorlopende ritssluiting biedt bescherming tegen weer en wind.
-- Zakken met drukknopen.
 - Brede pasvorm voor een casual draagcomfort.
 - De waterafstotende afwerking zorgt voor droogte bij regen.
+- Zakken met drukknopen.
 - Synthetische vulling voor warmte bij een laag gewicht
 
 [🛒 Check the deal!!]({{< param buyurl >}})

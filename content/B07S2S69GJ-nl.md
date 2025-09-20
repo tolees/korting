@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Geschikt om te dragen tijdens verschillende seizoenen
 - Het artikel kan gedragen worden in combinatie met een alledaags shirt
+- Geschikt om te dragen tijdens verschillende seizoenen
 - Informele uitstraling
 
 [🛒 Check the deal!!]({{< param buyurl >}})

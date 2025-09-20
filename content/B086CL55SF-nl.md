@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Parfumvrije formule
 - Verstevigt de huid en vermindert rimpels en fijne lijntjes
+- Met Q10, creatine en zoethout
+- Parfumvrije formule
 - Vermindert de drie tekenen van de gevoelige huid
 - Ontwikkeld voor de gevoelige huid
-- Met Q10, creatine en zoethout
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B086CL55SF{{</world>}}

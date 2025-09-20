@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Steekzakken
+- Dri-FIT technologie helpt je droog en comfortabel te blijven
 - Standaardpasvorm
 - Panelen op de kuiten
-- Dri-FIT technologie helpt je droog en comfortabel te blijven
-- Steekzakken
 - Elastische en veiligheidslijn
 
 [🛒 Check the deal!!]({{< param buyurl >}})

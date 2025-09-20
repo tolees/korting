@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Hakvorm: plat
-- Binnenmateriaal: synthetisch
 - Bovenmateriaal: synthetisch
 - Sluiting: klittenbandsluiting
+- Binnenmateriaal: synthetisch
 - Zool: rubber
 
 [🛒 Check the deal!!]({{< param buyurl >}})

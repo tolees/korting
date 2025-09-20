@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Deodorant met de geur van luxe parfum, 72 uur effectieve bescherming
-- Bodyspray met de onweerstaanbare geur van bergamot, salie en jeneverbes
-- 2 keer meer geurbestrijdende zink-technologie dan onze standaard deodorant
-- Probeer ook de andere premium geuren van de AXE Fine Fragrance Collection
 - Deze deodorant bodyspray is verpakt in oneindig recyclebaar aluminium
 - AXE Fine Fragrance Collection Aqua Bergamot Premium Deodorant Bodyspray
+- 2 keer meer geurbestrijdende zink-technologie dan onze standaard deodorant
+- Probeer ook de andere premium geuren van de AXE Fine Fragrance Collection
+- Deodorant met de geur van luxe parfum, 72 uur effectieve bescherming
+- Bodyspray met de onweerstaanbare geur van bergamot, salie en jeneverbes
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BS6XQLW9{{</world>}}

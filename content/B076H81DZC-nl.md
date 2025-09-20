@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Afmetingen: 3,3 x 0,5 cm
-- Uniek en onnavolgbaar design
-- verzilverd
 - Compatibel met andere slider-bedels halskettingen en armbanden zoals Pandora, enz
+- Afmetingen: 3,3 x 0,5 cm
+- verzilverd
 - - Een topproduct voor elk feest.
+- Uniek en onnavolgbaar design
 - Officieel Harry Potter gelicentieerd product
 
 [🛒 Buy it!!]({{< param buyurl >}})

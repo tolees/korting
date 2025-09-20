@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Philips LED-plafondlamp: geniet van warmwit licht (2700K) voor een gezellige sfeer in huis.
 - Laag energieverbruik: bespaar tot 90% energie in vergelijking met conventionele lichtbronnen. Goed voor het milieu en jouw portemonnee.
-- Lange levensduur: ervaar een levensduur tot 15 jaar met Philips LED-lampen.
 - Eenvoudig te installeren. Bevestig of hang de lamp aan de muur of het plafond.
 - Met bewegingssensor: de Philips LED-lamp met sensor gaat automatisch aan bij beweging in de avond.
-- Philips LED-plafondlamp: geniet van warmwit licht (2700K) voor een gezellige sfeer in huis.
+- Lange levensduur: ervaar een levensduur tot 15 jaar met Philips LED-lampen.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08H831SKM{{</world>}}

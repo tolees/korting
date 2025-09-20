@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Dove badschuim met plantaardige reinigers en (huideigen) voedingsstoffen
 - Het badschuim is verpakt in 100% gerecyclede fles (behalve dop en label)
+- Dove Bath Therapy Glow Badschuim & Douchegel is verrijkt met niacinamide
 - Deze Dove douchegel is pH-huidneutraal en SLES sulfaatvrij
 - Met de heerlijke geur van bloedsinaasappel en spiced rabarber
-- Dove Bath Therapy Glow Badschuim & Douchegel is verrijkt met niacinamide
+- Dove badschuim met plantaardige reinigers en (huideigen) voedingsstoffen
 - Ondersteunt je huidbarrière, waardoor je huid er gezond en stralend uitziet
 
 [🛒 Buy it now!!]({{< param buyurl >}})

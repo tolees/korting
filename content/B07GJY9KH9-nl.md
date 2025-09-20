@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Drink al jouw favoriete dranken met de NESCAFÉ Dolce Gusto capsules
-- Ecostand: het apparaat schakelt automatisch uit na 5 minuten Energielabel: A
-- Het volume van je drankje kan aangepast worden met de Play & Select-functie
 - Compacte automatische koffiemachine (16 cm B x 13 cm H x 24 cm D)
-- Hogedruk-koffiezetter (tot wel 15 bar) voor professionele koffie met een dikke crèmelaag
+- Ecostand: het apparaat schakelt automatisch uit na 5 minuten Energielabel: A
 - Meer dan 25 koffiecreaties en andere heerlijke warme en koude dranken kunnen met een enkele druk op de knop gemaakt worden met deze koffiecupmachine
+- Hogedruk-koffiezetter (tot wel 15 bar) voor professionele koffie met een dikke crèmelaag
+- Het volume van je drankje kan aangepast worden met de Play & Select-functie
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07GJY9KH9{{</world>}}

@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Sluiting: rubber
 - 10,03935 inch
+- Sluiting: rubber
 - Ademend
 - Leer: lakleer
 

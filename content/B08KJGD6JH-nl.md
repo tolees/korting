@@ -30,9 +30,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Dermatologisch getest
 - 72u bescherming
+- x5 Anti: Irritation Geur, Zweet, Vlekken, Resten en Irritaite
 - NIVEA Black & White Invisible biedt 72 uur anti-transpirantbescherming: bescherming tegen witte strepen op zwarte kleding en gele vlekken op witte kleding. Ontdek het hier!
 - Verzorgt de huid
-- x5 Anti: Irritation Geur, Zweet, Vlekken, Resten en Irritaite
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08KJGD6JH{{</world>}}

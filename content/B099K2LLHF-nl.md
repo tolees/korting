@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Trailbestendig, winddichte jas met oog voor detail, Omni-Tech waterdichtheidssysteem inclusief ventilerend vermogen en essentiële naaddichting
 - Gaasvoering voor optimale ventilatie, voldoende stofdekking in alle posities, dankzij de royale middenruglengte.
 - Inhoud: 1x Columbia damesjas, Hikebound, Kleur: Black, Maat: S, Art. Nr.: 1989253
-- Trailbestendig, winddichte jas met oog voor detail, Omni-Tech waterdichtheidssysteem inclusief ventilerend vermogen en essentiële naaddichting
-- Reflecterende details voor betere zichtbaarheid, polyurethaan coating op ritsen voor duurzaamheid
 - Klassieke stijl en doordachte functionaliteit, dankzij onder andere zakken met ritssluiting, verstelbare manchetten, verstelbare zoom en een verstelbare capuchon
+- Reflecterende details voor betere zichtbaarheid, polyurethaan coating op ritsen voor duurzaamheid
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B099K2LLHF{{</world>}}

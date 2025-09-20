@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- ECC-type = niet-ECC, vormfactor = SODIMM, pintelling = 260-pins, pc-snelheid = PC4-21300, spanning = 1,2 V, rang en configuratie = 1Rx8 of 2Rx8
+- Eenvoudig installeren; geen computervaardigheden vereist. How-to-handleidingen beschikbaar op Crucial
+- DIMM-type - niet gebufferd
 - Verbeter de reactiesnelheid van uw systeem, voer sneller apps uit en multitasken met gemak
 - 16GB DDR4 3200MHz CL22 (or 2933MHz or 2666MHz)
-- Eenvoudig installeren; geen computervaardigheden vereist. How-to-handleidingen beschikbaar op Crucial
-- ECC-type = niet-ECC, vormfactor = SODIMM, pintelling = 260-pins, pc-snelheid = PC4-21300, spanning = 1,2 V, rang en configuratie = 1Rx8 of 2Rx8
 - 3200 MHz RAM kan downclock naar 2933 MHz of 2666 MHz als de systeemspecificatie alleen 2933 MHz of 2666 MHz ondersteunt
-- DIMM-type - niet gebufferd
 - Micronkwaliteit en betrouwbaarheid worden ondersteund door superieure testen op component- en moduleniveau en 42 jaar geheugenexpertise
 
 [🛒 Check the deal!!]({{< param buyurl >}})

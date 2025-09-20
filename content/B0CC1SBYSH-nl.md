@@ -28,14 +28,14 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 【Robuust en duurzaam】:USB C PD-kabel 100 W bestaat uit hoogwaardig TPE-materiaal, dat voor duurzaamheid en flexibiliteit zorgt. Met een versterkte verbinding tussen de stekkers en een duurzame TPE-ommanteling is de datakabel USB C goed beschermd tegen slijtage en breuken.
-- 【2 Meter perfekte Lengte】:Praktische 2 m USB C naar USB C-oplaadkabel, flexibiliteit en bewegingsvrijheid, zonder voortdurend in de buurt van een stopcontact te hoeven blijven.
-- 【Universele compatibiliteit】: deze 100 W USB C Kabel is perfect geschikt voor een groot aantal USB-C-apparaten, waaronder smartphones, tablets, laptops en meer. Een kabel die alles verbindt. (Compatibel met Samsung Galaxy S23/S22/S21/S20, Macbook Pro Air, iPad Pro Air, ChromeBook Pixel 6, Huawei P30, Redmi Note 10, Surface Go, Switch enz. Opmerking: een USB C-oplader is nodig)
-- 【100W bliksemsnel opladen】： Quntis USB C naar USB C Kabel 100W,als je je MacBook Pro oplaadt, kan een 60 W oplaadkabel USB C naar USB C de laadstatus binnen 45 minuten van 0% naar 30% verhogen. Onze 100 watt USB C naar USB C-kabel is twee keer zo snel en kan de laadstatus van 0% tot 65% verhogen.
-- 【!】Het product ondersteunt geen video- en audiosynchronisatie en kan niet de functie van HDMI-kabel vervullen. Het ondersteunt alleen opladen en gegevensoverdracht.
-- 【!】Als je je laptop oplaadt, moet je een stekker met voldoende stroom hebben.
-- 【E-marker-chip】Veilig opladen,de ingebouwde nieuwste E-marker-chip van de USB C PD-kabel garandeert stabiliteit, veiligheid en efficiëntie bij het opladen.
 - 【!】Deze oplaadkabel is geen A naar C kabel, maar een C naar C kabel.
+- 【Robuust en duurzaam】:USB C PD-kabel 100 W bestaat uit hoogwaardig TPE-materiaal, dat voor duurzaamheid en flexibiliteit zorgt. Met een versterkte verbinding tussen de stekkers en een duurzame TPE-ommanteling is de datakabel USB C goed beschermd tegen slijtage en breuken.
+- 【Universele compatibiliteit】: deze 100 W USB C Kabel is perfect geschikt voor een groot aantal USB-C-apparaten, waaronder smartphones, tablets, laptops en meer. Een kabel die alles verbindt. (Compatibel met Samsung Galaxy S23/S22/S21/S20, Macbook Pro Air, iPad Pro Air, ChromeBook Pixel 6, Huawei P30, Redmi Note 10, Surface Go, Switch enz. Opmerking: een USB C-oplader is nodig)
+- 【!】Als je je laptop oplaadt, moet je een stekker met voldoende stroom hebben.
+- 【!】Het product ondersteunt geen video- en audiosynchronisatie en kan niet de functie van HDMI-kabel vervullen. Het ondersteunt alleen opladen en gegevensoverdracht.
+- 【100W bliksemsnel opladen】： Quntis USB C naar USB C Kabel 100W,als je je MacBook Pro oplaadt, kan een 60 W oplaadkabel USB C naar USB C de laadstatus binnen 45 minuten van 0% naar 30% verhogen. Onze 100 watt USB C naar USB C-kabel is twee keer zo snel en kan de laadstatus van 0% tot 65% verhogen.
+- 【2 Meter perfekte Lengte】:Praktische 2 m USB C naar USB C-oplaadkabel, flexibiliteit en bewegingsvrijheid, zonder voortdurend in de buurt van een stopcontact te hoeven blijven.
+- 【E-marker-chip】Veilig opladen,de ingebouwde nieuwste E-marker-chip van de USB C PD-kabel garandeert stabiliteit, veiligheid en efficiëntie bij het opladen.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CC1SBYSH{{</world>}}

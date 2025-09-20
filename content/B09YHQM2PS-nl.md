@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Beleef de game: De HS80 RGB USB combineert het iconische CORSAIR-design, een fantastisch geluid en duurzame ontwerpkwaliteit.
-- Urenlang zacht comfort: Uitgerust met oorkussens van traagschuim met ademend microvezeltextiel aan de buitenkant en een verstelbare, niet-belastende, zwevende hoofdband.
-- Omnidirectionele microfoon van uitzendkwaliteit: Registreert je stem met optimale helderheid en is voorzien van een flip-up mute-functie en een geïntegreerde led-mute-indicator.
-- Vang elk geluid op: Van zacht gefluister tot een daverende knal, de twee speciaal aangepaste 50 mm neodymium-audiodrivers met hoge dichtheid leveren een uiterst gedetailleerd geluid.
 - Dolby Audio 7.1 Surround Sound: Brengt je game tot leven en laat je volledig opgaan in je game.
+- Vang elk geluid op: Van zacht gefluister tot een daverende knal, de twee speciaal aangepaste 50 mm neodymium-audiodrivers met hoge dichtheid leveren een uiterst gedetailleerd geluid.
+- Omnidirectionele microfoon van uitzendkwaliteit: Registreert je stem met optimale helderheid en is voorzien van een flip-up mute-functie en een geïntegreerde led-mute-indicator.
+- Urenlang zacht comfort: Uitgerust met oorkussens van traagschuim met ademend microvezeltextiel aan de buitenkant en een verstelbare, niet-belastende, zwevende hoofdband.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09YHQM2PS{{</world>}}

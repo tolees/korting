@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Schoeisel zonder sluiting
 - Schoeisel dat optimale demping en bescherming biedt tegen schokken en stress.
 - Lichtgewicht schoeisel voor meer bewegingsvrijheid.
 - Gemakkelijk te dragen, voor ongeëvenaard comfort.
 - Hakhoogte: 5,5 cm
+- Schoeisel zonder sluiting
 - De gepatenteerde Geox-systemen garanderen de ademende werking van de buitenzool, zodat de voet comfortabel blijft.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

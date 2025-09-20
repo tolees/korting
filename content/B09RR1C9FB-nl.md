@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 3 INFUSIETEMPERATUREN: altijd je drankje op de perfecte temperatuur; Kies uit 3 temperatuurinstellingen op basis van de variëteit en branding van de bonen
-- CONSUMENTENACTIE: via de actiepagina van DeLonghi kun je jouw La Specialista registreren voor een gratis Online Barista Masterclass
-- MINIMALISTISCH ONTWERP: comfort en gemakkelijk gebruik om de handelingen van de ervaren barista thuis na te bootsen; Een uniek ontwerp dat uitblinkt in perfectie, zowel in afwerking als in aandacht voor details
 - MY LATTE ART STOOMPIJPJE: met het professionele stoompijpje schuim je perfect, romige en fluweelzachte melkschuim; Creëer je perfecte drankje met Latte Art kunst en ervaar de textuur van zijdezacht microschuim; Ook geschikt voor plantaardige varianten van melk
-- WORD EEN BARISTA: bereid koffie met behulp van de bijgeleverde barista-accessoires, de Barista Kit; Een complete set die je helpt om je koffie te bereiden en je keuken schoon en opgeruimd achter te laten
+- CONSUMENTENACTIE: via de actiepagina van DeLonghi kun je jouw La Specialista registreren voor een gratis Online Barista Masterclass
+- 3 INFUSIETEMPERATUREN: altijd je drankje op de perfecte temperatuur; Kies uit 3 temperatuurinstellingen op basis van de variëteit en branding van de bonen
+- MINIMALISTISCH ONTWERP: comfort en gemakkelijk gebruik om de handelingen van de ervaren barista thuis na te bootsen; Een uniek ontwerp dat uitblinkt in perfectie, zowel in afwerking als in aandacht voor details
 - MALEN MET 8 INSTELNIVEAUS: ingebouwde conische koffiemolen voor direct gemalen koffie; levert de ideale dosis voor een enkele of dubbele espresso, ontworpen om te werken met alle soorten koffiebonen
+- WORD EEN BARISTA: bereid koffie met behulp van de bijgeleverde barista-accessoires, de Barista Kit; Een complete set die je helpt om je koffie te bereiden en je keuken schoon en opgeruimd achter te laten
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09RR1C9FB{{</world>}}

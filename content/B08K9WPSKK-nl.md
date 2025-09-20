@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Dubbel laadstation voor PS5 DualSense-controller dat esthetisch past bij de PS5-console en controller
-- Drop-and-charge-ontwerp dat de noodzaak van bekabelde oplaadpoorten elimineert
+- Inclusief een afneembare oplaadkabel van 1 meter voor flexibele plaatsing
 - LED-oplaadindicator aan de voorzijde die rood oplicht tijdens het opladen en blauw wanneer deze volledig is opgeladen
 - Extra USB-uitgang aan de achterkant waarmee u extra apparaten kunt opladen, zoals draadloze headsets en mobiele telefoons
-- Inclusief een afneembare oplaadkabel van 1 meter voor flexibele plaatsing
+- Drop-and-charge-ontwerp dat de noodzaak van bekabelde oplaadpoorten elimineert
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08K9WPSKK{{</world>}}
