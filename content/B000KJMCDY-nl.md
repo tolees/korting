@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Merk: Apli.
 - Referentienummer: 002175.
 - Categorie – briefpapier
+- Merk: Apli.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B000KJMCDY{{</world>}}

@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - PUMA No. 1-logo op de tong
-- Vernieuwd eyestay-ontwerp
-- Vetersluiting voor een goede pasvorm
 - Bovenwerk van suède
+- Vernieuwd eyestay-ontwerp
 - Doorgestikte en gewatteerde kraag
+- Vetersluiting voor een goede pasvorm
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09YY2YB13{{</world>}}

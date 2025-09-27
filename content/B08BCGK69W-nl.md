@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Licht & ademend design voor soepele bewegingen
 - Sneakers van het merk Columbia
+- Licht & ademend design voor soepele bewegingen
 - Kledingsstijl: informeel
 
 [🛒 Buy it now!!]({{< param buyurl >}})

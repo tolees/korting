@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Hakvorm: plateauhak
 - Binnenmateriaal: synthetisch
-- Sluiting: rubber
 - Bovenmateriaal: suède
+- Hakvorm: plateauhak
+- Sluiting: rubber
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08ZSTLK1B{{</world>}}

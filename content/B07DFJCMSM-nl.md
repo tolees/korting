@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - Pop Marvel Runaways Gert Yorkes Vinyl Figure'
-date: 2025-05-18 06:33:58
+date: 2025-09-27 12:11:13
 image: 'https://m.media-amazon.com/images/I/31HcNgSEL1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: 'Funko'
 buyurl: 'https://www.amazon.nl/dp/B07DFJCMSM/?tag=tolees0b-21'
 descuento: '54.18'
-average: '9.65076923076923'
+average: '9.60357142857143'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

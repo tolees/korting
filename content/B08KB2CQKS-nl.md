@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Batterij-indicator met 3 niveaus: De batterij-indicator geeft aan wanneer de trimmer is opgeladen, bezig is met opladen of wanneer deze moet worden aangesloten op een stopcontact. Drie balkjes geven het batterijniveau aan
 - SteelPrecision-technologie: De BT9000 Prestige is uitgerust met de gloednieuwe SteelPrecision-technologie, die bestaat uit een geïntegreerde metalen trimkam en een krachtige mesunit
-- Precisie van 0,2 mm: Style uw baard met uiterste precisie door op 0,2 mm nauwkeurig een haarlengte te kiezen. Gebruik het instelwiel om uit 30 verschillende lengtestanden te kiezen, van 0,4 mm tot wel 10 mm
-- PowerAdapt-sensor: De PowerAdapt-sensor controleert de haardichtheid 125 keer per seconde en past de motor automatisch aan om een constant vermogen te handhaven
 - 100% waterdicht: Klap het hoofd eenvoudig open en het spoel het af onder de kraan om het schoon te maken.
+- Batterij-indicator met 3 niveaus: De batterij-indicator geeft aan wanneer de trimmer is opgeladen, bezig is met opladen of wanneer deze moet worden aangesloten op een stopcontact. Drie balkjes geven het batterijniveau aan
+- PowerAdapt-sensor: De PowerAdapt-sensor controleert de haardichtheid 125 keer per seconde en past de motor automatisch aan om een constant vermogen te handhaven
+- Precisie van 0,2 mm: Style uw baard met uiterste precisie door op 0,2 mm nauwkeurig een haarlengte te kiezen. Gebruik het instelwiel om uit 30 verschillende lengtestanden te kiezen, van 0,4 mm tot wel 10 mm
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08KB2CQKS{{</world>}}

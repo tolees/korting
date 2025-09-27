@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Verzorgt de huid
 - Douchegel voor iedere dag met de typische NIVEA-geur
 - De hydraterende formule met vitamine C, vitamine E en oliën beschermt de huid tegen uitdroging
-- Voor een zacht en langdurig gezond huidgevoel, elke dag en overal dankzij de handige voordeelverpakking
+- Verzorgt de huid
 - Deze douchegel is pH huidneutraal en zorgt dus voor een natuurlijke balans
+- Voor een zacht en langdurig gezond huidgevoel, elke dag en overal dankzij de handige voordeelverpakking
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01GHTN4UA{{</world>}}

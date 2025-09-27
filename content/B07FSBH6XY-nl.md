@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Bevat: 1 Philips StyleCare Essential Warmteborstel om te ontkrullen
-- Driedubbele borstelpinnen: Ontwarren en ontkrullen je haar voorzichtig en beschermen de hoofdhuid.
 - ThermoProtect-technologie: Houdt de gehele borstel op een constante temperatuur voor beschermd haar.
+- Driedubbele borstelpinnen: Ontwarren en ontkrullen je haar voorzichtig en beschermen de hoofdhuid.
 - Toermalijn-keramische buitenlaag: Zorgt voor glanzend, pluisvrij haar.
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Sportieve Camper sneaker
 - Sluiting_type: Vetersluiting
 - Buitenmateriaal: leer en synthetisch
-- stijl: Kever 18751
-- Sportieve Camper sneaker
 - Klassieke Camper Kever sneaker
+- stijl: Kever 18751
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B01IG5ECRM{{</world>}}

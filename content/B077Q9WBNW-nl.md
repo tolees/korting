@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Romige formule met tot 98% ingrediënten van natuurlijke oorsprong, ook geschikt voor gevoelige lippen, dermatologisch getest
 - Adembenemende lippen zoals in het paradijs: hydraterende balm-in-lippenstift met lichte, romige textuur in natuurlijke nuances, passend bij elke huidtint
-- Inhoud: LOréal Paris Color Riche Glow Paradise Balm-in-lippenstift, kleur: 112 pastelkleuren, inhoud: 3,8 g
 - Resultaat: glinsterende afwerking in een natuurlijke kleur voor een gezond uitziende gloed en gevoerde lippen - de hele dag lang
+- Inhoud: LOréal Paris Color Riche Glow Paradise Balm-in-lippenstift, kleur: 112 pastelkleuren, inhoud: 3,8 g
+- Romige formule met tot 98% ingrediënten van natuurlijke oorsprong, ook geschikt voor gevoelige lippen, dermatologisch getest
 - Gebruik: breng de lippenstift eerst aan op de bovenlip van binnen naar buiten, daarna de onderlip vullen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

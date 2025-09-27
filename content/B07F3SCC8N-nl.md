@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- lengte van de verpakking van het artikel: 330 mm
 - hoogte van de verpakking van het artikel: 125 mm
-- gewicht van het artikelpakket: 0.25 kg
 - breedte van het artikelpakket: 205 mm
+- lengte van de verpakking van het artikel: 330 mm
+- gewicht van het artikelpakket: 0.25 kg
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07F3SCC8N{{</world>}}

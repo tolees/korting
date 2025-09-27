@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 3 warmtestanden / 2 snelheden
 - Cool shot om je haarstijl te fixeren
+- Blaaskracht 85 km/uur - voor een snel droogresultaat
 - Krachtige 2300 Watt haardroger
 - Ionengenerator - 90% meer ionen voor glanzend haar zonder pluis
-- Blaaskracht 85 km/uur - voor een snel droogresultaat
+- 3 warmtestanden / 2 snelheden
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B01C2DSOHI{{</world>}}

@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Het logo zal enigszins variëren vanwege de beschikbaarheid van de voorraad
 - Inhoud van de verpakking - 4G+ Cat6 AC1200 WiFi Dual Band Gigabit-router Archer MR600, RJ45 Ethernet-kabel, voedingsadapter, snelle installatiehandleiding
-- Ultrahoge snelheid - Ondersteunt Cat6 om downloadsnelheden tot 300 Mbps te versnellen
-- Plug and Play - Geen configuratie vereist, compatibel met alle belangrijke simkaarten ter wereld
-- Meerdere connectiviteit - Vier Gigabit LAN-poorten zorgen voor een betrouwbare bedrade netwerkverbinding voor apparaten die veel bandbreedte nodig hebben
+- Het logo zal enigszins variëren vanwege de beschikbaarheid van de voorraad
 - TP-Link OneMesh-technologie - Samenwerken met TP-Link OneMesh-producten voor een flexibele en kosteneffectieve netwerkverbinding
+- Plug and Play - Geen configuratie vereist, compatibel met alle belangrijke simkaarten ter wereld
+- Ultrahoge snelheid - Ondersteunt Cat6 om downloadsnelheden tot 300 Mbps te versnellen
+- Meerdere connectiviteit - Vier Gigabit LAN-poorten zorgen voor een betrouwbare bedrade netwerkverbinding voor apparaten die veel bandbreedte nodig hebben
 - Goed wifi-signaal - Efficiënte en stabiele verbinding dankzij twee externe LTE-antennes
 - WiFi-routermodus - Werkt ook als WiFi-router door simpelweg een LAN-kabel aan te sluiten
 

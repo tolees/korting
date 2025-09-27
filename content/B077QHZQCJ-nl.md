@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Gemaakt van milieu vriendelijk, gerecycleerd karton
 - De gelegde puzzel lijkt een poster
+- Gemaakt van milieu vriendelijk, gerecycleerd karton
 - Elk puzzelstukje heeft een unieke pasvorm en vorm
 - Jan van haasteren legpuzzel van 1000 puzzelstukjes.
 

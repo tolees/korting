@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Zoolmateriaal: Rubber
-- Schoenbreedte: normaal
 - Bovenmateriaal: leer
+- Schoenbreedte: normaal
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09NMGW3SF{{</world>}}

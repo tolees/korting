@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Inhoud: 225 onderdelen, 2 stuks gereedschap, 2 stickervellen, 1 bouwinstructie (voor 3 modellen)
-- Gebruik de 2 gereedschappen en 225 onderdelen in de bouwset, zoals wielen en echte metalen moeren en bouten om je bouwwerken één voor één in elkaar te zetten. Personaliseer ze met 2 stickervellen
-- Maak 10 verschillende snelle speelgoedautos en -voertuigen, waaronder een supergestroomlijnde raceauto. Bouw 3 modellen op basis van de instructies of maak je eigen modellen
-- Met deze Meccano-set krijg je een goed inzicht in de principes van S.T.E.A.M en verbeter je je hand-oogcoördinatie, probleemoplossend vermogen en fijnmotorische vaardigheden
 - De Meccano 10-in-1 racevoertuigset is voor kinderen vanaf 8 jaar. Geweldig speelgoed voor jongens en meisjes. Ga naar Meccano.com. voor meer bouwinstructies. Bouw, race en transformeer
+- Gebruik de 2 gereedschappen en 225 onderdelen in de bouwset, zoals wielen en echte metalen moeren en bouten om je bouwwerken één voor één in elkaar te zetten. Personaliseer ze met 2 stickervellen
+- Met deze Meccano-set krijg je een goed inzicht in de principes van S.T.E.A.M en verbeter je je hand-oogcoördinatie, probleemoplossend vermogen en fijnmotorische vaardigheden
+- Inhoud: 225 onderdelen, 2 stuks gereedschap, 2 stickervellen, 1 bouwinstructie (voor 3 modellen)
+- Maak 10 verschillende snelle speelgoedautos en -voertuigen, waaronder een supergestroomlijnde raceauto. Bouw 3 modellen op basis van de instructies of maak je eigen modellen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08S6XXPTV{{</world>}}

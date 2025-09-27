@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- ONTKETEN JE INNERLIJKE KRIJGER
 - VERLIES JEZELF IN DE WONDERBAARLIJKE BERG QAF
+- ONTKETEN JE INNERLIJKE KRIJGER
 - BELEEF EEN EPISCH AVONTUUR
 
 [🛒 Check the deal!!]({{< param buyurl >}})

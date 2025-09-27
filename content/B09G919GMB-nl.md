@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Inhoud van de verpakking:
-- Het geweven sportbandje is gemaakt van zacht, ademend en licht materiaal, en is voorzien van een makkelijk verstelbare klittenbandsluiting
 - Je kunt de meeste bandjes combineren met elke kast van Apple Watch Series 3 of nieuwer van hetzelfde formaat. 41‑mm bandjes zijn geschikt voor 38‑mm en 40‑mm kasten; 45‑mm bandjes zijn geschikt voor 42‑mm en 44‑mm kasten.
+- Het geweven sportbandje is gemaakt van zacht, ademend en licht materiaal, en is voorzien van een makkelijk verstelbare klittenbandsluiting
+- Inhoud van de verpakking:
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09G919GMB{{</world>}}

@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kraftform Micro kruiskopschroevendraaier voor kruiskopschroeven Phillips Recess
-- De Wera Black Point-punt biedt pasvorm en geoptimaliseerde bescherming tegen corrosie
-- 9 ohm
-- Meercomponenten microhandgreep voor snel en ergonomisch schroeven
-- Met afrolbeveiliging en draaibare dop voor snel draaien
 - Elektrostatisch veilig gereedschap door oppervlakteweerstand van < 10
+- Met afrolbeveiliging en draaibare dop voor snel draaien
+- Meercomponenten microhandgreep voor snel en ergonomisch schroeven
+- Kraftform Micro kruiskopschroevendraaier voor kruiskopschroeven Phillips Recess
+- 9 ohm
+- De Wera Black Point-punt biedt pasvorm en geoptimaliseerde bescherming tegen corrosie
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07B7XKBJG{{</world>}}

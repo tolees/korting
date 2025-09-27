@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- 【Lichteffect】Beide zijden van de pc-luidspreker zijn uitgerust met regenboogverlichting en 4 lichteffectmodi kunnen met één knop worden gewijzigd.
 - 【Klantenservice】Als je vragen hebt, neem dan gerust contact met ons op via e-mail en we zullen binnen 24 uur antwoorden.
 - Plug and Play: ingeschakeld met USB-voeding en 3,5 mm aux-in-bedrade verbinding. Geen drivers of software om te installeren. De soundbar is breed compatibel met verschillende apparaten zoals pc, laptop, tablet, smartphones.
-- 【Blutooth-modus】Druk na het aansluiten van de USB op de M-toets om over te schakelen naar de Bluetooth-modus. Zoek vervolgens naar R50 op je telefoon en verbind.
 - 【Ideale grootte en schuin ontwerp】Ontworpen met de 30 graden micro-hellende laat het geluid beter overbrengen. Aan de buitenkant van de luidspreker zit een laag ademende doek om stof te voorkomen en zorgt voor een comfortabele en gladde aanraking.
-- 【Lichteffect】Beide zijden van de pc-luidspreker zijn uitgerust met regenboogverlichting en 4 lichteffectmodi kunnen met één knop worden gewijzigd.
+- 【Blutooth-modus】Druk na het aansluiten van de USB op de M-toets om over te schakelen naar de Bluetooth-modus. Zoek vervolgens naar R50 op je telefoon en verbind.
 - 【Helder geluid】5W*2 verbeterde dubbele drivers en 2 krachtige full-range luidsprekers zorgen voor een fantastisch stereo-effect. Helpt u genieten van films, games en muziek.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

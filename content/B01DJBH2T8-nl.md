@@ -30,8 +30,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Het kenmerkende ontwerp met drukknop geeft de stift vrij met een bevredigende klik
 - Gestroomlijnde stijl met strakke lijnen voor een frisse nieuwe kijk op het iconische ontwerp van de Parker Jotter
-- Verpakt in een karakteristieke Parker-geschenkverpakking
 - Soepele, donkergekleurde en nauwkeurige stiften van 0,5 mm zijn perfect voor dagelijkse schrijftaken
+- Verpakt in een karakteristieke Parker-geschenkverpakking
 - Roestvrijstalen behuizing, geaccentueerd door een hoogglansafwerking en een pijlvormige clip
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Duurzame stijl
-- Nike sportschoen
 - Bestand en licht
+- Nike sportschoen
+- Duurzame stijl
 - Zichtbare Max Air-demping helpt elke stap comfortabel te houden
 - Nike Luchtkussen om schokken te absorberen
 

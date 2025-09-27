@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Innovatieve, energie-efficiënte techniek bespaart tot 40% energie
 - Netwerk monitoring, verkeersprioriteiten en VLAN functies
-- 24 x 10/100/1000 MBps RJ45 aansluitingen
 - Eenvoudige netwerk instelling en plug-and-play aansluiting
+- Innovatieve, energie-efficiënte techniek bespaart tot 40% energie
+- 24 x 10/100/1000 MBps RJ45 aansluitingen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B00CUG8ESM{{</world>}}

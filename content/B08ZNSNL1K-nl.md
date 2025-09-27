@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Beschikt over de nieuwste 3D TLC NAND-technologie
 - Beschikbaar in waaier van volledige capaciteiten
-- Opmerkelijke prestaties
+- Beschikt over de nieuwste 3D TLC NAND-technologie
 - Ondersteunt een volledige beveiligingssuite (TCG Opal, AES 256-bit, eDrive)
+- Opmerkelijke prestaties
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08ZNSNL1K{{</world>}}

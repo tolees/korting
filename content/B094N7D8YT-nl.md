@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'eSUN Lichtgewicht PLA Filament 1 75mm  3D Printer Filament PLA-LW  Maatnauwkeurigheid +/- 0 05mm  1kg Spoel  2 2 LBS  Schuimmateriaal voor 3D Printers  Natuurlijk'
-date: 2025-09-09 16:51:46
+date: 2025-09-27 06:04:21
 image: 'https://m.media-amazon.com/images/I/41TavmQny-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - 【Schuimmateriaal】 Bij het printen van hetzelfde volumemodel is 1 rol PLA-LW-filament gelijk aan 2,2 rollen gewoon PLA-filament, de schuimvolumeverhouding kan 220% bereiken, waardoor 55% materiaal wordt bespaard. De schuimsnelheid en -sterkte kunnen worden geregeld door de afdruktemperatuur aan te passen.
-- 【Let op】 De schuimsnelheid is gerelateerd aan de afdruktemperatuur, de afdruksnelheid en de grootte van de smeltholte van het mondstuk, vergelijk de model- en ontwerpwanddikte op basis van uw afdruksituatie en pas de extrusiesnelheid, temperatuur, snelheid en andere afdrukparameters aan.
 - 【Mat en delicaat oppervlak】 Uitstekend oppervlakte-effect, in principe geen laagstructuur; Goede laaghechting, makkelijk te repareren; Gemakkelijk te schilderen, sterke hechting van oppervlaktepigmenten. Minimale tolerantie en weinig kromtrekken voor een consistente invoer en stabiele afdrukken, zonder verstopping van het mondstuk of de extruder.
 - 【Lichtgewicht PLA】PLA-LW begint te schuimen bij een afdruktemperatuur van 210-270 . Bij een maximale schuimsnelheid van 122% (270℃), neemt het volume bijna 1,2 keer toe. Minimale extrusiesnelheid kan oplopen tot 45% om lichtgewicht en projecten met een lage dichtheid af te drukken door middel van actieve schuimtechnologie.
 - 【Professioneel voor modelvliegtuigen 】Speciaal ontworpen voor liefhebbers van modelvliegtuigen. Lichtgewicht. Lage dichtheid 0,54 g/cm³. Lichtere vleugelbelasting. Lagere blokkeersnelheid. Betere prestaties van modelvliegtuigen. Op grote schaal gebruikt in modelvliegtuigen, drones, COSPLAY en andere gebieden.
+- 【Let op】 De schuimsnelheid is gerelateerd aan de afdruktemperatuur, de afdruksnelheid en de grootte van de smeltholte van het mondstuk, vergelijk de model- en ontwerpwanddikte op basis van uw afdruksituatie en pas de extrusiesnelheid, temperatuur, snelheid en andere afdrukparameters aan.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B094N7D8YT{{</world>}}

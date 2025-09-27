@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Het ledlampje geeft oranje licht als je batterij wordt opgeladen en groen als hij vol is
-- Sluit hem aan op een compatibele USB‑C-lichtnetadapter om je MacBook Pro extra snel op te laden via een stopcontact
-- De magnetische aantrekkings­kracht tussen de connector en de poort is sterk genoeg om te blijven zitten totdat je hem met opzet eruit haalt
-- USB‑C-lichtnetadapter is afzonderlijk verkrijgbaar.
 - Deze oplaadkabel van 2 meter lang heeft een magnetische MagSafe 3-connector die gemakkelijk in de voedingspoort van je MacBook Pro klikt
 - Stoffen kabel voor een extra lange levensduur
+- USB‑C-lichtnetadapter is afzonderlijk verkrijgbaar.
+- De magnetische aantrekkings­kracht tussen de connector en de poort is sterk genoeg om te blijven zitten totdat je hem met opzet eruit haalt
 - Maar als er iemand over de kabel struikelt, laat hij vanzelf los zodat je MacBook Pro gewoon blijft staan
+- Sluit hem aan op een compatibele USB‑C-lichtnetadapter om je MacBook Pro extra snel op te laden via een stopcontact
+- Het ledlampje geeft oranje licht als je batterij wordt opgeladen en groen als hij vol is
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09JR617TR{{</world>}}

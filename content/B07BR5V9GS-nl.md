@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Bescherming tegen UV-schade op korte en lange termijn
-- Betrouwbare UVA/UVB bescherming
-- Onmiddellijke bescherming
 - Nieuwe lichte formule
 - Trekt sneller in en is makkelijker uit te smeren zonder een vettig gevoel.
+- Onmiddellijke bescherming
+- Betrouwbare UVA/UVB bescherming
+- Bescherming tegen UV-schade op korte en lange termijn
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07BR5V9GS{{</world>}}

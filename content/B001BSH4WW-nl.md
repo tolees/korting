@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Producttype: Eau De Toilette
 - Hoeveelheid product: 100 ml
 - Merk: Joop!
+- Producttype: Eau De Toilette
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B001BSH4WW{{</world>}}

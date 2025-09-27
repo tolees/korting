@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- De platte mesh-armband uit de collectie dient als drager voor clip-bedels, die zich stijlvol aan je armband nestelen
 - Het ontwerp in 14 karaat rosévergulde speciale metaallegering past zich perfect aan je pols aan
-- Vertel je stijl verhaal met gouden glans en je favoriete bedels uit de collectie
 - Het sieraad is gemaakt van onze 14-karaats rosévergulde metaallegering, met de hand afgewerkt en is afzonderlijk net zo mooi als in combinatie met andere armbanden
+- Vertel je stijl verhaal met gouden glans en je favoriete bedels uit de collectie
+- De platte mesh-armband uit de collectie dient als drager voor clip-bedels, die zich stijlvol aan je armband nestelen
 - Het product wordt niet in een doos verzonden. Deze moet apart worden gekocht
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - 4. Verzegelde vacuümzak om het droog te houden en stof buiten te houden.
-- 2.Print Temperatuurbereik & Diameter: 200-250℃. 1.75mm (tolerantie ±0.03mm).
 - 5.N.W: 1kg, G.W: 1.35kg, spoel binnendiameter 57mm, spoel buitendiameter 200mm, hoogte 64mm.
-- 1. Sterke taaiheid en slagvastheid.
 - 3. Geen bel of stof binnen, lagere klomp of verwarring tarief.
+- 2.Print Temperatuurbereik & Diameter: 200-250℃. 1.75mm (tolerantie ±0.03mm).
+- 1. Sterke taaiheid en slagvastheid.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07XLC2FV9{{</world>}}

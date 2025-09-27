@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sketch Book: Notebook for Drawing  Writing  Painting  Sketching or Doodling | 8.5x11 | sketch book for kids blank paper for drawing'
-date: 2025-09-16 22:19:05
+date: 2025-09-27 12:06:19
 image: 'https://m.media-amazon.com/images/I/51l5AlP9hzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

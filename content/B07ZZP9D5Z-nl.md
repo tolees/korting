@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Van Star Trek, Discovery - Saru, als gestileerde POP vinyl van Funko
 - Bekijk de andere Star Trek figuren van Funko Collect ze allemaal
-- Funko POP is het 2018 Peoples Choice speelgoed van het jaar
+- Van Star Trek, Discovery - Saru, als gestileerde POP vinyl van Funko
 - Figuur staat 9cm en wordt geleverd in een venster display box
+- Funko POP is het 2018 Peoples Choice speelgoed van het jaar
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07ZZP9D5Z{{</world>}}

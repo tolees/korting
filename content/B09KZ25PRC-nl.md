@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Bovenmateriaal: leer
 - Materiaal van de zool: rubber
 - Sluiting: veters
+- Bovenmateriaal: leer
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09KZ25PRC{{</world>}}

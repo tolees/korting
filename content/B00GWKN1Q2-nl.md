@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 1000BASE-T, 100BASE-T, 10BASE-T
-- MAC-adrestabel: 8000 entries Switchingcapaciteit: 10 Gbit/s
 - Managed L2/L3
 - Quality of Service (QoS)
+- MAC-adrestabel: 8000 entries Switchingcapaciteit: 10 Gbit/s
+- 1000BASE-T, 100BASE-T, 10BASE-T
 - Aantal basis-switching RJ-45 Ethernet-poorten: 5
 
 [🛒 Check the deal!!]({{< param buyurl >}})

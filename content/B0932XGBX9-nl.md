@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Eenvoudig wifi-portaal: Deel je netwerk eenvoudig met het gratis wifi-portaal en configureer de wifi van klanten en bezoekers in een paar stappen met het gevangen portaal
 - Wi-Fi 6 van de volgende generatie: geniet tot 1800 Mbps snelheid, capaciteit en 80 MHz bandbreedte met de Wi-Fi 6-standaard (802.11ax)
+- Eenvoudig wifi-portaal: Deel je netwerk eenvoudig met het gratis wifi-portaal en configureer de wifi van klanten en bezoekers in een paar stappen met het gevangen portaal
 - 4G-snelheid: de 4G LTE-technologie van categorie 6 maakt het mogelijk om 7 keer sneller te genieten dan met mobiele 3G-breedband
 - Professionele netwerkbeveiliging: ASUS AiProtection Pro met levenslange gratis trendy microfoon, WPA3 en geavanceerde kinderbeveiliging ter bescherming van je huis
 

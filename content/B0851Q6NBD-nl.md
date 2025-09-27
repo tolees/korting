@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - De nieuwe spelmechanismen omvatten een charmevaardigheid die je spelersbord uitbreidt en de magische vaardigheden van je personages verbetert, en Ginny Weasley is nu een speelbaar personage!
-- Blijf Hogwarts verdedigen in Harry Potter: Hogwarts Battle — The Charms & Potions Expansion!
 - Deze Harry Potter-speluitbreiding vereist het basisspel Harry Potter: Hogwarts Battle om te kunnen spelen
+- Blijf Hogwarts verdedigen in Harry Potter: Hogwarts Battle — The Charms & Potions Expansion!
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0851Q6NBD{{</world>}}

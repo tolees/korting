@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Fantasy is sensueel en verlekkerend, een liefdesbetovering vol verleidingen en fantasie.
+- Een oriëntaalse bloemengeur. Verleidelijk. Charmant. Onvatbaar.
 - Basisnoten: crèmeachtige muskus, iriswortels en sensueel hout
 - Topnoten: lychee, kweepeer en kiwi
-- Een oriëntaalse bloemengeur. Verleidelijk. Charmant. Onvatbaar.
 - Hartnoten: harmonie van cupcakes, jasmijnblaadjes en witte vanille-orchidee
 
 [🛒 Buy it now!!]({{< param buyurl >}})

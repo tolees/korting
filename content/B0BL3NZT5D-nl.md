@@ -28,14 +28,14 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Verbluffende beelden: Film in 4K HDR-video voor kristalheldere luchtopnamen. Leg details vast in hoge lichten en schaduwen, zowel overdag als s nachts.
 - Er zijn twee versies van de Mini 3, met en zonder C0-label. Beide versies mogen vliegen in de A1 en A3 categorieën. Operators hoeven geen tests af te leggen.
+- Opmerkingen: Voor uw veiligheid dient u voordat u gaat vliegen altijd de nieuwste lokale wet- en regelgeving te controleren en strikt na te leven.
 - Inclusief de nieuwe DJI RC, waarop de DJI Fly-app is voorgeïnstalleerd en een ingebouwd 5,5-inch HD-scherm voor een scherpe weergave, zelfs in direct zonlicht.
+- Verbluffende beelden: Film in 4K HDR-video voor kristalheldere luchtopnamen. Leg details vast in hoge lichten en schaduwen, zowel overdag als s nachts.
 - Vliegen gaat bijna vanzelf: laat een beetje wind niet in de weg staan. De Mini 3 is bestand tegen winden van 38 km/u (niveau 5), zodat u stabiel kunt blijven en uw foto kunt vastleggen.
+- Lichtgewicht en compact: Mini 3 weegt minder dan 249 g. Perfect om mee te nemen op avonturen, van wandelingen, roadtrips en stranddagen.
 - Focus op het moment: Epische fotos zijn binnen handbereik. Gebruik QuickShots om dynamische vluchtpatronen te kiezen of een prachtig uitzicht vast te leggen met Panorama.
 - Hoogte vastleggen, sociaal zijn: Met True Vertical Shooting kunt u gemakkelijk hoge bezienswaardigheden zoals wolkenkrabbers en watervallen fotograferen. En na het vastleggen is het in de perfecte oriëntatie om op Instagram of TikTok te posten.
-- Lichtgewicht en compact: Mini 3 weegt minder dan 249 g. Perfect om mee te nemen op avonturen, van wandelingen, roadtrips en stranddagen.
-- Opmerkingen: Voor uw veiligheid dient u voordat u gaat vliegen altijd de nieuwste lokale wet- en regelgeving te controleren en strikt na te leven.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BL3NZT5D{{</world>}}

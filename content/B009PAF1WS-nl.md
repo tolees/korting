@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Gaat kroeshaar tegen terwijl er glans en beweeglijkheid wordt toegevoegd.
 - Definieert en maakt krullen mooier.
+- Gaat kroeshaar tegen terwijl er glans en beweeglijkheid wordt toegevoegd.
 - Verrijkt met kostbare arganolie.
 
 [🛒 Buy it!!]({{< param buyurl >}})

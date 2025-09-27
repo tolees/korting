@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- IEEE 802.3at en 802.3af compatibel
-- Eenvoudig te bedienen, geen configuratie of installatie nodig.
-- Met 8 PoE+-aansluitingen: gegevensoverdracht en stroomvoorziening via één kabel.
-- 9 RJ45-poorten 10/100/1000 Mbps, 1 Gigabit -SFP-poort.
 - 802.p/DSCP QoS voor latentiegevoelige Broadcast-dataverkeer
+- Eenvoudig te bedienen, geen configuratie of installatie nodig.
+- 9 RJ45-poorten 10/100/1000 Mbps, 1 Gigabit -SFP-poort.
+- IEEE 802.3at en 802.3af compatibel
+- Met 8 PoE+-aansluitingen: gegevensoverdracht en stroomvoorziening via één kabel.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08562FQTW{{</world>}}

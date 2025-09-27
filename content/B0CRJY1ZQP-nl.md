@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- GESCHIKT VOOR ALLE WEERSOMSTANDIGHEDEN: Philips buitenlampen zijn getest om corrosie en roest te weerstaan in zware regenval - hoge luchtvochtigheid - felle zon - UV-straling en extreme temperaturen dankzij de IP44-classificatie.
-- GEEN BEDRADING NODIG: Je kunt hem dus gemakkelijk overal buiten plaatsen.
-- LANGE LEVENSDUUR: dankzij de robuuste materialen; gemaakt van hoogwaardig gegoten aluminium en kunststoffen van hoge kwaliteit.
 - SCHEMERSENSOR: Lampen gaan automatisch aan als het buiten donker wordt
 - 25.000 UUR PLEZIER: Betrouwbare LED verlichting van hoge kwaliteit die tot 25.000 uur meegaat
+- LANGE LEVENSDUUR: dankzij de robuuste materialen; gemaakt van hoogwaardig gegoten aluminium en kunststoffen van hoge kwaliteit.
+- GESCHIKT VOOR ALLE WEERSOMSTANDIGHEDEN: Philips buitenlampen zijn getest om corrosie en roest te weerstaan in zware regenval - hoge luchtvochtigheid - felle zon - UV-straling en extreme temperaturen dankzij de IP44-classificatie.
+- GEEN BEDRADING NODIG: Je kunt hem dus gemakkelijk overal buiten plaatsen.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CRJY1ZQP{{</world>}}

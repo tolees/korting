@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Lange batterijduur tot 35 uur bij het afspelen van MP3-s
-- Muziek afspelen, opslaan van fotos en FM-radio-functie
 - Inhoud: Sony NW-E394 Walkman 8 GB zwart
+- Muziek afspelen, opslaan van fotos en FM-radio-functie
 - Volumeregeling en hold-knop bevinden zich aan de zijkant
 - Aluminium frontpaneel interne opslagcapaciteit van 8 GB
 

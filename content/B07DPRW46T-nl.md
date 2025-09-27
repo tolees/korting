@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Een bijpassende ketting en ring zijn verkrijgbaar
-- Van nature bestaat de eeuwige liefde uit een verleden, heden en toekomst, en deze prachtige steekoorbellen zijn ontworpen met dat romantische concept als uitgangspunt
 - Ze zijn tijdloos elegant en gegarandeerd een dierbare herinnering
 - Een trio van heldere kristallen is in dit sprankelende ontwerp verfraaid met pavé en een rodium toplaag
+- Van nature bestaat de eeuwige liefde uit een verleden, heden en toekomst, en deze prachtige steekoorbellen zijn ontworpen met dat romantische concept als uitgangspunt
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07DPRW46T{{</world>}}

@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Ademend waterdicht herenjack voor outdoor-avonturen; goede bescherming tegen natte weersomstandigheden; Active Fit
-- Verstelbare zoom met trekkoord, zijzakken met rits; naden met Omni-Tech-afdichting; kan worden opgeborgen in zijzak
 - Stijlvol assortiment bestaande uit 2-kleurige en effen opties; veelzijdig te combineren
+- Ademend waterdicht herenjack voor outdoor-avonturen; goede bescherming tegen natte weersomstandigheden; Active Fit
 - Inhoud: 1 x Columbia Pouring Adventure II Jack voor heren; materiaal: Omni-Tech Rip-Stop 100% nylon, mesh 100% polyester; kleur: zwart; maat: L; 1760061
+- Verstelbare zoom met trekkoord, zijzakken met rits; naden met Omni-Tech-afdichting; kan worden opgeborgen in zijzak
 - Geschikt voor alle seizoenen; verstelbare manchetten; met trekkoord verstelbare capuchon; drop tail
 
 [🛒 Buy it now!!]({{< param buyurl >}})

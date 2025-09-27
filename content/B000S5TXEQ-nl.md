@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Herstelt de vochtbalans
-- Bevat avocado olie en uv-filter
-- Speciaal ontwikkeld voor pluizig haar
-- Vegan Friendly: zonder dierlijke ingredienten en niet getest op dieren.
 - Maakt het haar direct glad en corrigeert pluizige punten
 - Vult de natuurlijke oliën van het haar aan die verdwijnen tijdens het föhnen en dagelijkse stylen
+- Vegan Friendly: zonder dierlijke ingredienten en niet getest op dieren.
+- Speciaal ontwikkeld voor pluizig haar
+- Bevat avocado olie en uv-filter
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B000S5TXEQ{{</world>}}

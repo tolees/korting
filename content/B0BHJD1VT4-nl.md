@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Meegeleverd: JBL Bar 500-luidspreker, draadloze subwoofer, afstandsbediening met batterijen, netsnoeren, HDMI-kabel, 2 x muurbeugels, snelstartgids, garantiekaart en veiligheidsblad
-- Breng de bioscoop naar uw woonkamer met de JBL Bar 500 en draadloze subwoofer die gebruikmaakt van Dolby Atmos en MultiBeam-surround sound om een meeslepend 3D-geluid te produceren
 - PureVoice Dialogue Enhancement zorgt ervoor dat u nooit meer een woord mist van uw favoriete series en films, dankzij kristalheldere TV-dialogen naast de surroundeffecten van hoge kwaliteit
+- Breng de bioscoop naar uw woonkamer met de JBL Bar 500 en draadloze subwoofer die gebruikmaakt van Dolby Atmos en MultiBeam-surround sound om een meeslepend 3D-geluid te produceren
 - Ontdek al uw favoriete audio-content; stream muziek, radio en podcasts direct in high definition vanaf elke plek in huis via de voorgeïnstalleerde AirPlay, Alexa Multi-Room Music en Chromecast
 - 590 watt vermogen en een 10 inch draadloze subwoofer zorgen voor een voelbare bas zodat u volledig in uw film- of muziekbeleving wordt ondergedompeld
 

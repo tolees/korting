@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Het product wordt niet in een doos verzonden. Deze moet apart worden gekocht
 - De bedelhouder kan maximaal drie bedels, bedelhangers of hangers bevatten
 - Personaliseer je tas met de Pandora Moments Kleine tashanger
 - Verfraai je look en tas met een stijlvolle bedelhouder die je favoriete kleding draagt en laat zien wie je bent
-- Het product wordt niet in een doos verzonden. Deze moet apart worden gekocht
 - Deze tashanger van sterling zilver is met de hand afgewerkt en heeft een kleine karabijnsluiting en buigringen met het legendarische slangenkettingpatroon van Pandora
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Gewicht:
+- Materiaalsamenstelling:
 - 90% katoen, 7% elastomultiester en 3% elastaan
 - 11,25 oz
-- Materiaalsamenstelling:
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0B8T96NK5{{</world>}}

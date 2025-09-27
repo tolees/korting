@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Zoals alle hoesjes van Apple is ook dit model duizenden uren getest, zowel tijdens de ontwerpfase als het fabricageproces. Het ziet er daarom niet alleen fantastisch uit, maar beschermt je iPhone ook tegen krassen en vallen.
 - Dankzij de ingebouwde magneten die perfect matchen met iPhone 12 | 12 Pro is koppelen een kwestie van klik en klaar. Dankzij de magneten zit je iPhone direct goed op zijn plek, zodat je ’m snel en eenvoudig kunt opladen. Als het tijd is om op te laden, dan kun je het hoesje gewoon om je iPhone laten zitten en je MagSafe-oplader eraan vastklikken of je iPhone op je Qi-oplader plaatsen.
 - Aan de buitenkant voelt de afwerking van silicone heel prettig aan. En aan de binnenkant zorgt microvezel voor een goede bescherming.
+- Zoals alle hoesjes van Apple is ook dit model duizenden uren getest, zowel tijdens de ontwerpfase als het fabricageproces. Het ziet er daarom niet alleen fantastisch uit, maar beschermt je iPhone ook tegen krassen en vallen.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08L5P4N9Q{{</world>}}

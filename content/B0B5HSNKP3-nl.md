@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Dankzij de verbindingspunten kun je de baan aan andere baansets koppelen voor nog meer race- en stuntplezier.
-- De set kan in elkaar worden geklapt en zo gemakkelijk worden opgeborgen.
-- Bij de ene route scheurt de auto door een draaiende 8-figuur, terwijl de andere route via een U-vormige buitenbaan loopt, met 2 stuntsprongen halverwege de baan.
 - Kies uit twee verschillende routes - elk met eigen unieke uitdagingen - om te racen en te stunten in de Hot Wheels Actie verticale 8-baanset.
 - Pas de wissel aan voordat je de lanceerder laadt en de meegeleverde Hot Wheels auto de baan op stuurt die meer dan 60 cm hoog is.
+- De set kan in elkaar worden geklapt en zo gemakkelijk worden opgeborgen.
+- Dankzij de verbindingspunten kun je de baan aan andere baansets koppelen voor nog meer race- en stuntplezier.
+- Bij de ene route scheurt de auto door een draaiende 8-figuur, terwijl de andere route via een U-vormige buitenbaan loopt, met 2 stuntsprongen halverwege de baan.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0B5HSNKP3{{</world>}}

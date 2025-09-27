@@ -30,8 +30,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Essential data tracking in the outdoor activity - Inzicht in persoonlijke prestaties en progressie
 - Seamless Connectivity - Naadloze Connectivity
-- Strong watch around your wrist - Kast uit titanium, IP68 gecertificeerd, waterbestendig tot 5 ATM en 2x sterker saffierglas dan de Watch4
 - Go Pro - Optimale workouts met geavanceerde index- en intervaltraining, geïntegreerde GPS, geïntegreerde zuurstofmeting en Bio Electrical Impedance Analysis (BIA) die je spiermassa/vetmassa/lichaamsvocht meet
+- Strong watch around your wrist - Kast uit titanium, IP68 gecertificeerd, waterbestendig tot 5 ATM en 2x sterker saffierglas dan de Watch4
 - Most durable & powerful performance - Duurzamer en krachtiger dan ooit
 
 [🛒 Buy it!!]({{< param buyurl >}})

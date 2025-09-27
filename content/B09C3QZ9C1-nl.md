@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Doe je slimme lampen aan en uit of dim ze snel van helder licht naar het subtiele lichtniveau van een nachtlampje
-- Verlichting voor elk moment van de dag met vier voorgeprogrammeerde lichtrecepten en de juiste kleur en temperatuur voor optimale verlichting bij alles wat je doet
-- Koppel met Amazon Alexa of de Google Assistent om de lamp te bedienen met eenvoudige spraakopdrachten
 - De Philips Hue dimmer switch is ook zonder kabel klaar voor gebruik, zodat jij het maximale uit je dagelijkse routines kan halen met de bestaande lichtrecepten Ontspannen, Lezen, Concentreren of Energie
+- Koppel met Amazon Alexa of de Google Assistent om de lamp te bedienen met eenvoudige spraakopdrachten
 - Voeg tot wel 10 slimme lampen toe en bedien ze met één druk op knop in de Hue app
+- Verlichting voor elk moment van de dag met vier voorgeprogrammeerde lichtrecepten en de juiste kleur en temperatuur voor optimale verlichting bij alles wat je doet
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09C3QZ9C1{{</world>}}

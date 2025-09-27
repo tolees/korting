@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Zoolmateriaal: Rubber
 - Schoenbreedte: normaal
 - Bovenmateriaal: leer
-- Zoolmateriaal: Rubber
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09NMFQ8C6{{</world>}}

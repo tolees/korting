@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 4G standaard: LTE
-- Soort antenne: Intern TS-9
-- 3G standaarden: WCDMA
 - Draagbaar Router voor mobiele netwerken
+- Soort antenne: Intern TS-9
+- 4G standaard: LTE
+- 3G standaarden: WCDMA
 - Ethernet LAN Wifi
 - Zwart
 
