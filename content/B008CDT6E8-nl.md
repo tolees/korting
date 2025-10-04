@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Zachte, lichte fleece voor dames om je warm te houden tijdens je avonturen in de buitenlucht; geschikt voor alle seizoenen
 - Optimaal comfort dankzij de verstelbare zoom met trekkoord
-- Inhoud: 1x Columbia Fast Trek II jack voor dames; 100% polyester microfleece; kleur: zwart; maat: M; art.nr. 1465351
 - Verkrijgbaar in diverse kleuren; ideaal voor dagelijks gebruik
 - De ritszakken houden je handen warm en je kunt je waardevolle spullen, zoals smartphones, enz. veilig opbergen
+- Zachte, lichte fleece voor dames om je warm te houden tijdens je avonturen in de buitenlucht; geschikt voor alle seizoenen
+- Inhoud: 1x Columbia Fast Trek II jack voor dames; 100% polyester microfleece; kleur: zwart; maat: M; art.nr. 1465351
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B008CDT6E8{{</world>}}

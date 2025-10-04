@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kleur: Bruin
 - Voering: 100% kalfsleer
-- Bovenwerk: leer (kalfsleer)
 - 360º gestikt voor duurzaamheid
+- Kleur: Bruin
 - Buitenzool/Kenmerken: Rubber voor buitengewone grip
+- Bovenwerk: leer (kalfsleer)
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B00MXVS50G{{</world>}}

@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Shadow the Hedgehog is terug met de klassieke én moderne Sonic in Sonic X Shadow Generations
-- Sonic X Shadow Generations bevat een complete remaster van de veelgeprezen game Sonic Generations
 - Speel als Shadow in een gloednieuw verhaal en met nog nooit eerder geziene vaardigheden
+- Sonic X Shadow Generations bevat een complete remaster van de veelgeprezen game Sonic Generations
+- Shadow the Hedgehog is terug met de klassieke én moderne Sonic in Sonic X Shadow Generations
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0D6N8MWZT{{</world>}}

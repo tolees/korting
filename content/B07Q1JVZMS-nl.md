@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - De figuur is 9 cm groot en wordt geleverd in een geïllustreerde vensterbox
-- Funko POP! is het speelgoed van het jaar 2018.
 - Bekijk nu de andere My Hero Academia-figuren van Funko! Verzamel allemaal.
+- Funko POP! is het speelgoed van het jaar 2018.
 - Van My Hero Academia, Deku w / Helmet, voor gestileerde POP-vinyl figuur van Funko!
 
 [🛒 Buy it now!!]({{< param buyurl >}})

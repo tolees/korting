@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 2-weg audio: houd met de ingebouwde microfoon en luidspreker eenvoudig een storingsvrij en duidelijk gesprek met je baby of huisdier.
-- Bewegingsdetectie en alarm: als de binnencamera een bewegend object detecteert, is hij intelligent genoeg om zijn beweging automatisch te volgen en je te waarschuwen.
 - FHD 1080P & Pan/Tilt 360°: deze draadloze bewakingscamera registreert elk detail met een resolutie van 1080p. Horizontale beweging tot 340° en verticale beweging tot 55° biedt een brede dekking.
+- 2-weg audio: houd met de ingebouwde microfoon en luidspreker eenvoudig een storingsvrij en duidelijk gesprek met je baby of huisdier.
 - Veilige en flexibele opslag: Je kunt de opnames in EZVIZ Cloud opslaan. Micro-SD-kaart tot 256 GB wordt ook ondersteund (niet meegeleverd).
 - IR nachtzicht en privacybescherming: ook s nachts kan de draadloze bewakingscamera een zichtafstand van tot 10 meter weergeven. Voor extra bescherming van de privacy kun je de slaapmodus van de camera op elk moment activeren in de EZVIZ-app.
+- Bewegingsdetectie en alarm: als de binnencamera een bewegend object detecteert, is hij intelligent genoeg om zijn beweging automatisch te volgen en je te waarschuwen.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B096Z9WH8T{{</world>}}

@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- van het merk puma
 - voor elke gelegenheid
 - perfect voor mannen en vrouwen
-- van het merk puma
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B097CBNXYF{{</world>}}

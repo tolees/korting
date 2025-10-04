@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Gemakkelijk te dragen, voor ongeëvenaard comfort.
 - Hakhoogte: 3,5 cm
-- Gemakkelijk aan te trekken met een ritssluiting
 - De gepatenteerde Geox-systemen garanderen de ademende werking van de buitenzool, zodat de voet comfortabel blijft.
+- Gemakkelijk aan te trekken met een ritssluiting
+- Gemakkelijk te dragen, voor ongeëvenaard comfort.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0792FKCVR{{</world>}}

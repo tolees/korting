@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Buitenzool/Kenmerken: Rubber voor buitengewone grip
-- Voering: 100% kalfsleer
 - Kleur: Bruin
+- Buitenzool/Kenmerken: Rubber voor buitengewone grip
 - Bovenwerk: leer (kalfsleer)
+- Voering: 100% kalfsleer
 - 360º gestikt voor duurzaamheid
 
 [🛒 Check the deal!!]({{< param buyurl >}})

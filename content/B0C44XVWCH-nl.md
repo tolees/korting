@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- De gelikte, industriële vormgeving van de uitbreidingskaart zorgt voor de fraaie uitstraling waar WD_BLACK bekend om staat en past perfect bij jouw Xbox-console.
-- De WD_BLACK C50 uitbreidingskaart werkt via plug-and-play en je games zijn direct speelbaar.
-- De officieel gelicentieerde WD_BLACK C50-uitbreidingskaart voor Xbox is de snelle en gemakkelijke manier om je Xbox Series X|S een flinke capaciteitsimpuls te geven.
-- Terwijl de omvang van gamebestanden toeneemt, kun je met capaciteiten van 1 TB meer moderne titels geïnstalleerd en speelklaar houden
 - De maakt gebruik van de Xbox Velocity Architecture en levert prestaties die vergelijkbaar zijn met die van de interne opslag van je Xbox Series X|S om een naadloze ervaring met je games te bieden.
+- De gelikte, industriële vormgeving van de uitbreidingskaart zorgt voor de fraaie uitstraling waar WD_BLACK bekend om staat en past perfect bij jouw Xbox-console.
+- Terwijl de omvang van gamebestanden toeneemt, kun je met capaciteiten van 1 TB meer moderne titels geïnstalleerd en speelklaar houden
+- De officieel gelicentieerde WD_BLACK C50-uitbreidingskaart voor Xbox is de snelle en gemakkelijke manier om je Xbox Series X|S een flinke capaciteitsimpuls te geven.
+- De WD_BLACK C50 uitbreidingskaart werkt via plug-and-play en je games zijn direct speelbaar.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0C44XVWCH{{</world>}}

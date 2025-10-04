@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kids vanaf 3 jaar en verzamelaars houden vooral van de realistische details en de geweldige kenmerken van zowel nieuwe als retrovoertuigen, of ze er nu mee spelen of in een vitrine bewonderen.
-- Met nieuwe Hot Wheels modellen en carrosserieën valt er steeds opnieuw genoeg te verzamelen.
-- Dit premium assortiment bevat een scala aan speciale categorieën en themas die zowel kinderen als verzamelaars boeiend vinden.
-- Autoliefhebbers vinden een briljante collectie wereldberoemde autos die ze aan hun verzameling kunnen toevoegen.
 - De Hot Wheels collectie Autocultuur Circuitlegendes omvat fantastische autos op schaal 1:64, met realistisch koetswerk en authentieke details.
+- Met nieuwe Hot Wheels modellen en carrosserieën valt er steeds opnieuw genoeg te verzamelen.
+- Kids vanaf 3 jaar en verzamelaars houden vooral van de realistische details en de geweldige kenmerken van zowel nieuwe als retrovoertuigen, of ze er nu mee spelen of in een vitrine bewonderen.
+- Autoliefhebbers vinden een briljante collectie wereldberoemde autos die ze aan hun verzameling kunnen toevoegen.
+- Dit premium assortiment bevat een scala aan speciale categorieën en themas die zowel kinderen als verzamelaars boeiend vinden.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CNX93J3Q{{</world>}}

@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Modern ontwerp
 - Hoogwaardige materialen: Zorgt voor duurzaamheid en een lange levensduur
+- Modern ontwerp
 - Elegante vakmanschap: Zorgvuldig ontworpen voor een verfijnde uitstraling
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Technische gegevens 220-240 V | 2000-2400 W | 50/60Hz |
 - Bespaart tot 70% energie door 1 kop (235 ml) in plaats van 1 liter om te koken - met behulp van de drukkookzone kunt u precies zien hoeveel water er nodig is en overmatig energieverbruik vermijden
+- Verwijderbaar antikalkfilter, 360° draaibare basis, ideaal voor links- en rechtshandige gebruikers, bescherming tegen droge/oververhitting
 - Perfect Pour schenktuit voor druppelvrij gieten
 - Licht op in twee kleuren: blauw in stand-by, rood tijdens het koken; externe waterniveau-indicator; verlichte aan/uit-knop
-- Verwijderbaar antikalkfilter, 360° draaibare basis, ideaal voor links- en rechtshandige gebruikers, bescherming tegen droge/oververhitting
+- Technische gegevens 220-240 V | 2000-2400 W | 50/60Hz |
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01B0YT0E6{{</world>}}

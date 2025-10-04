@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Universeel compatibel: wereldwijd gecertificeerd: past perfect bij Creality, Prusa, Bambu Lab en gangbare desktop3D-printers (1,75 mm diameter). 100% tevredenheidsgarantie, batch kwaliteitscontrole door spoeltracking technologie
-- Duurzaam en gebruiksvriendelijk | Klassieke PETG-voordelen verbeterd: gecombineerde slagvastheid (hoger dan PLA) en hittebestendigheid (tot 80 °C)​ – ideaal voor mechanische componenten. Luchtdicht vacuüm verpakt voor eenvoudige opslag, direct klaar voor gebruik zonder voordrogen
+- JAYO PETG-filament met hoge snelheid: tot 600 mm/s druksnelheid: speciaal ontwikkeld voor snelle prototyping: ons matte PETG-filament is bestand tegen extrusiesnelheden tot 600 mm/s, zonder de hechting van de laag te beïnvloeden. Ideaal voor hoogdoorvoersproeiers en tijdkritische projecten, vermindert de printtijd met 40% in vergelijking met standaard PETG
 - Ultraglad matoppervlak | verborgen laaglijn: geen meer malen meer. De unieke matte textuur verbergt gelaagde lijnen en levert professionele oppervlaktekwaliteit rechtstreeks van de printer. Perfect voor tentoonstellingsmodellen, functionele onderdelen en cosplay-rekwisieten met premium eisen
 - Materiaalbesparende opdruk: nauwelijks draadtrekken en verstoppingen: geoptimaliseerde viscositeit en droogtechnologie garanderen bijna nul draadtrekken, zelfs bij hoge temperaturen. Compatibel met Bowden- en Direct-Drive-systemen, garandeert een gelijkmatige materiaalstroom, ook bij complexe printen, zonder verstopping van de sproeier
-- JAYO PETG-filament met hoge snelheid: tot 600 mm/s druksnelheid: speciaal ontwikkeld voor snelle prototyping: ons matte PETG-filament is bestand tegen extrusiesnelheden tot 600 mm/s, zonder de hechting van de laag te beïnvloeden. Ideaal voor hoogdoorvoersproeiers en tijdkritische projecten, vermindert de printtijd met 40% in vergelijking met standaard PETG
+- Duurzaam en gebruiksvriendelijk | Klassieke PETG-voordelen verbeterd: gecombineerde slagvastheid (hoger dan PLA) en hittebestendigheid (tot 80 °C)​ – ideaal voor mechanische componenten. Luchtdicht vacuüm verpakt voor eenvoudige opslag, direct klaar voor gebruik zonder voordrogen
+- Universeel compatibel: wereldwijd gecertificeerd: past perfect bij Creality, Prusa, Bambu Lab en gangbare desktop3D-printers (1,75 mm diameter). 100% tevredenheidsgarantie, batch kwaliteitscontrole door spoeltracking technologie
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DSVYJ4G4{{</world>}}

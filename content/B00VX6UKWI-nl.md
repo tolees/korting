@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- 24 -uur fundering + behandeling voor normale droge huid en intense hydratatie.
+- Kies uw kleur uit de beschikbare kleuren, voor een perfecte teint gedurende de dag!
 - Toepassing: pas deze achtergrond toe met uw vingers of de achtergrondborstel van uw keuze. Plaats punten op de wangen, kin, voorhoofd en neus en vervaag het materiaal dat begint met het midden van het gezicht. Glad het materiaal door cirkelvormige bewegingen te maken totdat je de gewenste afwerking krijgt. Aarzel niet om het product opnieuw aan te vragen in de gebieden waar u meer dekking wilt.
 - Houd er rekening mee dat u een of de andere van de verpakking kunt ontvangen die in de tweede afbeelding van deze productpagina verschijnt.
-- Kies uw kleur uit de beschikbare kleuren, voor een perfecte teint gedurende de dag!
-- 24 -uur fundering + behandeling voor normale droge huid en intense hydratatie.
 - De lichte, olie -vrije en parfumvrije formule, is nu meer verrijkt met hyaluronzuur, waardoor je 24 uur intense hydratatie biedt Resultaat: 122% meer gehydrateerde huid en een lange weerstand die bestand is tegen alle tests (vocht, warmte, transpiratie).
 
 [🛒 Check the deal!!]({{< param buyurl >}})

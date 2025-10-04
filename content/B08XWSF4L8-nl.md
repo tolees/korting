@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Lichtgewicht schoenen voor comfortabel lopen de hele dag door
-- Het ademend vermogen van de loopzool en een goed gevoel op de voet garanderen Geox-gepatenteerde systemen
 - Vetersluiting voor een gemakkelijk verstelbare pasvorm
+- Het ademend vermogen van de loopzool en een goed gevoel op de voet garanderen Geox-gepatenteerde systemen
+- Lichtgewicht schoenen voor comfortabel lopen de hele dag door
 - Onveranderd comfort door het Zero Shock-systeem met schokabsorberende kogels, die de dempende werking versterken en schokken en stoten opvangen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

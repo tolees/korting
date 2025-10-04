@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Flexibele zool.
 - Aangenaam zachte binnenvoering
+- Flexibele zool.
 - Geox-patent voor ademend vermogen in de schoen.
 
 [🛒 Buy it!!]({{< param buyurl >}})

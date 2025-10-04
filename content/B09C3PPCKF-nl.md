@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Koppel met Amazon Alexa of de Google Assistent om de lamp te bedienen met eenvoudige spraakopdrachten
+- Voeg tot wel 10 slimme lampen toe en bedien ze met één druk op knop in de Hue app
 - Laat in een enkele lamp verschillende kleuren verlichting op hetzelfde moment in elkaar overlopen voor verlichting met een uniek effect
 - Bepaal de sfeer met kleur voor elke gelgenheid: verander elke kamer voor een meeslepende entertainmentervaring, creëer de perfecte sfeer voor een onderonsje met vrienden of maak je interieur compleet
-- Voeg tot wel 10 slimme lampen toe en bedien ze met één druk op knop in de Hue app
-- Koppel met Amazon Alexa of de Google Assistent om de lamp te bedienen met eenvoudige spraakopdrachten
 - Dynamische lichtscenes: maak speciale momenten echt onvergetelijk met flexibele verlichting
 
 [🛒 Check the deal!!]({{< param buyurl >}})

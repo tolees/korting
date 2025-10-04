@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Efficiënt opladen: Upgrade uw camper met de acegoo 12V USB-uitgang met PD3.0 Type-C en QC 3.0 USB-A-poorten. Elke poort levert tot 24W vermogen, zodat u uw apparaten tot 4x sneller kunt opladen
 - Uitstekende klantenservice: Acegoo biedt 24-uurs klantenondersteuning en een tevredenheidsgarantie van 30 dagen, waardoor alle klanten een zorgeloze winkelervaring hebben. Als u niet tevreden bent met deze snellaadbare autolader, neem dan gerust contact met ons op via e-mail. We staan altijd klaar om te helpen
-- Aluminium behuizing: De Acegoo Motorhome USB-uitgang is gemaakt van duurzaam aluminium en biedt een superieure warmteafvoer en een lange levensduur in vergelijking met plastic alternatieven. Uitgerust met intelligente beveiligingschips en ingebouwde zekeringen, zorgt het voor uitgebreide veiligheid voor uw apparaten, zodat u zorgeloos kunt reizen
+- Efficiënt opladen: Upgrade uw camper met de acegoo 12V USB-uitgang met PD3.0 Type-C en QC 3.0 USB-A-poorten. Elke poort levert tot 24W vermogen, zodat u uw apparaten tot 4x sneller kunt opladen
 - Brede compatibiliteit: Past op alle 12-24VDC-voertuigen. Deze USB-A & USB-C autolader is compatibel met alle iOS/Android apparaten. De dubbele poorten maken het mogelijk om twee apparaten tegelijkertijd op maximale snelheid op te laden, dankzij de innovatieve intelligente DC-adaptieve technologie die automatisch zorgt voor het snelste opladen van uw apparaat
+- Aluminium behuizing: De Acegoo Motorhome USB-uitgang is gemaakt van duurzaam aluminium en biedt een superieure warmteafvoer en een lange levensduur in vergelijking met plastic alternatieven. Uitgerust met intelligente beveiligingschips en ingebouwde zekeringen, zorgt het voor uitgebreide veiligheid voor uw apparaten, zodat u zorgeloos kunt reizen
 - Eenvoudige installatie: diameter 22 mm, we bieden twee verschillende soorten producten aan die u kunt aanpassen aan uw ontwerp. onze Camper USB-uitgang is ontworpen voor eenvoudige installatie. De verzonken houder past op vlakke oppervlakken en heeft slechts een gat van 22 mm nodig voor de bedrading. Er zijn zowel schroef- als moerinstallatie-opties beschikbaar, zodat ze veilig en naadloos in uw camper, boot of auto-installatie passen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

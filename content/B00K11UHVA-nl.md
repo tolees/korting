@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Superklein gebruik, eenvoudig aan het stopcontact te bevestigen; zendvermogen maximaal: 20 dBm
-- LAN-poort voor het verbinden van bekabelde netwerkapparaten zoals Blu-ray-spelers, spelconsoles, tvs enz; in een WLAN; bedrijfsvochtigheid: 10% ~ 90%, niet-condenserend
-- Externe antennes zorgen voor een nog betere dekking
 - Eenvoudige wifi-uitbreiding door druk op de range extension-knop; bedrijfstemperatuur: 0 °C ~ 40 °C; bewaartemperatuur: -40 tot 70 graden Celsius
+- Superklein gebruik, eenvoudig aan het stopcontact te bevestigen; zendvermogen maximaal: 20 dBm
+- Externe antennes zorgen voor een nog betere dekking
+- LAN-poort voor het verbinden van bekabelde netwerkapparaten zoals Blu-ray-spelers, spelconsoles, tvs enz; in een WLAN; bedrijfsvochtigheid: 10% ~ 90%, niet-condenserend
 - Inhoud: TP-Link TL-WA860RE, snelstartgids (mogelijk niet beschikbaar in het Nederlands)
 
 [🛒 Buy it now!!]({{< param buyurl >}})

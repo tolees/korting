@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Neodymiummagneten met hoge energie zorgen voor een krachtig geluid
 - Dome drivers van 30 mm voor gebalanceerd geluid
-- Keuze van kleuren die bij jouw stijl passen
-- Frequentiebereik 12-22 kHz
-- Koptelefoons werken alleen met apparaten met een aux-aansluiting.
+- Neodymiummagneten met hoge energie zorgen voor een krachtig geluid
 - Gewatteerde oorschelpen voor comfortabel luisteren
+- Frequentiebereik 12-22 kHz
+- Keuze van kleuren die bij jouw stijl passen
+- Koptelefoons werken alleen met apparaten met een aux-aansluiting.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00NBR705M{{</world>}}

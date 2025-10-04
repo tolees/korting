@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - VELE COMBINATIEMOGELIJKHEDEN: Verschillende kopjes, borden, schaaltjes en serveerborden completeren de omvangrijke serviescollectie van like. by Villeroy & Boch.
-- ELK SCHAALTJE EEN UNICAAT: Een speciaal glazuur zorgt voor verschillende kleurnuances die elk artikel van de Lavecollectie echt uniek maken.
-- INHOUD: 1 x Lave gris dipschaaltje 10x10x6cm, materiaal: aardewerk, kleur: grijs (art.nr.: 1042593822)
 - PERFECT CADEAUIDEE: Met het unieke potterykarakter en de elegante look is het grijze Lave dipschaaltje echt iets voor stijlvolle genieters en Scandinaviëfans.
 - BESTE MATERIAAL VOOR STIJLVOL GENIETEN: Het hoogwaardige aardewerk zet lekkernijen in de schijnwerpers en ligt bovendien heerlijk in de hand. Magnetronbestendig en vaatwasmachinebestendig.
+- ELK SCHAALTJE EEN UNICAAT: Een speciaal glazuur zorgt voor verschillende kleurnuances die elk artikel van de Lavecollectie echt uniek maken.
+- INHOUD: 1 x Lave gris dipschaaltje 10x10x6cm, materiaal: aardewerk, kleur: grijs (art.nr.: 1042593822)
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BS41ZMRN{{</world>}}

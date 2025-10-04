@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- bloemig
-- 100 ml Eau de Toilette (EdT) spray
-- Geurnoten: hout
-- muskus
 - De flacon heeft een sterke expressiviteit en is ondergedompeld in parelwit
+- 100 ml Eau de Toilette (EdT) spray
+- muskus
+- bloemig
+- Geurnoten: hout
 - Een prachtige en heldere damesgeur voor een temperamentvolle vrouw
 
 [🛒 Check the deal!!]({{< param buyurl >}})

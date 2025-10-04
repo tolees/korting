@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Binnenshuis
 - Kinderen
+- Binnenshuis
 - Puzzel
 
 [🛒 Check the deal!!]({{< param buyurl >}})

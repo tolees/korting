@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - DE ULTIEME LEGO RIJERVARING
-- ONTGRENDEL JE CREATIVITEIT
 - OPEN WERELD ONTDEKKING
-- RACE OM DE SKY TROFEE
+- ONTGRENDEL JE CREATIVITEIT
 - SPEEL SAMEN THUIS EN ONLINE
+- RACE OM DE SKY TROFEE
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BZPD1WST{{</world>}}

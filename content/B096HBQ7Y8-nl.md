@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Teken om de beurt fotos met de fantastische replica van Harry Potters toverstaf, terwijl teamgenoten raden welke afbeeldingen op het scherm verschijnen. Het team dat de meeste punten scoort, wint het Pictionary-spel!
 - Pictionary Air Harry Potter is perfect voor een actieve magische familiespelavond!
 - Games kunnen ook op een tv worden uitgezonden met Apple TV, Chromecast of andere streamingapparaten (kijk op de ondersteuningspagina van Pictionary Air voor volledige compatibiliteit).
 - Download gewoon de gratis Pictionary Air-app, richt de camera in de app op de illustrator en de schets verschijnt op het scherm van het smartapparaat.
-- Kies een Hogwarts-huis om voor te spelen (Griffoendor, Huffelpuf, Zwadderich of Ravenklau) en pak dan een van de speciale aanwijzingskaarten geïnspireerd door de Tovenaarswereld om aan de slag te gaan!
+- Teken om de beurt fotos met de fantastische replica van Harry Potters toverstaf, terwijl teamgenoten raden welke afbeeldingen op het scherm verschijnen. Het team dat de meeste punten scoort, wint het Pictionary-spel!
 - Pictionary Air Harry Potter is een magisch cadeau voor alle leeftijden 8+ die houden van Harry Potter-spellen en tekenplezier met het hele gezin
+- Kies een Hogwarts-huis om voor te spelen (Griffoendor, Huffelpuf, Zwadderich of Ravenklau) en pak dan een van de speciale aanwijzingskaarten geïnspireerd door de Tovenaarswereld om aan de slag te gaan!
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B096HBQ7Y8{{</world>}}

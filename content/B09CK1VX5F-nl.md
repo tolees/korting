@@ -29,13 +29,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Plaats de Outdoor Camera Pro op een vlakke ondergrond als je meer bewegingsruimte wil, of bevestig deze aan een muur buiten je huis voor ononderbroken buitenbeveiliging.
-- Zie en hoor nog beter wat er gebeurt met de geavanceerde scherpte van 1080p HDR-weergave en tweerichtingsspraak met Audio+.
-- Geef aan wanneer en waar een bewegingsgebeurtenis begint in een luchtkaartweergave met 3D-bewegingsdetectie, vogelperspectief en zones voor zicht vanuit vogelperspectief.
-- Outdoor Camera Pro (Stick Up Cam Pro) is een beveiligingscamera voor buiten met 1080p HDR-weergave, tweerichtingsspraak met audio+, 3D-bewegingsdetectie, vogelperspectiefzicht en dualband-wifi.
 - Wordt aangesloten op een standaard stopcontact en kan zelf worden geïnstalleerd buiten je woning.
-- Bewaak je paden, tuinen en meer door verbinding te maken met andere Ring-apparaten als betaalbaar alternatief voor een traditioneel CCTV-systeem. Abonnement afzonderlijk verkrijgbaar.
 - Met nachtzicht in kleur kun je dag en nacht in levendige kleuren zien wat er buiten je huis gebeurt.
+- Outdoor Camera Pro (Stick Up Cam Pro) is een beveiligingscamera voor buiten met 1080p HDR-weergave, tweerichtingsspraak met audio+, 3D-bewegingsdetectie, vogelperspectiefzicht en dualband-wifi.
+- Geef aan wanneer en waar een bewegingsgebeurtenis begint in een luchtkaartweergave met 3D-bewegingsdetectie, vogelperspectief en zones voor zicht vanuit vogelperspectief.
+- Bewaak je paden, tuinen en meer door verbinding te maken met andere Ring-apparaten als betaalbaar alternatief voor een traditioneel CCTV-systeem. Abonnement afzonderlijk verkrijgbaar.
 - Functies zoals Directe meldingen, Livebeeld, en Tweerichtingsspraak zijn standaard en zonder extra kosten bij alle compatibele Ring-apparaten. Voeg een Ring Protect-abonnement (afzonderlijk verkrijgbaar) toe om gemiste momenten op te nemen, te bekijken en te delen. Gratis proefperiode van 30 dagen is bij je aankoop inbegrepen.
+- Zie en hoor nog beter wat er gebeurt met de geavanceerde scherpte van 1080p HDR-weergave en tweerichtingsspraak met Audio+.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09CK1VX5F{{</world>}}

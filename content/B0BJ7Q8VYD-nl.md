@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- PERFECT GIFT VOOR COMIC BOOKS FANS - Ideaal voor liefhebbers van strips, films en series. Deze verzamelbare Bitty Pops! brengen spanning en plezier bij elke gelegenheid en zijn aantrekkelijk voor zowel kinderen als volwassenen.
-- VERSATILE PARTY ESSENTIALS - Gebruik als feestzakvullers voor kinderen, kerstkousverrassingen en in het oog springende taarttoppers, die een speciaal tintje geven aan verjaardagen en evenementen.
-- MYSTERY MINI FIGURE - Kans dat je een No Match Found uit de doos haalt; omarm de spanning van het verzamelen van unieke minifiguren.
 - KLEINE, DETAILED COLLECTIBLES - Geniet van 2,3 cm (0,9 inch) officieel gelicentieerde merchandise van DC Comics; Waarschuwing: niet voor kinderen onder de 3 jaar, verstikkingsgevaar.
+- VERSATILE PARTY ESSENTIALS - Gebruik als feestzakvullers voor kinderen, kerstkousverrassingen en in het oog springende taarttoppers, die een speciaal tintje geven aan verjaardagen en evenementen.
+- PERFECT GIFT VOOR COMIC BOOKS FANS - Ideaal voor liefhebbers van strips, films en series. Deze verzamelbare Bitty Pops! brengen spanning en plezier bij elke gelegenheid en zijn aantrekkelijk voor zowel kinderen als volwassenen.
+- MYSTERY MINI FIGURE - Kans dat je een No Match Found uit de doos haalt; omarm de spanning van het verzamelen van unieke minifiguren.
 - CAPTIVATING CAKE TOPPERS - transformeer je speciale momenten door ze te gebruiken als opvallende taarttopper. Ze zijn perfect voor verjaardagen en speciale evenementen en maken elke gelegenheid magisch en gedenkwaardig voor zowel kinderen als volwassenen.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

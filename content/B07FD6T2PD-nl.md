@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - ☀ Geschikt voor alle decoratie: deze prachtige lichtketting brandt s nachts en zorgt voor een warme en betoverende sfeer op je tuin, balkon, terras, poort, binnenplaats, bruiloft, feest, slaapkamer, enz. Ideaal voor Kerstmis, Pasen en andere evenementen en feestdagen.
-- ☀ BIEGSAM & WATERDICHT: Van dun en buigzaam koper, kan gemakkelijk in elke gewenste vorm worden gebogen. De lichtkettingen en het zonnepaneel zijn IP44 waterdicht, zodat het zowel binnen als buiten kan worden gebruikt.
 - ☀ Automatisch aan of uit: de geïntegreerde oplaadbare 1000 mA Ni-MH batterij schakelt overdag automatisch uit om zonlicht op te nemen en schakelt bij schemering automatisch aan. Zorg ervoor dat de accu volledig is opgeladen voordat je hem gebruikt.
-- ☀BRIZLABS GARANTIE: betrouwbare en professionele verkoopservice binnen 24 uur, 30 dagen geldteruggarantie en 1 jaar fabrieksgarantie. Als je vragen hebt, aarzel dan niet om ons te mailen! Opmerking: Bij bewolking of winter, leidt te weinig zonlicht tot langere oplaadtijden en kortere werktijden. Het is een gemeenschappelijk kenmerk van zonnepanelen.
 - ☀ Lichtketting op zonne-energie: geen batterij of draad nodig, deze lichtketting op zonne-energie slechts 6 tot 8 uur opladen en kan s nachts 8 tot 14 uur werken. De lichtketting op zonne-energie moet direct genoeg zonlicht absorberen om te kunnen werken. Zo niet, werkt het niet goed.
+- ☀BRIZLABS GARANTIE: betrouwbare en professionele verkoopservice binnen 24 uur, 30 dagen geldteruggarantie en 1 jaar fabrieksgarantie. Als je vragen hebt, aarzel dan niet om ons te mailen! Opmerking: Bij bewolking of winter, leidt te weinig zonlicht tot langere oplaadtijden en kortere werktijden. Het is een gemeenschappelijk kenmerk van zonnepanelen.
+- ☀ BIEGSAM & WATERDICHT: Van dun en buigzaam koper, kan gemakkelijk in elke gewenste vorm worden gebogen. De lichtkettingen en het zonnepaneel zijn IP44 waterdicht, zodat het zowel binnen als buiten kan worden gebruikt.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07FD6T2PD{{</world>}}

@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 【Heat Resistance & Low Odor】: Vergeleken met de vorige ABS, eSUN ABS +HS heeft een betere hittebestendigheid en warmtevervorming temperatuur van maximaal 89 ℃, waardoor het meer geschikt voor hoge-temperatuur scenarios. Het bevat geen vluchtige VOC-componenten en heeft dus ook minder geur tijdens het printen.
-- 【High Speed Printing】: eSUN ABS +HS, met een betere snelheid printprestaties, is vooral compatibel met high speed printers, zoals zoals AnkerMake M5, Bambu Lab X1 / P1P, Creality K1 / K1 MAX, Flsun V400, Raise3D Pro3 / RMF500, enz.
 - 【Toepasselijke scenarios】: eSUN ABS +HS kan worden toegepast op verschillende gebieden, zoals machines, mallen, speelgoed, autos, elektronische apparaten, enz. En als ABS-materiaal heeft het een goede taaiheid en evenwichtige mechanische eigenschappen, waardoor het geschikt is voor structureel printen.
-- 【Surface Polishing】: eSUN ABS+HS is geschikt voor mensen die hun prints willen polijsten. In tegenstelling tot ABS+ kan eABS+HS gepolijst worden met aceton om de korrel van de oppervlaktelaag op te lossen voor chemisch polijsten.
 - 【Gewijzigd ABS+HS Filament】: Verbeterd op basis van het ABS materiaal, eSUN ABS +HS heeft minder krimp en een betere interlayer bonding dan gewone ABS materiaal, dus het geprinte model heeft een hogere interlayer sterkte en is minder gevoelig voor scheuren in vergelijking met de vorige ABS +.
+- 【Surface Polishing】: eSUN ABS+HS is geschikt voor mensen die hun prints willen polijsten. In tegenstelling tot ABS+ kan eABS+HS gepolijst worden met aceton om de korrel van de oppervlaktelaag op te lossen voor chemisch polijsten.
+- 【High Speed Printing】: eSUN ABS +HS, met een betere snelheid printprestaties, is vooral compatibel met high speed printers, zoals zoals AnkerMake M5, Bambu Lab X1 / P1P, Creality K1 / K1 MAX, Flsun V400, Raise3D Pro3 / RMF500, enz.
+- 【Heat Resistance & Low Odor】: Vergeleken met de vorige ABS, eSUN ABS +HS heeft een betere hittebestendigheid en warmtevervorming temperatuur van maximaal 89 ℃, waardoor het meer geschikt voor hoge-temperatuur scenarios. Het bevat geen vluchtige VOC-componenten en heeft dus ook minder geur tijdens het printen.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CLTVSB87{{</world>}}

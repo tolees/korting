@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Character Creator met veel stijlen en mogelijkheden
-- Kindvriendelijke graphics, muziek en geluidseffecten
 - Meer dan tien gewassen om te planten en te oogsten en meer dan honderd andere voorwerpen
+- Kindvriendelijke graphics, muziek en geluidseffecten
 - Meerdere locaties om te verkennen: Boerderij, schuur, markt & meer
+- Character Creator met veel stijlen en mogelijkheden
 - Huisdieren en wilde dieren om voor te zorgen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

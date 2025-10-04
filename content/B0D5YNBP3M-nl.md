@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Deze moderne, elegante eau de toilette voor dames uit de MEXX Essentials-collectie is perfect voor elke gelegenheid
 - Voor elke dag – passend bij elke versie van jou
+- Deze moderne, elegante eau de toilette voor dames uit de MEXX Essentials-collectie is perfect voor elke gelegenheid
 - De MEXX Woman Eau de Toilette is een bloemige, fruitige geur voor dames met noten van lelietjes-van-dalen en bergamot
 - Dit is een geur met karakter voor de moderne en optimistische vrouw
 

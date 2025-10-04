@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Spraakbesturing: dit wifi-stopcontact werkt met Alexa en Google Home, schakel het Alexa stopcontact met spraakopdrachten in of uit.
 - Timing-functie en scène: stel de tijd in voor het in- of uitschakelen van het bluetooth-stopcontact en het slimme stopcontact werkt automatisch op de vooraf ingestelde tijd. Gebruik de scènefunctie om Meross stopcontacten in groepen te bedienen.
 - Stroomverbruik meten: de Meross-app kan het gemiddelde, maximale en totale stroomverbruik per week, maand of jaar weergeven. Met de app kunnen stroomrekeningen worden bepaald. Voer hiervoor de kosten per kWh in en het totale bedrag wordt weergegeven. Opmerking: deze gegevens zijn alleen ter referentie, de werkelijke elektriciteitskosten zijn onderworpen aan de factuur van uw stroomprovider.
-- ⚡【Offline bediening】Ook als de router van het internet gescheiden is, kun je de Smart Plug verder via de Meross-app bedienen, zolang de Smart Socket en de mobiele telefoon nog met dezelfde wifi zijn verbonden.
 - ⚡【Afstandsbediening】Dit smart stopcontact beschikt over Bluetooth voor een nog snellere en stabielere verbinding. Via de Meross app kan het Smart Home stopcontact overal met een internetverbinding worden aangestuurd. (2,4 GHz netwerk vereist, geen hub nodig)
-- Spraakbesturing: dit wifi-stopcontact werkt met Alexa en Google Home, schakel het Alexa stopcontact met spraakopdrachten in of uit.
+- ⚡【Offline bediening】Ook als de router van het internet gescheiden is, kun je de Smart Plug verder via de Meross-app bedienen, zolang de Smart Socket en de mobiele telefoon nog met dezelfde wifi zijn verbonden.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BCG2VF42{{</world>}}

@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Inhoud: 1x Columbia Powder Lite jack voor heren; buitenlaag: Storm-Lite DP II 100% polyester; voering: Omni-Heat reflecterende voering 100% polyester; isolatie: Thermarator 100% polyester; kleur: Collegiate Navy; maat: XL; art.nr. 1698001
-- Ideaal voor wandelingen in het hooggebergte dankzij de reflecterende thermo-voering die je warm houdt
-- De ritszakken zorgen voor veelzijdigheid Houd je handen warm wanneer dat nodig is of berg je telefoon en andere accessoires veilig op
 - Waterafstotende stof voor bescherming tegen lichte regenbuien en mist; optimale pasvorm dankzij de verstelbare zoom met trekkoord
 - De reflecterende Omni-Heat-technologie biedt verbeterde isolatie om je zelfs op de koudste dagen warm te houden
+- Ideaal voor wandelingen in het hooggebergte dankzij de reflecterende thermo-voering die je warm houdt
+- De ritszakken zorgen voor veelzijdigheid Houd je handen warm wanneer dat nodig is of berg je telefoon en andere accessoires veilig op
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07JCD7LYK{{</world>}}

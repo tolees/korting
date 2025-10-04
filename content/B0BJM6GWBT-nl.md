@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 1 m
-- USB 3.2 Gen 1 (3.1 Gen 1)
 - 1 stuk(s)
+- USB 3.2 Gen 1 (3.1 Gen 1)
 - USB C Recht Mannelijk
+- 1 m
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BJM6GWBT{{</world>}}

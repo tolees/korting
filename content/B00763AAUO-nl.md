@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Langdurige bescherming tegen zweet en lichaamsgeur gedurende 96 uur
 - Biedt 3 keer meer bescherming vergeleken met reguliere anti-transpiranten
 - Heeft een schone, mannelijke geur voor een fris gevoel na het aanbrengen
+- Langdurige bescherming tegen zweet en lichaamsgeur gedurende 96 uur
 - In verpakking: 1 x 45 ml
 - Maximale bescherming met een krachtige formule, zelfs tegen overmatig zweten
 

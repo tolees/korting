@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Microfleece-materiaal, ideaal voor dagelijkse wandelingen en buitenactiviteiten
-- Borstzak en zijzakken met rits
-- Subtiel en stijlvol Columbia-logo; ideaal voor dagelijks gebruik
-- Fleece-vest voor heren; Active fit
 - Inhoud: 1x Columbia Fast Trek Fleece-bodywarmer voor heren; 100% polyester microfleece; zwart; S; 1460001
+- Microfleece-materiaal, ideaal voor dagelijkse wandelingen en buitenactiviteiten
+- Fleece-vest voor heren; Active fit
+- Subtiel en stijlvol Columbia-logo; ideaal voor dagelijks gebruik
+- Borstzak en zijzakken met rits
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0065H6DTO{{</world>}}

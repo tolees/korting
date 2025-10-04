@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Inhoud: 2 deco-eenheden, 1 RJ45-LAN-kabel, 2 voedingen, 1 snelinstallatiekabel
+- Pakket afmetingen: 12.6 L x 30.2 H x 24.0 W (centimeters)
 - Gewicht verpakking: 1.78 kg
 - Connectiviteitstechnologie: Wi-Fi
-- Pakket afmetingen: 12.6 L x 30.2 H x 24.0 W (centimeters)
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07G392VCD{{</world>}}

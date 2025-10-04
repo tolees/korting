@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Pasvorm: normaal
+- Twee basic T-shirts in een praktische set
 - Van bijzonder zacht jersey
-- Van zacht jersey
+- Licht losse pasvorm
+- Pasvorm: normaal
 - Levensstijl: vrije tijd
 - Twee comfortabele T-shirts in een praktische set samengepakt
-- Licht losse pasvorm
-- Twee basic T-shirts in een praktische set
+- Van zacht jersey
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B098QWX1RW{{</world>}}
