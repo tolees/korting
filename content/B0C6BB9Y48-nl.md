@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Kleurboostermasker herstelt de levendigheid net als op dag één
-- Tot 8 weken kleur
 - 100% grijsdekking
+- Tot 8 weken kleur
 - Hoogwaardige veganistische haarkleur
 - Herstelt de intensiteit van de kleur in week 3 of 4 in slechts 5 minuten
 

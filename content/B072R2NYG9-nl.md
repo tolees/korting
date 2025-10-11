@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- De reflecterende Omni-Heat-technologie biedt verbeterde isolatie om je zelfs op de koudste dagen warm te houden
-- Reflecterend thermo-bodywarmer voor heren; ideaal om de warmte te behouden tijdens de koude wintermaanden
-- Optimale pasvorm dankzij de verstelbare zoom met trekkoord
-- Boorden bij de kraag en manchetten; boorden bij de armsgaten; binnenzak
 - Inhoud: 1x Columbia Powder Lite bodywarmer voor heren; buitenlaag: Storm-Lite DP II 100% polyester; voering: Omni-Heat reflecterende voering 100% polyester; isolatie: Thermarator 100% polyester; kleur: zwart; maat: S; art.nr. 1748031
+- De reflecterende Omni-Heat-technologie biedt verbeterde isolatie om je zelfs op de koudste dagen warm te houden
+- Boorden bij de kraag en manchetten; boorden bij de armsgaten; binnenzak
+- Optimale pasvorm dankzij de verstelbare zoom met trekkoord
+- Reflecterend thermo-bodywarmer voor heren; ideaal om de warmte te behouden tijdens de koude wintermaanden
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B072R2NYG9{{</world>}}

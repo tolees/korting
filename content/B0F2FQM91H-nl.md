@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 40W BLIKSEMLADING "0→60% in 30 minuten (3× sneller dan Apples 5W-lader)" Gamer-proof: blijft koel tijdens intensief gebruik Volledige compatibiliteit met: iPhone 12/13/14/15/16 Pro Max Samsung Galaxy S21/S22/S23/S24 Ultra Google Pixel 7-8
-- 4 APPARATEN GELIJKTIJDIG "Ruimtewonder voor uw bureau" 2x USB-C + 2x USB-A poorten voor telefoon/tablet/oortjes/horloge 57% minder kabelchaos dan losse laders 3× efficiënter dan standaard 5W-laders - bevestigd door TÜV-testen
-- VEILIGHEID VOOROP｜EU-CERTIFICERING "De veiligste keuze voor uw gezin" Drievoudige CE-certificering (EMC/ROHS/LVD) door Europese testlaboratoria 6-beschermingen: oververhitting/stroom/spanning/overbelasting/kortsluiting Brandwerend ABS+PC omhulsel bestand tegen stoten - goedgekeurd door moeders
-- 180 DAGEN NIET-TOV-GARANTIE "Betrouwbaarder dan een dijkwacht!" Gratis vervanging bij problemen (geen reparatiepogingen) Nederlandse support: live-chat binnen 15 seconden Extras: 10.000x inpluggarantie + kindveilige poorten
 - REISMAATJE VOOR DE WERELD "Kleiner dan uw ID-kaart" Werkt in 150+ landen (100-240V) - ideaal voor zakenreizen/Surinaamse vakanties Formaat: 8.2×4.6×2.7 cm (70 gram) - past in elk zakzakje Getest: stabiel op 3000m hoogte - zelfs op de Vaalserberg!
+- VEILIGHEID VOOROP｜EU-CERTIFICERING "De veiligste keuze voor uw gezin" Drievoudige CE-certificering (EMC/ROHS/LVD) door Europese testlaboratoria 6-beschermingen: oververhitting/stroom/spanning/overbelasting/kortsluiting Brandwerend ABS+PC omhulsel bestand tegen stoten - goedgekeurd door moeders
+- 4 APPARATEN GELIJKTIJDIG "Ruimtewonder voor uw bureau" 2x USB-C + 2x USB-A poorten voor telefoon/tablet/oortjes/horloge 57% minder kabelchaos dan losse laders 3× efficiënter dan standaard 5W-laders - bevestigd door TÜV-testen
+- 40W BLIKSEMLADING "0→60% in 30 minuten (3× sneller dan Apples 5W-lader)" Gamer-proof: blijft koel tijdens intensief gebruik Volledige compatibiliteit met: iPhone 12/13/14/15/16 Pro Max Samsung Galaxy S21/S22/S23/S24 Ultra Google Pixel 7-8
+- 180 DAGEN NIET-TOV-GARANTIE "Betrouwbaarder dan een dijkwacht!" Gratis vervanging bij problemen (geen reparatiepogingen) Nederlandse support: live-chat binnen 15 seconden Extras: 10.000x inpluggarantie + kindveilige poorten
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0F2FQM91H{{</world>}}

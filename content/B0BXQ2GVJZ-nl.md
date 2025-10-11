@@ -28,15 +28,15 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- A15 Bionic-chip met 5-core GPU voor razendsnelle prestaties. Supersnel 5G voor mobiele data
-- Filmmodus nu in 4K Dolby Vision tot 30 bps
-- Belangrijke veiligheidsfeatures – SOS-noodmelding via satelliet en Ongelukdetectie
-- Batterij voor een hele dag en tot 20 uur video afspelen
-- Geavanceerd camerasysteem voor betere foto’s in elk soort licht
 - Actiemodus voor vloeiende en stabiele handheld video’s
+- Geavanceerd camerasysteem voor betere foto’s in elk soort licht
+- Filmmodus nu in 4K Dolby Vision tot 30 bps
+- Batterij voor een hele dag en tot 20 uur video afspelen
+- A15 Bionic-chip met 5-core GPU voor razendsnelle prestaties. Supersnel 5G voor mobiele data
+- Toonaangevend stevig en waterbestendig design met Ceramic Shield
+- Belangrijke veiligheidsfeatures – SOS-noodmelding via satelliet en Ongelukdetectie
 - iOS 16 biedt nog meer manieren om te personaliseren, te communiceren en te delen
 - 6,1-inch Super Retina XDR-display
-- Toonaangevend stevig en waterbestendig design met Ceramic Shield
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BXQ2GVJZ{{</world>}}

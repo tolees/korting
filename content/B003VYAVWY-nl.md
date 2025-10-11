@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Charmante kom van porselein met speelse motieven in nostalgisch design voor het serveren van bijgerechten bij het kerstdiner
-- Optimale afmetingen voor rijst, pasta of groenten. Het charmante design en de gebogen rand maken de kom tot een blikvanger op de tafel
 - Inhoud: 1 x Villeroy & Boch Toys Delight kom (32 cm), materiaal: premium porselein, kleur: wit/rood
 - Gemaakt van hoogwaardig en bijzonder robuust premium porselein, ideaal voor dagelijks gebruik, voor het reinigen met een vochtige doek afvegen
+- Charmante kom van porselein met speelse motieven in nostalgisch design voor het serveren van bijgerechten bij het kerstdiner
+- Optimale afmetingen voor rijst, pasta of groenten. Het charmante design en de gebogen rand maken de kom tot een blikvanger op de tafel
 - Past ook bij het servies van Toys Delight Royal Classic en Toys Fantasy, dankzij de meegeleverde kerstverpakking ook geschikt als cadeau
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- BUBBEL VRIJ; Zelfklevende achterkant met luchtkanalen, zodat lucht kan ontsnappen tijdens het bevestigen.
-- DUURZAAM; Koolstofvezel vinyl is waterbestendig en UV-bestendig voor 3-4 jaar houdbaar
 - AFMETINGEN; Elke folie is ongeveer 1500mm x 300mm
 - STERKE GREEP; Verwijderen en opnieuw aanbrengen zonder hechting te verliezen en kan worden uitgerekt wanneer warmte wordt toegepast
+- DUURZAAM; Koolstofvezel vinyl is waterbestendig en UV-bestendig voor 3-4 jaar houdbaar
+- BUBBEL VRIJ; Zelfklevende achterkant met luchtkanalen, zodat lucht kan ontsnappen tijdens het bevestigen.
 - VEELZIJDIG; 0,14 mm dik, gemakkelijker aan te brengen op gebogen oppervlakken. Het kan worden gebruikt voor autos, motorfietsen, mobiele apparaten, spoilers, dashboard, interieuraccessoires, glas, metaal enz.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

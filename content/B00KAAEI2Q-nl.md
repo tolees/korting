@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Premium puzzel met softclick-technologie
 - Formaat: ca. 98 x 75 cm
 - Inhoud: puzzel van 2000 stukjes
+- Premium puzzel met softclick-technologie
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B00KAAEI2Q{{</world>}}

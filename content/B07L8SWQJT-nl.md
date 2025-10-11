@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Machinewasbaar, verkrijgbaar in verschillende kleuren
 - Verlijmde softshell, slijtvaste kinbescherming, verstelbare zoom met trekkoord voor een optimale pasvorm
-- Inhoud: 1x Columbia Ascender Softshell-jas voor heren, Black (Zwart), S, 1556534
 - Comfortabele jas voor dagelijks gebruik, kan het hele jaar door alleen of onder dikkere lagen worden gedragen
+- Machinewasbaar, verkrijgbaar in verschillende kleuren
 - Water-/windbestendig materiaal, praktische ritssluiting over de hele lengte, 2 zakken met ritssluiting voor warme en veilige handen
+- Inhoud: 1x Columbia Ascender Softshell-jas voor heren, Black (Zwart), S, 1556534
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07L8SWQJT{{</world>}}

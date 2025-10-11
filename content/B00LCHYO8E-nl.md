@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Z. elektronica, opticia, fijnmechanica, juweliers of elektronische hardwaremonteurs.
 - Kraftform Micro schroevendraaier voor kruiskopschroeven Phillips-Recess
 - Meercomponenten Kraftform Micro handvat voor snel en ergonomisch schroeven.
-- De Wera Black Point-punt biedt perfecte pasvorm en geoptimaliseerde bescherming tegen corrosie.
 - Met afrolbeveiliging en draaibare kap voor snel kniken.
+- De Wera Black Point-punt biedt perfecte pasvorm en geoptimaliseerde bescherming tegen corrosie.
+- Z. elektronica, opticia, fijnmechanica, juweliers of elektronische hardwaremonteurs.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B00LCHYO8E{{</world>}}

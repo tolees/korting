@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- UILENPOSTKAARTEN EN HOUDER: Uilenpostkaarten vervangen Kans- en Algemeen Fondskaarten. Spelers trekken kaarten uit een sneeuwuilfiguurtje. Maar pas op voor Brulbrieven, die kunnen het spel van een speler beheksen.
 - KIES EEN HUIS: Griffoendor, Huffelpuf, Ravenklauw of Zwadderich? Elke speler installeert zich in een huis naar keuze door een Huiskaart te kiezen en verzamelt punten voor dat huis gedurende het spel
-- GEÏNSPIREERD OP HARRY POTTER: Welkom op Zweinstein! Speel als student in de Monopoly Harry Potter-editie van het spel. Klassiek Monopolyspel gecombineerd met artwork, locaties en themas uit de toverwereld van Harry Potter
 - ICONISCHE GOUDKLEURIGE PIONNEN: reis het bord rond met een van de 6 toverachtige, goudkleurige pionnen met transportthema: Hippogrief, de Collectebus, Zweinsteinexpres, Hagrids motorfiets, Terzieler en Vuurflits
 - SPELBORD MET ZWEINSTEIN-THEMA: doorzoek klaslokalen, leerlingenkamers en andere populaire locaties in en rondom kasteel Zweinstein! Hoe meer een speler onderzoekt, hoe meer huispunten de speler krijgt van andere spelers
+- UILENPOSTKAARTEN EN HOUDER: Uilenpostkaarten vervangen Kans- en Algemeen Fondskaarten. Spelers trekken kaarten uit een sneeuwuilfiguurtje. Maar pas op voor Brulbrieven, die kunnen het spel van een speler beheksen.
+- GEÏNSPIREERD OP HARRY POTTER: Welkom op Zweinstein! Speel als student in de Monopoly Harry Potter-editie van het spel. Klassiek Monopolyspel gecombineerd met artwork, locaties en themas uit de toverwereld van Harry Potter
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0D9Q5WKXC{{</world>}}

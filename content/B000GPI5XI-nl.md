@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Eenvoudig te gebruiken
 - Merk: STAEDTLER
 - Goed product met uitstekende kwaliteit
+- Eenvoudig te gebruiken
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B000GPI5XI{{</world>}}

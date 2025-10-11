@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- De originele jeansjas sinds 1967
-- Verfraai na verloop van tijd op natuurlijke wijze met vervagen, vlekken en gaten
 - Al tientallen jaren een symbool van persoonlijke expressie en het ideale uitgangspunt voor een individuele stijl
-- Het ideale materiaal om je persoonlijkheid uit te drukken
 - Dit is een authentiek product. Levis
+- De originele jeansjas sinds 1967
+- Het ideale materiaal om je persoonlijkheid uit te drukken
+- Verfraai na verloop van tijd op natuurlijke wijze met vervagen, vlekken en gaten
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07ZVP4J3M{{</world>}}

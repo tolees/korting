@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Deze Dove douchegel is pH-huidneutraal en SLES sulfaatvrij
-- Met de heerlijke geur van bloedsinaasappel en spiced rabarber
-- Ondersteunt je huidbarrière, waardoor je huid er gezond en stralend uitziet
+- Het badschuim is verpakt in 100% gerecyclede fles (behalve dop en label)
 - Dove badschuim met plantaardige reinigers en (huideigen) voedingsstoffen
 - Dove Bath Therapy Glow Badschuim & Douchegel is verrijkt met niacinamide
-- Het badschuim is verpakt in 100% gerecyclede fles (behalve dop en label)
+- Ondersteunt je huidbarrière, waardoor je huid er gezond en stralend uitziet
+- Met de heerlijke geur van bloedsinaasappel en spiced rabarber
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BR5Z2P4C{{</world>}}

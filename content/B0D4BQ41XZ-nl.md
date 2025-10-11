@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Een technisch mesh bovenwerk met naadloze overlays voor extra duurzaamheid en ondersteuning, ontworpen voor zowel snelheid als comfort
 - Inhoud: 1x Columbia Heren Konos TRS Outdry Wandelschoen, Maat: 43 EU, Kleur: Grijs
 - Columbia Konos TRS Outdry wandelschoenen voor heren gemaakt voor bergpaden, ruige landschappen en natte avonturen
 - Outdry waterdicht ademend ontwerp, Adapt Trax zool die superieure grip biedt en Navic Fit System voor natuurlijke vergrendeling bij de middenvoet
-- Een technisch mesh bovenwerk met naadloze overlays voor extra duurzaamheid en ondersteuning, ontworpen voor zowel snelheid als comfort
 - Omni-Max Plus systeem met een Techlite+ tussenzool voor optimale balans en schokabsorberende koepels
 
 [🛒 Check the deal!!]({{< param buyurl >}})

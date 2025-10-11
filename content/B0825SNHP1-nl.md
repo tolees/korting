@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Het personage draagt zijn gewaden uit de serie.
 - Deze snoezige figuur is geïnspireerd op de Disney+ serie The Mandalorian, heeft een groene huid, grote oren en ogen, en lijkt op een Baby Yoda, maar wordt The Child genoemd.
-- Fans vanStar Wars vinden het geweldig de rol van premiejager uit The Mandalorian na te spelen en zelf voor The Child te zorgen!
 - Het pluchen speelgoed heeft een zacht lijfje, plus een stevige basis gevuld met bonen, perfect om te knuffelen of als een verzamelobject neer te zetten
+- Het personage draagt zijn gewaden uit de serie.
+- Fans vanStar Wars vinden het geweldig de rol van premiejager uit The Mandalorian na te spelen en zelf voor The Child te zorgen!
 - Dit pluchen The Child speelgoed (27,94 cm) verovert vast en zeker de harten van Star Wars fans waar dan ook!
 
 [🛒 Buy it!!]({{< param buyurl >}})

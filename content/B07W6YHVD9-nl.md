@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Zijzakken
 - Normale pasvorm voor een ontspannen en licht gevoel
 - Materiaal: 100% polyester (gerecycled)
+- Zijzakken
 - Onderhoudsinstructie: machinewas, geen wasverzachter gebruiken
 - Dri-FIT-technologie houdt je droog en comfortabel
 

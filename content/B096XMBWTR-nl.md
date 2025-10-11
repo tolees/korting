@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- USB 3.0 Datahub met 7 poorten: Meervoudige USB 3.0 interface ondersteunt plug en play. Gemakkelijk te gebruiken en mee te nemen. De USB 3.0 hub van Shoplease kan 1 USB-poort uitbreiden tot 7 extra USB-datapoorten voor harde schijven, flash drives en andere USB-apparaten, waarbij gegevens worden gesynchroniseerd met snelheden tot 5Gbps.
-- Eenvoudig te gebruiken: Volledig plug-and-play. De ingebouwde overspanningsbeveiliging houdt je apparaten en gegevens veilig. Je hoeft geen software of stuurprogrammas te installeren, plug en play. Elegant ontwerp en stevige behuizing met strakke glanzende afwerking en sterk dik koord.
-- Individuele stroomschakelaars: Uitgerust met 7 individuele aan-uit schakelaars om elke USB-poort te bedienen. Bespaart je de moeite om apparaten los te koppelen wanneer je ze niet nodig hebt. Met LED-indicator, ondersteunt overstroom en ogenblikkelijke stroombeveiliging, beschermt de apparaten.
 - Brede compatibiliteit: De USB-hub is compatibel met de meeste besturingssystemen: Windows XP / Vista / 7/8/10; MacOS-8/9 / X, Unix, Linux.
+- Individuele stroomschakelaars: Uitgerust met 7 individuele aan-uit schakelaars om elke USB-poort te bedienen. Bespaart je de moeite om apparaten los te koppelen wanneer je ze niet nodig hebt. Met LED-indicator, ondersteunt overstroom en ogenblikkelijke stroombeveiliging, beschermt de apparaten.
+- Eenvoudig te gebruiken: Volledig plug-and-play. De ingebouwde overspanningsbeveiliging houdt je apparaten en gegevens veilig. Je hoeft geen software of stuurprogrammas te installeren, plug en play. Elegant ontwerp en stevige behuizing met strakke glanzende afwerking en sterk dik koord.
 - Snelheid van gegevensoverdracht 5Gbps: USB 3.0 poorten ondersteunen supersnelle (5Gbps) transmissies, zijn omlaag compatibel met USB 2.0/1.1-apparaten. USB 3.0 technologie die gegevens kan overbrengen met snelheden tot 5 Gbps, snel genoeg om HD-films in seconden over te zetten.
+- USB 3.0 Datahub met 7 poorten: Meervoudige USB 3.0 interface ondersteunt plug en play. Gemakkelijk te gebruiken en mee te nemen. De USB 3.0 hub van Shoplease kan 1 USB-poort uitbreiden tot 7 extra USB-datapoorten voor harde schijven, flash drives en andere USB-apparaten, waarbij gegevens worden gesynchroniseerd met snelheden tot 5Gbps.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B096XMBWTR{{</world>}}

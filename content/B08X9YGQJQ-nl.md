@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Type: Eau de Parfum
-- Doos: Zwart-gekleurde glazen fles
 - Geur: Emporio Armani Stronger with You Absolute
 - Aanbevolen gebruik: Spuit een kleine hoeveelheid op je pols, knie en hals. Vermijd het wrijven van je polsen om de geur te behouden
 - Inhoud: 50 ml
+- Type: Eau de Parfum
+- Doos: Zwart-gekleurde glazen fles
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08X9YGQJQ{{</world>}}

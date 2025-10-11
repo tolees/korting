@@ -30,9 +30,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - De Heat Seal Construction-technologie en 650 dons-vulling zorgen voor warmte en comfort - zelfs op de koudste dagen
 - Licht herenjack met capuchon; een must-have voor elke garderobe
+- Voel je beschermd tegen de elementen dankzij de capuchon en kinbeschermer; zakken met rits
 - Inhoud: 1x Columbia Powder Lake 22 gewatteerd jack met capuchon voor heren; zwart; L; art. nr. 1864562
 - Waterafstotende stof voor bescherming tegen lichte regenbuien en mist
-- Voel je beschermd tegen de elementen dankzij de capuchon en kinbeschermer; zakken met rits
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07RCNXS3Y{{</world>}}

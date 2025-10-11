@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Universele Compatibiliteit: Geschikt voor 17-43 inch LCD/LED/OLED/plasma TVs en monitoren met VESA-patronen 75x75, 100x100, 200x100 en 200x200 mm. Controleer de afmetingen, VESA en gewicht van je TV voor aankoop.
 - Efficiënt Kabelmanagement: Voorzien van twee kabelbinders om snoeren netjes op te bergen en vier antislip rubberen voetjes om krassen op oppervlakken te voorkomen.
+- Universele Compatibiliteit: Geschikt voor 17-43 inch LCD/LED/OLED/plasma TVs en monitoren met VESA-patronen 75x75, 100x100, 200x100 en 200x200 mm. Controleer de afmetingen, VESA en gewicht van je TV voor aankoop.
 - Robuuste Constructie: Gemaakt van hoogwaardig koudgewalst staal en een gehard glazen basis, deze monitor standaard kan TVs tot 45 kg ondersteunen en biedt extra stabiliteit.
 - Verstelbare Hoogte en Draaifunctie: Drie standen in hoogte verstelbaar (elk 5 cm) en een draaihoek van 50° zorgen voor een optimale kijkervaring en flexibiliteit.
 - Eenvoudige Installatie: Wordt geleverd met een duidelijke handleiding en montagehardware, deze TV standaard kan snel en eenvoudig in 10 minuten worden geïnstalleerd, zonder je muur te beschadigen.

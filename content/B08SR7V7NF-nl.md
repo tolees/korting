@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Inhoud van het pakket: 250 ml
+- Het is gemakkelijk schoon te maken
+- Slimme keuze voor dagelijkse behoeften
+- Het kan aan verschillende behoeften voldoen
 - Product gemaakt met de nieuwste technologie
 - Gewicht van het pakket: 303 kg
 - Haartype: normaal
-- Het is gemakkelijk schoon te maken
-- Slimme keuze voor dagelijkse behoeften
-- Inhoud van het pakket: 250 ml
-- Het kan aan verschillende behoeften voldoen
 - Gemaakt met een compact ontwerp, gemakkelijk mee te nemen
 
 [🛒 Buy it!!]({{< param buyurl >}})

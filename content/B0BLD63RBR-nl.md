@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- PUMA Formstrip aan de mediale en laterale zijde
 - Perforaties op de teen
+- PUMA Formstrip aan de mediale en laterale zijde
 - Step-in inlegzool
 - PUMA Woordmerk op de hiel
 

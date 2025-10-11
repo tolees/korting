@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Geborduurde details
-- Zacht oppervlak
-- Gemaakt voor Disney Store
 - Gedetailleerde afwerking
+- Zacht oppervlak
 - Geïnspireerd door WALL·E - De laatste ruimt de aarde op (2008)
+- Gemaakt voor Disney Store
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CHWH5N4P{{</world>}}

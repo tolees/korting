@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Inclusief USB Type-C-naar-C en USB Type-C-naar-A kabels
-- Valbestendig tot 3 meter hoog
 - Compatibel met Windows, macOS, Android
+- Inclusief USB Type-C-naar-C en USB Type-C-naar-A kabels
 - Hogere overdrachtssnelheden dan externe harde schijven (2000 MB/s)
 - Compact formaat vergelijkbaar met een gewone creditcard
+- Valbestendig tot 3 meter hoog
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CGQ43PMG{{</world>}}

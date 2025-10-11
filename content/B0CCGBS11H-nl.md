@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Eenvoudig te gebruiken: Wasmiddel, genoeg voor 16 wasbeurten Voeg regelmatig of bij iedere wasbeurt toe
 - HG Wasmiddeltoevoeging tegen Stinkend Wasgoed: Dit ecologisch wasmiddel tegen nare geurtjes zorgt ervoor dat je was heerlijk ruikt en verfrissend schoon is, zonder agressieve chemische stoffen
-- Krachtig geparfumeerd waspoeder: Efficiënte formule tegen stinkend wasgoed. Verfrist kleding, textiel, beddengoed en ander wasgoed, en is daarnaast een milieubewust wasmiddel
 - HG ECO reinigingsproducten voor thuis: HG professionele reinigingsformules zijn zeer efficiënt, maar wel beter voor het milieu. Zonder conserveermiddelen, fosfaten, kleurstoffen en microplastic
+- Krachtig geparfumeerd waspoeder: Efficiënte formule tegen stinkend wasgoed. Verfrist kleding, textiel, beddengoed en ander wasgoed, en is daarnaast een milieubewust wasmiddel
+- Eenvoudig te gebruiken: Wasmiddel, genoeg voor 16 wasbeurten Voeg regelmatig of bij iedere wasbeurt toe
 - 1 x HG ECO Wasmiddeltoevoeging tegen Stinkend Wasgoed, 500g, in een fles gemaakt van recyclebaar materiaal. Ontdek het HG assortiment aan reinigingsproducten, met HG badkamer reinigingsproducten en HG badkamervloer reiniger
 
 [🛒 Buy it now!!]({{< param buyurl >}})

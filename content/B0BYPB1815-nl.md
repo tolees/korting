@@ -31,8 +31,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 - 10 jaar beperkte garantie
 - Lees/schrijf snelheden tot 180/130MB/s met UHS-1 interface, snelheid varieert per capaciteit
 - 7-voudige bescherming: water, extreme temperatuur, röntgenstraling, Magneet, schok, val en slijtage
-- Kies uit 512 GB, 256 GB, 128 GB en 64 GB. Voeg extra opslagruimte toe aan uw DSLR, spiegelloze cameras, pcs en meer
 - S Werelds nummer 1 merk voor flashgeheugen sinds 2003
+- Kies uit 512 GB, 256 GB, 128 GB en 64 GB. Voeg extra opslagruimte toe aan uw DSLR, spiegelloze cameras, pcs en meer
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BYPB1815{{</world>}}

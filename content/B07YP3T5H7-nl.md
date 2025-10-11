@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Aantal Ethernet LAN (RJ-45)-poorten: 4
-- Router om neer te zetten Zwart
-- Gigabit Ethernet
 - Dual-band (2.4 GHz / 5 GHz) Wi-Fi 6 (802.11ax) 1500 Mbit/s
+- Gigabit Ethernet
+- Router om neer te zetten Zwart
 - Ethernet WAN
+- Aantal Ethernet LAN (RJ-45)-poorten: 4
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07YP3T5H7{{</world>}}

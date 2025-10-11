@@ -28,14 +28,14 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Schakel overal vandaan met externe toegang
-- Brennenstuhl Connect WiFi-stopcontact met timerfunctie voor gebruik buitenshuis - installatie met de gratis Brennenstuhl Connect-app in de 2,4 GHz-band van de WiFi-router
-- WLAN-stopcontact voor buitengebruik met praktische timer met dag- en weekprogramma - schakel bijvoorbeeld de tuinverlichting automatisch in/uit
-- Outdoor Smart Plug bijvoorbeeld voor het aansturen van entertainmentelektronica (max. 3000 W) via spraak of gratis app en zonder andere gateway of hub - altijd en overal internettoegang
 - Beschermingsklasse: IP44 - Voedingsspanning: 230V / 50Hz - Schakelvermogen: 13A / 3000W max. - Radiofrequentie: 2,4 GHz WiFi
+- WLAN-stopcontact voor buitengebruik met praktische timer met dag- en weekprogramma - schakel bijvoorbeeld de tuinverlichting automatisch in/uit
+- Brennenstuhl Connect WiFi-stopcontact met timerfunctie voor gebruik buitenshuis - installatie met de gratis Brennenstuhl Connect-app in de 2,4 GHz-band van de WiFi-router
+- Outdoor Smart Plug bijvoorbeeld voor het aansturen van entertainmentelektronica (max. 3000 W) via spraak of gratis app en zonder andere gateway of hub - altijd en overal internettoegang
 - Eenvoudige inbedrijfstelling en bediening met de gratis brennstuhlConnect-app
-- WiFi-stopcontact voor buiten met klapdeksel ter bescherming tegen spatwater en vreemde voorwerpen (IP44) is geschikt voor gebruik op het balkon of in de tuin, bijvoorbeeld voor het aansturen van buitenverlichting
+- Schakel overal vandaan met externe toegang
 - Smart socket heeft geen hub nodig - sluit de WiFi-stekker aan op de WiFi-router en bedien aangesloten apparaten gemakkelijk via een gratis app of spraakbediening met Amazon Alexa of Google Assistant
+- WiFi-stopcontact voor buiten met klapdeksel ter bescherming tegen spatwater en vreemde voorwerpen (IP44) is geschikt voor gebruik op het balkon of in de tuin, bijvoorbeeld voor het aansturen van buitenverlichting
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07SPVTKX5{{</world>}}

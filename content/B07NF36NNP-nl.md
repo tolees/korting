@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Betover je Pandora Moments-armband met geluksbedels en persoonlijke symbolen, deze sterling zilveren klaverblad-bedel maakt het begin
-- Het product wordt niet in een doos verzonden. Deze moet apart worden gekocht
-- Het open design geeft de blik op de Pandora Moments-armband vrij, waarop je hem draagt
-- De gegraveerde woorden "luck" en "courage" maken het tot een symbolische aanvulling op je sieradencollectie, als herinnering aan dingen die belangrijk voor je zijn
 - Collectie Pandora Garden
+- Het open design geeft de blik op de Pandora Moments-armband vrij, waarop je hem draagt
+- Het product wordt niet in een doos verzonden. Deze moet apart worden gekocht
+- Betover je Pandora Moments-armband met geluksbedels en persoonlijke symbolen, deze sterling zilveren klaverblad-bedel maakt het begin
+- De gegraveerde woorden "luck" en "courage" maken het tot een symbolische aanvulling op je sieradencollectie, als herinnering aan dingen die belangrijk voor je zijn
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07NF36NNP{{</world>}}

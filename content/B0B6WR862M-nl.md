@@ -30,9 +30,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - 3,5 mm audio-aansluiting
 - Toewijsbare Advanced Gaming-knoppen
+- Officieel gelicentieerd door Nintendo met twee jaar beperkte garantie - bezoek PowerA.com/Support
 - Afneembare 10 ft (3 m) USB-kabel
 - Geen batterijen nodig
-- Officieel gelicentieerd door Nintendo met twee jaar beperkte garantie - bezoek PowerA.com/Support
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0B6WR862M{{</world>}}

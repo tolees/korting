@@ -28,15 +28,15 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Deurbelgong — Gebruik de Mini 2 als een aangesloten deurbel voor Blink Video Doorbell (apart verkrijgbaar). Hoor direct een melding van de Mini 2 wanneer iemand je Blink Video Doorbell indrukt.
+- Eenvoudige installatie — Installeer je camera in slechts enkele minuten voor volledige bewaking van je huis.
+- Zie en spreek vanuit de Blink-app — Ervaar 1080p HD-live weergave, nachtzicht in kleur met een ingebouwde spotlight, een breder gezichtsveld en heldere intercomfunctie. Stream ononderbroken live-video tot wel 90 minuten lang met een Blink-abonnement (apart verkrijgbaar).
 - Buitengebruik — Sluit de Mini 2 buiten aan met de Blink weerbestendige stroomadapter (apart verkrijgbaar of als deel van een bundel) en bevestig met de inbegrepen montageset.
+- Slimme meldingen - Ontvang slimme meldingen, waaronder persoondetectie met geïntegreerde computervisie (CV) als onderdeel van een optioneel Blink-abonnement (apart verkrijgbaar).
 - Clips opslaan en delen — Met een gratis proefperiode van 30 dagen op het Blink-abonnement kun je gebeurtenissen in de cloud of lokaal met een Sync-module opslaan ( apart verkrijgbaar).
 - Bewegingsdetectie — Ontvang realtime bewegingsmeldingen op je smartphone zodat je waar dan ook kunt reageren.
-- Inclusief één Blink Mini 2-camera, montagekit met standaard, USB-kabel en stroomadapter.
-- Zie en spreek vanuit de Blink-app — Ervaar 1080p HD-live weergave, nachtzicht in kleur met een ingebouwde spotlight, een breder gezichtsveld en heldere intercomfunctie. Stream ononderbroken live-video tot wel 90 minuten lang met een Blink-abonnement (apart verkrijgbaar).
-- Eenvoudige installatie — Installeer je camera in slechts enkele minuten voor volledige bewaking van je huis.
 - Mini 2 is onze tweede generatie slimme beveiligingscamera met stekkeraansluiting die je helpt op de hoogte te blijven van wat er in jouw huis gebeurt vanaf je smartphone.
-- Slimme meldingen - Ontvang slimme meldingen, waaronder persoondetectie met geïntegreerde computervisie (CV) als onderdeel van een optioneel Blink-abonnement (apart verkrijgbaar).
+- Inclusief één Blink Mini 2-camera, montagekit met standaard, USB-kabel en stroomadapter.
+- Deurbelgong — Gebruik de Mini 2 als een aangesloten deurbel voor Blink Video Doorbell (apart verkrijgbaar). Hoor direct een melding van de Mini 2 wanneer iemand je Blink Video Doorbell indrukt.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BWX2XRYW{{</world>}}

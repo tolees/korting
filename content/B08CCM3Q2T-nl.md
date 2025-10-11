@@ -30,9 +30,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - 24 uur lang hydratatie
 - Speciaal voor mannen die last hebben van een droge en vermoeide huid
-- Boost de vermoeide huid
-- De crème zorgt voor een fris gevoel zonder te plakken
 - Vermindert zichtbaar de 5 tekenen van vermoeidheid
+- De crème zorgt voor een fris gevoel zonder te plakken
+- Boost de vermoeide huid
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08CCM3Q2T{{</world>}}

@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Compatibel met het draadloze POWERPLAY-oplaadsysteem: Maak je nooit meer zorgen over de batterijstatus en houd je compatibele G-muizen altijd opgeladen
+- LiPo-batterij van 140 uur – Dankzij de efficiëntie van de Hero 25K-sensor garandeert de G903 nu tot 140 uur aan gameplay met RGB-verlichting en 180 uur zonder verlichting
 - Lightspeed draadloos – Professionele rapportagesnelheid van 1 ms biedt ongeëvenaarde prestaties en bewegingsvrijheid zonder compromissen ten aanzien van gewicht, batterijlevensduur of vertraging
 - De nieuwe generatie Hero-sensor is tot 10x effciënter en levert precisietracking tot 25.600 dpi zonder vertraging, filtering of versnelling
 - Upgrade naar 25k DPI: Verhoog de maximale DPI naar 25.600 om s werelds eerst sub-micron prestaties te ervaren; beschikbaar voor alle muizen met HERO 16k sensor via een software update via G Hub
-- LiPo-batterij van 140 uur – Dankzij de efficiëntie van de Hero 25K-sensor garandeert de G903 nu tot 140 uur aan gameplay met RGB-verlichting en 180 uur zonder verlichting
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07SF1RCYF{{</world>}}

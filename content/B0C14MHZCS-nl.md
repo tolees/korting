@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- De fles en dop van deze shampoo zijn 100% gerecycled en recyclebaar
-- Juiste combinatie tussen een frisse reiniging en milde, voedende verzorging
-- Andrélon 2 in 1 Shampoo is een verzorgende shampoo en conditioner ineen
-- Voor heerlijk ruikend, makkelijk doorkambaar en gezond glanzend haar
 - De shampoo is geschikt voor dagelijks gebruik voor ieder haartype
+- Andrélon 2 in 1 Shampoo is een verzorgende shampoo en conditioner ineen
+- Juiste combinatie tussen een frisse reiniging en milde, voedende verzorging
+- De fles en dop van deze shampoo zijn 100% gerecycled en recyclebaar
 - De shampoo en conditioner is verrijkt met meloen en aloë vera
+- Voor heerlijk ruikend, makkelijk doorkambaar en gezond glanzend haar
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0C14MHZCS{{</world>}}

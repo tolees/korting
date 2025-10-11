@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- 8.000 DPI-Sensor – de sensor van gamingklasse reageert precies op je bewegingen; pas de instellingen aan met de Logitech G HUB-gamingsoftware voor de gewenste gevoeligheid en doorloop eenvoudig maar liefst 5 DPI-instellingen
 - Afmetingen: Hoogte: 116,6 mm / Breedte: 62,15 mm / Diepte: 38,2 mm / Gewicht: 85 g, (alleen muis) / Kabellengte: 2,1 m
 - Kleurrijke LIGHTSYNC RGB – speel in kleur met onze levendige LIGHTSYNC RGB-verlichting met kleurengolven die met zon 16,8 miljoen kleuren kunnen worden aangepast; installeer de Logitech G HUB-software om uit vooraf ingestelde kleuren en animaties te kiezen of je eigen kleuren en animaties te maken
-- 8.000 DPI-Sensor – de sensor van gamingklasse reageert precies op je bewegingen; pas de instellingen aan met de Logitech G HUB-gamingsoftware voor de gewenste gevoeligheid en doorloop eenvoudig maar liefst 5 DPI-instellingen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07W5JKFQC{{</world>}}
