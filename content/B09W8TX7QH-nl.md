@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Geeft de vermoeide huid een opfrisser
 - Beschermt de huid met SPF 15 en krachtige antioxidanten
-- Voor de normale en vermoeide huid
 - Vermindert rimpels en fijne lijntjes
 - Rijk aan huideigen Q10 en vitamine C
+- Voor de normale en vermoeide huid
+- Geeft de vermoeide huid een opfrisser
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09W8TX7QH{{</world>}}

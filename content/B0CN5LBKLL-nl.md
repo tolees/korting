@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Origineel merkproduct.
 - 2 jaar garantie tegen fabricagefouten.
+- Origineel merkproduct.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CN5LBKLL{{</world>}}

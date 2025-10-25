@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Waterbestendig: Luister muziek op het strand, in het zwembad of de gym zonder bezorgd te zijn over spatten of vuil, dankzij de waterdichte IP54- en IPX2-certificatie van de oordopjes en de oplaadcase.
-- Non-stop muziek: Met een batterijduur van 8 uur en 24 uur in de oplaadcase om de hele dag te luisteren, naast een extra snellaadfunctie voor twee uur extra na slechts 10 minuten opladen.
-- Ervaar elk detail: Dankzij deze in ear oordopjes versterkt u uw favoriete muziek met hun rijke, krachtige bas dankzij Deep Bass Sound technologie van JBL, terwijl audio en zang helder blijven.
-- Meegeleverd: 1 x JBL Wave Flex in ear oordopjes met oplaadcase, 1 x USB-C oplaadkabel, 3 maten oortips, 1 x snelstartgids/veiligheidsblad, in zwart
 - Handig: De TalkThru technologie pauzeert de muziek voor u wanneer u een vriend tegenkomt, terwijl AmbientAware de muziek laat afspelen zonder het natuurlijke geluid van uw omgeving te onderdrukken.
+- Waterbestendig: Luister muziek op het strand, in het zwembad of de gym zonder bezorgd te zijn over spatten of vuil, dankzij de waterdichte IP54- en IPX2-certificatie van de oordopjes en de oplaadcase.
+- Meegeleverd: 1 x JBL Wave Flex in ear oordopjes met oplaadcase, 1 x USB-C oplaadkabel, 3 maten oortips, 1 x snelstartgids/veiligheidsblad, in zwart
+- Ervaar elk detail: Dankzij deze in ear oordopjes versterkt u uw favoriete muziek met hun rijke, krachtige bas dankzij Deep Bass Sound technologie van JBL, terwijl audio en zang helder blijven.
+- Non-stop muziek: Met een batterijduur van 8 uur en 24 uur in de oplaadcase om de hele dag te luisteren, naast een extra snellaadfunctie voor twee uur extra na slechts 10 minuten opladen.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BHDRW3MK{{</world>}}

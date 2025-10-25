@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Overdrachtssnelheden tot 130MB/s met UHS-1 interface, snelheid varieert per capaciteit
-- 6-voudige bescherming tegen: water, extreme temperatuur, röntgenstraling, magnetisme, schok en slijtage
 - 10 jaar beperkte garantie
+- 6-voudige bescherming tegen: water, extreme temperatuur, röntgenstraling, magnetisme, schok en slijtage
+- Overdrachtssnelheden tot 130MB/s met UHS-1 interface, snelheid varieert per capaciteit
 - Voeg extra opslagruimte aan uw dagelijks gebruikte apparaten zoals: PC, DSLR, spiegelloze cameras en vele andere devices
 
 [🛒 Buy it now!!]({{< param buyurl >}})

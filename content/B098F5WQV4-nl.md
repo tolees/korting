@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Basketbalschoenen
 - Duurzame rubberen zool
+- Basketbalschoenen
 - Retrostijl
 
 [🛒 Buy it now!!]({{< param buyurl >}})

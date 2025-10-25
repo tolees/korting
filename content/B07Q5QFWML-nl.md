@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Bevat huidkalmerende kamille en een heerlijk zachte, kruidige geur
-- Verkleint de kans op roodheid en irritaties en laat scheerwondjes sneller helen
 - Aftershave van het iconische en vertrouwde merk NIVEA
-- Het zeewierextract werkt hydraterend: voor een soepele en gladde huid
 - Deze aftershave is alcoholvrij*, dus geeft geen branderig gevoel als je je huid na het scheren besprenkelt
+- Verkleint de kans op roodheid en irritaties en laat scheerwondjes sneller helen
+- Bevat huidkalmerende kamille en een heerlijk zachte, kruidige geur
+- Het zeewierextract werkt hydraterend: voor een soepele en gladde huid
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07Q5QFWML{{</world>}}

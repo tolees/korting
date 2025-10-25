@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Niet vettig en trekt snel in
-- Klinisch bewezen
-- Voor een gezond uitziende huid bij elk gebruikt.
 - Hydrateert de huid 72 uur*
 - Met 100% puur hyaluronzuur, zachte amandelolie & voedend serum
+- Klinisch bewezen
+- Niet vettig en trekt snel in
+- Voor een gezond uitziende huid bij elk gebruikt.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0F6CVNFMX{{</world>}}

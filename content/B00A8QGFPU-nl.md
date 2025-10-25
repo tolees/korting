@@ -30,9 +30,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Geschikt voor Bosch, Fein, HolzHer, Lecreux, Metabo
 - Tandhard, voor universeel gebruik
-- Torsievorm tegen vroegtijdige slijtage
 - 1/4" zeskant-aandrijving
 - Voor kruiskopschroeven Phillips-Recess
+- Torsievorm tegen vroegtijdige slijtage
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B00A8QGFPU{{</world>}}

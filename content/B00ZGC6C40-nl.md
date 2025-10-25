@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Vaseline Aloe Soothe Bodylotion hydrateert en verlicht de geïrriteerde huid
-- Breng de lotion dagelijks aan voor een gezond uitziende huid
 - Vaseline geeft diepe hydratatie aan de droge huid vanaf het eerste gebruik
-- De lotion bevat Ultra-Hydrating Lipids om vocht vast te houden
+- Vaseline Aloe Soothe Bodylotion hydrateert en verlicht de geïrriteerde huid
 - Gemaakt met puur extract van aloë vera, dat de geïrriteerde huid kalmeert
+- De lotion bevat Ultra-Hydrating Lipids om vocht vast te houden
+- Breng de lotion dagelijks aan voor een gezond uitziende huid
 - Trekt snel in de huid zonder een vettig gevoel achter te laten
 
 [🛒 Buy it!!]({{< param buyurl >}})

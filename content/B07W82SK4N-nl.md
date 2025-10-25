@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Normale pasvorm voor een ontspannen en licht gevoel
-- Onderhoudsinstructie: machinewas, geen wasverzachter gebruiken
 - Materiaal: 100% polyester (gerecycled)
 - Repel-weefsel is bestand tegen lichte regen en wind
 - Zijzakken
+- Onderhoudsinstructie: machinewas, geen wasverzachter gebruiken
+- Normale pasvorm voor een ontspannen en licht gevoel
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07W82SK4N{{</world>}}

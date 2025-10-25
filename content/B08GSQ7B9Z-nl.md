@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Handige bediening
-- Stijlvol ontwerp
 - Mi True draadloze oordopjes basic 2
+- Stijlvol ontwerp
 - Na een simpele setup vindt de verbinding automatisch plaats zodra je de koptelefoon uit de oplaadbox haalt
 
 [🛒 Check the deal!!]({{< param buyurl >}})

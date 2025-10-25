@@ -30,9 +30,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Gemaakt van hoogwaardig en bijzonder robuust premium porselein, ideaal voor dagelijks gebruik, kan met een vochtige doek worden schoongemaakt
 - Decoratief porseleinservies in nostalgisch design voor maximaal vier personen, ideaal voor de kersttijd
-- 4 grote platte borden (29 cm), 4 diepe soepborden (26 cm) en 4 ontbijtborden (24 cm), speelse motieven en gebogen bordrand als blikvanger
 - Past bij Toys Delight Royal Classic en Toys Fantasy, is ook geschikt als origineel kerstcadeau
 - Inhoud: 1 x Villeroy & Boch Toys Delight tafelservies 12-delig, materiaal: premium porselein, kleur: bont
+- 4 grote platte borden (29 cm), 4 diepe soepborden (26 cm) en 4 ontbijtborden (24 cm), speelse motieven en gebogen bordrand als blikvanger
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07F38BRCX{{</world>}}

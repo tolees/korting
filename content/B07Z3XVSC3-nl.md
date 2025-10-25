@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Leveringsomvang: 1x bio-emmer van kunststof met deksel en draagriem - bakje blauw (horizonblauw), deksel en handvat antraciet - Verkrijgbaar in andere aantrekkelijke kleuren
-- Ruimtebesparend praktisch: het deksel kan volledig worden geopend en teruggevouwen - Comfortabel te dragen dankzij de draagriem - Gemakkelijk te reinigen
-- Universeel en modulair: Kan afzonderlijk of in een set worden gebruikt - Kan ook veilig op de Albula 25l emmers worden gestapeld - Mooi design - Perfecte keukenhulp voor uw werkblad
 - Ontwerpgericht
+- Universeel en modulair: Kan afzonderlijk of in een set worden gebruikt - Kan ook veilig op de Albula 25l emmers worden gestapeld - Mooi design - Perfecte keukenhulp voor uw werkblad
+- Leveringsomvang: 1x bio-emmer van kunststof met deksel en draagriem - bakje blauw (horizonblauw), deksel en handvat antraciet - Verkrijgbaar in andere aantrekkelijke kleuren
 - Afmetingen: 23,5 x 20 x 20,8 cm (LxBxH) - Biowasbakinhoud: 6 liter - Praktische helper voor keukenafval, organisch afval, compost en meer
+- Ruimtebesparend praktisch: het deksel kan volledig worden geopend en teruggevouwen - Comfortabel te dragen dankzij de draagriem - Gemakkelijk te reinigen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07Z3XVSC3{{</world>}}

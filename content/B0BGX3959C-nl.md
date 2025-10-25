@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Zachte afwerking
-- Nala in liggende houding
 - Geïnspireerd op De Leeuwenkoning
+- Nala in liggende houding
 - Karakteristieke uitstraling
 - Geborduurde details
 

@@ -28,15 +28,15 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- ✓ Geschikt voor alle wimpertypes, gevoelige ogen, dragers van contactlenzen
-- ✓ Korte & lange borstelhaartjes voor 1.4x* groter uitziende ogen (*Instrumentele test, 30 personen)
-- ✓ Lengte, separatie & volume
-- ✓ Verrijkt met 5% stretchflex complex
-- Value1: AQUA / WATER / EAU PROPYLENE GLYCOL STYRENE/ACRYLATES/AMMONIUM METHACRYLATE COPOLYMER POLYURETHANE-35 CERA ALBA / BEESWAX / CIRE DABEILLE SYNTHETIC FLUORPHLOGOPITE GLYCERYL STEARATE CETYL ALCOHOL PEG-200 GLYCERYL STEARATE ETHYLENEDIAMINE/STEARYL DIMER DILINOLEATE COPOLYMER
-- ✓ Beschikbaar in bruin & zwart
-- ✓ Panoramisch volume van hoek tot hoek
-- ✓ Oogheelkundig getest
 - COPERNICIA CERIFERA CERA / CARNAUBA WAX / CIRE DE CARNAUBA STEARIC ACID PALMITIC ACID ETHYLENE/VA COPOLYMER ALCOHOL DENAT. PARAFFIN AMINOMETHYL PROPANEDIOL PHENOXYETHANOL CAPRYLYL GLYCOL GLYCERIN HYDROXYETHYLCELLULOSE BUTYLENE GLYCOL METHYLPROPANEDIOL XANTHAN GUM CAPRYLIC/CAPRIC TRIGLYCERIDE SODIUM LAURETH SULFATE RAYON MYRISTIC ACID TETRASODIUM EDTA PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE POTASSIUM SORBATE PHENYLPROPANOL SILICA BAMBUSA VULGARIS EXTRACT
+- ✓ Korte & lange borstelhaartjes voor 1.4x* groter uitziende ogen (*Instrumentele test, 30 personen)
+- Value1: AQUA / WATER / EAU PROPYLENE GLYCOL STYRENE/ACRYLATES/AMMONIUM METHACRYLATE COPOLYMER POLYURETHANE-35 CERA ALBA / BEESWAX / CIRE DABEILLE SYNTHETIC FLUORPHLOGOPITE GLYCERYL STEARATE CETYL ALCOHOL PEG-200 GLYCERYL STEARATE ETHYLENEDIAMINE/STEARYL DIMER DILINOLEATE COPOLYMER
+- ✓ Geschikt voor alle wimpertypes, gevoelige ogen, dragers van contactlenzen
+- ✓ Verrijkt met 5% stretchflex complex
+- ✓ Panoramisch volume van hoek tot hoek
+- ✓ Lengte, separatie & volume
+- ✓ Oogheelkundig getest
+- ✓ Beschikbaar in bruin & zwart
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CJ5G8LKV{{</world>}}

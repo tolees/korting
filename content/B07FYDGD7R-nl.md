@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Profiteer van alle entertainmentfuncties van Hue (synchronisatie met films, games en muziek, aanpasbare lichtscenarios en integratie met andere partners); extra Hue bridge vereist (apart verkrijgbaar)
+- Bedien je lampen met je stem via Amazon Alexa, Apple HomeKit of Google Assistant; je kunt ook lampen bedienen met je app Philips Hue (indien geïntegreerd in een bridge) via uw smartphone of tablet
+- Het systeem Philips Hue is compatibel met tal van domoticasystemen zoals Amazon Echo, Google Home, Apple HomeKit, Nest, Samsung SmartThings, Yale, Razer, IFTTT en Logitech
 - Compact, discreet en veelzijdig: plaats Hue Play op de kast in de buurt van je tv of verstop hem erachter; je kunt hem zelfs eenvoudig op de achterkant van je tv monteren (inclusief standaard en tv-houder met 3M-sticker)
 - Perfecte tv-achtergrondverlichting: verbeter uw audiovisuele ervaring met lichtstromen rondom uw tv; creëer de juiste sfeer voor uw filmavond door te kiezen uit 16 miljoen kleuren en vooraf gedefinieerde scenarios
-- Het systeem Philips Hue is compatibel met tal van domoticasystemen zoals Amazon Echo, Google Home, Apple HomeKit, Nest, Samsung SmartThings, Yale, Razer, IFTTT en Logitech
-- Bedien je lampen met je stem via Amazon Alexa, Apple HomeKit of Google Assistant; je kunt ook lampen bedienen met je app Philips Hue (indien geïntegreerd in een bridge) via uw smartphone of tablet
+- Profiteer van alle entertainmentfuncties van Hue (synchronisatie met films, games en muziek, aanpasbare lichtscenarios en integratie met andere partners); extra Hue bridge vereist (apart verkrijgbaar)
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07FYDGD7R{{</world>}}

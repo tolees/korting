@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Gewicht van het artikelpakket: 0.195 Kg
-- Breedte van het artikelpakket: 205 mm
-- Hoogte van de verpakking van het artikel: 110 mm
 - Lengte van de verpakking van het artikel: 300 mm
+- Hoogte van de verpakking van het artikel: 110 mm
+- Breedte van het artikelpakket: 205 mm
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B091ZHMSKP{{</world>}}

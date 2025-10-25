@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Glazen set: de 4-delige longdrinkglazen set van Villeroy & Boch is ideaal voor het serveren van klassieke cocktails zoals mojito of longdrinks met 4 cl sterke drank
-- Cadeautip: de glazen worden geleverd in een doos, waardoor de set ideaal is om cadeau te doen, perfect voor cocktailavonden of verjaardagen
 - Inhoud levering: 4 x Villeroy & Boch, Rose Garden longdrinkglazen (300 ml), materiaal: kristalglas (artikelnr. : 11-3725-8260)
 - Premium kwaliteit: robuust gastronomisch glas van glanzend kristalglas, smaakneutraal, vaatwasmachinebestendig en duurzaam
+- Glazen set: de 4-delige longdrinkglazen set van Villeroy & Boch is ideaal voor het serveren van klassieke cocktails zoals mojito of longdrinks met 4 cl sterke drank
+- Cadeautip: de glazen worden geleverd in een doos, waardoor de set ideaal is om cadeau te doen, perfect voor cocktailavonden of verjaardagen
 - Prachtig veelzijdig: de uitzonderlijke kristallen glazen zorgen niet alleen voor een stijlvol effect voor je favoriete drankje op happy hour, maar zijn ook aantrekkelijke decoratie- en opbergartikelen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

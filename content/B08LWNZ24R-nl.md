@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Niet-comedogene formule, geschikt voor alle huidtypes
 - Onberispelijke, matte huid de hele dag lang, middelhoge dekking zonder maskerend effect, bestand tegen schuren, water, hitte of vocht
-- Poedermake-upbasis voor een vlekkeloze matte finish, tot 24 uur bestendig
 - Inhoud 1 x LOréal Paris Infallible 24H Long Lasting Matt Compact Poeder, Tone 140 Golden Beige, Hoeveelheid 9 g
 - Breng met de spons droog aan alsof het een foundation is of met een natte spons voor een nog betere dekking
+- Niet-comedogene formule, geschikt voor alle huidtypes
+- Poedermake-upbasis voor een vlekkeloze matte finish, tot 24 uur bestendig
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08LWNZ24R{{</world>}}

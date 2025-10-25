@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 【Breed Toepassingsgebied】Perfect voor prototypes, eindgebruikdelen, mallen en grote objecten met uitstekende chemische en hittebestendigheid.
-- 【Vacuum Verzegelde Bescherming】Gedroogd en verpakt in 100% vacuümverzegelde zakken, beschermt Inslogic Matte PLA tegen vocht voor optimale printprestaties.
 - 【Sterk & Duurzaam】Biedt een treksterkte van 48 MPa en goede slagvastheid, waardoor prints stevig maar flexibel zijn.
-- 【Nazorg Ondersteuning】Inslogic biedt uitgebreide nazorg en technische ondersteuning. Neem op elk moment contact met ons op bij vragen.
+- 【Vacuum Verzegelde Bescherming】Gedroogd en verpakt in 100% vacuümverzegelde zakken, beschermt Inslogic Matte PLA tegen vocht voor optimale printprestaties.
+- 【Breed Toepassingsgebied】Perfect voor prototypes, eindgebruikdelen, mallen en grote objecten met uitstekende chemische en hittebestendigheid.
 - 【Stabiele Printtemperaturen】Werkt goed tussen 230–260°C voor de nozzle en 50–60°C voor de bedtemperatuur voor betrouwbare en consistente resultaten.
+- 【Nazorg Ondersteuning】Inslogic biedt uitgebreide nazorg en technische ondersteuning. Neem op elk moment contact met ons op bij vragen.
 - 【Hoge Snelheidsprestaties】Geoptimaliseerd voor snelheden tot 470 mm/s, levert snelle en efficiënte prints zonder concessies te doen aan de kwaliteit.
 - 【Minimale Vervorming & Precieze Prints】Inslogic PETG PRO zorgt voor uitstekende laaghechting en lage krimp voor gladde, nauwkeurige modellen elke keer.
 

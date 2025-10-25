@@ -30,8 +30,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - LATE-FREE GAMEPLAY: In tegenstelling tot draadloze Bluetooth-controllers die te maken hebben met latenties, is deze controller absoluut latentievrij omdat hij rechtstreeks is aangesloten op de oplaadpoort van het apparaat - alle knoppen reageren onmiddellijk.
 - AANSLUITING USB-C-LADING: Als de batterij van de smartphone in het spel opraakt, kan de controller eenvoudig worden aangesloten op een oplaadkabel om hem op te laden
-- PAST OP DE MEESTE ANDROID-APPARATEN: Dankzij het flexibele ontwerp kan de controller snel en eenvoudig worden aangesloten op een groot aantal smartphones. Voor bijzonder grote apparaten zoals de Razer Phone of Razer Phone 2, kunnen de rubberen inzetstukken worden verwijderd en vervangen door speciaal aangepaste exemplaren, die elk verkrijgbaar zijn bij de Razer-klantenservice.
 - KLICKBARE ANALOG STICK: Hoe u beter kunt richten en slaan met een bekende console-controller - met een hele reeks knoppen en bumpers en uw eigen controlepaneel.
+- PAST OP DE MEESTE ANDROID-APPARATEN: Dankzij het flexibele ontwerp kan de controller snel en eenvoudig worden aangesloten op een groot aantal smartphones. Voor bijzonder grote apparaten zoals de Razer Phone of Razer Phone 2, kunnen de rubberen inzetstukken worden verwijderd en vervangen door speciaal aangepaste exemplaren, die elk verkrijgbaar zijn bij de Razer-klantenservice.
 - ONDERSTEUNT CLOUD-GAMING: Aangezien AAA-titels nu op elk scherm kunnen worden afgespeeld, is het een onverslaanbaar voordeel om de controller rechtstreeks op het apparaat aan te sluiten en overal en altijd te kunnen spelen.
 
 [🛒 Buy it!!]({{< param buyurl >}})

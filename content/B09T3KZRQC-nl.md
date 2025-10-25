@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - MILIEUVRIENDELIJK: Gemaakt van milieu vriendelijk, gerecycleerd karton
-- Puzzel van 1000 stukjes voor volwassenen / De gelegde puzzel heeft een afmeting van 68 x 49cm
 - SPECIAAL ONTWIKKELT VOOR VOLWASSENEN: Het unieke Wasgij concept stimuleert volwassenen om hun fantasie te gebruiken!
+- Puzzel van 1000 stukjes voor volwassenen / De gelegde puzzel heeft een afmeting van 68 x 49cm
 - WASGIJ MYSTERY: Gebruik de aanwijzingen en je fantasie om uit te puzzelen wat er gaat gebeuren met de personen die afgebeeld staan op de doos
 - UNIEK CONCEPT: Wasgij Legpuzzel van 1000 stukjes waarbij de afbeelding op de doos verschilt van de afbeelding die je puzzelt!
 

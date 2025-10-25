@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Regelbare thermostaat met controlelampje
+- 2 afneembare, aluminium grillplaten met anti-aanbaklaag
 - Vermogen: 2.000 watt
 - Variabele stoomhoeveelheid tot 40 g/min
-- 2 afneembare, aluminium grillplaten met anti-aanbaklaag
+- Regelbare thermostaat met controlelampje
 - Warmte-geïsoleerde metalen behuizing
 
 [🛒 Buy it now!!]({{< param buyurl >}})

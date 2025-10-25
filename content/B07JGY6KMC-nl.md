@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Verwacht de magie van de kersttijd met deze prachtige adventskalender in de vorm van een huis, van 100% hout.
 - Volledig gemaakt van hoogwaardig hout, dat tot in de details zorgvuldig is verwerkt. Dit prachtige huis maakt de voorpret op Kerstmis tot een echte blikvanger.
 - De kalender beschikt over een aantal genummerde laden, die de ontbrekende dagen tot Kerstmis tellen, waarin je decoraties en schattige verrassingen kunt plaatsen die je met de dagen kunt ontdekken.
 - Kerstmis wordt met deze mooie adventskalender iets heel bijzonders.
+- Verwacht de magie van de kersttijd met deze prachtige adventskalender in de vorm van een huis, van 100% hout.
 - Afmetingen: 30 x 29 x 24,5 cm - materiaal: Hout
 
 [🛒 Buy it!!]({{< param buyurl >}})

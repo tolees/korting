@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Zoals alle hoesjes van Apple is ook dit model duizenden uren getest, zowel tijdens de ontwerpfase als het fabricageproces. Het ziet er daarom niet alleen fantastisch uit, maar beschermt je iPhone ook tegen krassen en vallen.
 - Aan de buitenkant voelt de afwerking van silicone heel prettig aan. En aan de binnenkant zorgt microvezel voor een goede bescherming.
+- Zoals alle hoesjes van Apple is ook dit model duizenden uren getest, zowel tijdens de ontwerpfase als het fabricageproces. Het ziet er daarom niet alleen fantastisch uit, maar beschermt je iPhone ook tegen krassen en vallen.
 - Dankzij de ingebouwde magneten die perfect matchen met iPhone 14 Pro Max is koppelen een kwestie van klik en klaar, en gaat draadloos opladen nog sneller. Is het tijd om op te laden, laat het hoesje dan gewoon om je iPhone en klik je MagSafe-oplader eraan vast of leg je iPhone op je Qi‑oplader.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

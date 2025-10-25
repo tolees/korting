@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Omvang levering: Sony BDP-S1700 Blu-ray-speler zwart
+- Catch up TV en video on Demand met toegang tot meer dan 300 apps incl. Amazon Instant Video
 - Online diensten voor de geavanceerde thuisbioscoop-ervaring met de ethernet-ingang. Stroomverbruik: 8,5 W.
 - Briljante weergave van hoge kwaliteit video in full HD 1080p
-- Catch up TV en video on Demand met toegang tot meer dan 300 apps incl. Amazon Instant Video
-- Omvang levering: Sony BDP-S1700 Blu-ray-speler zwart
 - Geniet van je favoriete films en muziek via USB Play.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

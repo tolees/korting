@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- ② 【Schoon geplaatste lijnen】De netjes geplaatste filamenttechnologie van Sunlu kan het oprollen, verdraaien of scheiden van filamenten tijdens het afdrukken voorkomen, het risico op 3D-drukstoppen verminderen en je druk soepeler maken.
 - Hoge precisie +/- 0,02 mm: PLA+ 3D-printerfilament heeft een diameter van 1,75 mm, nauwkeurigheid +/- 0,02 mm; spoel van 1 kg. Het heeft een zeer nauwe diametertolerantie en perfecte rondheid en minimale vervormingen. Verhoog de fijnheid van je 3D-printobjecten.
-- ⑤ 【Hoge compatibiliteit en vacuümverpakking】Compatibel met 99% FDM 3D-printers en 3D-pen. De vacuüm verpakte SUNLU PLA Plus-filamenten zorgen voor betere afdrukresultaten. PLA+ filament wordt gemaakt van zetmeelgrondstoffen die uit hernieuwbare plantaardige bronnen worden gewonnen.
 - ③ 【Constipatievrij, luchtbelvrij】De betere stroom van het SUNLU 1,75 mm-PLA+ filament verstopt de sondes van 3D-FDM-printers niet. PLA Plus-filament heeft geen verontreinigingen, geen luchtbellen en het printproces is soepel, zodat glanzende 3D-prints mogelijk zijn.
 - ①【SUNLU 3D PLA Plus-filament】SUNLU PLA Plus heeft een hogere taaiheid dan normaal PLA. Zeg vaarwel tegen broos filament. SUNLU PLA+ filament heeft een hoge sterkte, uitstekende hechting, minder krimp, geen luchtbellen, geen verstopping.
-- ② 【Schoon geplaatste lijnen】De netjes geplaatste filamenttechnologie van Sunlu kan het oprollen, verdraaien of scheiden van filamenten tijdens het afdrukken voorkomen, het risico op 3D-drukstoppen verminderen en je druk soepeler maken.
+- ⑤ 【Hoge compatibiliteit en vacuümverpakking】Compatibel met 99% FDM 3D-printers en 3D-pen. De vacuüm verpakte SUNLU PLA Plus-filamenten zorgen voor betere afdrukresultaten. PLA+ filament wordt gemaakt van zetmeelgrondstoffen die uit hernieuwbare plantaardige bronnen worden gewonnen.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07W47D4YZ{{</world>}}

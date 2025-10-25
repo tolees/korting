@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Ultracompact ontwerp - Extreem draagbaar en gemakkelijk te gebruiken.
-- Draadloze verbinding, zonder beperkingen - Maakt draadloze communicatie met Bluetooth-apparaten mogelijk
+- Distance: Up to 10 meters (classic BT-BR/EDR); up to 40 meters(BLE) in open space
+- Energiebesparing voor apparaten - Bluetooth low energy-technologie voor energiebesparende, draadloze verbindingen
 - Volledige compatibiliteit - achterwaarts compatibel met Bluetooth 2.1/3.x/4.x
 - Bluetooth 5.0 voor meer snelheid en een groter bereik - gegevens kunnen tot twee keer sneller en met vier keer het bereik via BLE worden verzonden in vergelijking met de vorige generatie
-- Energiebesparing voor apparaten - Bluetooth low energy-technologie voor energiebesparende, draadloze verbindingen
+- Draadloze verbinding, zonder beperkingen - Maakt draadloze communicatie met Bluetooth-apparaten mogelijk
+- Ultracompact ontwerp - Extreem draagbaar en gemakkelijk te gebruiken.
 - Frequency Band: 2402~2480 MHz
-- Distance: Up to 10 meters (classic BT-BR/EDR); up to 40 meters(BLE) in open space
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08B9WQFTL{{</world>}}

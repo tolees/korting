@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Kinderen en fans van Iron Man zullen de Tony Stark graphics geweldig vinden.
 - Dit is een geweldig cadeau voor fans en kinderen vanaf 3 jaar.
+- Berg Hot Wheels RacerVerse voertuigen op en vervoer ze in de Marvel Hulkbuster Truck!
+- Kinderen en fans van Iron Man zullen de Tony Stark graphics geweldig vinden.
 - Hij kan tot wel 10 Hot Wheels RacerVerse voertuigen of Hot Wheels autos (schaal: 1:64) vervoeren. (Extra voertuigen zijn apart verkrijgbaar.)
 - De voorste cabine kan worden losgemaakt en kinderen kunnen er apart mee spelen. Doe de helm omhoog om een niet-uitneembare Tony Stark figuur te onthullen die achter het stuur zit.
-- Berg Hot Wheels RacerVerse voertuigen op en vervoer ze in de Marvel Hulkbuster Truck!
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CB6JBK1R{{</world>}}

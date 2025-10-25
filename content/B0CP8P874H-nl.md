@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Beschrijving van de camera: voorzijde
 - Fotosensor. Resolutie: 8,0 megapixel
+- Beschrijving van de camera: voorzijde
 - Twee jaar garantie tegen fabricagefouten.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

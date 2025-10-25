@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Deze Swarovski-armband is het cadeau voor een belangrijke vrouw in je leven
-- Een enkel, helder kristal siert het oneindigheidssymbool en voegt een briljant detail toe aan het design
 - Deze rodium-vergulde armband van Swarovski is een uitdrukking van eeuwige liefde
+- Een enkel, helder kristal siert het oneindigheidssymbool en voegt een briljant detail toe aan het design
 - Hij bevat een in elkaar verweven hart en een oneindigheidssymbool.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

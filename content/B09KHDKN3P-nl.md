@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Eén figuur inbegrepen
-- Geschikt voor 4+ jaar
-- De doos is voorzien van een cadeaulabel om in te vullen
-- Inclusief beweegbare functies
-- De spacespeeder biedt plaats aan één figuur
 - Ga met de astronaut op weg door de uitgestrektheid van de ruimte met zijn coole Space Speeder. Om het oppervlak van de planeet te verkennen, klimt de piloot in zijn speeder, vouwt de schilden op en vertrekt. Als er iets kapot gaat, heeft hij zijn grote tang bij zich. Op naar het volgende avontuur! De leuke PLAYMOBIL geschenksets zijn voorzien van een cadeaulabel op de doos om in te vullen!
+- De doos is voorzien van een cadeaulabel om in te vullen
+- De spacespeeder biedt plaats aan één figuur
+- Eén figuur inbegrepen
+- Inclusief beweegbare functies
+- Geschikt voor 4+ jaar
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09KHDKN3P{{</world>}}

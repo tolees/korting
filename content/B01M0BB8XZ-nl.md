@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 🥖 Ideale afmetingen: Met een gewicht van 150 g en een hoogte van 9,5 cm (H) is dit de perfecte maat voor een glazen beker. Een uitstekende aanvulling op de glazensetcollecties, maar ook geweldig als rumglazen.
-- 🤖 Veelzijdig gebruik: dit whiskyglas is niet alleen voor sterke drank - het bevat 150 ml van je favoriete drankje, of het nu koffie, melk of sap is. Een integraal onderdeel van elke whisky-cadeauset.
-- 🥃 Premiumkwaliteit: dit whiskyglas is gemaakt van hoogwaardig glas en valt op onder de alcoholcadeaus voor mannen. Het is het perfecte cocktailglas voor elke drinkliefhebber.
 - 🎁 Perfect cadeau: een ideaal Star Wars-cadeau voor mannen, deze glazen beker is perfect voor elke Original Stormtrooper-fan. Een unieke toevoeging aan de whiskycadeausets waar mannen dol op zullen zijn.
+- 🤖 Veelzijdig gebruik: dit whiskyglas is niet alleen voor sterke drank - het bevat 150 ml van je favoriete drankje, of het nu koffie, melk of sap is. Een integraal onderdeel van elke whisky-cadeauset.
 - 👌 Authentiek ontwerp: origineel Stormtrooper-helmontwerp van hoge kwaliteit, omgekeerd gegoten, een onmisbaar Star Wars-cadeau. Perfect voor liefhebbers van bekerglazen en whiskycadeausets voor mannen.
+- 🥖 Ideale afmetingen: Met een gewicht van 150 g en een hoogte van 9,5 cm (H) is dit de perfecte maat voor een glazen beker. Een uitstekende aanvulling op de glazensetcollecties, maar ook geweldig als rumglazen.
+- 🥃 Premiumkwaliteit: dit whiskyglas is gemaakt van hoogwaardig glas en valt op onder de alcoholcadeaus voor mannen. Het is het perfecte cocktailglas voor elke drinkliefhebber.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B01M0BB8XZ{{</world>}}

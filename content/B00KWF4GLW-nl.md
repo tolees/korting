@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Licht & ademend design voor soepele bewegingen
-- Kledingsstijl: informeel
 - Sneakers van het merk Columbia
+- Kledingsstijl: informeel
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B00KWF4GLW{{</world>}}

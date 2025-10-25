@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- VEILIG EN REISVRIENDELIJK: Klap de houder in om hem makkelijk in je rugzak of bagage mee te nemen. Hij zal de batterij van je toestel niet leegtrekken en bij gebruik van de adapter wordt je apparaat veilig opgeladen, zonder risico op overladen.
+- BRUIKBAAR ALS STANDAARD EN LAADSTATION: Maak van deze wireless charger een standaard om je telefoon rechtop te gebruiken voor facetimen of video’s kijken en gebruik hem als laadstation met horizontaal laadoppervlak voor opladen zonder afleiding.
+- DUURZAAM EN 2 JAAR GARANTIE: De behuizing is gemaakt met materiaal dat na gebruik is gerecycled en wordt geleverd in een 100% plasticvrije verpakking. Twee jaar garantie en aangesloten-apparatuurgarantie tot € 2.000 bieden zekerheid en gemoedsrust.
+- ONDERSTEUNT STANDBY-MODUS: Als Apple-gebruiker kun je bij gebruik van de lader als standaard de StandBy-modus benutten, voor bijvoorbeeld goed zicht op de tijd als je op kantoor, in een hotelkamer of elders bent.
 - SNELLADEN + NIEUWE QI2-TECHNOLOGIE: Plaats je telefoon gewoon op het magnetische laadoppervlak/de laadstandaard om je iPhone of Qi2-compatible apparaat snel op te laden met een vermogen tot 15W. Qi2 biedt hogere snelheden en meer veiligheidsfuncties.
 - COMPATIBEL MET HOESJES: Je telefoon wordt ook veilig opgeladen wanneer hij in een MagSafe-compatible hoesje zit. (Let op: compatibel met hoesjes van maximaal 3 mm dik.)
-- BRUIKBAAR ALS STANDAARD EN LAADSTATION: Maak van deze wireless charger een standaard om je telefoon rechtop te gebruiken voor facetimen of video’s kijken en gebruik hem als laadstation met horizontaal laadoppervlak voor opladen zonder afleiding.
-- ONDERSTEUNT STANDBY-MODUS: Als Apple-gebruiker kun je bij gebruik van de lader als standaard de StandBy-modus benutten, voor bijvoorbeeld goed zicht op de tijd als je op kantoor, in een hotelkamer of elders bent.
+- VEILIG EN REISVRIENDELIJK: Klap de houder in om hem makkelijk in je rugzak of bagage mee te nemen. Hij zal de batterij van je toestel niet leegtrekken en bij gebruik van de adapter wordt je apparaat veilig opgeladen, zonder risico op overladen.
 - INSTELBARE ZICHTHOEK: De BoostCharge Pro is naar wens te gebruiken in de landschap- of portretstand. De standaard is verstelbaar van 0°-70° en de zichthoek van 0°-75°.
-- DUURZAAM EN 2 JAAR GARANTIE: De behuizing is gemaakt met materiaal dat na gebruik is gerecycled en wordt geleverd in een 100% plasticvrije verpakking. Twee jaar garantie en aangesloten-apparatuurgarantie tot € 2.000 bieden zekerheid en gemoedsrust.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CRXX5HT1{{</world>}}

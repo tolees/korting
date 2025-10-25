@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Kantoor
-- 1 stuk(s)
 - Binnenshuis
+- 1 stuk(s)
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0162EJBBG{{</world>}}

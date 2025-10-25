@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Bedien je sprinkler of sproeisysteem via de Eve-app, Siri of de fysieke knop. Of stel makkelijk schema’s in voor het automatisch besproeien van je tuin die ook zonder verbinding met je iPhone en thuisnetwerk worden uitgevoerd, zelfs als je op vakantie bent.
-- Compatibel met alle veelgebruikte slangstukken en waterverdelers zoals deze van Gardena of Kärcher; stel tot 7 tijdstippen voor bewatering in. Dit weer- en UV-bestendige product is in Duitsland ontwikkeld voor topprestaties in alle omstandigheden en werkt op batterijen. Ons zeer professionele, meertalige Support Team verleent assistentie vanuit Duitsland.
-- Complete privacy: geen Eve-cloud, geen registratie, geen tracking. Lokale intelligentie en directe communicatie zonder bridge of cloud.
 - HomeKit-compatibel voor een ongeëvenaard gebruiksgemak en geavanceerde beveiliging; Klaar voor gebruik in een handomdraai dankzij de snelle en eenvoudige configuratie zonder bridge of gateway; Maakt automatisch verbinding met je Thread-netwerk en ondersteunt Bluetooth en Thread
+- Complete privacy: geen Eve-cloud, geen registratie, geen tracking. Lokale intelligentie en directe communicatie zonder bridge of cloud.
+- Compatibel met alle veelgebruikte slangstukken en waterverdelers zoals deze van Gardena of Kärcher; stel tot 7 tijdstippen voor bewatering in. Dit weer- en UV-bestendige product is in Duitsland ontwikkeld voor topprestaties in alle omstandigheden en werkt op batterijen. Ons zeer professionele, meertalige Support Team verleent assistentie vanuit Duitsland.
+- Bedien je sprinkler of sproeisysteem via de Eve-app, Siri of de fysieke knop. Of stel makkelijk schema’s in voor het automatisch besproeien van je tuin die ook zonder verbinding met je iPhone en thuisnetwerk worden uitgevoerd, zelfs als je op vakantie bent.
 - Kijk nooit meer naar de watermeter, voorkom wateroverlast dankzij de automatische uitschakeling en houd het waterverbruik voor je tuin bij.
 
 [🛒 Buy it!!]({{< param buyurl >}})

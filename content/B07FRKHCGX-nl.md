@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Hartnoten: iris, absolue van roos en oranjebloesem
-- Een oriëntaals bloemenparfum
-- Topnoten: rode grapefruit, passievrucht en nectarinebloesem
-- Basisnoten: gouden amber, vloeibare patchoeli en nirvanolide-muskus
 - Het mysterieuze parfum van Christina Aguilera
+- Topnoten: rode grapefruit, passievrucht en nectarinebloesem
+- Hartnoten: iris, absolue van roos en oranjebloesem
+- Basisnoten: gouden amber, vloeibare patchoeli en nirvanolide-muskus
+- Een oriëntaals bloemenparfum
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07FRKHCGX{{</world>}}

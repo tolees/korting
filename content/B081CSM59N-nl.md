@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- SPECIALE FORMULE: Microspheres voor extreme hechting aan lippen, naturel extract van zeeplanten, co-enzym Q10 & vitamine A & E helpen lippen glad maken, exclusief polymeercomplex voor zachte textuur
-- BREED SCALA PRODUCTEN: Ontdek de kwaliteit en het breed scala van cosmetica aangeboden door wet n wild! Wees jezelf en laat je van je wilde kant zien met onze lipsticks, oogschaduw en nog veel meer!
-- EXPERTISE: Sinds 1979 creëert wet n wild producten van hoge kwaliteit voor liefhebbers van cosmetica van alle leeftijden, voor alle huidtinten, zonder ooit een huidtype te verwaarlozen
-- VEILIGHEID: Bij wet n wild hebben we altijd zorg gedragen voor de veiligheid van onze producten die dermatologisch getest zijn
 - LANGHOUDENDE KLEUR: Makkelijk aan te brengen met een rijke kleur die urenlang houdt. De hoogglanzende finish hydrateert de hele dag. Matte finish geeft een fluweelzacht gevoel
+- VEILIGHEID: Bij wet n wild hebben we altijd zorg gedragen voor de veiligheid van onze producten die dermatologisch getest zijn
+- EXPERTISE: Sinds 1979 creëert wet n wild producten van hoge kwaliteit voor liefhebbers van cosmetica van alle leeftijden, voor alle huidtinten, zonder ooit een huidtype te verwaarlozen
+- BREED SCALA PRODUCTEN: Ontdek de kwaliteit en het breed scala van cosmetica aangeboden door wet n wild! Wees jezelf en laat je van je wilde kant zien met onze lipsticks, oogschaduw en nog veel meer!
+- SPECIALE FORMULE: Microspheres voor extreme hechting aan lippen, naturel extract van zeeplanten, co-enzym Q10 & vitamine A & E helpen lippen glad maken, exclusief polymeercomplex voor zachte textuur
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B081CSM59N{{</world>}}

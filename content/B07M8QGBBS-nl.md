@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Hout uit gecertificeerde, duurzaam beheerde bossen
-- Voor verbluffend lichtgevende effecten met water en penseel op aquarelpapier
-- Kleurstift in klassiek zeskantformaat met wateroplosbare vulling, Made in Germany
 - Ook geschikt voor verschillende klassieke droogtechnieken
 - Inhoud: metalen etui met 12 heldere kleuren
+- Hout uit gecertificeerde, duurzaam beheerde bossen
+- Kleurstift in klassiek zeskantformaat met wateroplosbare vulling, Made in Germany
+- Voor verbluffend lichtgevende effecten met water en penseel op aquarelpapier
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07M8QGBBS{{</world>}}

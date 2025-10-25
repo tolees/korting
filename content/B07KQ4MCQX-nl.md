@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- PERFECT VOOR JONG EN OUD: Met deze kit kunnen kinderen vanaf 10 jaar zelf experimenteren en ontdekken hoe een robot werkt en welke techniek daarachter zit.
+- IDEAAL STEM-PROJECT:
+- MILIEUVRIENDELIJK: Het voertuig functioneert volledig zonder fossiele brandstoffen of elektriciteit en wordt uitsluitend aangedreven door lucht.
 - GEDETAILLEERDE HANDLEIDING: In de handleiding wordt stap voor stap met duidelijke tekeningen, tips en tricks uitgelegd hoe je de robot bouwt.
 - EDUCATIEF: Ontdek de wereld van elektronica, mechanica, robotica, hydraulica of pneumatiek met de coole robotkits van Velleman. Perfect voor de toekomstige ingenieur!
-- PERFECT VOOR JONG EN OUD: Met deze kit kunnen kinderen vanaf 10 jaar zelf experimenteren en ontdekken hoe een robot werkt en welke techniek daarachter zit.
-- MILIEUVRIENDELIJK: Het voertuig functioneert volledig zonder fossiele brandstoffen of elektriciteit en wordt uitsluitend aangedreven door lucht.
-- IDEAAL STEM-PROJECT:
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07KQ4MCQX{{</world>}}

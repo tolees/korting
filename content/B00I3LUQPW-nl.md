@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Keuze uit kleuren voor afstemming op uw stijl
-- Neodymium-drivers van 9 mm voor dynamisch geluid
 - Lichtgewicht voor ultieme mobiliteit in muziek
 - Frequentiebereik van 8 Hz-22 kHz
+- Keuze uit kleuren voor afstemming op uw stijl
+- Neodymium-drivers van 9 mm voor dynamisch geluid
 - Comfortabele, nauwsluitende siliconen oordopjes
 
 [🛒 Check the deal!!]({{< param buyurl >}})

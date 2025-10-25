@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Compact design – Klein en licht en daarom erg handig om mee te nemen op reis zodat je via ethernet of WISP een wifi-netwerk tot stand kunt brengen
+- Compatibiliteit met printservers: TL-PS110P, TL-PS110U, TL-WPS510U, TL-PS310U. 3G / 4G-compatibiliteit: TL-MR3040, TD-W9970, TL-MR3020, TL-MR3220, TL-MR3420, Archer VR400, Archer VR900, Archer VR2800, Archer VR200, TD-W8970, TD-W8968, TL-WR902AC, Archer VR2100v, Archer VR2100, Archer VR600
+- Eén schakelaar voor meerdere modi – Perfect om thuis, in een hotelkamer of onderweg een wifi-verbinding tot stand te brengen
+- Veelzijdige usb-aansluiting – Om bestanden te delen of mobiele apparaten op te laden
 - Flexibele kracht – Micro usb-poort naar een adapter, draagbare lader of laptop
 - Dual-band AC750 wifi – Sterke, snelle verbinding om op al uw apparaten in HD te streamen
-- Eén schakelaar voor meerdere modi – Perfect om thuis, in een hotelkamer of onderweg een wifi-verbinding tot stand te brengen
-- Compatibiliteit met printservers: TL-PS110P, TL-PS110U, TL-WPS510U, TL-PS310U. 3G / 4G-compatibiliteit: TL-MR3040, TD-W9970, TL-MR3020, TL-MR3220, TL-MR3420, Archer VR400, Archer VR900, Archer VR2800, Archer VR200, TD-W8970, TD-W8968, TL-WR902AC, Archer VR2100v, Archer VR2100, Archer VR600
-- Veelzijdige usb-aansluiting – Om bestanden te delen of mobiele apparaten op te laden
-- Compact design – Klein en licht en daarom erg handig om mee te nemen op reis zodat je via ethernet of WISP een wifi-netwerk tot stand kunt brengen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B01MY5JIJ0{{</world>}}

@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- ELK SCHAALTJE EEN UNICAAT: Een speciaal glazuur zorgt voor verschillende kleurnuances die elk artikel van de Lavecollectie echt uniek maken.
 - INHOUD: 1 x Lave glacé dipschaaltje 10x10x6cm, materiaal: aardewerk, kleur: turquoise (art.nr.: 1042823822)
+- ELK SCHAALTJE EEN UNICAAT: Een speciaal glazuur zorgt voor verschillende kleurnuances die elk artikel van de Lavecollectie echt uniek maken.
 - PERFECT CADEAUIDEE: Met het unieke potterykarakter en de elegante look is het turquoise Lave dipschaaltje echt iets voor stijlvolle genieters en Scandinaviëfans.
 - BESTE MATERIAAL VOOR STIJLVOL GENIETEN: Het hoogwaardige aardewerk zet lekkernijen in de schijnwerpers en ligt bovendien heerlijk in de hand. Magnetronbestendig en vaatwasmachinebestendig.
 - VELE COMBINATIEMOGELIJKHEDEN: Verschillende kopjes, borden, schaaltjes en serveerborden completeren de omvangrijke serviescollectie van like. by Villeroy & Boch.
