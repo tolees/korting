@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Goede grip
-- Eenvoudig aan te brengen.
 - Extra duurzame ingrediënten
+- Eenvoudig aan te brengen.
+- Goede grip
 - Voelt zacht aan
 - Flexibel.
 

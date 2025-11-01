@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Ingredient: PEG-115M, Tocopherol, Polysorbate 20, Lanolin, BHT.Bic Miss Soleil Color Collection Scheermesjes, 4 Stuk
 - Gebruik bij het scheren. Scheren & Ontharen
+- Ingredient: PEG-115M, Tocopherol, Polysorbate 20, Lanolin, BHT.Bic Miss Soleil Color Collection Scheermesjes, 4 Stuk
 - 4 Stuk
 
 [🛒 Buy it!!]({{< param buyurl >}})

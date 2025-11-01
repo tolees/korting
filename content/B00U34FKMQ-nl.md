@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Aantal diafragma lamellen: 7, groothoeklens zoom
-- E-Mount full-format; 10-voudige zoom
 - Filterdiameter: 72 mm, minimale scherpstelafstand: 0,5 – 0,8 m, maximale vergroting: 0,27, stof- en vochtbestendig
-- Inhoud: Sony SEL24240 groothoek-zoomlens zwart, lensdop (voor- en achter), zonneklep ALC-SH136 - Geschikt voor A7, A6000, A5100, A5000 en Nex Series
 - Brandpuntsafstand: 24-240 mm, diafragma F3,5- 6,3 OSS
+- E-Mount full-format; 10-voudige zoom
+- Inhoud: Sony SEL24240 groothoek-zoomlens zwart, lensdop (voor- en achter), zonneklep ALC-SH136 - Geschikt voor A7, A6000, A5100, A5000 en Nex Series
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B00U34FKMQ{{</world>}}

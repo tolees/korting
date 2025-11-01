@@ -30,8 +30,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Ronde hals
 - Elastisch en ademend materiaal
-- Swoosh-logo op de rechtermouw
 - Bovenmateriaal: synthetisch
+- Swoosh-logo op de rechtermouw
 - Binnenmateriaal: synthetisch
 
 [🛒 Check the deal!!]({{< param buyurl >}})

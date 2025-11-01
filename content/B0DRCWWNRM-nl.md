@@ -33,8 +33,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 - Motor speelgoed voor kinderen – jongens en meisjes vanaf 6 jaar kunnen race- en actiescènes uit seizoen 3 van de NINJAGO Dragons Rising tv-serie naspelen met het Kais motorrace bouwpakket voor kinderen
 - Grotere ninja-avonturen – kijk uit naar meer LEGO NINJAGO speelgoed (sets apart verkrijgbaar) om nog meer actie te beleven met Kais motorrace
 - Een universum vol ninjaspeelgoed – LEGO NINJAGO sets laten kinderen samen met hun ninjahelden ontsnappen naar een fantasiewereld vol avontuur
-- 2 ninjamotoren – deze set boordevol actie bevat 2 speelgoed motoren met beweegbare wielen: Kais racemotor versierd met 2 dolken en de demonenmotor van de Draconische geestverkenner
 - Klein cadeau voor jongens en meisjes – dit avontuurlijke speelgoed biedt een leuke bouw- en speelervaring en is een traktatie voor kinderen die graag samen spelen met vrienden en hun krachten bundelen met hun ninjahelden
+- 2 ninjamotoren – deze set boordevol actie bevat 2 speelgoed motoren met beweegbare wielen: Kais racemotor versierd met 2 dolken en de demonenmotor van de Draconische geestverkenner
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DRCWWNRM{{</world>}}

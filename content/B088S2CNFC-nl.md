@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Deze premium camera geeft huidtinten met soft skin effect zacht en natuurlijk weer en zorgt voor een optimale gezichtsverlichting
+- De ZV-1 is met het zijdelings inklapbare LC-display, het opnamelichtje voor selfie-videos, de veilige handgreep en de eenvoudige bediening perfect voor vloging
+- De innovatieve real-time autofocus technologie met oogherkenning van Sony volgt de ogen continu bij het opnemen van 4K-videos
 - Met de Product Showcase Setting worden videorecensies perfect opgenomen en met Bokeh Switch kan de achtergrondonscherpte heel eenvoudig worden aangepast
 - De camera beschikt over een directionele 3-capsule-microfoon en een windscherm voor hoogwaardig geluid
-- De innovatieve real-time autofocus technologie met oogherkenning van Sony volgt de ogen continu bij het opnemen van 4K-videos
-- De ZV-1 is met het zijdelings inklapbare LC-display, het opnamelichtje voor selfie-videos, de veilige handgreep en de eenvoudige bediening perfect voor vloging
+- Deze premium camera geeft huidtinten met soft skin effect zacht en natuurlijk weer en zorgt voor een optimale gezichtsverlichting
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B088S2CNFC{{</world>}}

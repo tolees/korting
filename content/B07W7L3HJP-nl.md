@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- De Logitech Crayon levert nauwkeurige en snelle invoer met honderden onmisbare door Apple Pencil ondersteunde apps en de lijst wordt elke dag langer.
+- Wil je een dikkere of een dunnere lijn? Gewoon kantelen en de slimme punt past de lijndikte automatisch aan aan de dikte die je nodig hebt.
 - De Logitech Crayon maakt gebruik van Apple Pencil-technologie, zodat je op natuurlijke wijze kunt schrijven en tekenen met pixelperfecte precisie zonder een lijn of detail te missen.
 - De Logitech Crayon maakt direct verbinding met de iPad: schuif de aan/uit-schakelaar omlaag en begin met schrijven. Geen apparaatkoppeling of andere vertragingen vereist.
 - Voor alle iPad-modellen die in 2018 of later met iOS 12.2 zijn uitgebracht, inclusief iPad Pro 12,9" (3e, 4e, 5e en 6e generatie), iPad Pro 11" (1e, 2e, 3e en 4e generatie), iPad (6e, 7e, 8e, 9e en 10e generatie), iPad Air (3e en 4e generatie) en iPad Mini (5e generatie).
-- Wil je een dikkere of een dunnere lijn? Gewoon kantelen en de slimme punt past de lijndikte automatisch aan aan de dikte die je nodig hebt.
+- De Logitech Crayon levert nauwkeurige en snelle invoer met honderden onmisbare door Apple Pencil ondersteunde apps en de lijst wordt elke dag langer.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07W7L3HJP{{</world>}}

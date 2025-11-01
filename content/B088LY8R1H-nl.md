@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Snelle toegang tot Amazon Prime en Netflix
-- Kalibratiefunctie voor tv-geluid
 - Muiswijzerfunctie, gebarenbediening
+- Snelle toegang tot Amazon Prime en Netflix
 - Ideaal voor Google Assistant en Alexa
+- Kalibratiefunctie voor tv-geluid
 - Spraakbesturing met microfoonknop
 
 [🛒 Buy it!!]({{< param buyurl >}})

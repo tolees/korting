@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Zachte afwerking
-- Karakteristieke uitstraling
-- Nala in liggende houding
 - Geïnspireerd op De Leeuwenkoning
+- Karakteristieke uitstraling
 - Geborduurde details
+- Nala in liggende houding
+- Zachte afwerking
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BGX3959C{{</world>}}

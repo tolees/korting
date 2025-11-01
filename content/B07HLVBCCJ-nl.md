@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Fijn gedecoreerde kerststal met vijf beeldjes
-- Afmetingen: Hoogte - 20 cm, breedte - 14 cm, lengte - 27 cm
-- Ontwerper: Massimo Giacon, Marcello Jori
 - Materialen: Handgedecoreerd porselein
 - Ontworpen voor degenen die houden van de speciale kerstsfeer en innovatie in traditie waarderen
+- Fijn gedecoreerde kerststal met vijf beeldjes
+- Ontwerper: Massimo Giacon, Marcello Jori
+- Afmetingen: Hoogte - 20 cm, breedte - 14 cm, lengte - 27 cm
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07HLVBCCJ{{</world>}}

@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Brede compatibiliteit en eenvoudige instellingen: met een totale lengte van 330 m, compatibel met 99% van de FDM-3D-printers en pennen, is ons filament geschikt voor een groot aantal toepassingen. Aanbevolen extrusie-/sproeitemperatuur: 220-230 °C, bedtemperatuur: 60-70 °C.
-- Veelzijdig en betrouwbaar: het PETG-filament combineert naadloos de beste eigenschappen van ABS en PLA en biedt zo eenvoudig printen als PLA en biedt tegelijkertijd een vergelijkbare sterkte met ABS. De duurzaamheid, flexibiliteit en schokbestendigheid maken het perfect voor het maken van alledaagse dingen.
 - Verbeterde lichtdoorlatendheid: geniet van een superieure lichtdoorlatendheid met PETG-filament, dat in vergelijking met PLA minimale warping en krimping heeft. PETG is ideaal voor projecten die lichtdiffusie vereisen, de keuze is om adembenemende visuele effecten te bereiken.
+- Veelzijdig en betrouwbaar: het PETG-filament combineert naadloos de beste eigenschappen van ABS en PLA en biedt zo eenvoudig printen als PLA en biedt tegelijkertijd een vergelijkbare sterkte met ABS. De duurzaamheid, flexibiliteit en schokbestendigheid maken het perfect voor het maken van alledaagse dingen.
+- Brede compatibiliteit en eenvoudige instellingen: met een totale lengte van 330 m, compatibel met 99% van de FDM-3D-printers en pennen, is ons filament geschikt voor een groot aantal toepassingen. Aanbevolen extrusie-/sproeitemperatuur: 220-230 °C, bedtemperatuur: 60-70 °C.
 - Geen verstoppingen, geen luchtbellen: de nauwkeurige diametertolerantie van ons PETG-filament van +/- 0,02 mm garandeert een gelijkmatige toevoer en een soepele extrusie, wat verstoppingen van de sproeier voorkomt. Elke rol doorloopt 24 uur lang drogen en is vacuüm verzegeld in een hersluitbare verpakking voor optimale prestaties.
 - Verwarringsvrije wikkeling: ons PETG-filament wordt met nauwkeurige mechanische wikkeltechnologie netjes gewikkeld om klitten te minimaliseren en lijnbreuk te voorkomen. Bovendien houden de meegeleverde filamentsnoerclips je filament veilig en klitvrij.
 

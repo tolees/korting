@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Voor groter lijkende ogen
 - Overdrachtbestendig
-- Tot 36 uur lanhoudend* consumententest, 100 vrouwen
-- Waterproof & vlekbestendig
+- Voor groter lijkende ogen
 - Geschikt voor gevoelige ogen en dragers van contactlenzen
+- Waterproof & vlekbestendig
+- Tot 36 uur lanhoudend* consumententest, 100 vrouwen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09NQGDDGF{{</world>}}

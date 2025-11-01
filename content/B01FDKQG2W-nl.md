@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Schacht van hout
-- Hardheid OH
 - Breukbestendig door speciale lijmtechniek
+- Hardheid OH
+- Schacht van hout
 - Schachtvorm hexagonaal
 - Dikte van de stift 3,6
 

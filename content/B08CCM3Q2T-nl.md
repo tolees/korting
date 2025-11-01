@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Vermindert zichtbaar de 5 tekenen van vermoeidheid
-- 24 uur lang hydratatie
 - De crème zorgt voor een fris gevoel zonder te plakken
 - Speciaal voor mannen die last hebben van een droge en vermoeide huid
+- 24 uur lang hydratatie
+- Vermindert zichtbaar de 5 tekenen van vermoeidheid
 - Boost de vermoeide huid
 
 [🛒 Buy it!!]({{< param buyurl >}})

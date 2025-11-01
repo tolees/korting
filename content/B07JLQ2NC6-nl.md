@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Het begin van een legende. Stort je op een ongelooflijk avontuur dat niet van deze wereld is…
+- Captain Quark, de meest legendarische Galactic Ranger ooit, is niet blij met de plotselinge populariteit van Ratchet en Clank en probeert hun werk te saboteren. Lukt het dit dynamische duo om Captain Quark weer aan hun kant te krijgen?
+- Grafisch is de game niet te onderscheiden van de Ratchet & Clank film en wat de core mechanics betreft, blijft ontwikkelaar Insomniac Games trouw aan de originele Ratchet & Clank games. De klassieke gameplay wordt versterkt door heel wat nieuwe spelelementen, waaronder uitdagende boss fights, nieuwe vlieg-levels en een heuse hoverboard race!
 - Het welbekende duo Ratchet en Clank is terug, en ditmaal voor het eerst op PlayStation 4. Deze heruitgave grijpt terug naar het originele verhaal van Ratchet en Clank
 - Met de beste elementen uit de hele Ratchet & Clank collectie, een brede waaier aan gloednieuwe spelelementen en indrukwekkende visuals wordt de oorspronkelijke verhaallijn nieuw leven ingeblazen
-- Het begin van een legende. Stort je op een ongelooflijk avontuur dat niet van deze wereld is…
-- Grafisch is de game niet te onderscheiden van de Ratchet & Clank film en wat de core mechanics betreft, blijft ontwikkelaar Insomniac Games trouw aan de originele Ratchet & Clank games. De klassieke gameplay wordt versterkt door heel wat nieuwe spelelementen, waaronder uitdagende boss fights, nieuwe vlieg-levels en een heuse hoverboard race!
-- Captain Quark, de meest legendarische Galactic Ranger ooit, is niet blij met de plotselinge populariteit van Ratchet en Clank en probeert hun werk te saboteren. Lukt het dit dynamische duo om Captain Quark weer aan hun kant te krijgen?
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07JLQ2NC6{{</world>}}

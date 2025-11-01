@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Inhoud: 1 x PLAYMOBIL Back to the Future Part II Hoverboard Chase, 80-delige speelfiguurset met instructies: 1 bodemplaat, 4 figuren, 1 motor, 74 accessoires, Materiaal: kunststof, LxDxH basisplaat: ca. 22,5x26x19,5 cm, Gewicht: 320 g, 70634
+- Dagelijks gebruik: instructies voor montage (met ouders), Hoge kwaliteit en robuust ontwerp, Om de onderdelen te reinigen (niet inclusief stickers), plaats stukken onder stromend water zonder chemische middelen
+- 1 platform met vijver, pad en straatverlichting, 2 hoverboards met voetklem, 2 transparante bases, 1 ansichtkaart, 2 extra onderdelen voor 70317 DeLorean
 - PLAYMOBIL Terug naar de toekomst Deel II Hoverboard Chase met Marty McFly, Dr. Emmett Brown, Griff Tannen en Politievrouw uit de iconische hoverboard scene
 - Speelset voor kinderen vanaf 6 jaar: past perfect in kinderhanden door op de leeftijd afgestemde afmetingen, gemakkelijk vast te houden dankzij de afgeronde randen
-- 1 platform met vijver, pad en straatverlichting, 2 hoverboards met voetklem, 2 transparante bases, 1 ansichtkaart, 2 extra onderdelen voor 70317 DeLorean
-- Dagelijks gebruik: instructies voor montage (met ouders), Hoge kwaliteit en robuust ontwerp, Om de onderdelen te reinigen (niet inclusief stickers), plaats stukken onder stromend water zonder chemische middelen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08PPQ5KJ8{{</world>}}

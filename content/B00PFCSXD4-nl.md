@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Inhoud: 1 x mascara Maybelline New York Lash Sensational, Kleur: Zeer zwart, Inhoud: 9,5 ml
 - Plaats de borstel aan de basis van je wimpers en draai iets naar boven om alle wimpers te bedekken en bedek ze; borstel met het gebogen deel van de borstel over je wimpers om ze nog meer volume te geven en ze uit te breiden
 - De formule met lage was geeft intense kleuren zonder wimpers aan elkaar te plakken, Ofthalmologisch getest op gevoelige ogen en dragers van contactlenzen
+- Inhoud: 1 x mascara Maybelline New York Lash Sensational, Kleur: Zeer zwart, Inhoud: 9,5 ml
 - Ventilatoreffect, Geen klontering, Geen vlekken voor extra zwart volume, zelfs op de dunste wimpers
 - Mascara met zeer zwarte volume met gebogen siliconenborstel met 6 borstelharen van verschillende grootte voor een verbeterde look
 

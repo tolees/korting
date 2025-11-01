@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - PUMA Cat-logo op de hiel
-- Gerecycled bovenwerk
+- PUMA Formstrip aan de laterale en mediale zijden
 - Rubberen buitenzool
 - Rubberen tussenzool
-- PUMA Formstrip aan de laterale en mediale zijden
+- Gerecycled bovenwerk
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09L5J5PCY{{</world>}}

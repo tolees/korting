@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- vierkant en rechthoekig in de kleuren rood, blauw, groen en geel
 - De vlakgommen zijn driehoekig, cirkelvormig
 - Gemakkelijk te verwijderen met water
 - Pakje broodjes gomets in veelkleurige kleuren: geel, blauw, rood en groen
-- vierkant en rechthoekig in de kleuren rood, blauw, groen en geel
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B001ANZUEC{{</world>}}

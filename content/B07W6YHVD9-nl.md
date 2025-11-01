@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Dri-FIT-technologie houdt je droog en comfortabel
-- Materiaal: 100% polyester (gerecycled)
 - Zijzakken
+- Dri-FIT-technologie houdt je droog en comfortabel
 - Onderhoudsinstructie: machinewas, geen wasverzachter gebruiken
+- Materiaal: 100% polyester (gerecycled)
 - Normale pasvorm voor een ontspannen en licht gevoel
 
 [🛒 Buy it!!]({{< param buyurl >}})

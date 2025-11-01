@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- De BURST ELITE, een van de beste SSDs in het segment, geeft u de mogelijkheid om de "oude" harde schijf van uw computer of notebook te vervangen
 - Met verbeterde batterijduur voor laptops; de schijf is 45 keer energiezuiniger dan een traditionele harde schijf
+- De BURST ELITE, een van de beste SSDs in het segment, geeft u de mogelijkheid om de "oude" harde schijf van uw computer of notebook te vervangen
 - 3 jaar garantie; Ondersteunde O / S: Windows 7 * / 8.0 * / 8.1 / 10
 - U bent klaar met de Patriot BURST ELITE SSD om de prestaties van uw pc te verhogen en de uitvoering van applicaties te versnellen
 - Volgende generatie SATA 3-controller Geïntegreerde end-to-end gegevenspadbeveiliging, SmartECC-technologie en thermische beperking

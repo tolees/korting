@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- De legpuzzel verbergt 10 vormen die alleen zichtbaar zijn als je de puzzel in elkaar legt - kun jij ze allemaal vinden?
 - De stukken zijn gemaakt van milieuvriendelijke, hoogwaardige materialen en gebruiken reflecterend papier.
 - Goede geheugentraining, ontwikkeling van manuele vaardigheden, oefening van concentratie, geduld en scherpzinnigheid.
+- De legpuzzel verbergt 10 vormen die alleen zichtbaar zijn als je de puzzel in elkaar legt - kun jij ze allemaal vinden?
 - Puzzels uit de serie Verborgen Vormen zal alle puzzelliefhebbers die op zoek zijn naar nieuwe uitdagingen bekoren. Zij bestaan uit van 1000 en 11 elementen. De legpuzzel heeft een afmeting van 683 x 480 mm.
 - Een uniek cadeau voor puzzelliefhebbers, volwassenen en kinderen vanaf 12 jaar.
 

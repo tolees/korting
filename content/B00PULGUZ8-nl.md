@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Geurloze formule
 - Milde make-up remover zonder parfum en alcohol* (* Ethyl alcohol)
 - Verwijdert make-up in één beweging zonder veel wrijven en irritaties
 - Reinigt en verzacht de gevoelige huid
-- Geurloze formule
 - Gezichtsreiniging zonder de huid uit te drogen dankzij het hydraterende effect
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Grote kom met verhoogde tanden voor de presentatie van culinaire lekkernijen of voor decoratie
-- 1x Villeroy & Boch NewWave Eye-Catcher Double Shell, 49 x 27 cm, gewicht: 1,91 kg (artikelnummer 10-2525-6500)
 - Elegant dienblad in elegant golfdesign voor het stijlvol serveren van gerechten of als decoratief element
-- Vaatwasmachinebestendig, magnetronbestendig, hoge kwaliteit: premium porselein, made in Germany
+- Grote kom met verhoogde tanden voor de presentatie van culinaire lekkernijen of voor decoratie
 - Ideaal voor het presenteren van fruit of als decoratief element op tafel of dressoir
+- Vaatwasmachinebestendig, magnetronbestendig, hoge kwaliteit: premium porselein, made in Germany
+- 1x Villeroy & Boch NewWave Eye-Catcher Double Shell, 49 x 27 cm, gewicht: 1,91 kg (artikelnummer 10-2525-6500)
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0070TN6DC{{</world>}}

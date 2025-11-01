@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Inhoud 100 Milliliter
-- Eau De Toilette Man 100 Milliliter
 - Geur Eau De Toilette
+- Eau De Toilette Man 100 Milliliter
+- Inhoud 100 Milliliter
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B000BTO6E6{{</world>}}

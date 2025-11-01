@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Aantal diafragma lamellen: 7, portretobjectief; kijkhoek (APS-C): 32°
-- E-Mount APS-C
 - Brandpuntsafstand: 55 mm, diafragma F1,8 OSS
-- Inhoud: Sony SEL50F18B, portretlens zwart, zonnescherm (ALC-SH116), lensbeschermkap, bajonetbeschermkap
 - Extreem stille en ultrasnelle lineaire AF motor - ideaal voor foto- en video-opnamen, geïntegreerde optische beeldstabilisatie
+- Aantal diafragma lamellen: 7, portretobjectief; kijkhoek (APS-C): 32°
+- Inhoud: Sony SEL50F18B, portretlens zwart, zonnescherm (ALC-SH116), lensbeschermkap, bajonetbeschermkap
+- E-Mount APS-C
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00EPWC30O{{</world>}}

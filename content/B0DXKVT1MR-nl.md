@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Bestorm door demonen geteisterde slagvelden in wrede grondgevechten
-- Met een aanpasbaar moeilijkheidssysteem is het de perfecte instap voor zowel nieuwe spelers als veteranen
 - Prequel op de veelgeprezen titels DOOM en DOOM Eternal
+- Met een aanpasbaar moeilijkheidssysteem is het de perfecte instap voor zowel nieuwe spelers als veteranen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DXKVT1MR{{</world>}}

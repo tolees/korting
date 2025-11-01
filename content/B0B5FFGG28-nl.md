@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Ontworpen voor Disney Store
 - 3D-oren en -strik
 - Jurk met Engels borduurwerk als afwerking en geborduurde stippen
-- Ontworpen voor Disney Store
 - Minnie draagt haar klassieke rode outfit met witte handschoenen, gele schoentjes en een strik
 - Met geborduurde details
 

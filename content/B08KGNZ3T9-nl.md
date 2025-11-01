@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Led-indicatie: Toont informatie over het Bluetooth-signaal, de accustatus en de actieve besproeiing - voor het gebruik is een 9 V-accu nodig (niet inbegrepen)
 - Waterbesparend en ecologisch: De los verkrijgbare Gardena bodemvochtigheidssensor kan worden aangesloten voor een waterbesparende besproeiing die is afgestemd op de behoeften
 - Flexibele programmering: Maximaal 3 individueel instelbare tijdschemas voor de besproeiing - optioneel selecteerbare functies zoals seizoensgebonden besproeiingsduur en regenpauze
 - Efficiënt watermanagement: Via de Bluetooth-app kunt u de besproeiing van uw tuin vanaf elke locatie eenvoudig en betrouwbaar aansturen (online-registratie vereist)
+- Led-indicatie: Toont informatie over het Bluetooth-signaal, de accustatus en de actieve besproeiing - voor het gebruik is een 9 V-accu nodig (niet inbegrepen)
 - De levering omvat: 1 x Gardena besproeiingscomputer Bluetooth (batterij niet bij de levering inbegrepen)
 
 [🛒 Buy it now!!]({{< param buyurl >}})

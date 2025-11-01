@@ -30,9 +30,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Hoge kwaliteit – De Ravensburger puzzels zullen je overtuigen met premium kwaliteit, zowel qua inhoud als materiaal
 - Easy click technology- Individuele stukken zijn zo nauwkeurig gemaakt dat je daadwerkelijk een klik kunt horen wanneer een stuk op de juiste plaats wordt aangelegd
+- De gelegde puzzel heeft een afmeting van ca. 70 x 50 cm
 - Voor kinderen en volwassenen vanaf 14 jaar
 - Antireflectie-oppervlak - Ravensburger-puzzels gebruiken een exclusief ontwikkeld, extra dik karton in combinatie met ons fijne, linnen gestructureerde papier om een ​​niet-reflecterend puzzeloppervlak te creëren en je de best mogelijke puzzelervaring te geven
-- De gelegde puzzel heeft een afmeting van ca. 70 x 50 cm
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B00HFR4NSQ{{</world>}}

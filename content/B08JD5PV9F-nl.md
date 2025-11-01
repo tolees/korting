@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Praktische USB-poort beschermd door een solide dop
 - USB-stick goodram 128 GB uts3 rood USB 3.41
+- Praktische USB-poort beschermd door een solide dop
 - Meerdere kleuren, afhankelijk van de capaciteit
 
 [🛒 Buy it!!]({{< param buyurl >}})

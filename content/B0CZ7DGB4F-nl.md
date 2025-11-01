@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Brede bruikbaarheid: geschikt voor heel Europa en Groot-Brittannië. Ideaal voor thuis of onderweg... Camper, caravan, vrachtwagen, jacht, boot, thuis. De tv kan worden gevoed door 12 of 24 volt gelijkstroom of 230 V wisselstroom (beide netsnoeren meegeleverd).
+- 16 inch SMART (aangedreven door LG webOS Hub) tv met Magic-afstandsbediening ontworpen door LG. DRIEVOUDIGE TUNER: DVB-T/T2-tuner voor Freeview HD en heel Europa Free to Air TV. DVB-S2-tuner voor satelliet-HD-tv. DVB-C voor kabeltelevisie.
+- VOLLEDIGE CONNECTIVITEIT: Dual mode WiFi (2,4 of 5 GHz) en hardwire Ethernet (Rj45). Ingebouwde Bluetooth. Optie voor het delen van schermen voor mobiele apparaten, evenals 3 x HDMI, 2 x USB, RCA, optisch geluid, CI+ (voor betaal-tv-abonnementsdiensten), koptelefoon-, antenne- en satellietaansluitingen.
 - UITSTEKENDE KWALITEIT: Full HD (1080p), uitstekende VOLLEDIGE kijkhoek (178/178 graden), Nieuwste coderingsondersteuning H.265 HEVC10 bit. Ingebouwde mediaspeler en ook vooraf geïnstalleerd met de populairste entertainment-apps (Netflix, YouTube, Amazon Prime, Disney+ enz.). Laag stroomverbruik (15 kWh per jaar).
 - STEVIGHEID, DUURZAAMHEID en UNIVERSALITEIT: Robuust, duurzaam ontwerp met meerdere voedingsopties inbegrepen in het pakket. Kan op de standaard worden gebruikt of aan de muur worden gemonteerd (VESA 75 x 75 mm) met een gratis meegeleverde basismuurbevestiging.
-- 16 inch SMART (aangedreven door LG webOS Hub) tv met Magic-afstandsbediening ontworpen door LG. DRIEVOUDIGE TUNER: DVB-T/T2-tuner voor Freeview HD en heel Europa Free to Air TV. DVB-S2-tuner voor satelliet-HD-tv. DVB-C voor kabeltelevisie.
-- Brede bruikbaarheid: geschikt voor heel Europa en Groot-Brittannië. Ideaal voor thuis of onderweg... Camper, caravan, vrachtwagen, jacht, boot, thuis. De tv kan worden gevoed door 12 of 24 volt gelijkstroom of 230 V wisselstroom (beide netsnoeren meegeleverd).
-- VOLLEDIGE CONNECTIVITEIT: Dual mode WiFi (2,4 of 5 GHz) en hardwire Ethernet (Rj45). Ingebouwde Bluetooth. Optie voor het delen van schermen voor mobiele apparaten, evenals 3 x HDMI, 2 x USB, RCA, optisch geluid, CI+ (voor betaal-tv-abonnementsdiensten), koptelefoon-, antenne- en satellietaansluitingen.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CZ7DGB4F{{</world>}}

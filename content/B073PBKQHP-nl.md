@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- De ultra-zachte reinigingsdoekjes van Neutrogena zijn doordrenkt met een verfrissende reinigingslotion, wat resulteert in een bijzonder zachte reiniging voor de huid
 - Ontdek de vernieuwde Neutrogena Hydro Boost ultra-zachte reinigingsdoekjes met hyaluronzuur, verrijkt met plantaardige vezels voor een nog zachtere ervaring
+- De ultra-zachte reinigingsdoekjes van Neutrogena zijn doordrenkt met een verfrissende reinigingslotion, wat resulteert in een bijzonder zachte reiniging voor de huid
 - De unieke formule, met Neutrogena-reinigingstechnologie, hyaluronzuur en hydraterende ingrediënten, helpt niet alleen bij het reinigen, maar ook bij het behouden van de vochtbalans van de huid
 - De Neutrogena reinigingsdoekjes verwijderen moeiteloos make-up en zelfs waterproof mascara, waardoor je huid fris en schoon aanvoelt
 

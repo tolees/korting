@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Leeftijd: Vanaf 7 jaar
-- Taal: Nederlands
-- Nieuwe uitgave van de Waddingtons Number 1 speelkaarten van Harry Potter en zijn vrienden, zoals Dumbledore, Malfoy, Sirius Black, Hermione, Mr Weasley en vele anderen!
-- Speeltijd: 30 minuten
 - Aanstal spelers: 1 tot 20 spelers
+- Taal: Nederlands
+- Speeltijd: 30 minuten
+- Leeftijd: Vanaf 7 jaar
+- Nieuwe uitgave van de Waddingtons Number 1 speelkaarten van Harry Potter en zijn vrienden, zoals Dumbledore, Malfoy, Sirius Black, Hermione, Mr Weasley en vele anderen!
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07N7XMJCM{{</world>}}

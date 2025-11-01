@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Circulaire diafragma met zeven lamellen voor prachtige scherpteffecten
 - Inhoud: Sony SEL55210 F4,5-6,3 / 55-210 mm E-Mount Sony Tele-Zoom-lens, lensbeschermer, bajonetbeschermer, zonnekap (ALC-SH115)
 - Direct handmatige focus met niet-draaiende scherpstelring bij AF: ideaal voor nauwkeurige, comfortabele handmatige scherpstellingen
 - Veelzijdige, lichte tele-zoomlens met 55-210 mm (komt overeen met APS-C: 82,5-315 mm) en F4,5 - 6,3 voor E-mount cameras met 3,8 x zoombereik
-- Circulaire diafragma met zeven lamellen voor prachtige scherpteffecten
 - Optische beeldstabilisator (SteadyShot) – tot 4 EV niveaus Kijkhoek (APS-C): 29-7 40
 
 [🛒 Buy it!!]({{< param buyurl >}})

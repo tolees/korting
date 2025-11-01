@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Gevoerde lijn voor hoge breukbestendigheid
 - Enkel potlood met 0.9mm lijnbreedte met HB lood
 - Hoogwaardig vulpotlood voor schrijven en tekenen
-- Gevoerde lijn voor hoge breukbestendigheid
 - Potlood heeft anti-slip rubberen grip zone en metalen clip, drukknop en punt
 - Cilindrische loodhuls, ideaal voor gebruik met linialen en sjablonen
 

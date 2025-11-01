@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - 15 graden naar beneden kantelen. 360 graden draaibaar. Kabel door plafondstang.
+- Geschikt voor VESA tot VESA 400 x 400 mm bevestigingsgaten; geschikt voor vlakke plafond, gebogen deken
 - Universele design plafondbeugel past op de meeste 26-55 inch displays. Controleer voor de installatie de tv-VESA en het gewicht.
 - Pakket inclusief: 1 tv-plafondhouder, een verlengstang van 78 cm, 1 standaard hardware-pakket.
-- Geschikt voor VESA tot VESA 400 x 400 mm bevestigingsgaten; geschikt voor vlakke plafond, gebogen deken
 - Eenvoudige hoogteverstelling: in hoogte verstelbaar 54 cm tot 78 cm. Draagvermogen: 45 kg.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

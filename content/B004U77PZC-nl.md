@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- De fles van deze Dove bodylotion is gemaakt van 100% gerecycled plastic**
 - Helpt de barrière van de huid te versterken om zo vochtverlies te voorkomen
 - Dagelijkse verzorging, voeding en hydratatie voor de normale tot droge huid
-- Dove Body Love Light Care Bodylotion: lichte verzorging en hydratatie
+- De fles van deze Dove bodylotion is gemaakt van 100% gerecycled plastic**
 - De lichte bodylotion trekt snel in en geeft tot 48 uur hydratatie
+- Dove Body Love Light Care Bodylotion: lichte verzorging en hydratatie
 - Deze bodylotion is geformuleerd met een uniek ceramide restoring serum
 
 [🛒 Check the deal!!]({{< param buyurl >}})

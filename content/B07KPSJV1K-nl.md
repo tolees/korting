@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Elk figuur is ongeveer 9 cm groot en verpakt in een geïllustreerde vensterdoos.
-- Tony Stark behoort nu tot de voortdurend uitgebreide POP! Productaanbod.
 - Deze Tony Stark POP! Figuur is nieuw in het Avengers Endgame assortiment.
+- Tony Stark behoort nu tot de voortdurend uitgebreide POP! Productaanbod.
+- Elk figuur is ongeveer 9 cm groot en verpakt in een geïllustreerde vensterdoos.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07KPSJV1K{{</world>}}

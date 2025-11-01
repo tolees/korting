@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Goed product met uitstekende kwaliteit
 - Eenvoudig te gebruiken
+- Goed product met uitstekende kwaliteit
 - Merk: STAEDTLER
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Water en transpiratie bestendige formule
+- Trekt snel in
+- Beschermt onmiddellijk tegen UVA/UVB-stralen
 - Geschikt voor gebruik tijdens sporten
 - Laat geen witte sporen achter op de huid
-- Water en transpiratie bestendige formule
-- Beschermt onmiddellijk tegen UVA/UVB-stralen
-- Trekt snel in
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B089HCHSTW{{</world>}}

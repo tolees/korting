@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 10 jaar beperkte garantie
-- 6-voudige bescherming tegen: water, extreme temperatuur, röntgenstraling, magneet, schok en slijtage
 - Inclusief adapter voor gebruik in cameras, laptops en desktopcomputers
-- Geschikt voor Android-smartphones, tablets, actiecameras, drones, gameconsoles en meer.
+- 6-voudige bescherming tegen: water, extreme temperatuur, röntgenstraling, magneet, schok en slijtage
+- 10 jaar beperkte garantie
 - Lees/schrijf snelheden tot 180/130MB/s met UHS-1 interface, snelheid varieert per capaciteit
+- Geschikt voor Android-smartphones, tablets, actiecameras, drones, gameconsoles en meer.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BYPDJ9ZW{{</world>}}

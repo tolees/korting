@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Het sluitsysteem maakt het intuïtief openen en vergrendelen met één hand mogelijk. De tang opent naar beneden gericht op lichte druk, en sluit naar boven gericht – gesloten bewaren of transporteren – geopend gebruiken
-- Hygiënisch, geur- en smaakneutraal en onderhoudsvriendelijk dankzij het roestvrij staal – vaatwasmachinebestendig
 - Het universele gereedschap voor de keuken: Rösle gourmettang van mat roestvrij staal voor grillen, koken, serveren en vele andere toepassingsmogelijkheden
+- Hygiënisch, geur- en smaakneutraal en onderhoudsvriendelijk dankzij het roestvrij staal – vaatwasmachinebestendig
+- Het sluitsysteem maakt het intuïtief openen en vergrendelen met één hand mogelijk. De tang opent naar beneden gericht op lichte druk, en sluit naar boven gericht – gesloten bewaren of transporteren – geopend gebruiken
 - Lengte 32,5 cm - breedte 4 cm - hoogte 3 cm - greeplengte 22,9 cm - greepdiameter 16 mm - nuttige lengte 7,1 cm - roestvrij staal 18/10, mat
 - Roestvrijstalen tang met ergonomische vorm voor extra hanteerbaarheid en hoog gebruikscomfort
 

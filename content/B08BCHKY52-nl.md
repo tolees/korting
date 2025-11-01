@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Afspeeltijd van 24 uur: de Soundcore 3-Bluetooth-speaker is dankzij de ultralange afspeeltijd waarmee u met één oplaadbeurt tot wel 480 nummers kunt luisteren perfect voor dagjes uit of weekendjes weg.
-- IPX7-waterdicht: neem de Soundcore 3-Bluetooth-speaker mee onder de douche, dompel de speaker onder in het zwembad of dans in de regen. Dankzij de waterdichte behuizing (IPX7) blijven de belangrijke onderdelen altijd goed beschermd.
-- Verbeterde drivertechnologie: De Soundcore 3-Bluetooth-speaker heeft twee drivers met membranen van 100% puur titanium, die hoge tonen weergeven tot 40 kHz en vervorming minimaliseren.
 - 16W-stereogeluid: het stereogeluid van de Soundcore 3 laat uw muziek meeslepender klinken en zorgt zowel binnen als buiten voor een actieve sfeer.
+- Verbeterde drivertechnologie: De Soundcore 3-Bluetooth-speaker heeft twee drivers met membranen van 100% puur titanium, die hoge tonen weergeven tot 40 kHz en vervorming minimaliseren.
+- IPX7-waterdicht: neem de Soundcore 3-Bluetooth-speaker mee onder de douche, dompel de speaker onder in het zwembad of dans in de regen. Dankzij de waterdichte behuizing (IPX7) blijven de belangrijke onderdelen altijd goed beschermd.
+- Afspeeltijd van 24 uur: de Soundcore 3-Bluetooth-speaker is dankzij de ultralange afspeeltijd waarmee u met één oplaadbeurt tot wel 480 nummers kunt luisteren perfect voor dagjes uit of weekendjes weg.
 - Verbeterde bas: de twee passieve basradiators en de vernieuwde BassUp-technologie werken samen om de bas in realtime te versterken, zelfs bij lage volumes.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

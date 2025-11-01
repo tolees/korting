@@ -28,16 +28,16 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Officieel gelicentieerd door Nintendo Compatibel met Nintendo Switch, Nintendo Switch Lite en Nintendo Switch (OLED-model)
-- Officieel gelicenseerd door Nintendo
-- Perfect voor wie enkel essentiële gameruitrusting nodig heeft
-- Dankzij het slanke, stevige ontwerp en de nylon polsband kunt u uw console gemakkelijk dragen en beschermen
-- Strak, bijpassend Switch design
-- Unieke console lift strap voor het veilig en gemakkelijk verwijderen van uw console
 - Geïntegreerde consolevoet
+- Strak, bijpassend Switch design
+- Dankzij het slanke, stevige ontwerp en de nylon polsband kunt u uw console gemakkelijk dragen en beschermen
+- Officieel gelicenseerd door Nintendo
+- Officieel gelicentieerd door Nintendo Compatibel met Nintendo Switch, Nintendo Switch Lite en Nintendo Switch (OLED-model)
+- Perfect voor wie enkel essentiële gameruitrusting nodig heeft
+- Unieke console lift strap voor het veilig en gemakkelijk verwijderen van uw console
 - De geïntegreerde standaard ondersteunt uw console zodat u ook onderweg comfortabel kunt gamen
-- Compatibel met Nintendo Switch, Nintendo Switch Lite, en Nintendo Switch (OLED-model)
 - Ideaal voor gamen onderweg of op reis
+- Compatibel met Nintendo Switch, Nintendo Switch Lite, en Nintendo Switch (OLED-model)
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0B3VMHMDT{{</world>}}

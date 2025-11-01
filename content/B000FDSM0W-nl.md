@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Kersenontpitter voor het gemakkelijk en moeiteloos ontpitten van kersen; gemaakt van stevige aluminium met een speciale coating
-- Stevige en veilige grip dankzij het comfortabele handvat; compact voor ruimtebesparende opslag in de keuken
 - Inhoud: 1x Westmark Kersenontpitter Kernex; afmetingen: 14 x 4 x 2,5 cm; gewicht: 18 g; materiaal: aluminium met voedselveilige coating; kleur: zilver; 40002260
+- Stevige en veilige grip dankzij het comfortabele handvat; compact voor ruimtebesparende opslag in de keuken
 - Eenvoudig te gebruiken met één hand dankzij het handige druksysteem; optimale en snelle verwijdering van pitten; ook geschikt voor vruchten met een steel
 - Made in Germany: hoogwaardige afwerking; vaatwasserbestendig, maar reiniging met de hand sterk aanbevolen
 

@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Glas van hoge kwaliteit
-- Ideaal voor dagelijks gebruik
 - 250 mm
+- Ideaal voor dagelijks gebruik
 - Uitzonderlijk duurzaam
 - Vaatwasmachinebestendig
 

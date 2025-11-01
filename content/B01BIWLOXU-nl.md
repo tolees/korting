@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Met waarschuwingsmeldingen: automatisch vorstalarm met behulp van de geïntegreerde temperatuursensor, LED-voortgangsindicator als sproeier actief is, signaalsterkte en batterijwaarschuwing.
-- De levering omvat: 1x Gardena smart Water Control (opmerking: de Gardena smart Gateway is vereist voor de werking. Dit is niet inbegrepen in de leveringsomvang).
 - Meetgegevens overal paraat: kan perfect worden opgenomen in jouw Gardena smart system set en draagt de meetgegevens aan de Gardena smart app over.
-- Slim sproeisysteem: automatisch sproeien via de smart app, dankzij beproefde ventieltechniek bestuurt de smart Water Control feilloos de besproeiing van jouw planten - ook al ben je niet thuis.
 - Flexibel in gebruik: energievoorziening d.m.v. 3 x AA 1,5V alkaline batterijen (niet inbegrepen).
+- De levering omvat: 1x Gardena smart Water Control (opmerking: de Gardena smart Gateway is vereist voor de werking. Dit is niet inbegrepen in de leveringsomvang).
+- Slim sproeisysteem: automatisch sproeien via de smart app, dankzij beproefde ventieltechniek bestuurt de smart Water Control feilloos de besproeiing van jouw planten - ook al ben je niet thuis.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01BIWLOXU{{</world>}}

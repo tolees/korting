@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Levis Logo op de borst
 - Dit is een origineel Levis product
 - T-shirt met korte mouwen van zacht jersey
-- Levis Logo op de borst
 - Verpakking van 2 stuks
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Goede geheugentraining, ontwikkeling van manuele vaardigheden, oefening van concentratie, geduld en scherpzinnigheid
 - Panoramapuzzel bestaande uit 1000 elementen, ideaal voor puzzelliefhebbers, maakt een afbeelding van 970 x 340 mm
 - Elementen gemaakt van milieuvriendelijke materialen van hoge kwaliteit en met gebruik van reflecterend papier
+- Goede geheugentraining, ontwikkeling van manuele vaardigheden, oefening van concentratie, geduld en scherpzinnigheid
 - U kunt de afgewerkte puzzel op karton plakken en aan de muur hangen - er is speciale Trefl-puzzellijm verkrijgbaar
 - Een uniek geschenk voor puzzelliefhebbers, volwassenen en kinderen vanaf 12 jaar
 
