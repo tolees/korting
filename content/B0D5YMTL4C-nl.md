@@ -31,8 +31,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 - Voor elke dag – passend bij elke versie van jou
 - De geur heeft lavendel en eikenmos voor een optimistische start van je dag
 - MEXX Man Eau de Toilette is een aromatisch houtachtige geur voor mannen
-- Deze moderne, elegante eau de toilette voor mannen uit de MEXX Essentials-collectie is perfect voor elke gelegenheid
 - Dit is een geur met karakter voor de moderne, optimistische man
+- Deze moderne, elegante eau de toilette voor mannen uit de MEXX Essentials-collectie is perfect voor elke gelegenheid
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0D5YMTL4C{{</world>}}

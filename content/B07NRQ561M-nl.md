@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - 30 kaarten met coole motieven, nauwkeurige statistieken en spannende achtergrondinformatie over de meest indrukwekkende magiers uit de Harry Potter-serie
-- Wie aan het eind alle kaarten heeft, wint de ronde
-- Stap in de verschillende categorieën van het eerste jaar in Hogwarts, toverstaaflengte, stamboom, angstfactor en top trompfactor tegen elkaar
-- Cadeau-idee of fanartikelen voor alle Harry Potter-fans.
 - Speelt met twee of meer personen vanaf 6 jaar om de beste tromp
+- Wie aan het eind alle kaarten heeft, wint de ronde
+- Cadeau-idee of fanartikelen voor alle Harry Potter-fans.
+- Stap in de verschillende categorieën van het eerste jaar in Hogwarts, toverstaaflengte, stamboom, angstfactor en top trompfactor tegen elkaar
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07NRQ561M{{</world>}}

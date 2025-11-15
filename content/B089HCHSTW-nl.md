@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Water en transpiratie bestendige formule
-- Laat geen witte sporen achter op de huid
 - Trekt snel in
+- Laat geen witte sporen achter op de huid
 - Beschermt onmiddellijk tegen UVA/UVB-stralen
 - Geschikt voor gebruik tijdens sporten
 

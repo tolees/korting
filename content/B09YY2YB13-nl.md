@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Vernieuwd eyestay-ontwerp
 - Bovenwerk van suède
+- Vernieuwd eyestay-ontwerp
 - PUMA No. 1-logo op de tong
 - Vetersluiting voor een goede pasvorm
 - Doorgestikte en gewatteerde kraag

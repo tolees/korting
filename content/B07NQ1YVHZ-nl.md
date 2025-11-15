@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Ethernet ingeschakeld: Kan worden gebruikt om de internetverbinding te delen tussen meerdere apparaten (zonder extra Ethernetkabel)
 - Sony Soundbar
-- 0,9 meter 4K HDMI-kabel: Male naar male, ondersteunt 4K-video @ 60 Hz, 2160p, 48 bit/px kleurdiepte. Ondersteunt bandbreedte tot 18Gbps
 - Topkwaliteit: Deze meeraderige korte HDMI-kabel heeft zeer zuivere koperen geleiders en vergulde connectoren
+- Ethernet ingeschakeld: Kan worden gebruikt om de internetverbinding te delen tussen meerdere apparaten (zonder extra Ethernetkabel)
+- 0,9 meter 4K HDMI-kabel: Male naar male, ondersteunt 4K-video @ 60 Hz, 2160p, 48 bit/px kleurdiepte. Ondersteunt bandbreedte tot 18Gbps
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07NQ1YVHZ{{</world>}}

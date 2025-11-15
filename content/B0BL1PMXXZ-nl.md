@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Echte bekabelde snelheden van meerdere gigabit: 2 Gigabit LAN-verbindingen, een bekabelde poort van 2,5 Gbps en WiFi 6.
-- Gemakkelijke port forwarding in 3 stappen — Open NAT maakt port forwarding eenvoudig en bespaart u de frustrerende en ingewikkelde handmatige configuratie.
 - Ultrasnelle WiFi 6 — Geniet van snelheden tot 4200 Mbps en 4x netwerkefficiëntie met OFDMA- en 160 MHz-kanalen.
+- Gemakkelijke port forwarding in 3 stappen — Open NAT maakt port forwarding eenvoudig en bespaart u de frustrerende en ingewikkelde handmatige configuratie.
+- Echte bekabelde snelheden van meerdere gigabit: 2 Gigabit LAN-verbindingen, een bekabelde poort van 2,5 Gbps en WiFi 6.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BL1PMXXZ{{</world>}}

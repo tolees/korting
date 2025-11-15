@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- De FineWoven sleutelhanger is met veel zorg vervaardigd van innovatieve materialen. Het robuuste roestvrij staal springt meteen in het oog. Het stevige microtwill, dat aanvoelt als zacht suède, bestaat uit 68 procent gerecyclede inhoud en heeft een aanzienlijk lagere CO₂‑voetafdruk dan leer.
-- AirTag is afzonderlijk verkrijgbaar.
 - De AirTag zit stevig op z’n plek, dus je hoeft niet bang te zijn dat hij eruit valt.
+- AirTag is afzonderlijk verkrijgbaar.
+- De FineWoven sleutelhanger is met veel zorg vervaardigd van innovatieve materialen. Het robuuste roestvrij staal springt meteen in het oog. Het stevige microtwill, dat aanvoelt als zacht suède, bestaat uit 68 procent gerecyclede inhoud en heeft een aanzienlijk lagere CO₂‑voetafdruk dan leer.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DGHYHHM7{{</world>}}

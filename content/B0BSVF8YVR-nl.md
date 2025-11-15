@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Effectieve bescherming tegen zonschade en huidveroudering
 - Geschikt voor alle huidtypen
-- Voorkomt en vermindert pigmentvlekken
+- Effectieve bescherming tegen zonschade en huidveroudering
 - Lichte formule die niet vet aanvoelt
+- Voorkomt en vermindert pigmentvlekken
 - Met SPF50+ en Luminous630
 
 [🛒 Buy it now!!]({{< param buyurl >}})

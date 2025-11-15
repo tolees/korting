@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Kledingsstijl: informeel
-- Sneakers met modern & ademend design
 - Geschikt voor: alle seizoenen
+- Sneakers met modern & ademend design
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B089FGDDBD{{</world>}}

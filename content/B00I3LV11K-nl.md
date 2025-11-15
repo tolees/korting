@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Frequentiebereik: 5-28000 Hz
-- Smartphone-compatibel met geïntegreerde microfoon met afstandsbediening
-- 12 mm neodymium-drivers voor dynamisch geluid Kabellengte: 1,2 m
-- Comfortabel ontwerp, stevige pasvorm
 - Messingbehuizing en buizen minimaliseren ongewenste trillingen
+- Comfortabel ontwerp, stevige pasvorm
+- Frequentiebereik: 5-28000 Hz
+- 12 mm neodymium-drivers voor dynamisch geluid Kabellengte: 1,2 m
+- Smartphone-compatibel met geïntegreerde microfoon met afstandsbediening
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B00I3LV11K{{</world>}}

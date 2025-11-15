@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Deze rijke lotion is dermatologisch getest en geschikt voor alle huidtypen
-- Voor een gehydrateerde, verwende en zachte huid die er mooi uitziet
-- De lotion is verrijkt met sheaboter die helpt de huid diep te voeden
+- De warme geur van vanille prikkelt je zintuigen meteen
 - Verwen je huid met deze bodylotion met 100% natuurlijke oliën
 - Dove Body Love Pampering Care Bodylotion voedt de droge huid
-- De warme geur van vanille prikkelt je zintuigen meteen
+- Voor een gehydrateerde, verwende en zachte huid die er mooi uitziet
+- De lotion is verrijkt met sheaboter die helpt de huid diep te voeden
+- Deze rijke lotion is dermatologisch getest en geschikt voor alle huidtypen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B019XVXWME{{</world>}}

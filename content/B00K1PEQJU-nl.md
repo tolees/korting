@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Tot 100% grijsdeking
-- Color Boost technologie
-- Intens voedende permanente haarkleuring
 - Tot 2 keer glanzender haar*
+- Tot 100% grijsdeking
+- Intens voedende permanente haarkleuring
 - Langhoudend, rijk kleurresultaat
+- Color Boost technologie
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B00K1PEQJU{{</world>}}

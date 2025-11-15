@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Toekomstbestendig met carrier-aggregatie — combineert breed gescheiden LTE-frequenties in een virtuele frequentieband voor vloeiende HD-streaming, snelle downloads en soepel online gamen
-- OPMERKING- Zie de producthandleidingen en documenten voor meer informatie.
 - Voldoende verbindingen - gelijktijdig surfen met maximaal 32 WLAN-apparaten
+- Snelle, actuele technologie — ondersteunt LTE CAT6 met tot 300 Mbps bij het downloaden en 50 Mbps bij het uploaden
+- Toekomstbestendig met carrier-aggregatie — combineert breed gescheiden LTE-frequenties in een virtuele frequentieband voor vloeiende HD-streaming, snelle downloads en soepel online gamen
 - Handige installatie en bediening — dankzij de tpMiFi app (beschikbaar voor iOS en Android) en het display waarop alle belangrijke informatie in één oogopslag wordt weergegeven
 - Duurzame prestaties: de 3000 mAh-batterij levert energie voor maximaal 15 uur gebruik; micro SD-kaartsleuf voor maximaal 32 GB extra opslagruimte
-- Snelle, actuele technologie — ondersteunt LTE CAT6 met tot 300 Mbps bij het downloaden en 50 Mbps bij het uploaden
+- OPMERKING- Zie de producthandleidingen en documenten voor meer informatie.
 - Inhoud van de doos: M7450 mobiele 300 Mbps LTE WiFi-router, micro-USB-kabel, nano-naar-micro-SIM-adapter, 3000 mAh-batterij, beknopte installatiehandleiding
 
 [🛒 Check the deal!!]({{< param buyurl >}})

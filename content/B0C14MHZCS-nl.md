@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- De shampoo en conditioner is verrijkt met meloen en aloë vera
 - De shampoo is geschikt voor dagelijks gebruik voor ieder haartype
 - Voor heerlijk ruikend, makkelijk doorkambaar en gezond glanzend haar
 - Andrélon 2 in 1 Shampoo is een verzorgende shampoo en conditioner ineen
 - De fles en dop van deze shampoo zijn 100% gerecycled en recyclebaar
+- De shampoo en conditioner is verrijkt met meloen en aloë vera
 - Juiste combinatie tussen een frisse reiniging en milde, voedende verzorging
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Comfortabele zachte oorschelpen
-- In-line afstandsbediening en microfoon voor handsfree bellen
 - Het zwenkbare en opvouwbare ontwerp maakt reizen gemakkelijk
+- In-line afstandsbediening en microfoon voor handsfree bellen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00NBR6RDS{{</world>}}

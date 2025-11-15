@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Hoogte aanpasbaar: De beugel heeft 2 niveaus van hoogteverstelling om aan verschillende kijkbehoeften te voldoen. De in hoogte verstelbare mediaplank is ideaal voor het plaatsen van een laptop, dvd-speler of gameconsole. Het onopvallende ontwerp van de achterpoten maakt het mogelijk om de kar dicht tegen de muur te plaatsen, wat ruimte bespaart.
 - Stevige vergrendelbare wielen: Voorzien van vier heavy-duty 360° zwenkwielen met remmen, waardoor de TV-kar gemakkelijk van de ene plaats naar de andere kan worden verplaatst. Het ingebouwde vergrendelingsmechanisme zorgt ervoor dat de TV-trolley naar wens stationair of mobiel kan zijn.
-- Universele compatibiliteit: Deze BONTEC TV-standaard past op de meeste 23-60 inch platte en gebogen LCD-LED-schermen, waaronder merken zoals Samsung, Panasonic, Sharp, Sony, Toshiba, Thomson, LG, Hisense, en TCL. Ondersteunt VESA-patronen van 100x100, 200x100, 200x200, 300x200, 300x300, 400x200, 400x300, en 400x400mm. Maximaal laadvermogen van 25kg.
 - Eenvoudige montage: Deze TV-standaard op wielen wordt geleverd met alle benodigde accessoires en een gedetailleerde grafische installatiegids. Het geïntegreerde kabelbeheersysteem helpt bij het netjes verbergen van draden en kabels, terwijl het hoogwaardig staal zorgt voor duurzaamheid en stabiliteit.
+- Hoogte aanpasbaar: De beugel heeft 2 niveaus van hoogteverstelling om aan verschillende kijkbehoeften te voldoen. De in hoogte verstelbare mediaplank is ideaal voor het plaatsen van een laptop, dvd-speler of gameconsole. Het onopvallende ontwerp van de achterpoten maakt het mogelijk om de kar dicht tegen de muur te plaatsen, wat ruimte bespaart.
 - Verstelbare kijkhoek: De volledig flexibele mobiele TV-standaard is uitgerust met een kantelfunctie waarmee u het scherm 10° omhoog of omlaag kunt kantelen voor een comfortabele kijkhoek en vermindering van verblinding.
+- Universele compatibiliteit: Deze BONTEC TV-standaard past op de meeste 23-60 inch platte en gebogen LCD-LED-schermen, waaronder merken zoals Samsung, Panasonic, Sharp, Sony, Toshiba, Thomson, LG, Hisense, en TCL. Ondersteunt VESA-patronen van 100x100, 200x100, 200x200, 300x200, 300x300, 400x200, 400x300, en 400x400mm. Maximaal laadvermogen van 25kg.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BNZXBGJ1{{</world>}}

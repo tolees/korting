@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Veiligheid: de vuurvaste ABS-materialen verminderen het risico op brandwonden, de schuifveiligheidsbehuizing voorkomt elektrische schokken
-- Alexa/Google Home stopcontact: compatibel met Amazon Alexa en Google Home voor spraakbediening op elk stopcontact
+- Geavanceerd design en geavanceerd design: geen hub nodig en mini-formaat, werkt met alle wifi-routers/box
 - Vrije handen en controle via de afstandsbediening: afstandsbediening en gratis via de tapo-app, ideaal voor zwangere vrouwen, kinderkamers en mensen met beperkte mobiliteit
 - 【Eenvoudige programmering】 Programmeer de lampen, de koffiezetapparaat, elektrische muggenbescherming, ventilator en apparaten, zodat ze automatisch in- en uitgeschakeld worden voordat je naar huis gaat of gaat
-- Geavanceerd design en geavanceerd design: geen hub nodig en mini-formaat, werkt met alle wifi-routers/box
 - Systeemvereisten: Android 4.3 of hoger, iOS 9.0 of hoger
+- Alexa/Google Home stopcontact: compatibel met Amazon Alexa en Google Home voor spraakbediening op elk stopcontact
 - Eenvoudige configuratie en gebruik: verbind een 2,4 GHz wifi-netwerk en beheer eenvoudig via de Tapo-app, die ook de bewakingscamera Tapo C200 kan beheren
 
 [🛒 Check the deal!!]({{< param buyurl >}})

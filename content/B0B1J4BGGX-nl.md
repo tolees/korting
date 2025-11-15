@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Betrouwbaarheid gebouwd om lang mee te gaan
-- Specifiek ontworpen voor videobewakingscameras
 - Tot 140.160 uur opnemen en afspelen in 4K en Full HD (1080p)
 - Tot 100 MB/s lees- en 40 MB/s schrijfsnelheden
+- Specifiek ontworpen voor videobewakingscameras
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0B1J4BGGX{{</world>}}

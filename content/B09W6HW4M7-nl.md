@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- De shampoo biedt intensieve hydratatie voor een professionele verzorging. Het haar wordt gevoed en verzacht.
 - Reinig eerst je haar 1x/week met deze shampoo. Gebruik daarna het masker en de verzorgingen zonder uitspoelen.
 - Deze professionele shampoo is speciaal ontwikkeld voor krullend, golvend en pluizig haar. De formule met glycerine, Urea H en hibiscuszaadextract verzorgt en hydrateert de haarvezel voor glad en glanzend haar.
-- De shampoo biedt intensieve hydratatie voor een professionele verzorging. Het haar wordt gevoed en verzacht.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09W6HW4M7{{</world>}}

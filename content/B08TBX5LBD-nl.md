@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Brede pasvorm voor een casual draagcomfort.
-- Synthetische vulling voor warmte bij een laag gewicht
 - Zakken met drukknopen.
+- Brede pasvorm voor een casual draagcomfort.
 - De waterafstotende afwerking zorgt voor droogte bij regen.
 - Het verlengde ontwerp met doorlopende ritssluiting biedt bescherming tegen weer en wind.
+- Synthetische vulling voor warmte bij een laag gewicht
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08TBX5LBD{{</world>}}

@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Ondersteunt meerdere bedieningsmodi: toegangspunt, client, universale/WDS-repeater, WiFi-bridge
-- WiFi-overdrachtssnelheid van 300 Mbps voor soepele, snelle gegevensoverdracht
 - Stel eenvoudig een WPA-gecodeerde, veilige verbinding in door op de WPS-knop te drukken
-- Verpakkingsinhoud: WiFi-toegangspunt TL-WA801N, passieve PoE-stroominjector, voedingsadapter, cd, beknopte installatiehandleiding
+- WiFi-overdrachtssnelheid van 300 Mbps voor soepele, snelle gegevensoverdracht
+- Ondersteunt meerdere bedieningsmodi: toegangspunt, client, universale/WDS-repeater, WiFi-bridge
 - Tot 30 meter Power-over-Ethernet-bereik voor flexibele plaatsing
+- Verpakkingsinhoud: WiFi-toegangspunt TL-WA801N, passieve PoE-stroominjector, voedingsadapter, cd, beknopte installatiehandleiding
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0873SLW3V{{</world>}}

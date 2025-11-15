@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Veiligheid & Stabiliteit – Bescherm uw apparaten: De antislip siliconen basis zorgt voor stabiliteit, terwijl de drievoudige veiligheidsmechanismen – overspanningsbeveiliging, sequentiële stroomregeling en overstroombeveiliging – uw apparaten betrouwbaar beschermen.
 - Perfecte integratie - Naadloos Mac Mini-ontwerp met aan/uit-knop: De 1:1 gebogen vorm sluit naadloos aan op het ontwerp van de Mac Mini. Dankzij de slimme aan/uit-knop met een verzonken onderkant kun je je Mac Mini gemakkelijk opstarten zonder hem op te tillen.
-- Uitbreidbare opslag - M.2 NVMe SSD-sleuf voor verhoogde capaciteit: Ondersteunt vier verschillende formaten M-key M.2 NVMe SSDs, voor flexibele uitbreiding van de opslag en snellere gegevenstoegang. Perfect voor professionals die grote hoeveelheden gegevens moeten opslaan en bewerken.
 - SD/TF 3.0-kaartlezer voor creatievelingen: Importeer fotos en videos met een snelheid tot 104 MB/s rechtstreeks vanaf uw SD- of TF-kaart. Ideaal voor fotografen en content creators die snel toegang nodig hebben tot grote mediabestanden.
+- Veiligheid & Stabiliteit – Bescherm uw apparaten: De antislip siliconen basis zorgt voor stabiliteit, terwijl de drievoudige veiligheidsmechanismen – overspanningsbeveiliging, sequentiële stroomregeling en overstroombeveiliging – uw apparaten betrouwbaar beschermen.
 - Maximale connectiviteit - 7 poorten voor maximale productiviteit: Breid je Mac Mini M4/M4 Pro uit met 3x USB-A 3.2, 2x USB-A 3.0 en 2x USB-C 3.2 en ervaar razendsnelle overdrachtssnelheden tot 10 Gbps. Perfect voor externe harde schijven, toetsenborden, muizen en andere randapparatuur. [Let op: Video-overdracht en opladen zijn niet mogelijk met USB-C-datapoorten.]
+- Uitbreidbare opslag - M.2 NVMe SSD-sleuf voor verhoogde capaciteit: Ondersteunt vier verschillende formaten M-key M.2 NVMe SSDs, voor flexibele uitbreiding van de opslag en snellere gegevenstoegang. Perfect voor professionals die grote hoeveelheden gegevens moeten opslaan en bewerken.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DSJ5ZH8F{{</world>}}

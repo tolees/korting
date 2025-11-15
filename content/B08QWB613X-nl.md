@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- T-shirt voor opleiding of presentatie
 - Groot Nike-logo print
+- T-shirt voor opleiding of presentatie
 - Lichte elastische eigenschappen
 - ronde hals
 

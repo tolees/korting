@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'tapo TP-Link l530e slimme WiFi-Ledlamp e27  meerkleurig  8 7 w  geen hub nodig  compatibel met Alexa  Google assistant  afvoeren en tijDSChema s  afwezigheidsmodus  tapo-app  energiebesparend  Meerkleurig  1 Stuk'
-date: 2025-11-13 02:00:42
+date: 2025-11-15 04:18:03
 image: 'https://m.media-amazon.com/images/I/21PotFPGZvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: 'Tapo'
 buyurl: 'https://www.amazon.nl/dp/B08GDC99PX/?tag=tolees0b-21'
 descuento: '45.78'
-average: '10.6957142857142'
+average: '10.7074999999999'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Spraakbediening, verbind je slimme ledlamp met amazon alexa of google assistant; de controle is eenvoudig met de stem mogelijk
-- Geen hub nodig: sluit de slimme ledlamp rechtstreeks aan op je wifi thuis
-- Toegang op afstand, bedien je slimme ledlamp comfortabel via je smartphone met tapo-app, overal en altijd
-- Energiezuinig: dezelfde helderheid met een laag energieverbruik van 8,7 w in vergelijking met een gewone ledlamp van 60 w
-- Eenvoudige voorinstelling: stel verschillende verlichtingsopties vooraf in om je ledlampen met een druk op de knop direct aan te passen
 - Aflopen en tijdschemas, plan bepaalde tijden voor het in- of uitschakelen van je ledlampen
+- Geen hub nodig: sluit de slimme ledlamp rechtstreeks aan op je wifi thuis
 - Meerkleurig: creëer heel eenvoudig scenarios voor je dagelijkse routine of activiteiten, door helderheid, lichttemperatuur en kleuren aan te passen, met 16.000 kleuren naar keuze
+- Toegang op afstand, bedien je slimme ledlamp comfortabel via je smartphone met tapo-app, overal en altijd
+- Eenvoudige voorinstelling: stel verschillende verlichtingsopties vooraf in om je ledlampen met een druk op de knop direct aan te passen
+- Spraakbediening, verbind je slimme ledlamp met amazon alexa of google assistant; de controle is eenvoudig met de stem mogelijk
+- Energiezuinig: dezelfde helderheid met een laag energieverbruik van 8,7 w in vergelijking met een gewone ledlamp van 60 w
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08GDC99PX{{</world>}}

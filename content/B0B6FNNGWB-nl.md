@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Bestand en licht
-- Duurzame stijl
 - Nike sportschoen
 - Nike Luchtkussen om schokken te absorberen
 - Zichtbare Max Air-demping helpt elke stap comfortabel te houden
+- Duurzame stijl
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0B6FNNGWB{{</world>}}

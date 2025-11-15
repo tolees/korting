@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Deze batterij-snaarlamp heeft een eigen batterij, die kan worden ingeschakeld als de schakelaar is ingeschakeld. Het kan worden versierd met bloemen, geschenkdozen enz. Het kan worden gebruikt op feestjes, bruiloften, Halloween, Kerstmis enz. en creëren een warme en romantische sfeer. Het is ook een goed cadeau voor kinderen, vrienden en familie.
-- Het productpakket bevat: 20 batterij-lichtkettingen, elk 1 m lang, met 10 leds. Elke lichtketting is uitgerust met 2 CR2032-batterijen. Schakel de schakelaar in om de lichtketting te verlichten. Daarnaast zijn 10 CR2032-accus als back-up uitgerust.
-- De hoogwaardige CR2032 reservebatterij kan niet alleen worden gebruikt voor de lampketting, maar ook voor radios, afstandsbedieningen, gamecontrollers, horloges, speelgoed en andere digitale apparaten. Het kan lange tijd worden bewaard: de opslagtijd van de batterij is meer dan een jaar.
 - Veilig in gebruik: deze lichtkettingen worden aangedreven door laagspanningsbatterijen en zijn gemaakt van koperdraad. Ze hebben een goede geleiding en een hoge lichtopbrengst. De mini-feeënlamp wordt ook na meerdere uren gebruik niet heet. De vuurvliegjeslamp kan in verschillende vormen worden gebogen om mooie decoratieve elementen toe te voegen,
+- Het productpakket bevat: 20 batterij-lichtkettingen, elk 1 m lang, met 10 leds. Elke lichtketting is uitgerust met 2 CR2032-batterijen. Schakel de schakelaar in om de lichtketting te verlichten. Daarnaast zijn 10 CR2032-accus als back-up uitgerust.
+- Deze batterij-snaarlamp heeft een eigen batterij, die kan worden ingeschakeld als de schakelaar is ingeschakeld. Het kan worden versierd met bloemen, geschenkdozen enz. Het kan worden gebruikt op feestjes, bruiloften, Halloween, Kerstmis enz. en creëren een warme en romantische sfeer. Het is ook een goed cadeau voor kinderen, vrienden en familie.
+- De hoogwaardige CR2032 reservebatterij kan niet alleen worden gebruikt voor de lampketting, maar ook voor radios, afstandsbedieningen, gamecontrollers, horloges, speelgoed en andere digitale apparaten. Het kan lange tijd worden bewaard: de opslagtijd van de batterij is meer dan een jaar.
 - Dit product maakt gebruik van led met hoge helderheid en het lichtgevende oppervlak is drie keer zo groot als een gewone mini-led. Ook de helderheid is verdrievoudigd, de kleurtemperatuur bedraagt 2900 K en de lichten zijn na het openen warm en helder.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

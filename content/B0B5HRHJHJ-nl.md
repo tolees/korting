@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Inclusief Pikachu, Pidgey en Wooloo figuren en een windmolen en landelijke omgeving om zelf te bouwen
-- Dit bouwspeelgoed is ideaal voor kinderen van 7 jaar en ouder, waarbij ze hun creativiteit ontwikkelen en problemen leren oplossen
-- Bouwset met 240 onderdelen en de innovatieve Bewegende Bouwsteen voor ingebouwde bewegingen
 - Met officiële licentie van The Pokémon Company International
 - Avonturenmaker sets kunnen worden gecombineerd om een Pokémon wereld vol beweging op te bouwen
+- Bouwset met 240 onderdelen en de innovatieve Bewegende Bouwsteen voor ingebouwde bewegingen
+- Dit bouwspeelgoed is ideaal voor kinderen van 7 jaar en ouder, waarbij ze hun creativiteit ontwikkelen en problemen leren oplossen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0B5HRHJHJ{{</world>}}

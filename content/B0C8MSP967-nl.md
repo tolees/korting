@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Inhoud: 1 x UGREEN USB 3.0-schakelaar, 1 x afstandsbediening, 2 x USB 3.0 A naar A-kabel (1,5 meter).
-- 3A1C-uitgangen: Met de UGREEN USB-schakelaar kunnen 2 computers 3 USB A-poorten, 1 USB C-poort delen, zoals muis, toetsenbord, printer, scanner, harde schijf, USB-stick en ander C-poortapparaat.
-- Knop/afstandsbediening: UGREEN USB Switch kan niet alleen de knop gebruiken om van bureaublad te wisselen, maar ook de aangesloten afstandsbediening gebruiken om te schakelen, zodat u eenvoudig de computer kunt selecteren waarop het apparaat is aangesloten.
-- Snellere gegevensoverdracht: de USB Switch 3.0 ondersteunt gegevensoverdracht tot 5 Gbps, achterwaarts compatibel met USB 2.0/1.1 en 10 keer sneller dan USB 2.0, waardoor de switch snel toegang krijgt tot USB 3.0-apparaten met hoge bandbreedte, zoals externe harde schijven en webcams.
 - Brede compatibiliteit: de USB-switcher voor muis en toetsenbord is compatibel met meerdere systemen, Windows XP/Vista/7/8/8.1/10/11, Linux, Chrome en Mac enz. Gewoon plug-and-play voor al dergelijke systemen.
+- 3A1C-uitgangen: Met de UGREEN USB-schakelaar kunnen 2 computers 3 USB A-poorten, 1 USB C-poort delen, zoals muis, toetsenbord, printer, scanner, harde schijf, USB-stick en ander C-poortapparaat.
+- Snellere gegevensoverdracht: de USB Switch 3.0 ondersteunt gegevensoverdracht tot 5 Gbps, achterwaarts compatibel met USB 2.0/1.1 en 10 keer sneller dan USB 2.0, waardoor de switch snel toegang krijgt tot USB 3.0-apparaten met hoge bandbreedte, zoals externe harde schijven en webcams.
+- Knop/afstandsbediening: UGREEN USB Switch kan niet alleen de knop gebruiken om van bureaublad te wisselen, maar ook de aangesloten afstandsbediening gebruiken om te schakelen, zodat u eenvoudig de computer kunt selecteren waarop het apparaat is aangesloten.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0C8MSP967{{</world>}}

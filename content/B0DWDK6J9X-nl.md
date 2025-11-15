@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- HARRY POTTER CADEAU – geef deze set cadeau aan kinderen en volwassen fans van de Harry Potter films om kerstverhalen op Zweinstein na te spelen
-- TOVENAARSWERELD SPEELGOED VOOR KINDEREN – elke dag in de aanloop naar Kerstmis wordt een fantasierijk avontuur voor kinderen met het LEGO Harry Potter Adventskalender 2025 bouwpakket voor kinderen
 - 8 LEGO MINIFIGUREN – Harry Potter, Cho Chang, Draco Malfidus, Hannah Albedil, Angelique Jansen, Loena Leeflang, Benno Zabini en Carlo Kannewasser, allemaal in Zweinstein kersttruien en met toverstokken
-- ONDERDEEL VAN EEN UITGEBREID ASSORTIMENT – met de LEGO Harry Potter bouw- en speelsets beleven jonge tovenaars, heksen en dreuzels samen met hun favoriete personages magische avonturen op bekende locaties
 - 6 LEGO FIGUREN – deze set bevat Hedwig, Scheurbek met verstelbare vleugels, Aragog met verstelbare poten, een Terzieler met verstelbare vleugels, een Mandragora en een hertpatronus
+- ONDERDEEL VAN EEN UITGEBREID ASSORTIMENT – met de LEGO Harry Potter bouw- en speelsets beleven jonge tovenaars, heksen en dreuzels samen met hun favoriete personages magische avonturen op bekende locaties
+- HARRY POTTER CADEAU – geef deze set cadeau aan kinderen en volwassen fans van de Harry Potter films om kerstverhalen op Zweinstein na te spelen
 - 10 MINIMODELLEN – een acceptatiebrief van Zweinstein, chocoladekikker, Smekkies in Alle Smaken, boterbier, de Sorteerhoed, 3 drankjes, het Monsterlijke Monsterboek en 2 galjoenen
+- TOVENAARSWERELD SPEELGOED VOOR KINDEREN – elke dag in de aanloop naar Kerstmis wordt een fantasierijk avontuur voor kinderen met het LEGO Harry Potter Adventskalender 2025 bouwpakket voor kinderen
 - INSTRUCTIES MET AFBEELDINGEN – op de achterkant van ieder deurtje en in de LEGO Builder app vind je simpele bouwinstructies met afbeeldingen voor de leuke verzamelmodellen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

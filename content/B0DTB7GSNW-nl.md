@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Verbeter uw mondgezondheid: de Philips Sonicare 7100 helpt u de gezondheid van uw tandvlees te verbeteren tot 7 keer gezonder tandvlees¹ en verwijdert tot 10 keer meer tandplak² voor een gezondere lach
-- Sonicare-technologie van de volgende generatie: geniet van een heerlijke poetservaring en een nieuw niveau van mondverzorging met exact 62.000 borstelhaarbewegingen per minuut voor een consistente reiniging, zelfs op moeilijk bereikbare plaatsen
+- Pas uw poetsbeurt aan uw persoonlijke wensen aan en voldoe aan uw gezondheidsdoelen met 12 verschillende instellingen: kies uit 4 poetsstanden en 3 intensiteitsniveaus voor een poetsbeurt die bij u past
 - De set bevat: 1 sonische elektrische tandenborstel uit de 7100-serie, 4 G3 Premium Gum Care-opzetborstels, 1 oplaadbaar reisetui, 1 oplader, 1 USB-A-oplaadkabel; netadapter niet meegeleverd
+- Sonicare-technologie van de volgende generatie: geniet van een heerlijke poetservaring en een nieuw niveau van mondverzorging met exact 62.000 borstelhaarbewegingen per minuut voor een consistente reiniging, zelfs op moeilijk bereikbare plaatsen
 - Verbeter uw routine: de Philips Sonicare-app kan naadloos worden gekoppeld aan uw tandenborstel en biedt persoonlijke begeleiding om u te helpen uw mondhygiëne te verbeteren en te behouden
 - We willen dat u helemaal tevreden bent met uw aankoop. Daarom wordt de Philips Sonicare 7100 oplaadbare tandenborstel geleverd met 2 jaar garantie en een geld-teruggarantie van 30 dagen
-- Pas uw poetsbeurt aan uw persoonlijke wensen aan en voldoe aan uw gezondheidsdoelen met 12 verschillende instellingen: kies uit 4 poetsstanden en 3 intensiteitsniveaus voor een poetsbeurt die bij u past
+- Verbeter uw mondgezondheid: de Philips Sonicare 7100 helpt u de gezondheid van uw tandvlees te verbeteren tot 7 keer gezonder tandvlees¹ en verwijdert tot 10 keer meer tandplak² voor een gezondere lach
 - Hard tegen tandplak, zacht voor tandvlees: bescherm uw tandvlees met de intelligente drukwaarschuwing die paars knippert en trillingen vermindert wanneer u te hard poetst
 
 [🛒 Buy it!!]({{< param buyurl >}})

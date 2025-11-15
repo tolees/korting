@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Topnoten: lychee, kweepeer en kiwi
-- Hartnoten: harmonie van cupcakes, jasmijnblaadjes en witte vanille-orchidee
 - Basisnoten: crèmeachtige muskus, iriswortels en sensueel hout
 - Fantasy is sensueel en verlekkerend, een liefdesbetovering vol verleidingen en fantasie.
+- Hartnoten: harmonie van cupcakes, jasmijnblaadjes en witte vanille-orchidee
 - Een oriëntaalse bloemengeur. Verleidelijk. Charmant. Onvatbaar.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

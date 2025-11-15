@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Hecht op alle gladde, droge en schone ondergronden
 - Dessin: Disney Finding Nemo
 - Aantal stickers: 44
+- Hecht op alle gladde, droge en schone ondergronden
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B009TO0J8G{{</world>}}

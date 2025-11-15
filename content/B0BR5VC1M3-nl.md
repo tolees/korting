@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- AXE douchegel is verpakt in een 100% gerecyclede en recyclebare fles
 - AXE Fine Fragrance Collection Blue Lavender Douchegel voor 12 uur frisheid
 - Douchegel met de geur van premium parfum, gecreëerd door meesterparfumeurs
-- AXE douchegel is verpakt in een 100% gerecyclede en recyclebare fles
-- Ruikt als premium parfum met de geur van lavendel, mint en amber
 - Deze bodywash geeft je direct een frisse boost en houdt je 12 uur lang fris
+- Ruikt als premium parfum met de geur van lavendel, mint en amber
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BR5VC1M3{{</world>}}

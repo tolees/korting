@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- 95% katoen, 5% elastaan
 - Machinewasbaar op 60 °C
 - Stofmix voor duurzaamheid en flexibiliteit
 - Contrasterende en elastische tailleband
-- 95% katoen, 5% elastaan
 - Anatomisch correcte H-vorm voor hoog comfort
 
 [🛒 Buy it now!!]({{< param buyurl >}})

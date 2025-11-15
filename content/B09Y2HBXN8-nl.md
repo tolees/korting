@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Geniet van draadloze audio met hoge resolutie en kristalheldere telefoongesprekken met deze Bluetooth-hoofdtelefoon.
+- Deze hoofdtelefoon van Sony biedt het beste van twee werelden: natuurlijk omgevingsgeluid als je wilt communiceren met de wereld om je heen en hoogwaardige ruisonderdrukking als je wilt scherpstellen.
 - Intelligente functies zorgen voor een moeiteloze luisterervaring. Speak-to-chat stopt automatisch de muziek wanneer je een gesprek start, of de oordopjes hebben ook intuïtieve aanraakbediening.
-- Sonys kleinste en lichtste draadloze, ruisonderdrukkende Hi-Res-hoofdtelefoon. Met de nieuwe firmware-update, die op 17 november 2022 beschikbaar wordt gesteld, is nu ook een multipoint-verbinding mogelijk. Voor absoluut gemak kan de Bluetooth-hoofdtelefoon worden gekoppeld aan twee Bluetooth-apparaten tegelijk. Wanneer een oproep wordt ontvangen, weet de koptelefoon welk van de apparaten rinkelt en maakt er automatisch verbinding mee.
 - * Vanaf 30 maart 2022. Volgens onderzoek van Sony Corporation, gemeten volgens de richtlijnen van Strategy Analytics in een echt draadloze stijl die ruisonderdrukking ondersteunt en compatibel is met de markt voor LDAC-hoofdtelefoons. LDAC is een gecertificeerde codec van „Hi-Res Audio Wireless”.
+- Geniet van draadloze audio met hoge resolutie en kristalheldere telefoongesprekken met deze Bluetooth-hoofdtelefoon.
 - Batterijduur tot 20 uur met IPX4-oplaadhoes tegen spatwater van alle kanten.
 - Opmerking Voor een betere oplading moet u ervoor zorgen dat de headset stevig in de oplaaddoos is geplaatst en dat deze alleen moet worden opgeladen met de meegeleverde USB Type-C-kabel en stevig is aangesloten op de oplaadcase.
-- Deze hoofdtelefoon van Sony biedt het beste van twee werelden: natuurlijk omgevingsgeluid als je wilt communiceren met de wereld om je heen en hoogwaardige ruisonderdrukking als je wilt scherpstellen.
+- Sonys kleinste en lichtste draadloze, ruisonderdrukkende Hi-Res-hoofdtelefoon. Met de nieuwe firmware-update, die op 17 november 2022 beschikbaar wordt gesteld, is nu ook een multipoint-verbinding mogelijk. Voor absoluut gemak kan de Bluetooth-hoofdtelefoon worden gekoppeld aan twee Bluetooth-apparaten tegelijk. Wanneer een oproep wordt ontvangen, weet de koptelefoon welk van de apparaten rinkelt en maakt er automatisch verbinding mee.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09Y2HBXN8{{</world>}}

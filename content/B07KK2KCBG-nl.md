@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Peakfreak X2 Outdry
 - Wandelschoenen
+- Peakfreak X2 Outdry
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07KK2KCBG{{</world>}}

@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Onderhoudsinstructie: machinewas, geen wasverzachter gebruiken
+- Normale pasvorm voor een ontspannen en licht gevoel
 - Dri-FIT-technologie houdt je droog en comfortabel
 - Materiaal: 100% polyester (gerecycled)
 - Zijzakken
-- Normale pasvorm voor een ontspannen en licht gevoel
+- Onderhoudsinstructie: machinewas, geen wasverzachter gebruiken
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07W6YHVD9{{</world>}}

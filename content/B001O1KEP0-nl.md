@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Voedende en snel intrekkende handcreme.
-- 4-in-1 hand- en nagelverzorging.
 - Voor verzorgde handen en dubbel zo sterke nagels
+- 4-in-1 hand- en nagelverzorging.
 - Intensieve hydratatie van de handen en verzorging van de nagels.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

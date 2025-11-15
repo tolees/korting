@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- HOOGSTE KWALITEIT: De schalen van Premium porselein zijn gemaakt in Duitsland en zijn ideaal voor dagelijks gebruik vaatwasmachinebestendig, magnetron en ovenbestendig tot 200 °C.
 - INHOUD: 1x Villeroy & Boch Vapiano pastaschaalset (bestaat uit 2x pastaschaal), inhoud: elk 800 ml, formaat: 27 x 21 cm, gewicht: 1,2 kg, kleur: wit (art.nr. 1042578472)
-- VEELZIJDIG BRUIKBAAR: Ook geschikt voor de horeca dankzij de ergonomische vorm, stapelbaar, stoot en slagvaste randen.
 - PASTASCHAALSET: De ovale schalen van de Vapiano serviesset maken indruk met hun moderne gebogen vorm en zijn geschikt voor liefhebbers van Italiaanse pasta, ideaal voor een diner voor twee.
+- HOOGSTE KWALITEIT: De schalen van Premium porselein zijn gemaakt in Duitsland en zijn ideaal voor dagelijks gebruik vaatwasmachinebestendig, magnetron en ovenbestendig tot 200 °C.
+- VEELZIJDIG BRUIKBAAR: Ook geschikt voor de horeca dankzij de ergonomische vorm, stapelbaar, stoot en slagvaste randen.
 - PASTAFANS OPGELET: Dankzij de optimale diepte zorgen de kommen voor spatvrij, schoon genieten en serveren van uw favoriete salades, soepen en pastas een mooi cadeauidee voor alle vrienden van de Italiaanse keuken.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

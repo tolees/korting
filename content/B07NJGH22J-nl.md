@@ -30,8 +30,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Ruimtebesparend – stapelbaar en vierkant
 - Gemakkelijk te reinigen – vaatwasmachinebestendig
-- 5 jaar Brabantia garantie
 - Afmetingen (HxBxD): 10.5 en 20 x 11 x 11 cm
+- 5 jaar Brabantia garantie
 - Inhoud in een oogopslag zichtbaar en blijft langer vers - deksel met siliconen sluiting
 
 [🛒 Buy it now!!]({{< param buyurl >}})

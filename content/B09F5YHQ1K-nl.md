@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Vereist compatibele apparaten om USB 3.2 Gen 2x2 USB-C Performance te bereiken¹.
 - IP55 rating⁴ met afneembare rubberen huls
 - Toonaangevende lees-/schrijfsnelheden tot 2.000MB/s¹.
 - Onderdeelnummer: SXS2000/1000G
-- Vereist compatibele apparaten om USB 3.2 Gen 2x2 USB-C Performance te bereiken¹.
 - Capaciteiten tot 4 TB²
 - Compacte, zakformaat vormfactor
 

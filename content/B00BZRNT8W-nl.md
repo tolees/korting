@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Glas van hoge kwaliteit
-- Vaatwasmachinebestendig
 - Uitzonderlijk duurzaam
 - Ideaal voor dagelijks gebruik
+- Glas van hoge kwaliteit
+- Vaatwasmachinebestendig
 - 250 mm
 
 [🛒 Buy it now!!]({{< param buyurl >}})

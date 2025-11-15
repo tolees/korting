@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Vermindert zelfs de diepste rimpels
 - Wetenschappelijk bewezen
-- Voorkomt nieuwe rimpels
+- Vermindert zelfs de diepste rimpels
 - Anti-Glycatie technologie
+- Voorkomt nieuwe rimpels
 - 4X krachtiger dan wanneer je alleen een dagcrème gebruikt
 
 [🛒 Buy it now!!]({{< param buyurl >}})
