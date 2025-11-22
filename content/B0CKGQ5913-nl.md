@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- ONTGRENDEL OP AFSTAND EN MIS NOOIT MEER EEN BEZOEKER: maak je intercom slim. Ontvang direct een melding als er iemand is en ontgrendel de ingang van je gebouw vanaf elke locatie met de gratis Ring-app op je smartphone. Of je nu in een online meeting zit of niet thuis bent, met de functie ontgrendelen op afstand kun je eenvoudig de toegang tot je gebouw beheren.
-- ONTVANG JE AMAZON-PAKKETJE MET AUTOMATISCHE VERIFICATIE: zorg ervoor dat je pakketten veilig worden afgeleverd met tijdgebonden toegang voor geverifieerde Amazon-chauffeurs, die de ingang veilig kunnen ontgrendelen om je pakketten naar binnen te brengen.
-- INSTALLEER HEM EENVOUDIGE ZELF: sluit Ring Intercom eenvoudig rechtstreeks aan op je bestaande intercomsysteem zonder dat je wijzigingen hoeft aan te brengen in de structuur van het gebouw. Ook boren is niet nodig en je hoeft geen complexe installatie uit te voeren. Dankzij de zelfklevende bevestigingsstrips in de doos is de installatie snel en probleemloos.
 - COMMUNICEER DIRECT VIA TWEERICHTINGSSPRAAK: spreek rechtstreeks met bezoekers op je intercom, of dat nu is met je kinderen, vrienden, familie of een Amazon-bezorger. Dit kan allemaal dankzij tweerichtingsspraak, rechtstreeks vanaf je smartphone.
+- ONTVANG JE AMAZON-PAKKETJE MET AUTOMATISCHE VERIFICATIE: zorg ervoor dat je pakketten veilig worden afgeleverd met tijdgebonden toegang voor geverifieerde Amazon-chauffeurs, die de ingang veilig kunnen ontgrendelen om je pakketten naar binnen te brengen.
 - HANDSFREE BEDIENING MET ALEXA-INTEGRATIE: gebruik Alexa-spraakopdrachten om te praten met bezoekers of ontgrendel de ingang van het gebouw, waardoor het beheren van je intercom nog gemakkelijker wordt.
+- INSTALLEER HEM EENVOUDIGE ZELF: sluit Ring Intercom eenvoudig rechtstreeks aan op je bestaande intercomsysteem zonder dat je wijzigingen hoeft aan te brengen in de structuur van het gebouw. Ook boren is niet nodig en je hoeft geen complexe installatie uit te voeren. Dankzij de zelfklevende bevestigingsstrips in de doos is de installatie snel en probleemloos.
 - EENVOUDIG TOEGANG VERLENEN AAN VRIENDEN EN FAMILIE: met virtuele gastsleutels kun je eenvoudig toegang verlenen aan mensen die je vertrouwt, waardoor je gebouw binnen kunnen zonder op je te hoeven wachten. Via de Ring-app bepaal je alles: je kunt op elk gewenst moment beslissen wanneer en hoe iemand toegang krijgt, of de toegang intrekken.
+- ONTGRENDEL OP AFSTAND EN MIS NOOIT MEER EEN BEZOEKER: maak je intercom slim. Ontvang direct een melding als er iemand is en ontgrendel de ingang van je gebouw vanaf elke locatie met de gratis Ring-app op je smartphone. Of je nu in een online meeting zit of niet thuis bent, met de functie ontgrendelen op afstand kun je eenvoudig de toegang tot je gebouw beheren.
 - ALLES IN DE HAND DANKZIJ DE RING-APP: download de Ring-app gratis op elke Android- of Apple-smartphone. Het systeem kan naadloos worden geïntegreerd met alle Ring-apparaten, zodat je meerdere producten kunt beheren via één gebruiksvriendelijke interface.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

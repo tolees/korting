@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Supersnelle PCIe 4.0 x4 NVMe 1.4 M.2-interface: Door de gebruikte PCIe Gen4-technologie voor maximale bandbreedte levert de MP600 MINI geweldige opslagprestatiesHigh-Density-3D TLC NAND: Biedt de ideale combinatie van prestaties en levensduur, om je drive jarenlang optimaal te laten presteren
-- Uitzonderlijke Gen4-opslagprestaties: Een PCIe Gen4 x4-controller levert tot 7.000 MB/s sequentiële leessnelheden en 6.200 MB/s sequentiële schrijfsnelheden voor snelle lees-, schrijf- en reactietijd
-- Compacte M.2 2230-vormfactor: Volledig compatibel met Valve Steam Deck, ASUS ROG Ally, MSI Claw, Microsoft Surface en andere ultradunne apparaten. Een geweldige upgrade voor compatibele machines
 - High-Density-3D TLC NAND: Biedt de ideale combinatie van prestaties en levensduur, om je drive jarenlang optimaal te laten presteren
 - Maakt je pc sneller: Games laden, Windows opstarten, bestanden openen en overzetten, alles sneller dan ooit
+- Compacte M.2 2230-vormfactor: Volledig compatibel met Valve Steam Deck, ASUS ROG Ally, MSI Claw, Microsoft Surface en andere ultradunne apparaten. Een geweldige upgrade voor compatibele machines
+- Uitzonderlijke Gen4-opslagprestaties: Een PCIe Gen4 x4-controller levert tot 7.000 MB/s sequentiële leessnelheden en 6.200 MB/s sequentiële schrijfsnelheden voor snelle lees-, schrijf- en reactietijd
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0D42CPWT8{{</world>}}

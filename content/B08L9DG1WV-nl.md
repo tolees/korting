@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Nivea Cellular Luminous 630 Anti-vlek dagcrème SPF50 40 ml
 - Flexibel ontwerp
-- Zorgt voor extra comfort
-- Duurzaam
 - Houdt koel en comfortabel
+- Zorgt voor extra comfort
+- Nivea Cellular Luminous 630 Anti-vlek dagcrème SPF50 40 ml
+- Duurzaam
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08L9DG1WV{{</world>}}

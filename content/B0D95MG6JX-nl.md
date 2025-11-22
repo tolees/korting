@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Inlegzool met demping
-- FlyTouch Lite leer is zacht
-- Tongconstructie met extra bekleding
+- Beter balgevoel met microdots op het bovenwerk
 - Low-top Nike voetbalschoenen
 - Grip voor op het veld:In de plaat zijn conische noppen in de hak verwerkt voor optimale grip en stabiliteit bij het remmen en keren
-- Beter balgevoel met microdots op het bovenwerk
+- Inlegzool met demping
+- Tongconstructie met extra bekleding
+- FlyTouch Lite leer is zacht
 - De plaat beschikt over conische noppen in de hiel voor optimale tractie en stabiliteit
 
 [🛒 Buy it now!!]({{< param buyurl >}})

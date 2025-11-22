@@ -28,15 +28,15 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Strap: Teen Strap
+- Niet waterbestendig
+- Hakvorm: plat
 - Sluiting: rubber
 - Schoenbreedte: gemiddeld
-- Voering: koud gevoerd
-- Niet waterbestendig
-- leer
 - Bovenmateriaal: synthetisch
+- Voering: koud gevoerd
+- leer
 - Binnenmateriaal: synthetisch
-- Strap: Teen Strap
-- Hakvorm: plat
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09N7FVZKF{{</world>}}

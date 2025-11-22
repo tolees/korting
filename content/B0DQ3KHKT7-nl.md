@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- ✔️【LED-STATUSLICHTEN】Twee knipperende LED-lampjes informeren over de operationele status van het apparaat – groen voor normale werking en rood voor alarmstatus. Zo kunnen u en uw gezin zich altijd veilig voelen.
+- ✔️【GROOT LCD-SCHERM】Het scherm toont het batterijniveau en de CO-waarden in ppm (parts per million) van de omgevingslucht in realtime. Elke 40 seconden wordt een nieuwe meting uitgevoerd. Als de CO-waarde 200 ppm overschrijdt, ontvangt u onmiddellijk een alarm via de app.
 - ✔️【APPARAATDELING】De rook- en koolmonoxidemelder maakt via een 2,4-GHz-Wi-Fi-netwerk direct verbinding met de "Smart Life"/"Tuya"-app. Met de app kunt u uw apparaten eenvoudig delen met maximaal 12 familieleden en vrienden, zodat ook zij de veiligheid van uw huis kunnen bewaken en belangrijke alarmen ontvangen.
+- ✔️【10-JARIGE MELDER】Deze rook- en koolmonoxidemelder heeft een sensorlevensduur van 10 jaar en voldoet aan de certificeringsnormen EN14604 en EN50291 - u kunt hem met een gerust hart gebruiken. Het apparaat werkt op 2 AA 1,5V alkalinebatterijen.
 - ✔️【EENVOUDIGE LOKALISATIE VAN ALARMBRONNEN】Geef de melders in de app namen op basis van hun locatie. Wanneer het alarm afgaat, ontvangt u direct een alarmmelding op uw mobiele telefoon. Dankzij de gerichte naamgeving weet u meteen welke melder het alarm heeft geactiveerd, zodat u snel kunt handelen.
 - ✔️【2-IN-1 BESCHERMING】De rook- en koolmonoxidemelder is uitgerust met een foto-elektrische sensor en een elektrochemische CO-sensor die onafhankelijk van elkaar werken. Zodra gevaarlijke rook of een hoge CO-concentratie wordt gedetecteerd, waarschuwt het apparaat u onmiddellijk, terwijl valse alarmen tot een minimum worden beperkt. Deze combimelder biedt u ultieme bescherming tegen twee dodelijke gevaren in één apparaat.
-- ✔️【10-JARIGE MELDER】Deze rook- en koolmonoxidemelder heeft een sensorlevensduur van 10 jaar en voldoet aan de certificeringsnormen EN14604 en EN50291 - u kunt hem met een gerust hart gebruiken. Het apparaat werkt op 2 AA 1,5V alkalinebatterijen.
-- ✔️【GROOT LCD-SCHERM】Het scherm toont het batterijniveau en de CO-waarden in ppm (parts per million) van de omgevingslucht in realtime. Elke 40 seconden wordt een nieuwe meting uitgevoerd. Als de CO-waarde 200 ppm overschrijdt, ontvangt u onmiddellijk een alarm via de app.
-- ✔️【LED-STATUSLICHTEN】Twee knipperende LED-lampjes informeren over de operationele status van het apparaat – groen voor normale werking en rood voor alarmstatus. Zo kunnen u en uw gezin zich altijd veilig voelen.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DQ3KHKT7{{</world>}}

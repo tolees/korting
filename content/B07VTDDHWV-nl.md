@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Soepele ruisonderdrukkende microfoon met flip-functie om te dempen
-- Lichtgewicht constructie (200 g) voor gamesessies die de hele dag duren
 - 40 mm drivers omgeven door zachte, gevoerde oorschelpen voor maximaal comfort
+- Soepele ruisonderdrukkende microfoon met flip-functie om te dempen
 - Officieel gelicentieerd door Nintendo
+- Lichtgewicht constructie (200 g) voor gamesessies die de hele dag duren
 - Krachtige, nauwkeurig afgestemde audio voor meeslepende gameplay
 
 [🛒 Buy it!!]({{< param buyurl >}})

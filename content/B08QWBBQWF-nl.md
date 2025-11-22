@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Manchetten aan de enkels
-- Geschikt voor alle leeftijden
 - Fleecevoering
 - koordsluiting
+- Geschikt voor alle leeftijden
 - Het verwarmingsmateriaal
 
 [🛒 Buy it now!!]({{< param buyurl >}})

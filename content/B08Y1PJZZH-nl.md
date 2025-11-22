@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - [Brede compatibiliteit] De Aqara Hub M2 maakt je Aqara Zigbee-kindapparaten compatibel met een breed scala aan smart huis-ecosystemen en spraakassistenten. Ondersteunde platforms zijn onder andere Apple HomeKit, Google Assistent, Alexa, IFTTT en meer. Let op: niet alle Aqara-kindapparaten zijn compatibel met alle platforms. Controleer de compatibiliteitsdetails van elk apparaat.
-- ✽ [NOTITIES] De Aqara Hub M2 vereist een 2,4 GHz Wi-Fi-verbinding (niet compatibel met Wi-Fi 6 en WAP/WAP2). Eén Aqara Hub M2 kan tot 128 Aqara Zigbee-apparaten verbinden (Zigbee-repeaters, zoals de LED Strip T1, zijn vereist). De Hub M2 ondersteunt alleen Aqara Zigbee-kindapparaten en geen Aqara Thread-apparaten of Zigbee-apparaten van andere merken.
-- [Ethernet RJ45-poort & USB-voeding] Voor verbeterde stabiliteit en kortere reactietijd kun je een bedrade verbinding via Ethernet gebruiken. Het systeem biedt ook flexibele installatie-opties dankzij USB-voeding. We raden aan een powerbank met doorlaadfunctie te gebruiken voor optimale prestaties.
 - [Thuisautomatisering] Werkt met alle Aqara Zigbee-apparaten voor het creëren van scènes die de efficiëntie en het gebruiksgemak van je smart huis vergroten. Bijvoorbeeld: je kunt een scène instellen waarbij je lampen automatisch aangaan wanneer je de voordeur opent en de Aqara-thermostaat zich aanpast aan jouw voorkeursinstelling.
 - [Universele IR-afstandsbediening] Bedien je bestaande infraroodapparaten, zoals ventilatoren, airconditioners en televisies, vanuit elke hoek van de kamer met spraakopdrachten en thuisautomatiseringen. Alleen geschikt voor gebruik binnenshuis. Dit apparaat functioneert als een universele afstandsbediening waarmee je een breed scala aan infraroodapparaten kunt bedienen.
+- [Ethernet RJ45-poort & USB-voeding] Voor verbeterde stabiliteit en kortere reactietijd kun je een bedrade verbinding via Ethernet gebruiken. Het systeem biedt ook flexibele installatie-opties dankzij USB-voeding. We raden aan een powerbank met doorlaadfunctie te gebruiken voor optimale prestaties.
+- ✽ [NOTITIES] De Aqara Hub M2 vereist een 2,4 GHz Wi-Fi-verbinding (niet compatibel met Wi-Fi 6 en WAP/WAP2). Eén Aqara Hub M2 kan tot 128 Aqara Zigbee-apparaten verbinden (Zigbee-repeaters, zoals de LED Strip T1, zijn vereist). De Hub M2 ondersteunt alleen Aqara Zigbee-kindapparaten en geen Aqara Thread-apparaten of Zigbee-apparaten van andere merken.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08Y1PJZZH{{</world>}}

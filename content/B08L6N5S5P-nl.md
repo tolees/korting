@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 40 inch Smart TV met HD resolutie, HDR, PVR gereed, geïntegreerde wifi, Bluetooth, VIDAA App Store, NETFLIX, Disney+, Paramount+ & Amazon Prime Video
 - Volledig comfort: bekijk eenvoudig foto’s en video’s op het grote scherm via de geïntegreerde mediaplayer.
-- Leveringsomvang: MEDION LIFE P8402501 MD840101 Smart TV, voeten incl. schroeven, afstandsbediening incl. batterijen (AAA), handleiding
 - Haarscherp: geniet van je favoriete programma’s in de beste HD-beeldkwaliteit.
 - De televisie van de toekomst: ervaar internet in je woonkamer met de Smart TV van MEDION: apps, streamingdiensten, nieuws en meer.
+- Leveringsomvang: MEDION LIFE P8402501 MD840101 Smart TV, voeten incl. schroeven, afstandsbediening incl. batterijen (AAA), handleiding
+- 40 inch Smart TV met HD resolutie, HDR, PVR gereed, geïntegreerde wifi, Bluetooth, VIDAA App Store, NETFLIX, Disney+, Paramount+ & Amazon Prime Video
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08L6N5S5P{{</world>}}

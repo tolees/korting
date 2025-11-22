@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Met Apple W1-koptelefoonchip voor probleemloze connectiviteit
-- Urenlang draagcomfort met de Flex-Form-kabel en vier verschillende oorkussentjes
-- Tot maar liefst 12 uur luisteren
 - Magnetische oortjes met automatisch afspelen/pauzeren
+- Met Apple W1-koptelefoonchip voor probleemloze connectiviteit
+- Tot maar liefst 12 uur luisteren
+- Urenlang draagcomfort met de Flex-Form-kabel en vier verschillende oorkussentjes
 - Met audiodeling kun je audio draadloos delen met een andere Beats-koptelefoon4 of AirPods
 
 [🛒 Buy it now!!]({{< param buyurl >}})

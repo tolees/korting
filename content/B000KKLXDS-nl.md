@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Hoofdvak voorzien van een sluiting met rits om spullen veilig op te bergen
-- Handig binnen- en achtervak met rits om veilig kleinere spullen te bewaren
 - Door de verstelbare schouderriemen is deze tas extra comfortabel
+- Handig binnen- en achtervak met rits om veilig kleinere spullen te bewaren
+- Hoofdvak voorzien van een sluiting met rits om spullen veilig op te bergen
 - Plek voor essentials als je zonnebril en cash of je paspoort en reisdocumenten - perfect voor zowel het park als het vliegveld
 
 [🛒 Check the deal!!]({{< param buyurl >}})

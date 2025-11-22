@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Twee antennes verhogen de robuustheid en de stabiliteit van het wifi aanzienlijk.
-- 300 Mbit/s wifi-snelheid; ideaal voor toepassingen die moeilijk zijn voor onderbrekingen zoals HD-videostreaming
-- De IP-gebaseerde datasnelheidsbesturing maakt het mogelijk om te bepalen hoeveel gegevenssnelheid elke pc wordt toegewezen.
 - Eenvoudige wifi-beveiligingsversleuteling met een eenvoudige druk op de WPS-knop.
+- De IP-gebaseerde datasnelheidsbesturing maakt het mogelijk om te bepalen hoeveel gegevenssnelheid elke pc wordt toegewezen.
+- 300 Mbit/s wifi-snelheid; ideaal voor toepassingen die moeilijk zijn voor onderbrekingen zoals HD-videostreaming
+- Twee antennes verhogen de robuustheid en de stabiliteit van het wifi aanzienlijk.
 - Compatibel met IPv6, systeemvereisten: Microsoft Windows 98SE, NT, 2000, XP, Vista, 7, 8 of 10, MacOS, NetWare, UNIX, Linux.
 
 [🛒 Buy it!!]({{< param buyurl >}})

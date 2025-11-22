@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Sound is Survival: of het nu om FPS, MOBA of eSports gaat, beleef elke game optimaal met de Quantum 100P headset van JBL, in volledig surroundgeluid en stijlvolle Xbox-kleuren
-- Bij de doos inbegrepen: 1 x JBL Quantum 100X headset, verwijderbare microfoon, schuimrubberen microfoonbescherming, handleiding, garantiekaart, veiligheidsinstructies
+- Comfort: de oorkussens van traagschuim zijn bekleed met zacht PU-leer voor comfortabele marathonsessies, terwijl de mute-functie van de microfoon de gebruiker totale communicatie controle geeft
 - Directionele mic: de afneembare boom-microfoon onderdrukt niet alleen achtergrondgeluiden, maar heeft ook stemfocus om ervoor te zorgen dat de stem van de gebruiker luid en duidelijk doorkomt
 - Compatibel met meerdere consoles: de JBL Quantum 100X bedrade over ear gamingheadset met 3,5 mm aansluiting is ideaal voor Xbox X, S en One en compatibel met PS, PC, Mac, Nintendo Switch, mobiel en VR
-- Comfort: de oorkussens van traagschuim zijn bekleed met zacht PU-leer voor comfortabele marathonsessies, terwijl de mute-functie van de microfoon de gebruiker totale communicatie controle geeft
+- Bij de doos inbegrepen: 1 x JBL Quantum 100X headset, verwijderbare microfoon, schuimrubberen microfoonbescherming, handleiding, garantiekaart, veiligheidsinstructies
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09TFTHT28{{</world>}}

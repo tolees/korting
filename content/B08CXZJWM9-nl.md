@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Eenvoudige installatie via Bluetooth: plaats de tafellamp met geïntegreerde lichtbron, download de Hue Bluetooth-app en je kunt je licht in een kamer dimmen of lichtscènes instellen
-- Gepersonaliseerde verlichting: kies uit 16 miljoen kleuren of een breed scala aan wittinten, van koel tot warm licht, om een ​​kamer de gewenste kleur te geven
-- De intelligente Bluetooth-verlichting van Philips Hue is compatibel met de Amazon Echo Dot (3e generatie), Echo Plus en Echo Show (2e generatie)
 - Voor bediening door het hele huis: breid je systeem uit met de Hue Bridge (apart verkrijgbaar) en ervaar de volledige smart home-ervaring met tal van functies
+- Gepersonaliseerde verlichting: kies uit 16 miljoen kleuren of een breed scala aan wittinten, van koel tot warm licht, om een ​​kamer de gewenste kleur te geven
+- Eenvoudige installatie via Bluetooth: plaats de tafellamp met geïntegreerde lichtbron, download de Hue Bluetooth-app en je kunt je licht in een kamer dimmen of lichtscènes instellen
 - Diffuus licht: zet met de Hue Iris kleuraccenten op muren en meubels of gebruik de diepdimfunctie (<1% helderheid) als ideale nachtlamp
+- De intelligente Bluetooth-verlichting van Philips Hue is compatibel met de Amazon Echo Dot (3e generatie), Echo Plus en Echo Show (2e generatie)
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08CXZJWM9{{</world>}}

@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Meer details, meer scherpte: UHD 4K (3.840 x 2.160) biedt 4x meer details dan Full HD
-- Briljanter dan ooit: HDR10 zorgt voor realistische contrasten en kleuren
-- Leveringsomvang: QLED Google TV MD843700 X8432505, standaard met schroeven, afstandsbediening incl. batterijen (2x AAA), handleiding
 - UHD Smart TV met HDR, Dolby Vision, MEMC, CI+-slot, wifi, Bluetooth, PVR gereed, mediaspeler, HbbTV, DTS Virtual X, DTS X en Dolby Atmos, streamingdiensten
 - Elegante QLED Google TV 108 cm (43") met spraakgestuurde afstandsbediening (“Hey Google”) en ingebouwde Chromecast
+- Briljanter dan ooit: HDR10 zorgt voor realistische contrasten en kleuren
+- Leveringsomvang: QLED Google TV MD843700 X8432505, standaard met schroeven, afstandsbediening incl. batterijen (2x AAA), handleiding
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08L6M32CB{{</world>}}

@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- BELEEF EEN EPISCH AVONTUUR
 - VERLIES JEZELF IN DE WONDERBAARLIJKE BERG QAF
 - ONTKETEN JE INNERLIJKE KRIJGER
+- BELEEF EEN EPISCH AVONTUUR
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CS6QTV24{{</world>}}

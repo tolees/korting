@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Voor kinderen vanaf 3 jaar - De camper is een leuk cadeau voor het begin van de vakantie, verjaardag of start van de kampeervakantie. Natuurlijk is hij ook geschikt als modelauto in de autocollectie
-- Verlichting binnen & buiten - De modelauto heeft twee koplampen en binnenverlichting. Door op het model te drukken worden twee verschillende geluiden geactiveerd (batterijen worden meegeleverd)
 - Majorette Grand Series Grotere schaal, nog meer details, veel functies en elektrische licht- en geluidseffecten, de spannende voertuigen van de en-serie mogen in geen enkele kinderkamer ontbreken. Welke onderdelen zijn bij het product inbegrepen: Hymer B-Klasse Camper
-- Detailgetrouwe HYMER-camper - Extra groot & extra gedetailleerd: de Majorette-camper (model: HYMER B-klasse MasterLine) meet maar liefst 19 cm, oorspronkelijk goedgekeurd door HYMER en Mercedes-Benz
 - Rijk aan details en realistisch - de caravan maakt indruk met veel details om te ontdekken en mee te spelen, bijvoorbeeld: deuren die kunnen worden geopend, draai- en opvouwbare satellietantenne, zachte rubberen banden met profiel
+- Verlichting binnen & buiten - De modelauto heeft twee koplampen en binnenverlichting. Door op het model te drukken worden twee verschillende geluiden geactiveerd (batterijen worden meegeleverd)
+- Voor kinderen vanaf 3 jaar - De camper is een leuk cadeau voor het begin van de vakantie, verjaardag of start van de kampeervakantie. Natuurlijk is hij ook geschikt als modelauto in de autocollectie
+- Detailgetrouwe HYMER-camper - Extra groot & extra gedetailleerd: de Majorette-camper (model: HYMER B-klasse MasterLine) meet maar liefst 19 cm, oorspronkelijk goedgekeurd door HYMER en Mercedes-Benz
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0B2XZWBMV{{</world>}}

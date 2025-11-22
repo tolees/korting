@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Schachtvorm hexagonaal
-- Dikte van de stift 3,6
-- Schacht van hout
 - Hardheid OH
+- Schachtvorm hexagonaal
+- Schacht van hout
 - Breukbestendig door speciale lijmtechniek
+- Dikte van de stift 3,6
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B01FDKQG2W{{</world>}}

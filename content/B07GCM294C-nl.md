@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Bovenmateriaal: 100% koeienleer
-- Kleur: zwart
 - Zool: 100% EVA
+- Kleur: zwart
+- Bovenmateriaal: 100% koeienleer
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07GCM294C{{</world>}}

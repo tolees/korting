@@ -30,9 +30,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - 【Plug & Play, snelle installatie:】steek de adapter gewoon in de USB-poort van je auto en geniet binnen enkele seconden van draadloze CarPlay of Android Auto.
 - 【Ondersteunt CarPlay en Android Auto】Werkt naadloos met zowel iPhone- als Android-apparaten, waardoor je volledige toegang hebt tot navigatie, muziek, oproepen en berichten onderweg.
+- 【Ultra-Compact ontwerp】Slanke, onopvallende constructie die minder ruimte inneemt dan traditionele dongles, soepel vermengd met het interieur van je auto zonder rommel.
 - 【Stabiele en betrouwbare prestaties】geoptimaliseerde Bluetooth- en Wi-Fi-verbinding zorgt voor een soepele bediening, snelle respons en audio- en videostreaming zonder vertragingen.
 - 【Brede compatibiliteit】Ontworpen voor de meeste in de fabriek geïnstalleerde bedrade CarPlay- en Android Auto-voertuigen vanaf 2016 (niet compatibel met BMW of aftermarket headunits).
-- 【Ultra-Compact ontwerp】Slanke, onopvallende constructie die minder ruimte inneemt dan traditionele dongles, soepel vermengd met het interieur van je auto zonder rommel.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FPX1LBJW{{</world>}}

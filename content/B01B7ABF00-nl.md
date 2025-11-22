@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Geniet van je favoriete films en muziek via USB Play.
 - Omvang levering: Sony BDP-S1700 Blu-ray-speler zwart
 - Briljante weergave van hoge kwaliteit video in full HD 1080p
-- Online diensten voor de geavanceerde thuisbioscoop-ervaring met de ethernet-ingang. Stroomverbruik: 8,5 W.
 - Catch up TV en video on Demand met toegang tot meer dan 300 apps incl. Amazon Instant Video
+- Geniet van je favoriete films en muziek via USB Play.
+- Online diensten voor de geavanceerde thuisbioscoop-ervaring met de ethernet-ingang. Stroomverbruik: 8,5 W.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01B7ABF00{{</world>}}

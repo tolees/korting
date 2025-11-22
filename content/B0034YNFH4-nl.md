@@ -30,9 +30,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Dit tosti-apparaat heeft een controlelampje dat aangeeft of het apparaat aan staat en wanneer het apparaat klaar is voor gebruik.
 - De tostiplaten van dit tosti-ijzer zijn vormgegeven in schelpvorm.
+- Anti-aanbaklaag
 - Dit Tefal tosti-ijzer heeft een veilige handgreep met vergrendelingsclip.
 - Gemakkelijk schoon te maken
-- Anti-aanbaklaag
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0034YNFH4{{</world>}}

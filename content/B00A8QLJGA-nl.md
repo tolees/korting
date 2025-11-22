@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Tandhard, voor universeel gebruik
-- Voor kruiskopschroeven Phillips-Recess
 - 1/4" zeskant, geschikt voor houders volgens DIN ISO 1173-F 6,3
+- Voor kruiskopschroeven Phillips-Recess
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B00A8QLJGA{{</world>}}

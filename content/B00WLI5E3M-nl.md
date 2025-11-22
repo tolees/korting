@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- COMPACT & LICHTGEWICHT: Dankzij het compacte formaat en de wereldwijde compatibiliteit met AC 100-240V is de lader ideaal voor internationale reizen.
-- WAT JE KRIJGT: Een Anker 24W Dual-Port USB Wandlader, een gebruikershandleiding, 18 maanden en altijd en klantenservice. (Een kabel is niet inbegrepen).
 - HOGE OPLAADSNELHEID: Exclusief bij Anker, PowerIQ en VoltageBoost zorgen samen voor de snelst mogelijke oplaadsnelheid van maximaal 2,4 A per poort. (Qualcomm Quick Charge wordt niet ondersteund. )
-- Extra krachtig: Met een toonaangevend maximum van 24W via 2 poorten, kunt u met deze lader twee tablets tegelijk op volle snelheid opladen.
+- WAT JE KRIJGT: Een Anker 24W Dual-Port USB Wandlader, een gebruikershandleiding, 18 maanden en altijd en klantenservice. (Een kabel is niet inbegrepen).
+- COMPACT & LICHTGEWICHT: Dankzij het compacte formaat en de wereldwijde compatibiliteit met AC 100-240V is de lader ideaal voor internationale reizen.
 - GECERTIFICEERDE VEILIGHEID: Ankers veiligheidssysteem met meerdere beveiligingen garandeert volledige bescherming voor u en uw apparaten.
+- Extra krachtig: Met een toonaangevend maximum van 24W via 2 poorten, kunt u met deze lader twee tablets tegelijk op volle snelheid opladen.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B00WLI5E3M{{</world>}}

@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Zelfbruiner met heerlijk zachte schuimtextuur
-- Voor een natuurlijk gebruinde teint die één week aanhoudt
 - Een gebruinde huid na één keer aanbrengen
+- Voor een natuurlijk gebruinde teint die één week aanhoudt
 - Het is niet nodig om de zelfbruiner af te spoelen en de mousse geeft niet af op kleding
+- Zelfbruiner met heerlijk zachte schuimtextuur
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0871BL2KJ{{</world>}}

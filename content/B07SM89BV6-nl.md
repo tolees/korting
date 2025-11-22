@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Figuur stand 9 cm en wordt geleverd in een window displaybox
-- Funko POP! is het Toy of the Year and People s Choice award Winter 2018
 - Check out the andere Umbrella Academy figuren from Funko Collect them all
 - Van Umbrella Academy, Pogo, as a stylized POP vinyl from Funko
+- Funko POP! is het Toy of the Year and People s Choice award Winter 2018
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07SM89BV6{{</world>}}

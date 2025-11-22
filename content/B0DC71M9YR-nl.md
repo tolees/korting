@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- MEDIA-SPEEL: Sluit eenvoudig USB-sticks aan om toegang te krijgen tot muziek, videos en fotos met de geïntegreerde mediaspeler, waardoor deze HDR-tv een ideaal entertainmenthulpmiddel is voor het hele gezin
 - Spelmodus: verbeter je game-ervaring met de speciaal ontwikkelde modus om invoervertraging te verminderen en een soepele game-ervaring te garanderen
-- COLOUR ENGINE HD: Ervaar levendige beelden met de HD Colour Engine Processing Chip, die natuurlijke kleuren en adembenemende content levert voor films en games
-- ALEXA Spraakbesturing: bedien je tv met Alexa op de spraakafstandsbediening, laat je kanalen wisselen, oproepen starten en compatibele slimme apparaten beheren met je stem
 - MET GEÏNTEGREERDE FIRE TV: Krijg direct toegang tot je inhoud met het intuïtieve en gepersonaliseerde hoofdscherm van Fire TV, het systeem stelt je in staat om compatibele smart-apparaten, verlichting en meer rechtstreeks vanaf je HD-tv te bedienen
+- ALEXA Spraakbesturing: bedien je tv met Alexa op de spraakafstandsbediening, laat je kanalen wisselen, oproepen starten en compatibele slimme apparaten beheren met je stem
 - HOGE CONTRAST BEELDINGEN: High Dynamic Range (HDR) technologie produceert dieper zwart en helderder wit voor een kijkervaring op hoog niveau
+- MEDIA-SPEEL: Sluit eenvoudig USB-sticks aan om toegang te krijgen tot muziek, videos en fotos met de geïntegreerde mediaspeler, waardoor deze HDR-tv een ideaal entertainmenthulpmiddel is voor het hele gezin
+- COLOUR ENGINE HD: Ervaar levendige beelden met de HD Colour Engine Processing Chip, die natuurlijke kleuren en adembenemende content levert voor films en games
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DC71M9YR{{</world>}}

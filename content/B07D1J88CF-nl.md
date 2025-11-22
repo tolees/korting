@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Universele Compatibiliteit: UGREEN USB 3.0 en USB C 2 in 1 kaartlezer is compatibel met iPad Pro, MacBook Pro, MacBook, MacBook Air,Galaxy S23/ S23+/ S23 Ultra; Huawei P30/P30 Pro; Xiaomi Mi 9T/Mi 9, enz.
+- 5Gbps Gegevensoverdracht: De overdrachtssnelheid van de UGREEN USB 2-in-1 Kaartlezer is maximaal 5Gbps. Bij gebruik met een UHS-I geheugenkaart kan de gegevensoverdrachtsnelheid oplopen tot 104MB/s.
 - Uniek Ontwerp: Het draadloze ontwerp van UGREEN USB 3.0 en USB C Kaartlezer is gemakkelijk mee te nemen en de aluminium behuizing heeft een goede warmteafvoer en een lange levensduur.
 - Dual card dual read: USB TF en SD Kaartlezer ondersteunt geheugenkaarten met een capaciteit tot 512G en ondersteunt dual-card dual-reading. Plug and play, en het apparaat wordt automatisch herkend wanneer het in de USB poort wordt gestoken, wat handig in gebruik is.
-- Universele Compatibiliteit: UGREEN USB 3.0 en USB C 2 in 1 kaartlezer is compatibel met iPad Pro, MacBook Pro, MacBook, MacBook Air,Galaxy S23/ S23+/ S23 Ultra; Huawei P30/P30 Pro; Xiaomi Mi 9T/Mi 9, enz.
 - UGREEN USB Kaartlezers : UGREEN USB Kaartlezers kunnen worden gebruikt om gegevens van geheugenkaarten te lezen en gegevens over te dragen naar OTG-compatibele mobiele telefoons, PCs, tablets en laptops. Compatibel met digitale cameras, camcorders, drones, automonitors, bewakingscameras, enz. Compatibel met Windows, Mac OS, Linux, Android en iOS systemen.
-- 5Gbps Gegevensoverdracht: De overdrachtssnelheid van de UGREEN USB 2-in-1 Kaartlezer is maximaal 5Gbps. Bij gebruik met een UHS-I geheugenkaart kan de gegevensoverdrachtsnelheid oplopen tot 104MB/s.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07D1J88CF{{</world>}}

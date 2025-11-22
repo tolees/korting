@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- synthetisch
 - Cushioning System
 - Flexibiliteit
+- synthetisch
 - leer
 - veters
 

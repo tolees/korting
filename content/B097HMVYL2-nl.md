@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Elegante look en aangenaam draagcomfort
-- Sportschoen. Nike
-- treklus
 - Hoogwaardig leer en ademend mesh op het bovenmateriaal
+- treklus
+- Sportschoen. Nike
+- Elegante look en aangenaam draagcomfort
 - De rubberen zool zorgt voor grip en duurzaamheid
 
 [🛒 Check the deal!!]({{< param buyurl >}})

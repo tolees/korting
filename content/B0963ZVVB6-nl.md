@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kledingsstijl: informeel
 - Licht & ademend design
 - Sandalen van het merk Columbia
+- Kledingsstijl: informeel
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0963ZVVB6{{</world>}}
