@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Voor een natuurlijk gebruinde teint die één week aanhoudt
+- Het is niet nodig om de zelfbruiner af te spoelen en de mousse geeft niet af op kleding
 - Een gebruinde huid na één keer aanbrengen
 - Zelfbruiner met heerlijk zachte schuimtextuur
-- Het is niet nodig om de zelfbruiner af te spoelen en de mousse geeft niet af op kleding
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0871BL2KJ{{</world>}}

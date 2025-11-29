@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung MUF-64BE4/APC flash drive Titanium Gray 64 GB'
-date: 2025-11-24 04:43:43
+date: 2025-11-28 15:22:22
 image: 'https://m.media-amazon.com/images/I/310y1BzyliL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: 'Samsung'
 buyurl: 'https://www.amazon.nl/dp/B07D1KCL2Z/?tag=tolees0b-21'
 descuento: '36.86'
-average: '11.6285000000001'
+average: '11.6613636363637'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -30,8 +30,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Supersnelle data transfers tot 400MB/s, varieert per capaciteit
 - 5-voudige bescherming: water, extreme temperatuur, röntgenstraling, magnetisme en schok bestendig
-- USB 3.1 maar ondersteunt ook USB 3.0 en 2.0
 - 5 jaar beperkte garantie
+- USB 3.1 maar ondersteunt ook USB 3.0 en 2.0
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07D1KCL2Z{{</world>}}

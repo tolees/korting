@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Multipoint Bluetooth-verbinding; koppel uw smartphone en tablet tegelijkertijd en stream stereo-audio van een van beide
-- Werkt met de meeste speakers (3,5 mm/RCA); sluit gewoon de Bluetooth-audioadapter op uw speakers met eigen voeding aan met behulp van standaard analoge RCA- of 3,5mm-stekkers
-- Handige koppelingsknop; u kunt uw smartphone en tablet snel en gemakkelijk verbinden; druk op de koppelingsknop en de speakers zijn gebruiksklaar
+- Systeemvereisten: werkt met elk apparaat met een hoofdtelefoonaansluiting (3,5 mm) of RCA-ingang inclusief de meeste computerspeakers, homestereosystemen en AV-ontvangers
 - Superieure akoestiek; compromisloos geluid; de Bluetooth-speakeradapter is afgestemd in de state-of-the-art laboratoria van Logitech om hoogwaardige akoestiek te leveren
 - Bereik van 15 meter; stream en bedien uw muziek met een betrouwbaar gezichtsveld tot op 15 meter afstand
-- Systeemvereisten: werkt met elk apparaat met een hoofdtelefoonaansluiting (3,5 mm) of RCA-ingang inclusief de meeste computerspeakers, homestereosystemen en AV-ontvangers
+- Handige koppelingsknop; u kunt uw smartphone en tablet snel en gemakkelijk verbinden; druk op de koppelingsknop en de speakers zijn gebruiksklaar
+- Multipoint Bluetooth-verbinding; koppel uw smartphone en tablet tegelijkertijd en stream stereo-audio van een van beide
+- Werkt met de meeste speakers (3,5 mm/RCA); sluit gewoon de Bluetooth-audioadapter op uw speakers met eigen voeding aan met behulp van standaard analoge RCA- of 3,5mm-stekkers
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B00IRCDT7Y{{</world>}}

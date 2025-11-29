@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Selecteerbare tonen: Het huisbeveiligingsalarm kan geluid en licht maken wanneer geactiveerd, 100 dB luid geluid en het oogverblindende rode licht is duidelijk te zien. 18 selecteerbare alarmtonen zijn vooraf geïnstalleerd en het volume van elk kan worden aangepast tussen 3 niveaus van laag, medium en hoog.
 - BREDE TOEPASSING & 100% TEVREDENHEID GEGARANDEERD: Het inbraakalarm met geluids- en lichtalarm heeft een breed scala aan toepassingen, geschikt voor huizen, restaurants, scholen, ziekenhuizen, verpleeghuizen. Wij bieden 24 maanden garantie op Wireless Home Security Alarm. Als je vragen hebt, neem dan gerust contact op met onze klantenservice.
-- ECONOMISCHE EN KRACHTIGE SLIMME GELUIDLICHTSENSOR: Alarmsirene met 100dB luidspreker en zichtbaar licht alarmstroboscoop, kan worden gebruikt als beveiligingsalarm, inbraakalarm en co-sensor via draadloos protocol. Maak scènes in de Tuya- of Smart Life-app, zoals gekoppeld aan de PIR-bewegingssensor om geluid te maken wanneer de beweging wordt gedetecteerd.
 - APP AFSTANDSBEDIENING: Tuya zigbee hub vereist. draadloze alarm sirene ondersteuning Tuya Smart en Smart Life APP afstandsbediening, Functies omvatten tijdplanning, automatische pushmeldingen en handmatige arm en ontwapening, om u in controle te houden, zelfs wanneer u weg bent.
+- ECONOMISCHE EN KRACHTIGE SLIMME GELUIDLICHTSENSOR: Alarmsirene met 100dB luidspreker en zichtbaar licht alarmstroboscoop, kan worden gebruikt als beveiligingsalarm, inbraakalarm en co-sensor via draadloos protocol. Maak scènes in de Tuya- of Smart Life-app, zoals gekoppeld aan de PIR-bewegingssensor om geluid te maken wanneer de beweging wordt gedetecteerd.
 - EENVOUDIGE INSTALLATIE & DUBBELE VOEDING: Installeer eenvoudig een slim sirene-alarmsysteem in enkele minuten. Sluit aan op een stopcontact met de USB-voedingskabel en schroef deze op de muur. Het alarmstation moet ALTIJD VERBINDEN met de AC-adapter. De batterij (niet inbegrepen) alleen als noodbatterij.
+- Selecteerbare tonen: Het huisbeveiligingsalarm kan geluid en licht maken wanneer geactiveerd, 100 dB luid geluid en het oogverblindende rode licht is duidelijk te zien. 18 selecteerbare alarmtonen zijn vooraf geïnstalleerd en het volume van elk kan worden aangepast tussen 3 niveaus van laag, medium en hoog.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CQP3F8LZ{{</world>}}

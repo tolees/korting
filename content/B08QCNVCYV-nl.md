@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Leveringsomvang: 1x smart plug compact, 3x quick start guides
-- Max. meerwaarde in systeem: Voor integratie in het Bosch Smart Home-systeem is een Bosch Smart Home controller noodzakelijk
-- Radiosignaal-versterking: Producten in tot nu toe niet bereikbare kamers kunnen nu worden geïntegreerd - werkt bij de volgende Bosch Smart Home-apparaten: Twinguard, Bewegingsmelder, Twist, Watermelder en Tussenstekker Compact
-- Integreert gangbare elektronische apparaten in het systeem van Bosch Smart Home
 - Compact formaat: Gebruik van meerdere Tussenstekkers naast elkaar mogelijk
+- Leveringsomvang: 1x smart plug compact, 3x quick start guides
+- Integreert gangbare elektronische apparaten in het systeem van Bosch Smart Home
+- Max. meerwaarde in systeem: Voor integratie in het Bosch Smart Home-systeem is een Bosch Smart Home controller noodzakelijk
 - Energiebesparend dankzij tijdschakelaar
+- Radiosignaal-versterking: Producten in tot nu toe niet bereikbare kamers kunnen nu worden geïntegreerd - werkt bij de volgende Bosch Smart Home-apparaten: Twinguard, Bewegingsmelder, Twist, Watermelder en Tussenstekker Compact
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08QCNVCYV{{</world>}}

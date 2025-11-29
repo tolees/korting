@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Inhoud: 1x Columbia Poloshirt voor heren, Nelson Point, Kleur: Shark, Maat: L, Art. Nr.: 1772721
-- Comfortabel voor op reis dankzij de luchtige modal/polyester stofmix, geschikt voor dragen van laagjes
 - Knoopsluiting met drie knopen en een goed gestructureerde, gespreide kraag en de mogelijkheid om deze kraag om te draaien tegen de felle zon
-- Poloshirt slim genoeg voor een reeks avonturen, van golfen tot wandelen tot een avondje op café met vrienden
+- Comfortabel voor op reis dankzij de luchtige modal/polyester stofmix, geschikt voor dragen van laagjes
 - Active-Fit ontwerp met mobiliteit in het achterhoofd, als extra inspanning voor de beste look
+- Poloshirt slim genoeg voor een reeks avonturen, van golfen tot wandelen tot een avondje op café met vrienden
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0771QV8XR{{</world>}}

@@ -30,9 +30,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Voor full-formaat E-mount cameras, compact, licht en handig
 - Inhoud: Sony SEL-35F18F E-Mount full-formaat lens, diffuser (model): ALC-SH159, voorste lensdop: ALC-F55S, achterste lensdop: ALC-R1EM
-- Brandpuntsafstand: 35 mm (komt overeen met APS-C: 52,5 mm), diafragma: F18 (kleinste diafragma: F22)
 - Voer je model in, om ervoor te zorgen dat dit artikel past
 - Prachtige bokeh-effecten met maximale lichtsterkte van F18 en langere levensduur dankzij de robuuste metalen behuizing
+- Brandpuntsafstand: 35 mm (komt overeen met APS-C: 52,5 mm), diafragma: F18 (kleinste diafragma: F22)
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07V8X4KGG{{</world>}}

@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Dynamische, twee-zone-rgb-achtergrondverlichting: ervaar tientallen aanpasbare voorinstellingen en effecten die perfect bij uw installatie passen
+- Ultra-droge omron-schakelaars: geschat voor meer dan 50 miljoen klikken
 - Zeven volledig programmeerbare knoppen: pas de manier waarop je speelt aan met krachtige macros of toetsherzieningen, waardoor je een voordeel in het spel krijgt
 - Perfect voor grotere handen en palmgrip: lichtgewicht van 105 gram en een contourvorm die speciaal is gevormd voor handpalmafdrukken en grotere handen
-- Ultra-droge omron-schakelaars: geschat voor meer dan 50 miljoen klikken
+- Dynamische, twee-zone-rgb-achtergrondverlichting: ervaar tientallen aanpasbare voorinstellingen en effecten die perfect bij uw installatie passen
 - Corsairs meest geavanceerde optische goksensor nog: native 18.000 dpi, instelbaar in 1 dpi-resolutie stappen geeft u totale gevoeligheidsaanpassing en ultra-nauwkeurige tracking
 
 [🛒 Buy it!!]({{< param buyurl >}})

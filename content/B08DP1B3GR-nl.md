@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 500 Watt motor en 12.000 toeren per minuut
 - 2 Snelheden
-- Onderdelen die in contact komen met voeding zijn BPA-vrij
+- 500 Watt motor en 12.000 toeren per minuut
 - 3-in-1 staafmixer voor mixen, kloppen en pureren - inclusief mengbeker (700 ml), hakbeker (500 ml), gardeaccessoire
 - Vaatwasserbestendige onderdelen
+- Onderdelen die in contact komen met voeding zijn BPA-vrij
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08DP1B3GR{{</world>}}

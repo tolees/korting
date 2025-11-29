@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 【Lichtgewicht】Dit Mini 3 Pro-landingsgestel weegt slechts 16 g, wat het vluchtuithoudingsvermogen van drones uit de DJI Mini 3-serie niet beïnvloedt
 - Compatibiliteit: het landingsgestel is ontworpen voor DJI Mini 3 / Mini 3 Pro drone. Het verhoogt effectief de hoogte met 21 mm om grondvuil of waterschade aan de Mini 3-drone slecht te voorkomen
-- 【Stevig en duurzaam】Geschikt voor het opstijgen in gras, zand en modder. Na het installeren van de Mini 3 Pro-landingsgestelverlenging kunnen de armen van de drone nog steeds normaal worden geopend of gevouwen. (Drone niet inbegrepen)
 - Opvouwbaar landingsgestel: eenvoudig te installeren en te verwijderen zonder installatiegereedschap. Het zal niet schudden of vallen tijdens de vlucht, en het opvouwbare landingsgestel is handig om buiten te dragen
+- 【Lichtgewicht】Dit Mini 3 Pro-landingsgestel weegt slechts 16 g, wat het vluchtuithoudingsvermogen van drones uit de DJI Mini 3-serie niet beïnvloedt
+- 【Stevig en duurzaam】Geschikt voor het opstijgen in gras, zand en modder. Na het installeren van de Mini 3 Pro-landingsgestelverlenging kunnen de armen van de drone nog steeds normaal worden geopend of gevouwen. (Drone niet inbegrepen)
 - 【Hol gesneden ontwerp】Blokkeert de stroomindicator, bodemsensoren of warmteafvoergaten niet, de prestaties van de drone worden niet beïnvloed
 
 [🛒 Check the deal!!]({{< param buyurl >}})

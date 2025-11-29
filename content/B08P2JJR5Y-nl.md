@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Afmetingen puzzel: 69,3 x 49,3 cm
 - Puzzel met 1000 stukjes
 - Aanbevolen leeftijd: vanaf 12 jaar
 - SCHMIDT SPIELE Premium puzzels – met kwaliteit die je kunt vastpakken
-- Afmetingen puzzel: 69,3 x 49,3 cm
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08P2JJR5Y{{</world>}}

@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Het ontwerp met volledige ritssluiting zorgt voor warmte tijdens het trainen
 - Met trekkoord kun je je afdekking aanpassen
+- Het ontwerp met volledige ritssluiting zorgt voor warmte tijdens het trainen
 - Comfortabel afgedekt in zacht vlies
 
 [🛒 Check the deal!!]({{< param buyurl >}})

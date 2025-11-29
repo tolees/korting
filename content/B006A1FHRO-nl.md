@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Columbia Newton Ridge Plus enkelhoge Wandelschoenen voor Dames  Bruin  Cordovan/Crown Jewel   39 EU'
-date: 2025-11-26 15:18:39
+title: 'Columbia Newton Ridge Plus enkelhoge Wandelschoenen voor Dames Bruin Cordovan/Crown Jewel 39 EU'
+date: 2025-11-29 00:36:21
 image: 'https://m.media-amazon.com/images/I/41Su6br+uOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,13 +13,13 @@ actualPrice: 45.82 EUR
 currency: EUR
 price: 45.82
 comparePrice: 120.0 EUR
-prodname: 'Columbia Newton Ridge Plus enkelhoge Wandelschoenen voor Dames  Bruin  Cordovan/Crown Jewel   39 EU'
+prodname: 'Columbia Newton Ridge Plus enkelhoge Wandelschoenen voor Dames Bruin Cordovan/Crown Jewel 39 EU'
 country: 'nl'
 flag: '🇳🇱'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.nl/dp/B006A1FHRO/?tag=tolees0b-21'
 descuento: '61.82'
-average: '63.527375'
+average: '63.0954878048781'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

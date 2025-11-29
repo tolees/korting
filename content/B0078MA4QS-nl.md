@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Met small mascaraborsteltje om zo elke wimper te bereiken
-- Met flexibel multi-precisie borsteltje om de wimpers te verlengen
 - Extra zwarte L’Oréal mascara voor zichtbaar langere wimpers
-- Breng in een zigzaggende beweging aan om de wimpers goed te spreiden
 - Verrijkt met zwartpigmenten voor een sprekende look
+- Met flexibel multi-precisie borsteltje om de wimpers te verlengen
+- Breng in een zigzaggende beweging aan om de wimpers goed te spreiden
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0078MA4QS{{</world>}}

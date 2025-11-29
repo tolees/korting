@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Wandelschoenen
 - Redmond Waterproof (waterbestendig)
+- Wandelschoenen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07JL8Y1SJ{{</world>}}

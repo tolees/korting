@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Formule met Hyaluronzuur
-- Hypoallergeen en niet-comedogeen
 - Hoge bescherming met SPF 50 UVB + UVA + Lange UVA
+- Formule met Hyaluronzuur
 - Geschikt voor dagelijks gebruik, niet-vettig & ultra-lichte textuur
+- Hypoallergeen en niet-comedogeen
 - Beschermt de huid met een onzichtbare finish en werkt goed onder en over make-up
 
 [🛒 Check the deal!!]({{< param buyurl >}})

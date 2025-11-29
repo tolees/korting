@@ -30,9 +30,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Of het nu als cadeau voor jezelf of aan iemand anders is, deze tijdloze ring zorgt voor een persoonlijk tintje in combinatie met andere ringen en kan op zichzelf geweldig in scène worden gezet
 - De ring is gevormd uit in elkaar geknoopte hartjes, die voor een gestructureerd oppervlak zorgen en je geselecteerde ringcollectie extra diepte geven
-- De ring heeft de maat: 56
 - Uit de Pandora Moments collectie
 - Met de geknoopte harten aan deze bandring van sterling zilver draag je altijd een symbool van onafscheidelijkheid bij je
+- De ring heeft de maat: 56
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07NF24YH6{{</world>}}

@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- regenereert droge, gebarsten lippen
 - Versterkt de vochtbarrière van de huid
+- regenereert droge, gebarsten lippen
 - Hydrateert intensief
 - Eight Hour Cream intensieve lip reparatiebalsem
 

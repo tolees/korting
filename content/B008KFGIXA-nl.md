@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- dames
 - Vochtinbrengend
+- Voor alle huidtypes
 - Met waardevolle ingrediënten
 - oogcrème
-- Voor alle huidtypes
+- dames
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B008KFGIXA{{</world>}}

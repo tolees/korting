@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Toermalijn-keramische buitenlaag: Zorgt voor glanzend, pluisvrij haar.
 - ThermoProtect-technologie: Houdt de gehele borstel op een constante temperatuur voor beschermd haar.
 - Driedubbele borstelpinnen: Ontwarren en ontkrullen je haar voorzichtig en beschermen de hoofdhuid.
+- Toermalijn-keramische buitenlaag: Zorgt voor glanzend, pluisvrij haar.
 - Bevat: 1 Philips StyleCare Essential Warmteborstel om te ontkrullen
 
 [🛒 Buy it!!]({{< param buyurl >}})

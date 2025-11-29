@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Gemaakt in Cambodja
 - 100% polyester
+- Gemaakt in Cambodja
 - Park20 regenjas
 - jas
 

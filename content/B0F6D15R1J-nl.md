@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Snel intrekkende formule die niet vet aanvoelt
 - 48 uur hydratatie voor een zachte, goed verzorgde huid
 - Bevat vitamine E en 100% natuurlijke jojoba-olie
-- Snel intrekkende formule die niet vet aanvoelt
 - 100% klimaatneutraal, met compensatie van CO2-uitstoot
 - Geschikt voor dagelijks gebruik op gezicht, lichaam en handen
 

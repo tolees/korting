@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Stabiele verbindingen dankzij verbeterde Super Wi-Fi; Dual Core processor voor kortere wachttijden; netwerk: Wi-Fi (2,4 GHz, 5 GHz) met MIMO; interfaces: 1 HDMI-uitgang (achter), 1 coaxiale audio-uitgang (achter), 1 USB-ingang (voor), 1 Ethernet-poort (achter).
+- Catch up TV en video on Demand met toegang tot meer dan 300 apps (Amazon Instant Video compatibel); intensiever entertainment in 3D.
 - Omvang levering: Sony BDP-S6700 Blu-ray-speler zwart
 - Super bit mapping en 4K upscaling; spiegelen je smartphone inhoud op het grote scherm dankzij schermmirroring.
-- Catch up TV en video on Demand met toegang tot meer dan 300 apps (Amazon Instant Video compatibel); intensiever entertainment in 3D.
-- Stabiele verbindingen dankzij verbeterde Super Wi-Fi; Dual Core processor voor kortere wachttijden; netwerk: Wi-Fi (2,4 GHz, 5 GHz) met MIMO; interfaces: 1 HDMI-uitgang (achter), 1 coaxiale audio-uitgang (achter), 1 USB-ingang (voor), 1 Ethernet-poort (achter).
 - Je muziek overal en altijd met Wireless Multiroom; grijp in een handomdraai op je Spotify muziekcollectie met de Spotify Connect.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

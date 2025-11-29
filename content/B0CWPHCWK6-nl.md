@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- BEDIENING VIA APP: De thermostaat heeft allerlei handige functies voor je verwarming, zoals slim plannen, temperatuur regelen via de app en nog veel meer – met geld-terug-garantie
-- TOEKOMSTBESTENDIGE TECHNOLOGIËN: uiteenlopende apparaten voor het smart home kunnen communiceren via Matter, daarbij zorgt Thread voor een stabiel netwerk, waarvoor de Bridge X (bevatten) of een andere Thread Border router nodig zijn
-- MEER BESPAREN MET AI: Met ‘AI Assist’ bespaar je tot wel 55% meer energie dankzij automatiseringen zoals Geolocatie, Openraamdetectie, Vakantiemodus, inzicht in energiekosten en nog veel meer (slechts € 3,99/maand, € 29,99/jaar, op elk moment opzegbaar)
-- VOOR JE SLIMME WONING: naast de instellingen op de thermostaat, kun je ook de temperatuur per kamer eenvoudig regelen via de app of via een smart speaker met Amazon Alexa, Google Assistant of Apple Siri
 - Goed om te weten: tado X producten zijn niet compatibel met tado V3+ of ouder
-- EENVOUDIG ZELF INSTALLEREN, OOK OFFLINE: de slimme radiatorknop past bij gasketels die OpenTherm en relaisaansturing ondersteunen, warmtepompen en watergedragen vloerverwarming met bekabelde thermostaat
+- BEDIENING VIA APP: De thermostaat heeft allerlei handige functies voor je verwarming, zoals slim plannen, temperatuur regelen via de app en nog veel meer – met geld-terug-garantie
+- VOOR JE SLIMME WONING: naast de instellingen op de thermostaat, kun je ook de temperatuur per kamer eenvoudig regelen via de app of via een smart speaker met Amazon Alexa, Google Assistant of Apple Siri
+- MEER BESPAREN MET AI: Met ‘AI Assist’ bespaar je tot wel 55% meer energie dankzij automatiseringen zoals Geolocatie, Openraamdetectie, Vakantiemodus, inzicht in energiekosten en nog veel meer (slechts € 3,99/maand, € 29,99/jaar, op elk moment opzegbaar)
+- TOEKOMSTBESTENDIGE TECHNOLOGIËN: uiteenlopende apparaten voor het smart home kunnen communiceren via Matter, daarbij zorgt Thread voor een stabiel netwerk, waarvoor de Bridge X (bevatten) of een andere Thread Border router nodig zijn
 - EENVOUDIGE BEDIENING: per display bedien je de thermostaat intuïtief, mocht je het eerste jaar niet tevreden zijn, krijg je je geld terug
+- EENVOUDIG ZELF INSTALLEREN, OOK OFFLINE: de slimme radiatorknop past bij gasketels die OpenTherm en relaisaansturing ondersteunen, warmtepompen en watergedragen vloerverwarming met bekabelde thermostaat
 - BESPAART ENERGIE EN KOSTEN: de thermostaat X Starter Kit van tado, de experts voor slim verwarmen, bevat de Bridge X en, exclusief voor klanten van Amazon, nog een extra set batterijen. Hoe meer kamers je aanstuurt, hoe meer je bespaart
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Verstelbare rug voor de ideale pasvorm
-- Geborduurde ogen
-- Zwart PUMA Cat-logo in vintage metalen look aan de voorzijde
 - Cap met zes delen
+- Zwart PUMA Cat-logo in vintage metalen look aan de voorzijde
+- Geborduurde ogen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B074PR74RP{{</world>}}

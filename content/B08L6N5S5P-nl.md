@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'MEDION Full HD TV 100 3 cm  40 inch   Smart TV  HDR  VIDAA Store  Netflix  Prime Video  Disney+  DAZN  Paramount+  HbbTV  PVR  Bluetooth   MD 840101'
-date: 2025-11-18 04:13:14
+title: 'MEDION Full HD TV 100 3 cm 40 inch Smart TV HDR VIDAA Store Netflix Prime Video Disney+ DAZN Paramount+ HbbTV PVR Bluetooth MD 840101'
+date: 2025-11-28 15:18:11
 image: 'https://m.media-amazon.com/images/I/41nFZu7D7+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,7 +13,7 @@ actualPrice: 179.95 EUR
 currency: EUR
 price: 179.95
 comparePrice: 249.95 EUR
-prodname: 'MEDION Full HD TV 100 3 cm  40 inch   Smart TV  HDR  VIDAA Store  Netflix  Prime Video  Disney+  DAZN  Paramount+  HbbTV  PVR  Bluetooth   MD 840101'
+prodname: 'MEDION Full HD TV 100 3 cm 40 inch Smart TV HDR VIDAA Store Netflix Prime Video Disney+ DAZN Paramount+ HbbTV PVR Bluetooth MD 840101'
 country: 'nl'
 flag: '🇳🇱'
 brand: 'MEDION'
@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Volledig comfort: bekijk eenvoudig foto’s en video’s op het grote scherm via de geïntegreerde mediaplayer.
-- 40 inch Smart TV met HD resolutie, HDR, PVR gereed, geïntegreerde wifi, Bluetooth, VIDAA App Store, NETFLIX, Disney+, Paramount+ & Amazon Prime Video
 - De televisie van de toekomst: ervaar internet in je woonkamer met de Smart TV van MEDION: apps, streamingdiensten, nieuws en meer.
+- 40 inch Smart TV met HD resolutie, HDR, PVR gereed, geïntegreerde wifi, Bluetooth, VIDAA App Store, NETFLIX, Disney+, Paramount+ & Amazon Prime Video
 - Haarscherp: geniet van je favoriete programma’s in de beste HD-beeldkwaliteit.
 - Leveringsomvang: MEDION LIFE P8402501 MD840101 Smart TV, voeten incl. schroeven, afstandsbediening incl. batterijen (AAA), handleiding
 

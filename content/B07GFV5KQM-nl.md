@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Maak uw behandeling op maat: Kies uit vijf lichtintensiteitsinstellingen voor de meest comfortabele ervaring, terwijl de gratis Lumea-coachingapp u stap voor stap door uw sessies leidt.
-- Snelle behandeling: Behandel de eerste zes weken slechts elke twee weken (t.o.v. wekelijks bij andere merken), en werk vervolgens maandelijks bij om de resultaten te behouden.
 - Bewezen effectiviteit: Lumea IPL voorkomt dat haar teruggroeit en zorgt 3 maanden lang voor een haarloze, gladde huid*, en tot 85% minder haar in slechts 3 behandelingen**
+- Snelle behandeling: Behandel de eerste zes weken slechts elke twee weken (t.o.v. wekelijks bij andere merken), en werk vervolgens maandelijks bij om de resultaten te behouden.
 - Afgeleid van professionele salons: Philips Lumea IPL is ontwikkeld in samenwerking met deskundige wetenschappers en dermatologen, en getest bij meer dan 3000 vrouwen.
 - 3 hulpstukken: Hoofden voor lichaam, gezicht en bikinilijn werken snel en nauwkeurig. Het hulpstuk voor het gezicht heeft een geïntegreerd lichtfilter voor extra veiligheid. Wordt geleverd met opbergetui en Satin Compact-pentrimmer.
+- Maak uw behandeling op maat: Kies uit vijf lichtintensiteitsinstellingen voor de meest comfortabele ervaring, terwijl de gratis Lumea-coachingapp u stap voor stap door uw sessies leidt.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07GFV5KQM{{</world>}}

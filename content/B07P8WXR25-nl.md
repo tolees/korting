@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Door het op de racebaan tegen elkaar op te nemen en stunts na te spelen, vermaken ze zich urenlang!
-- Een geweldig cadeau voor jonge kinderen die graag de Mario Kart spellen willen spelen.
 - Kinderen van 3 jaar en ouder kunnen net als in het videospel met hun favoriete personages tegen hun vrienden racen en uitdagingen overwinnen.
-- De Racebaanset bevat een gegoten Mario kart. Extra voertuigen apart verkrijgbaar.
+- Een geweldig cadeau voor jonge kinderen die graag de Mario Kart spellen willen spelen.
 - Kinderen zullen enthousiast zijn over deze Mario Kart Racebaan sets en urenlang Hot Wheels speelplezier beleven!
+- Door het op de racebaan tegen elkaar op te nemen en stunts na te spelen, vermaken ze zich urenlang!
+- De Racebaanset bevat een gegoten Mario kart. Extra voertuigen apart verkrijgbaar.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07P8WXR25{{</world>}}

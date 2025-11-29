@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Verzorgend
-- Gezichtscrème
 - Dames
 - Voor alle huidtypes
 - Vochtinbrengend
+- Gezichtscrème
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B001PTFXKW{{</world>}}

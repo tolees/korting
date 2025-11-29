@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- SOFTFOAM plus inlegzool
 - Midden laars
+- SOFTFOAM plus inlegzool
 - Rubberen tussenzool
 - Synthetisch bovenwerk
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'MEDION 108 cm  43"  QLED TV  Google TV  4K  Dolby Vision HDR  Netflix  Prime Video  Disney+  Dolby Atmos  DTS X  Smart TV  PVR  Bluetooth  MD 843700 '
-date: 2025-11-24 23:20:26
+title: 'MEDION 108 cm 43" QLED TV Google TV 4K Dolby Vision HDR Netflix Prime Video Disney+ Dolby Atmos DTS X Smart TV PVR Bluetooth MD 843700'
+date: 2025-11-28 15:18:02
 image: 'https://m.media-amazon.com/images/I/41turQCA52L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,7 +13,7 @@ actualPrice: 269.95 EUR
 currency: EUR
 price: 269.95
 comparePrice: 359.95 EUR
-prodname: 'MEDION 108 cm  43"  QLED TV  Google TV  4K  Dolby Vision HDR  Netflix  Prime Video  Disney+  Dolby Atmos  DTS X  Smart TV  PVR  Bluetooth  MD 843700 '
+prodname: 'MEDION 108 cm 43" QLED TV Google TV 4K Dolby Vision HDR Netflix Prime Video Disney+ Dolby Atmos DTS X Smart TV PVR Bluetooth MD 843700'
 country: 'nl'
 flag: '🇳🇱'
 brand: 'MEDION'
@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Briljanter dan ooit: HDR10 zorgt voor realistische contrasten en kleuren
 - Meer details, meer scherpte: UHD 4K (3.840 x 2.160) biedt 4x meer details dan Full HD
 - Elegante QLED Google TV 108 cm (43") met spraakgestuurde afstandsbediening (“Hey Google”) en ingebouwde Chromecast
 - UHD Smart TV met HDR, Dolby Vision, MEMC, CI+-slot, wifi, Bluetooth, PVR gereed, mediaspeler, HbbTV, DTS Virtual X, DTS X en Dolby Atmos, streamingdiensten
+- Briljanter dan ooit: HDR10 zorgt voor realistische contrasten en kleuren
 - Leveringsomvang: QLED Google TV MD843700 X8432505, standaard met schroeven, afstandsbediening incl. batterijen (2x AAA), handleiding
 
 [🛒 Buy it!!]({{< param buyurl >}})

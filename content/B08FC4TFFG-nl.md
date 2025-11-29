@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kalmerende ooggel met biologische vijgencatus.
 - Voor de tere huid onder de ogen
-- Kalmerende ooggel met biologische vijgencatus.
 - Laat vermoeide ogen weer stralen
+- Kalmerende ooggel met biologische vijgencatus.
 - Voor de tere huid onder de ogen
+- Kalmerende ooggel met biologische vijgencatus.
 - Laat vermoeide ogen weer stralen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

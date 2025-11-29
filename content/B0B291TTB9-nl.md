@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Binnenmateriaal: 80 procent textielweefsel, polyester, 20 procent synthetisch polyurethaan
+- Sluiting: 60 procent IPEVA -40 procent rubber
 - Bovenmateriaal: synthetisch
 - Hakvorm: plateauhak
-- Sluiting: 60 procent IPEVA -40 procent rubber
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0B291TTB9{{</world>}}

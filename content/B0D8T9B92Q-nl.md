@@ -28,14 +28,14 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- INCLUSIEF 36W-VOEDINGSADAPTER + USB-C/USB-C-KABEL VAN 1,5 M: Je kunt direct na het uitpakken van deze draadloze oplader voor iphone en meer beginnen met opladen zonder dat je extra aankopen hoeft te doen.
-- DUURZAAM + 2 JAAR GARANTIE: Wordt geleverd in een 100% plasticvrije verpakking. Behuizing voor ten minste 72% gemaakt van gerecycled materiaal.** Twee jaar garantie en aangesloten-apparatuurgarantie tot € 2.000 bieden zekerheid.
-- LAADT VEILIG OP DOOR HOESJES HEEN: Magnetische lader die voldoet aan onze strenge veiligheidsnormen en grondig is getest. Je telefoon wordt ook veilig opgeladen wanneer hij in een MagSafe-compatible hoesje met een maximale dikte van 3 mm zit.
-- HOOGWAARDIGE MATERIALEN: Magnetische Qi2-verbinding voor eenvoudige uitlijning. Vloeibaar siliconenrubber beschermt de lader en zorgt dat hij zacht aanvoelt. Stevige anti-slip voet houdt de lader op zijn plaats. Duurzaam scharnier dat jaren mee gaat.
-- GELIJKTIJDIG OPLADEN: Laad je iPhone, Apple Watch en AirPods gelijktijdig draadloos op zodat je snel klaar bent voor je volgende avontuur. Je AirPods laad je op via het 5 W Qi-laadoppervlak. Een ledlampje geeft de laadstatus weer.
 - DRAADLOZE OPLADER MET INKLAPBARE STANDAARD: Deze lader van hoge kwaliteit heeft een inklapbare standaard waarmee je de zichthoek eenvoudig kunt instellen. Ideaal om thuis, op het werk, in een hotel of op je volgende bestemming te gebruiken.
+- GELIJKTIJDIG OPLADEN: Laad je iPhone, Apple Watch en AirPods gelijktijdig draadloos op zodat je snel klaar bent voor je volgende avontuur. Je AirPods laad je op via het 5 W Qi-laadoppervlak. Een ledlampje geeft de laadstatus weer.
+- DUURZAAM + 2 JAAR GARANTIE: Wordt geleverd in een 100% plasticvrije verpakking. Behuizing voor ten minste 72% gemaakt van gerecycled materiaal.** Twee jaar garantie en aangesloten-apparatuurgarantie tot € 2.000 bieden zekerheid.
 - ONDERSTEUNT STANDBY-MODUS: Inklapbare magnetische lader die de StandBy-modus ondersteunt voor slim gebruik van je iPhone tijdens het opladen. Zo kun je bijvoorbeeld de tijd aflezen op je werk of in je slaapkamer en meer.
+- HOOGWAARDIGE MATERIALEN: Magnetische Qi2-verbinding voor eenvoudige uitlijning. Vloeibaar siliconenrubber beschermt de lader en zorgt dat hij zacht aanvoelt. Stevige anti-slip voet houdt de lader op zijn plaats. Duurzaam scharnier dat jaren mee gaat.
 - SNEL OPLADEN MET DE NIEUWSTE Qi2-TECHNOLOGIE: Zet je iPhone of Qi2-apparaat gemakkelijk vast op de magnetische oplader om je apparaat snel op te laden (tot 15 W). Met Qi2 kun je twee keer zo snel draadloos opladen* en hoef je minder lang te wachten.
+- LAADT VEILIG OP DOOR HOESJES HEEN: Magnetische lader die voldoet aan onze strenge veiligheidsnormen en grondig is getest. Je telefoon wordt ook veilig opgeladen wanneer hij in een MagSafe-compatible hoesje met een maximale dikte van 3 mm zit.
+- INCLUSIEF 36W-VOEDINGSADAPTER + USB-C/USB-C-KABEL VAN 1,5 M: Je kunt direct na het uitpakken van deze draadloze oplader voor iphone en meer beginnen met opladen zonder dat je extra aankopen hoeft te doen.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0D8T9B92Q{{</world>}}

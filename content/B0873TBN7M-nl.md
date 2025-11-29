@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Voor wijnkenners: s avonds genieten van een heerlijk glas mousserende wijn, stijlvol geserveerd in een verfijnd kristallen glas
+- Hoogwaardig kristalglas: reinig de kristallen glazen met de hand, vaatwasser niet aanbevolen
 - Speciaal voor op tafel: Fris je tafel op met de zwarte wijnbekers en geniet van de bijzondere uitstraling van de glazen.
 - Prachtig cadeau idee: Verras je geliefden met de vierdelige set champagneglazen, elke gast zal enthousiast zijn
-- Hoogwaardig kristalglas: reinig de kristallen glazen met de hand, vaatwasser niet aanbevolen
 - INHOUND: 1x Villeroy & Boch Manufacture Rock, champagneglas, 4 st., 260 ml, gewicht: 640 g (Art.Nr. 1137988131)
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Laat de huid zacht aanvoelen
+- Met Gingko-extract
 - 72* uur hydratatie
 - Minder strepen
 - Zorgt voor een egaal gebruinde, natuurlijke teint
-- Met Gingko-extract
-- Laat de huid zacht aanvoelen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0F6CTW5X9{{</world>}}

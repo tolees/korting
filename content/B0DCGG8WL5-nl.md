@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- HOOGWAARDIG PORSELEIN: De artikelen zijn gemaakt van Premium porselein en zijn vaatwasmachine- en magnetronbestendig, ideaal voor dagelijks gebruik en speciale gelegenheden
-- SERVIESSET VOOR DE KERST: Met liefdevol ontworpen kerstmotieven brengt deze set nostalgie en feestvreugde in uw huis - ook geschikt als cadeau-idee voor Kerstmis
-- LEVERINGSOMVANG: 1x Villeroy & Boch Toys Delight Royal Classic bordenset 12-dlg. bestaande uit 4x ontbijtbord, 4x diepe bord en 4x eetbord, materiaal: Premium porselein, kleur: wit (artikelnummer: 1486588816)
-- FEESTELIJK ETEN: De 12-delige Toys Delight serviesset brengt feestelijke glamour op de kersttafel en is perfect voor vier personen
 - VEELZIJDIG TE COMBINEREN: De serviesset bestaande uit ontbijtborden en eetborden is een aanvulling op het bestaande kerstservies van Villeroy & Boch. De set kan eenvoudig worden gecombineerd met andere artikelen uit de Toys Delight collectie
+- LEVERINGSOMVANG: 1x Villeroy & Boch Toys Delight Royal Classic bordenset 12-dlg. bestaande uit 4x ontbijtbord, 4x diepe bord en 4x eetbord, materiaal: Premium porselein, kleur: wit (artikelnummer: 1486588816)
+- SERVIESSET VOOR DE KERST: Met liefdevol ontworpen kerstmotieven brengt deze set nostalgie en feestvreugde in uw huis - ook geschikt als cadeau-idee voor Kerstmis
+- HOOGWAARDIG PORSELEIN: De artikelen zijn gemaakt van Premium porselein en zijn vaatwasmachine- en magnetronbestendig, ideaal voor dagelijks gebruik en speciale gelegenheden
+- FEESTELIJK ETEN: De 12-delige Toys Delight serviesset brengt feestelijke glamour op de kersttafel en is perfect voor vier personen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DCGG8WL5{{</world>}}

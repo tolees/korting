@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Netwerk monitoring, verkeersprioriteiten en VLAN functies
-- 4 poorten met PoE aansluiting, gegevens en stroom kunnen worden verstuurd via een enkele kabel
 - Eenvoudige netwerkinstellingen en plug-and-play aansluiting
 - 8 x 10/100/1000 MBps RJ45 poorten
+- 4 poorten met PoE aansluiting, gegevens en stroom kunnen worden verstuurd via een enkele kabel
 - Web-based gebruikersinterface en Easy Smart Configuration Utility vereenvoudigen de configuratie
 
 [🛒 Buy it!!]({{< param buyurl >}})

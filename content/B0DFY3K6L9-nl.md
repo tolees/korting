@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Let op: Magsafe is niet beschikbaar in deze versie.
-- Veiligheid van gegevens staat voorop: Lexar SSD ES3 is voorzien van Lexar DataShieldTM 256-bits AES-encryptiesoftware om bestanden te beschermen.
 - Onderweg: Lexar externe solid state drive ES3s dunne, stijlvolle en duurzame metalen ontwerp weegt 42 g en is slechts 10,5 mm dik, waardoor het kleiner is dan een kaart en gemakkelijk in uw zak past. Het wordt geleverd met een Type-C-kabel voor plug-and-play-gemak.
 - Snelle gegevensoverdracht: Lexar externe SSD ES3 ondersteunt USB 3.2 Gen 2 tot 1050 MB/s lezen en 1000 MB/s schrijven om bestanden snel over te dragen voor efficiënter werken. (De prestaties kunnen lager zijn als USB 3.2 Gen 2 niet wordt ondersteund op Mac en andere systemen)
+- Veiligheid van gegevens staat voorop: Lexar SSD ES3 is voorzien van Lexar DataShieldTM 256-bits AES-encryptiesoftware om bestanden te beschermen.
+- Let op: Magsafe is niet beschikbaar in deze versie.
 - Brede compatibiliteit: Lexar Portable SSD ES3 is compatibel met de iPhone 15-serie (niet ondersteund op iPhone 14 en oudere modellen), mobiele Android-apparaten, laptops, cameras, Xbox X|S, PS4, PS5, gameconsole en meer.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

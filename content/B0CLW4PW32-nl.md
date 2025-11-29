@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Omni-Grip niet-afgevende tractie-rubber.
-- PU gecoat leer, suède, mesh bovenwerk met metalen hardware
 - Techlite lichtgewicht tussenzool voor langdurig comfort, superieure demping en hoge energieteruggave
+- PU gecoat leer, suède, mesh bovenwerk met metalen hardware
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CLW4PW32{{</world>}}

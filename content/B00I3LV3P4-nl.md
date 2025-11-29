@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 30 mm ferriet drivers voor krachtig, uitgebalanceerd geluid.
-- Gevoerde oorschelpen voor aangenaam luistercomfort.
-- Hoofdtelefoonfunctie dankzij geïntegreerde microfoon.
-- Licht, opvouwbaar ontwerp voor een zeer mobiele muziekervaring.
 - Frequentiebereik: 10-24.000 Hz
+- Hoofdtelefoonfunctie dankzij geïntegreerde microfoon.
+- Gevoerde oorschelpen voor aangenaam luistercomfort.
+- Licht, opvouwbaar ontwerp voor een zeer mobiele muziekervaring.
+- 30 mm ferriet drivers voor krachtig, uitgebalanceerd geluid.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B00I3LV3P4{{</world>}}

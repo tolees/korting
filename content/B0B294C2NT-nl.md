@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Hakvorm: plateauhak
-- Sluiting: rubber
 - Schoenbreedte: smal
 - Binnenmateriaal: synthetisch
+- Sluiting: rubber
+- Hakvorm: plateauhak
 - Bovenmateriaal: synthetisch
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'MEDION 125 7 cm  50 inch  Ultra HD TV  Smart-TV  HDR10  VIDAA Store  Netflix  Prime Video  Disney+  DAZN  Paramount+  HbbTV  PVR  Bluetooth   MD 850200'
-date: 2025-11-19 22:54:56
+title: 'MEDION 125 7 cm 50 inch Ultra HD TV Smart-TV HDR10 VIDAA Store Netflix Prime Video Disney+ DAZN Paramount+ HbbTV PVR Bluetooth MD 850200'
+date: 2025-11-28 15:18:20
 image: 'https://m.media-amazon.com/images/I/41TZBuBCakL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,7 +13,7 @@ actualPrice: 249.95 EUR
 currency: EUR
 price: 249.95
 comparePrice: 329.95 EUR
-prodname: 'MEDION 125 7 cm  50 inch  Ultra HD TV  Smart-TV  HDR10  VIDAA Store  Netflix  Prime Video  Disney+  DAZN  Paramount+  HbbTV  PVR  Bluetooth   MD 850200'
+prodname: 'MEDION 125 7 cm 50 inch Ultra HD TV Smart-TV HDR10 VIDAA Store Netflix Prime Video Disney+ DAZN Paramount+ HbbTV PVR Bluetooth MD 850200'
 country: 'nl'
 flag: '🇳🇱'
 brand: 'MEDION'
@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Leveringsomvang: Smart-TV MD850200 X850200 voetstukken incl. schroeven, afstandsbediening incl. batterijen (2x AAA), VESA-afstandhouders, gebruiksaanwijzing.
-- Elegante 125,7 cm (50") UHD Smart-tv met HDR10, CI+ interface, wifi, Bluetooth, PVR-ready, mediaspeler, HbbTV, VIDAA App Store, NETFLIX, Prime Video, DAZN, Disney+ & Amazon Prime Video-app en andere Smart-tv-diensten.
-- aMeer details, meer scherpte: ervaar met de Ultra HD 4K-resolutie (3.840 x 2.160) een vier keer hogere detailscherpte dan bij eerdere Full HD-tvs.
 - Briljanter dan ooit tevoren: High Dynamic Range (HDR10) zorgt voor levensechte contrasten en kleuren.
+- aMeer details, meer scherpte: ervaar met de Ultra HD 4K-resolutie (3.840 x 2.160) een vier keer hogere detailscherpte dan bij eerdere Full HD-tvs.
 - Televisie van de volgende generatie: met de smart-tv van MEDION beleeft u het internet in uw woonkamer: apps, streamingdiensten, nieuws en nog veel meer!
+- Elegante 125,7 cm (50") UHD Smart-tv met HDR10, CI+ interface, wifi, Bluetooth, PVR-ready, mediaspeler, HbbTV, VIDAA App Store, NETFLIX, Prime Video, DAZN, Disney+ & Amazon Prime Video-app en andere Smart-tv-diensten.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08L6ND4XP{{</world>}}

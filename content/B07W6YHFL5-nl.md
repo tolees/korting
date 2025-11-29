@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Nike biedt innovatieve producten, ervaringen en diensten om atleten te inspireren
 - 100% polyester
+- Nike biedt innovatieve producten, ervaringen en diensten om atleten te inspireren
 - Park20 regenjas
 - jas
 
