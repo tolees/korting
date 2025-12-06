@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Van vakantievideo’s tot werkpresentaties en alles daar tussenin, met tot 512 GB aan extra opslagcapaciteit heb jij meer ruimte om te bewaren wat voor jou van belang is.
-- Met de veelzijdige USB Type-C-aansluiting kun je gemakkelijk meer opslaan, meer openen en meer overdragen tussen USB Type-C-telefoons, -tablets en -computers.
-- Sneller opslaan, sneller openen en sneller overdragen. De SanDisk Ultra Slider levert indrukwekkende leessnelheden tot 400 MB/s (modellen van 128GB en 1TB) zodat jij in beweging kunt blijven.
-- Gebruik het handige gat voor een sleutelhanger om je SanDisk Ultra Slider USB Type-C-flashdrive gemakkelijk aan je sleutelbos, tas of meer te bevestigen, zodat je hem overal mee naartoe kunt nemen.
 - Een soepel intrekbare aansluiting helpt slijtage te voorkomen, zodat de drive langer meegaat.
+- Gebruik het handige gat voor een sleutelhanger om je SanDisk Ultra Slider USB Type-C-flashdrive gemakkelijk aan je sleutelbos, tas of meer te bevestigen, zodat je hem overal mee naartoe kunt nemen.
+- Sneller opslaan, sneller openen en sneller overdragen. De SanDisk Ultra Slider levert indrukwekkende leessnelheden tot 400 MB/s (modellen van 128GB en 1TB) zodat jij in beweging kunt blijven.
+- Met de veelzijdige USB Type-C-aansluiting kun je gemakkelijk meer opslaan, meer openen en meer overdragen tussen USB Type-C-telefoons, -tablets en -computers.
+- Van vakantievideo’s tot werkpresentaties en alles daar tussenin, met tot 512 GB aan extra opslagcapaciteit heb jij meer ruimte om te bewaren wat voor jou van belang is.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DDQ3KQVB{{</world>}}

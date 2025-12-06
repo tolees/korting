@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Basisnoot: amber, muskus en vanille
-- Topnoten: Magnolie en mandarijn
 - Hartnoot: Bulgaarse roos, perzik en nootmuskaat
+- Topnoten: Magnolie en mandarijn
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0010MG8NU{{</world>}}

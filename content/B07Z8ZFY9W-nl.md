@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Trevor is een gewelddadige maniak die altijd op zoek is naar de volgende adrenalinestoot en de volgende grote kans
-- Michael is een professionele ex-gevangene die niet zo van zijn pensioen geniet als hij had verwacht
 - Franklin is een straatcrimineel op zoek naar echte kansen en serieus geld
+- Michael is een professionele ex-gevangene die niet zo van zijn pensioen geniet als hij had verwacht
+- Trevor is een gewelddadige maniak die altijd op zoek is naar de volgende adrenalinestoot en de volgende grote kans
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07Z8ZFY9W{{</world>}}

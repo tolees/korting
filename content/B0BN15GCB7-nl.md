@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Rol de vrachtwagen vooruit en zie hoe hij onderweg autos op een schaal van 1:64 oppeuzelt. Gebruik hem om meer dan 20 autos (schaal 1:64) op te bergen!
+- Transformeer de Hot Wheels City Ultieme Vrachtwagen van een autovrachtwagen met plaats voor meer dan 20 autos in een grommende en stampende T-Rex!
 - Trek aan de staart en transformeer de vrachtwagen in een T-Rex die echt kan stampen met licht en geluid.
 - Kinderen kunnen de autos uit de mond van de T-Rex lanceren, zodat het lijkt alsof hij ze uitspuugt.
 - Op de rug van de T-Rex ligt een racebaan met 2 rijstroken. Race met de inbegrepen Hot Wheels autos over zijn rug. De winnaar kan doorracen, maar de verliezer wordt door de dino uitgepoept.
-- Transformeer de Hot Wheels City Ultieme Vrachtwagen van een autovrachtwagen met plaats voor meer dan 20 autos in een grommende en stampende T-Rex!
+- Rol de vrachtwagen vooruit en zie hoe hij onderweg autos op een schaal van 1:64 oppeuzelt. Gebruik hem om meer dan 20 autos (schaal 1:64) op te bergen!
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BN15GCB7{{</world>}}

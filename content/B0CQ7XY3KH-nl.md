@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Geschikt voor dragers van contactlenzen en voor mensen met gevoelige ogen.
+- Klassieke blauwe kleur. | 2-in-1 mascaraborsteltje voor vollere wimpers en extra volume.
+- De formule kan in meerdere laagjes worden aangebracht, blijft tot 24 uur zitten en is waterbestendig. De mascara geeft niet af, klontert niet en schilfert niet.
 - Oftalmologisch getest.
 - Je verwijdert de mascara eenvoudig met gewone make-up remover zonder dat er wimpers uitvallen.
-- De formule kan in meerdere laagjes worden aangebracht, blijft tot 24 uur zitten en is waterbestendig. De mascara geeft niet af, klontert niet en schilfert niet.
-- Klassieke blauwe kleur. | 2-in-1 mascaraborsteltje voor vollere wimpers en extra volume.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CQ7XY3KH{{</world>}}

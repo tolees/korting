@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Met waardevolle ingrediënten
-- Voor alle huidtypes
-- oogcrème
 - dames
 - Vochtinbrengend
+- Voor alle huidtypes
+- oogcrème
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B008KFGIXA{{</world>}}

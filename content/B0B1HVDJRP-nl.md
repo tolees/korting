@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Veilig in gebruik, IP65 waterdicht: de lichtketting werkt met 5 V laagspanning, laag stroomverbruik voor warmteontwikkeling, solide platinadraad-isolatie, veilig voor kinderen en huisdieren, geen gevaar voor warmteontwikkeling na uren. De lichtketting en het batterijvak zijn beide IP65 waterdicht, zodat je ze in de regen of in de badkamer kunt gebruiken zonder je zorgen te hoeven maken over onderbrekingen. Perfect voor elke binnen- of buitendecoratie.
 - Handige batterijvoeding: vereist 3 AA-batterijen (niet meegeleverd), elke set bevat een kleine waterdichte batterijbehuizing. In vergelijking met de wandstekker is de batterijbox eenvoudig te bedienen, eenvoudig van stroom te voorzien en kan naar wens worden gebruikt, zonder je zorgen te hoeven maken over stroomproblemen.
 - 8 modi en afstandsbediening: met 8 prachtige verlichtingsmodi, schakelfuncties, wisselcombinatie, golven, vuurvliegjes knipperen, vervagen, jagen/knipperen, langzaam vervagen, fonkelen/knipperen, continu licht. Met de afstandsbediening kun je de lampen eenvoudig in- of uitschakelen, voor verschillende sferen in je woonomgeving.
 - 40 warmwitte led-lichtsnoer: het bolvormige oppervlak bestaat uit gematteerde kunststof met 40 superheldere warmwitte leds en een waterdicht batterijvak. Elke bal heeft een diameter van 19 mm en de ketting is 5 meter lang, geschikt om rond bomen, tuinen, terrassen, struiken enz. te gebruiken.
 - Uitstekende kwaliteitsborging: onze kogellampen werken op batterijen met lage warmteafgifte en veilig gebruik. Wij bieden 12 maanden kwaliteitsgarantie voor lichtsnoeren. Als u vragen heeft, laat ons dan een bericht achter en wij staan binnen twaalf uur tot uw beschikking.
+- Veilig in gebruik, IP65 waterdicht: de lichtketting werkt met 5 V laagspanning, laag stroomverbruik voor warmteontwikkeling, solide platinadraad-isolatie, veilig voor kinderen en huisdieren, geen gevaar voor warmteontwikkeling na uren. De lichtketting en het batterijvak zijn beide IP65 waterdicht, zodat je ze in de regen of in de badkamer kunt gebruiken zonder je zorgen te hoeven maken over onderbrekingen. Perfect voor elke binnen- of buitendecoratie.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0B1HVDJRP{{</world>}}

@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- ESSENTIEEL - Een veelzijdige optie voor dagelijks draagcomfort. JACHUEY
-- PASVORM - Strakke pasvorm tot halverwege het dijbeen.
 - MATERIAAL - 95% Katoen, 5% Elastaan
+- PASVORM - Strakke pasvorm tot halverwege het dijbeen.
+- ESSENTIEEL - Een veelzijdige optie voor dagelijks draagcomfort. JACHUEY
 - IDEAAL - Korte onderbroek met logo bedrukte elastische tailleband.
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Speelplezier voor kinderen vanaf 4 jaar: Ideaal voor kinderhanden door de leeftijdsappropriate grootte en aangename tactiliteit met afgeronde randen. Stimuleert de verbeelding van uw kind.
-- Creativiteit zonder grenzen: De PLAYMOBIL-speelsets kunnen eindeloos worden gecombineerd en uitgebreid. De bouwtruck met kraan is een geweldige uitbreiding voor andere PLAYMOBIL-werelden! Hoe gaat jouw PLAYMOBIL-verhaal verder?
 - Veilig spelen: Bouwinstructies samen met de ouders. Reiniging van de onderdelen (zonder stickers) onder stromend water en zonder chemische middelen.
+- Speelplezier voor kinderen vanaf 4 jaar: Ideaal voor kinderhanden door de leeftijdsappropriate grootte en aangename tactiliteit met afgeronde randen. Stimuleert de verbeelding van uw kind.
 - Het origineel: Playmobil verblijdt sinds 1974 kinderen en volwassenen. Hoge kwaliteit en robuuste materialen zorgen voor een lange levensduur.
+- Creativiteit zonder grenzen: De PLAYMOBIL-speelsets kunnen eindeloos worden gecombineerd en uitgebreid. De bouwtruck met kraan is een geweldige uitbreiding voor andere PLAYMOBIL-werelden! Hoe gaat jouw PLAYMOBIL-verhaal verder?
 - Bouwvakkers, opgelet! Met zijn uitschuifbare en draaibare telescooparm kan de truck zware objecten op de bouwplaats heen en weer manoeuvreren. De grote laadbak kan omhoog en omlaag kantelen en de zijkanten kunnen worden neergelaten.
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Inhoud: 1 x Samsung MU-PH8T0S/EU Portable SSD T5 EVO, 8 TB, incl. USB-C-kabel, afmetingen (B x D x H): 95 x 40 x 17 mm, gewicht: 102 g
+- Draagbare SSD T5 EVO met 8 TB opslagruimte³, compact en stijlvol design met praktische metalen handgreep voor bevestiging aan je tas
+- Externe harde schijf voor snelle gegevensoverdracht tot 460 MB/s bij lezen en schrijven¹, tot 3,8 x sneller dan externe Samsung HDDs²
 - De gratis Samsung Magician software optimaliseert de prestaties voor jou en houdt de drive met updates altijd up-to-date ¹
 - Verkrijgbaar met opslagcapaciteit tot 8 TB³, het ideale accessoire voor MacOS, Windows- en Android-apparaten en smart-tvs en spelconsoles
-- Draagbare SSD T5 EVO met 8 TB opslagruimte³, compact en stijlvol design met praktische metalen handgreep voor bevestiging aan je tas
-- Inhoud: 1 x Samsung MU-PH8T0S/EU Portable SSD T5 EVO, 8 TB, incl. USB-C-kabel, afmetingen (B x D x H): 95 x 40 x 17 mm, gewicht: 102 g
-- Externe harde schijf voor snelle gegevensoverdracht tot 460 MB/s bij lezen en schrijven¹, tot 3,8 x sneller dan externe Samsung HDDs²
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CKLBSCRZ{{</world>}}

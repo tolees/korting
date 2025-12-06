@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Tips: 1. Droog voor gebruik voor de hoogste afdrukkwaliteit (65 °C, 8 uur). Vochtigheid van de verpakking < 20% RH (verzegeld, met droogmiddel). 2. Nozzletemperatuur 230-260 °C, hotbed 75-90 °C. 3. Om ervoor te zorgen dat de eerste laag goed hecht, wordt aanbevolen om de koelventilator uit te schakelen van de 1e tot de 3e laag.
+- Brede compatibiliteit: Compatibel met de meeste 1,75mm FDM 3D drukkers op de markt. Als je vragen hebt bij het gebruik van TINMORRY filament, neem dan contact met ons op om het filament profiel op te vragen of te downloaden van GitHub.
 - Afdrukken met hoge snelheid: Ondersteunt printen op hoge snelheid tot 300 mm/s, wat 3-5 keer sneller is dan PETG-filamenten van andere merken. Het is gemakkelijk om prints van hoge kwaliteit met een uniform oppervlak te verkrijgen, zelfs bij printen op hoge snelheid.
 - Minder gevoelig voor klitten en verstopping: Met een diameter van 1,75±0,03 mm is het TINMORRY PETG-Eco filament volledig mechanisch gewikkeld en wordt het handmatig streng gecontroleerd om een schone wikkeling en gemakkelijke invoer te garanderen. De nieuwe formule zorgt ook voor een aanzienlijke verbetering van de printkwaliteit doordat de spuitmondjes minder verstopt raken en minder klonteren in vergelijking met andere PETG-merken.
-- Brede compatibiliteit: Compatibel met de meeste 1,75mm FDM 3D drukkers op de markt. Als je vragen hebt bij het gebruik van TINMORRY filament, neem dan contact met ons op om het filament profiel op te vragen of te downloaden van GitHub.
 - Hoge taaiheid en goede hittebestendigheid: TINMORRY PETG-Eco 3D Printer Filament heeft de voordelen van hoge taaiheid, lage krimp en uitstekende laagbinding. Het is robuuster en duurzamer dan PLA voor een breder scala aan toepassingen.
-- Tips: 1. Droog voor gebruik voor de hoogste afdrukkwaliteit (65 °C, 8 uur). Vochtigheid van de verpakking < 20% RH (verzegeld, met droogmiddel). 2. Nozzletemperatuur 230-260 °C, hotbed 75-90 °C. 3. Om ervoor te zorgen dat de eerste laag goed hecht, wordt aanbevolen om de koelventilator uit te schakelen van de 1e tot de 3e laag.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CG6FWJWV{{</world>}}

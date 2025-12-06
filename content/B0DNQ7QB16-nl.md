@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Veilig en betrouwbaar: De V0-vlamdovende behuizing met overtemperatuurbeveiliging zorgt voor veiligheid door tijdens noodsituaties de stroom uit te schakelen. Na een stroomuitval herstelt je schakelaar ook naar zijn vorige staat. Wordt geleverd met een ESP32-processor voor verbeterde communicatie, dataoverdracht en efficiëntie in slimme besturing.
-- Aangepaste slimme scènes: Hiermee kun je automatisch lichten inschakelen wanneer deuren opengaan of bij beweging (SwitchBot Sensor vereist), en kun je gangverlichting op een vooraf ingestelde tijd uitschakelen. Koppel met SwitchBot Meter om tuinirrigatie te automatiseren op basis van temperatuur en vochtigheid.
 - Meerdere bedieningsopties: Verbind via Wi-Fi zonder hub om apparaten op afstand te bedienen via je smartphone. Als het internet uitvalt, gebruik je Bluetooth voor lokale bediening. Het Matter-protocol ondersteunt directe verbinding met Alexa, Apple HomeKit, Google Home en SmartThings, waardoor spraakbesturing voor handsfree gemak mogelijk wordt.
-- Maak oude apparaten direct slim: Dit compacte apparaat van 4,2 x 3,7 x 1,6 cm past in de meeste schakelkasten en stopcontacten zonder opnieuw te bedraden. Het biedt een snelle installatie van 10 minuten voor afstandsbediening en automatisering van verlichting, ventilatoren, verwarming en airconditioning.
+- Veilig en betrouwbaar: De V0-vlamdovende behuizing met overtemperatuurbeveiliging zorgt voor veiligheid door tijdens noodsituaties de stroom uit te schakelen. Na een stroomuitval herstelt je schakelaar ook naar zijn vorige staat. Wordt geleverd met een ESP32-processor voor verbeterde communicatie, dataoverdracht en efficiëntie in slimme besturing.
 - Slimme Relais Schakelaar met Bluetooth Repeater, Matter-compatibel Bedien apparaten eenvoudig direct met Alexa, Apple HomeKit, Google Home of SmartThings (vereist een compatibele speaker). De ingebouwde Bluetooth Repeater ondersteunt netwerken voor tot 10 SwitchBot Bluetooth sub-apparaten, wat zorgt voor naadloze connectiviteit.
+- Maak oude apparaten direct slim: Dit compacte apparaat van 4,2 x 3,7 x 1,6 cm past in de meeste schakelkasten en stopcontacten zonder opnieuw te bedraden. Het biedt een snelle installatie van 10 minuten voor afstandsbediening en automatisering van verlichting, ventilatoren, verwarming en airconditioning.
+- Aangepaste slimme scènes: Hiermee kun je automatisch lichten inschakelen wanneer deuren opengaan of bij beweging (SwitchBot Sensor vereist), en kun je gangverlichting op een vooraf ingestelde tijd uitschakelen. Koppel met SwitchBot Meter om tuinirrigatie te automatiseren op basis van temperatuur en vochtigheid.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DNQ7QB16{{</world>}}

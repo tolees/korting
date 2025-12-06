@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Met vitamine C en guarana
 - Bestrijdt droogheid, strakheid en ruwheid
-- Een dagelijkse vochtinbrengende crème die 24 uur per dag hydrateert
 - Niet-vette vochtinbrengende crème voor heren, trekt snel in
+- Een dagelijkse vochtinbrengende crème die 24 uur per dag hydrateert
+- Met vitamine C en guarana
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B000T1VZ3G{{</world>}}

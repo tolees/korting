@@ -31,8 +31,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 - Perfect Pour schenktuit voor druppelvrij gieten
 - Bespaart tot 70% energie door 1 kop (235 ml) in plaats van 1 liter om te koken - met behulp van de drukkookzone kunt u precies zien hoeveel water er nodig is en overmatig energieverbruik vermijden
 - Technische gegevens 220-240 V | 2000-2400 W | 50/60Hz |
-- Verwijderbaar antikalkfilter, 360° draaibare basis, ideaal voor links- en rechtshandige gebruikers, bescherming tegen droge/oververhitting
 - Licht op in twee kleuren: blauw in stand-by, rood tijdens het koken; externe waterniveau-indicator; verlichte aan/uit-knop
+- Verwijderbaar antikalkfilter, 360° draaibare basis, ideaal voor links- en rechtshandige gebruikers, bescherming tegen droge/oververhitting
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01B0YT0E6{{</world>}}

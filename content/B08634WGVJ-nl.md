@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Doe hem dicht en hij gaat terug in de sluimerstand
 - Deze prachtige Smart Cover beschermt het scherm van je iPad (7e generatie), iPad Air (3e generatie) of 10,5-inch iPad Pro
 - Compatibiliteit: 10,5‑inch iPad Pro, iPad Air (3e generatie), iPad (9e generatie), iPad (8e generatie), iPad (7e generatie)
 - Doe hem open en je iPad is direct klaar voor gebruik
+- Doe hem dicht en hij gaat terug in de sluimerstand
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08634WGVJ{{</world>}}

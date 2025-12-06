@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- De volgende spellen zijn in de cartridge inbegrepen: STAR WARS Jedi Knight: Jedi Academy (3.6 GB), STAR WARS Jedi Knight II: Jedi Outcast (1.1 GB), STAR WARS Episode I Racer (254 MB), STAR WARS Republic Commando (2.5 GB), STAR WARS: The Force Unleashed (3.4 GB)
+- Leer de weg van de Kracht van Jedi Meester Luke Skywalker, neem de controle over een snel bewegende Podracer, leid een eliteteam van klonen... Doe dit alles en meer met de STAR WARS Heritage Pack! met zeven klassieke STAR WARS-spellen:
 - De volgende spellen zijn niet in de cartridge inbegrepen en vereisen een download en ofwel geheugen op de console of op een SD-kaart: STAR WARS: Knights of the Old Republic (12.1 GB), STAR WARS: Knights of the Old Republic II: The Sith Lords (15.9 GB)
 - Zeven klassieke STAR WARS-spellen!
-- Leer de weg van de Kracht van Jedi Meester Luke Skywalker, neem de controle over een snel bewegende Podracer, leid een eliteteam van klonen... Doe dit alles en meer met de STAR WARS Heritage Pack! met zeven klassieke STAR WARS-spellen:
-- De volgende spellen zijn in de cartridge inbegrepen: STAR WARS Jedi Knight: Jedi Academy (3.6 GB), STAR WARS Jedi Knight II: Jedi Outcast (1.1 GB), STAR WARS Episode I Racer (254 MB), STAR WARS Republic Commando (2.5 GB), STAR WARS: The Force Unleashed (3.4 GB)
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CKLRNH8H{{</world>}}

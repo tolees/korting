@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Bevat: 12 lepels, vorken, messen, koffielepeltjes en taartvorkjes en 1 suikerlepel, taartschep, groentelepel, slavork, slalepel, soepkoplepel, vleesvork en sauslepel
-- Afgeronde vorm voor een goed gevoel, elegante look past bij de verschillende Villeroy & Boch-collecties
 - Klassiek tafelbestek met filigrane versiering op het handvat voor maximaal 12 personen, alleskunner voor dagelijks gebruik of voor een feestdagtafel
+- Afgeronde vorm voor een goed gevoel, elegante look past bij de verschillende Villeroy & Boch-collecties
+- Bevat: 12 lepels, vorken, messen, koffielepeltjes en taartvorkjes en 1 suikerlepel, taartschep, groentelepel, slavork, slalepel, soepkoplepel, vleesvork en sauslepel
 - Inhoud: 1 x Villeroy & Boch Mademoiselle tafelbestekset 68-delig, materiaal: roestvrij staal
 - Hoogwaardige kwaliteit: roestvrij, vaatwasmachinebestendig en gepolijst roestvrij staal, smaakneutraal en hygiënisch voor dagelijks gebruik
 

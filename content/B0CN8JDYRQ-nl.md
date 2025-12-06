@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Met 10.000 mAh voldoende capaciteit voor de hele dag
-- Tot drie apparaten tegelijkertijd van energie voorzien
 - USB Type-C naar USB Type-C (20 cm) meegeleverd
-- Comfortabel inductief opladen tot 7,5 W
 - Laadcomfort onderweg met supersnelle oplaadfunctie tot 25 W
+- Comfortabel inductief opladen tot 7,5 W
+- Tot drie apparaten tegelijkertijd van energie voorzien
+- Met 10.000 mAh voldoende capaciteit voor de hele dag
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CN8JDYRQ{{</world>}}

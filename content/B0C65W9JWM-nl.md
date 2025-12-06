@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- lengte van de verpakking van het artikel: 300 mm
-- hoogte van de verpakking van het artikel: 110 mm
 - breedte van het artikelpakket: 205 mm
 - gewicht van het artikelpakket: 0.195 kg
+- hoogte van de verpakking van het artikel: 110 mm
+- lengte van de verpakking van het artikel: 300 mm
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0C65W9JWM{{</world>}}

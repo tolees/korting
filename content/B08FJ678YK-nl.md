@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Belangrijke opmerking: verwijder voor het eerste gebruik de plastic verpakking van het filter. Aanbevolen filtervervanging om de 6-8 maanden (compatibel met Levoit Core 200S-RF). Stel na het wisselen de filterindicator op het apparaat en in de app terug.
-- Opmerking: het nominale vermogen van de luchtreiniger bedraagt 26 watt en de spanning is 220 V
-- Intelligente bediening en toegang overal – met de VeSync-app kun je de ventilatorsnelheid en de modus wijzigen, de levensduur van het filter controleren, tijdschemas en timer instellen. Alles vanaf je smartphone.
 - Fluisterstille slaapmodus: met slechts 24 dB in de slaapmodus reinigt de luchtreiniger de lucht bijna geruisloos. Het oogvriendelijke nachtlampje (uitschakelbaar) zorgt bovendien voor een aangename sfeer en een veilig gevoel – perfect voor een goede nachtrust.
+- Intelligente bediening en toegang overal – met de VeSync-app kun je de ventilatorsnelheid en de modus wijzigen, de levensduur van het filter controleren, tijdschemas en timer instellen. Alles vanaf je smartphone.
+- Belangrijke opmerking: verwijder voor het eerste gebruik de plastic verpakking van het filter. Aanbevolen filtervervanging om de 6-8 maanden (compatibel met Levoit Core 200S-RF). Stel na het wisselen de filterindicator op het apparaat en in de app terug.
 - Snelle luchtreiniging: de Core 200S verwijdert tot 99,97% van pollen, stof, dierenharen, hij reinigt de lucht twee keer per uur tot 35 m² en eenmaal per uur in ruimtes tot 70 m². Ideaal voor slaapkamers, woonkamers, kantoren of woningen.
 - Efficiënte 3-in-1 filtering: het 360°-filtersysteem met HEPA-filter, voorfilter en actieve koolfilter verwijdert effectief fijne deeltjes, allergenen en geurtjes. Meerlaagse bescherming voor mensen met een allergie en huisdierbezitters.
+- Opmerking: het nominale vermogen van de luchtreiniger bedraagt 26 watt en de spanning is 220 V
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08FJ678YK{{</world>}}

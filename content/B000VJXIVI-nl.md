@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kalmeert droge lippen: de lippenbalsem versterkt de natuurlijke beschermlaag van de huid en zorgt voor een intensieve en langdurige vochtverzorging
 - Voor zichtbaar mooie en verzorgde lippen: de verzorgende lippenstift biedt de optimale lippenverzorging in het dagelijks leven en zorgt voor merkbaar verzorgde en zachte lippen
-- Lippenverzorging met beschermingsfactor 4: de zon-lipbeschermstift met SPF 4 kalmeert aangevallen en beschadigde lippen en verbetert merkbaar de soepelheid
 - Lippenverzorgingspen voor droge en gebarsten lippen
+- Kalmeert droge lippen: de lippenbalsem versterkt de natuurlijke beschermlaag van de huid en zorgt voor een intensieve en langdurige vochtverzorging
 - Inhoud: 1 x 4,8 g Neutrogena Noorse formule lippenverzorging met SPF 4, zorgt voor merkbaar verzorgde en zachte lippen
+- Lippenverzorging met beschermingsfactor 4: de zon-lipbeschermstift met SPF 4 kalmeert aangevallen en beschadigde lippen en verbetert merkbaar de soepelheid
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B000VJXIVI{{</world>}}

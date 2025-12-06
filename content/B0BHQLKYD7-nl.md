@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 【Stabiele dimensionale tolerantie】Minimale tolerantie en lage kromming om consistente voeding en stabiele afdrukken, goede laagbinding, minder stringing, geen bubbels, geen barsten, geen vervorming, eenvoudige bediening, wat resulteert in een uitstekende oppervlakte-afwerking en zijn zeer nauwkeurig.
-- 【Metaal PLA】Metaaltextuur met het visuele effect van verminderde laagzichtbaarheid, die antieke rustieke aanraking geeft. Geen extra schilderen, polijsten of post-processing nodig, het kan outputafdrukken met berijpte en korrelige textuur. Perfect voor esthetische creatie van gevechtsscènes en historische scenarios.
-- 【Goede bedrukbaarheid】De steunstructuur is gemakkelijk weg te pellen, vlotte en vlakke gedrukte oppervlakte; Hoge hardheid, niet gemakkelijk te breken; Houd alle voordelen van PLA, gemakkelijk te drukken, lage inkrimping, geen misvorming. Geadviseerde Uitdrijving/Nozzle Temperatuur 190-230℃, Bed Temperatuur 45-60℃.
-- 【Metaal spuit-vrij verschijning】Metaal PLA voegt metaal nevel-vrij effect toe dat op gewone PLA wordt gebaseerd, het verstrekt een betekenis van het tijdperk, verhalende en raadselachtige verschijning, geschikt voor drukmodellen van hoge knipsel en grote ronde oppervlakte. (Metaal PLA heeft een metaalkleurige verschijning maar bevat geen metaalpoeder).
 - 【Kluwenvrij & geen verstoppingen】Volledig 1KG 3D printer filament spoel, perfecte rondheid en zeer strakke diameter tolerantie, goede wikkeling, overlapt niet of wirwar. Smelt goed, voer regelmatig en constant zonder het mondstuk of de extruder te verstoppen, hoge succesvolle afdruksnelheid.
+- 【Goede bedrukbaarheid】De steunstructuur is gemakkelijk weg te pellen, vlotte en vlakke gedrukte oppervlakte; Hoge hardheid, niet gemakkelijk te breken; Houd alle voordelen van PLA, gemakkelijk te drukken, lage inkrimping, geen misvorming. Geadviseerde Uitdrijving/Nozzle Temperatuur 190-230℃, Bed Temperatuur 45-60℃.
+- 【Metaal PLA】Metaaltextuur met het visuele effect van verminderde laagzichtbaarheid, die antieke rustieke aanraking geeft. Geen extra schilderen, polijsten of post-processing nodig, het kan outputafdrukken met berijpte en korrelige textuur. Perfect voor esthetische creatie van gevechtsscènes en historische scenarios.
+- 【Metaal spuit-vrij verschijning】Metaal PLA voegt metaal nevel-vrij effect toe dat op gewone PLA wordt gebaseerd, het verstrekt een betekenis van het tijdperk, verhalende en raadselachtige verschijning, geschikt voor drukmodellen van hoge knipsel en grote ronde oppervlakte. (Metaal PLA heeft een metaalkleurige verschijning maar bevat geen metaalpoeder).
+- 【Stabiele dimensionale tolerantie】Minimale tolerantie en lage kromming om consistente voeding en stabiele afdrukken, goede laagbinding, minder stringing, geen bubbels, geen barsten, geen vervorming, eenvoudige bediening, wat resulteert in een uitstekende oppervlakte-afwerking en zijn zeer nauwkeurig.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BHQLKYD7{{</world>}}

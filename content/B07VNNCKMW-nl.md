@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Met Toverhazelaar
+- Bioré Ultra Diep Reinigende Poriestrips vangt en verwijdert diepgenesteld vuil dat mee-eters veroorzaakt voor de diepste reiniging
+- Bioré Ultra Diep Reinigende Poriestrips voor alle huidtypen - 6 strips
 - Met Theeboom olie
 - Dermatologisch getest
-- Bioré Ultra Diep Reinigende Poriestrips voor alle huidtypen - 6 strips
-- Bioré Ultra Diep Reinigende Poriestrips vangt en verwijdert diepgenesteld vuil dat mee-eters veroorzaakt voor de diepste reiniging
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07VNNCKMW{{</world>}}

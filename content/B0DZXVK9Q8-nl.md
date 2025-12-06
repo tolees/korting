@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- De Infaillible Setting Mist werkt als onzichtbare beschermlaag: het maakt alle make-up waterproof, hittebestendig en zweetbestendig
 - Fixeert je make-up: je make-up geeft niet af en geeft geen vlekken
 - Gebruik de Infaillible Setting Mist als laatste stap in je make-up routine
-- De verstuiver verspreidt microfijne nevel die je gemakkelijk & snel gelijkmatig over het gezicht sprayt
-- Houdt (je) make-up tot 36u* mooi (*Consumententest, 106 vrouwen)
 - De Infaillible Setting Mist geeft jouw make-up een stralende finish
+- De verstuiver verspreidt microfijne nevel die je gemakkelijk & snel gelijkmatig over het gezicht sprayt
+- De Infaillible Setting Mist werkt als onzichtbare beschermlaag: het maakt alle make-up waterproof, hittebestendig en zweetbestendig
+- Houdt (je) make-up tot 36u* mooi (*Consumententest, 106 vrouwen)
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DZXVK9Q8{{</world>}}

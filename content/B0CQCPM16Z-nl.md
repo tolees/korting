@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Met stroomisolatiemodule: de geïsoleerde voeding van de Bluetooth-adapter biedt u meer veiligheid, verlengt de levensduur van het apparaat en verbetert het anti-interferentievermogen, waardoor u een betere muziekervaring krijgt
 - Draadloze verbinding: de Bluetooth-audio-ontvanger kan Bluetooth-functionaliteit toevoegen aan uw oude stereoversterker zonder Bluetooth, genieten van draadloze muziek zonder het gedoe van andere draden of kabels. Let op: Het is slechts een Bluetooth-ontvanger, geen zender
+- Met stroomisolatiemodule: de geïsoleerde voeding van de Bluetooth-adapter biedt u meer veiligheid, verlengt de levensduur van het apparaat en verbetert het anti-interferentievermogen, waardoor u een betere muziekervaring krijgt
 - Productaccessoires: UGREEN Bluetooth-jackadapter bevat 3,5 mm audiokabel en USB C-oplaadkabel om beter aan uw behoeften te voldoen voor de meeste toepassingen. Let op: Batterijen zijn niet bij het product inbegrepen
 - Ondersteuning voor aptx HD: de Bluetooth-jackadapter ondersteunt aptx HD en aptX Low Latency om onvervormde Bluetooth-audio met hoge resolutie te leveren aan uw luidsprekers of stereosysteem, en ondersteunt 48 kHz / 24-bit LPCM-audiogegevensoverdracht
 - Dubbele connectiviteit: de Bluetooth-ontvanger kan twee Bluetooth-apparaten tegelijkertijd koppelen. Met 3,5 mm AUX- en RCA-uitgangen kunt u verbinding maken met elk stereosysteem, luidsprekers enz. met een 3,5 mm AUX- of RCA-ingang. Zo kun je altijd en overal van je muziek genieten

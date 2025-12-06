@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 40 nieuwe en leuke nummers voor iedereen
+- Workout-modus voor fitnessfanaten
 - Één platform met alle content
 - Doe het hele jaar door mee aan seizoensgebonden thema-evenementen met nieuwe en spannende nummers
+- 40 nieuwe en leuke nummers voor iedereen
 - Makkelijk of intens, kies je uitdaging
-- Workout-modus voor fitnessfanaten
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0D7Q1Y71P{{</world>}}

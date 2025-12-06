@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- De huid wordt veerkrachtiger en steviger Voor een gehydrateerde en egale huid
-- Vermindert verschillende soorten rimpels
 - Speciaal voor vrouwen vanaf 35 jaar
+- Vermindert verschillende soorten rimpels
+- De huid wordt veerkrachtiger en steviger Voor een gehydrateerde en egale huid
 - Met Pro-retinol voor de aanmaak van nieuwe huidcellen
 - L’Oréal Paris Revitalift nachtcrème Anti-veroudering met Pro-retinol - 50 ml - Speciaal voor vrouwen vanaf 35 jaar - De huid wordt veerkrachtiger en steviger Voor een gehydrateerde en egale huid
 

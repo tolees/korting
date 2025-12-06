@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Behaal 6x de snelheid van een op SATA gebaseerde SSD
-- Zeer snelle PCIe Gen3x4 interface: Tot 3500MB/s lezen en 3000MB/s schrijven - NVMe 1.4 ondersteund
 - M.2 2280 vormfactor met 3D NAND
 - Ideaal voor PC liefhebbers en gamers
+- Behaal 6x de snelheid van een op SATA gebaseerde SSD
+- Zeer snelle PCIe Gen3x4 interface: Tot 3500MB/s lezen en 3000MB/s schrijven - NVMe 1.4 ondersteund
 - Schok- en trillingbestendig zonder bewegende onderdelen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

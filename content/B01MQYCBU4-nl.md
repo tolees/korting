@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kinderen
 - Binnenshuis
+- Kinderen
 - Puzzel
 
 [🛒 Buy it now!!]({{< param buyurl >}})

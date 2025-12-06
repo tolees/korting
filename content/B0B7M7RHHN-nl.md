@@ -28,14 +28,14 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Krachtig: de T6 drone beschikt over verschillende speelopties en kan eenvoudig worden aangestuurd via de mobiele app of de afstandsbediening: headless-modus, drie snelheden, 360 graden rotatie, automatische hoogtebepaling, one-touch start/terugkeer. Maak je vliegervaring spannender en leuker.
 - Let op: voor de eerste vlucht wordt aanbevolen om deze in een open en windstille omgeving te doen. Zorg ervoor dat je niet te ver vliegt, want anders kun je de controle verliezen. Kalibreer de drone altijd horizontaal voor het vliegen en laat deze horizontaal opstijgen, anders stabiliseert de drone zich niet tijdens de vlucht.
+- Lange vliegtijd: de T6 quadcopter wordt geleverd met twee oplaadbare accus (SD-kaart wordt niet ondersteund) voor een totale vliegtijd van maximaal 20-28 minuten (10-14 minuten per accu). Voldoende uithoudingsvermogen dus om je vogelvlucht een nieuwe dimensie te geven.
+- 1080p HD FPV-camera: de camera-resolutie van de RC T6 drone met camera bedraagt 1920 x 1080p. Dankzij de 90 graden verstelbare camera met First Person View en de 2,4G real-time overdrachtsfunctie, samen met het stabiele stationaire effect van onze drone, krijg je een nog betere foto-ervaring.
 - Esthetisch ontwerp: parelwitte behuizing met groenblauwe ledlampen op de armen van de drone voor een cooler visueel effect tijdens nachtvluchten.
+- Krachtig: de T6 drone beschikt over verschillende speelopties en kan eenvoudig worden aangestuurd via de mobiele app of de afstandsbediening: headless-modus, drie snelheden, 360 graden rotatie, automatische hoogtebepaling, one-touch start/terugkeer. Maak je vliegervaring spannender en leuker.
+- Uitstekende stabiliteit: de T6 drone met HD-camera is niet opvouwbaar, wat bijdraagt aan een uitstekende vliegstabiliteit. De betere manoeuvreerbaarheid maakt het nog eenvoudiger om de drone te vliegen zoals jij dat wilt.
 - - -
 - Een geweldige drone voor beginners: de T6-drone is geschikt voor beginners en kinderen vanaf 14 jaar. De quadcopter is licht (120 gram), waardoor zelfs drone-beginners snel kunnen starten. Het perfecte cadeau-idee voor een verjaardag of kerst.
-- Uitstekende stabiliteit: de T6 drone met HD-camera is niet opvouwbaar, wat bijdraagt aan een uitstekende vliegstabiliteit. De betere manoeuvreerbaarheid maakt het nog eenvoudiger om de drone te vliegen zoals jij dat wilt.
-- 1080p HD FPV-camera: de camera-resolutie van de RC T6 drone met camera bedraagt 1920 x 1080p. Dankzij de 90 graden verstelbare camera met First Person View en de 2,4G real-time overdrachtsfunctie, samen met het stabiele stationaire effect van onze drone, krijg je een nog betere foto-ervaring.
-- Lange vliegtijd: de T6 quadcopter wordt geleverd met twee oplaadbare accus (SD-kaart wordt niet ondersteund) voor een totale vliegtijd van maximaal 20-28 minuten (10-14 minuten per accu). Voldoende uithoudingsvermogen dus om je vogelvlucht een nieuwe dimensie te geven.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0B7M7RHHN{{</world>}}

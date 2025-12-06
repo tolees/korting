@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- SanDisk Extreme microSDHC en microSDXC UHS I kaarten zijn schokbestendig; temperatuurbestendig; waterbestendig en röntgenbestendig; zodat u van uw avonturen kunt genieten
-- Bespaar tijd met overdrachtsnelheden tot 190 MB/s; mogelijk gemaakt door SanDisk QuickFlow technologie
-- Met een capaciteit tot 128 GB; stet de SanDisk Extreme microSD UHS I kaart u in staat zonder onderbreking 4K UHD en full HD video op te nemen met UHS Speed Class 3 U3 en Video Speed Class 30 V30 classificaties
 - Leveringsomvang: SanDisk Extreme microSDXC UHS I Geheugenkaart 128 GB Met SD Adapter; 1 Jaar RescuePRO Deluxe; Leessnelheden Tot 190 MB/s; A2; C10; V30; U3; 30 Jaar Garantie
+- Bespaar tijd met overdrachtsnelheden tot 190 MB/s; mogelijk gemaakt door SanDisk QuickFlow technologie
+- SanDisk Extreme microSDHC en microSDXC UHS I kaarten zijn schokbestendig; temperatuurbestendig; waterbestendig en röntgenbestendig; zodat u van uw avonturen kunt genieten
+- Met een capaciteit tot 128 GB; stet de SanDisk Extreme microSD UHS I kaart u in staat zonder onderbreking 4K UHD en full HD video op te nemen met UHS Speed Class 3 U3 en Video Speed Class 30 V30 classificaties
 - Leg snelle actiefotos vast of maak 4K UHD videos met schrijfsnelheden tot 90 MB/s; De SanDisk Extreme PRO microSDXC UHS I kaart stelt u in staat meer en sneller op te nehmen
 
 [🛒 Buy it!!]({{< param buyurl >}})

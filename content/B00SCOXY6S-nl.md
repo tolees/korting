@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Maximale capaciteit in koffiekopjes: 10 tot 15 kopjes (1,2 liter)
+- De afneembare onderdelen zijn vaatwasmachinebestendig
+- Inhoud: koffiezetapparaat, glazen kan
+- Automatische uitschakeling na de koffiebereiding voor meer veiligheid
 - Met Aroma Swirl voor een optimaal en gelijkmatig aroma.
 - Innovatieve waterniveau-indicator voor het nauwkeurig vullen van het waterreservoir
-- Automatische uitschakeling na de koffiebereiding voor meer veiligheid
-- Inhoud: koffiezetapparaat, glazen kan
-- De afneembare onderdelen zijn vaatwasmachinebestendig
 - Druppelstopfunctie voor het willekeurig onderbreken van het zetproces
+- Maximale capaciteit in koffiekopjes: 10 tot 15 kopjes (1,2 liter)
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00SCOXY6S{{</world>}}

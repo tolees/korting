@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Gedempte binnenzool
-- Trapsgewijze nokken zorgen voor voldoende grip
-- Het bovenwerk is gemaakt van NikeSkin-materiaal met ingelegde chevrons, wat zorgt voor balcontrole
 - De Dynamic Fit-kraag wikkelt de enkel in zacht, flexibel materiaal voor een stevige pasvorm
+- Gedempte binnenzool
+- Het bovenwerk is gemaakt van NikeSkin-materiaal met ingelegde chevrons, wat zorgt voor balcontrole
+- Trapsgewijze nokken zorgen voor voldoende grip
 - Een adaptieve jersey die flexibiliteit en ondersteuning biedt en je dichter bij de bal brengt
 
 [🛒 Check the deal!!]({{< param buyurl >}})

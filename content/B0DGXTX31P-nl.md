@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Het 3D CR-PETG-filament heeft een uitstekende slijtvastheid en chemische bestendigheid, heeft geen geur en is niet giftig, daarom milieuvriendelijk.
-- Het eindproduct heeft een fijn oppervlak met prachtige details met een goede taaiheid, het gedrukte patroon is solide en robuust. Het filament kan herhaaldelijk met hoge breukrek worden gebogen
-- Creality biedt 12 maanden en 24 uur after-sales service. Opmerking: leg dit product in een droge en geventileerde omgeving, niet in een omgeving met hoge temperatuur, zonnig of vochtig.
-- De CR-PETG 3D-printer wordt vaak gebruikt in FDM-3D-printers op de markt. Het 1,75 mm PLA-filament is ook zeer eenvoudig te verwerken en past op de meeste FDM-printers.
 - Eigenschappen: het heeft de voordelen van PLA en ABS, milieuvriendelijk, geurloos en niet giftig. Geen scheuren en vervormingen met goede taaiheid, het gedrukte patroon is solide en robuust
+- Het eindproduct heeft een fijn oppervlak met prachtige details met een goede taaiheid, het gedrukte patroon is solide en robuust. Het filament kan herhaaldelijk met hoge breukrek worden gebogen
+- Het 3D CR-PETG-filament heeft een uitstekende slijtvastheid en chemische bestendigheid, heeft geen geur en is niet giftig, daarom milieuvriendelijk.
+- De CR-PETG 3D-printer wordt vaak gebruikt in FDM-3D-printers op de markt. Het 1,75 mm PLA-filament is ook zeer eenvoudig te verwerken en past op de meeste FDM-printers.
+- Creality biedt 12 maanden en 24 uur after-sales service. Opmerking: leg dit product in een droge en geventileerde omgeving, niet in een omgeving met hoge temperatuur, zonnig of vochtig.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DGXTX31P{{</world>}}

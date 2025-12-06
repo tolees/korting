@@ -28,14 +28,14 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Opmerkingen: De relevante wettelijke vereisten kunnen variëren, afhankelijk van hoe u uw drone gebruikt. Zorg er voor uw veiligheid voor dat u de meest recente lokale wet- en regelgeving controleert en strikt opvolgt voordat u gaat vliegen.
+- Beginnersvriendelijk en veilig - DJI Mini 4K ondersteunt opstijgen/landen met één tik, GPS Terug naar thuisbasis (RTH) en stabiel zweven, en eenvoudige bediening met één druk voor beginners. Met extra in-app-leermiddelen kunt u het vliegen snel leren.
 - Inclusief DJI Mini 4K, 1 batterij, een RC-N1C en alles wat u nodig hebt voor eenvoudige 4K-vluchten. Een geweldige en betaalbare keuze voor beginners.
 - Ononderbroken creatie met langere batterijduur - Er zijn drie sets beschikbaar waaruit u kunt kiezen: Set met 1 batterij (31 min), set met 2 batterijen (62 min) of set met 3 batterijen (93 min). [3] Zeg vaarwel tegen batterijangst.
-- Beginnersvriendelijk en veilig - DJI Mini 4K ondersteunt opstijgen/landen met één tik, GPS Terug naar thuisbasis (RTH) en stabiel zweven, en eenvoudige bediening met één druk voor beginners. Met extra in-app-leermiddelen kunt u het vliegen snel leren.
-- 4K Ultra HD en 3-assige gimbal voor opnamen van filmische kwaliteit - Leg verbluffende momenten vast bij elke lichtsituatie: zonsopgangen, zonsondergangen en nachtscènes. Dankzij de 3-assige gimbal kunt u beelden van filmische kwaliteit maken.
 - Geef uw inspiratie een boost met intelligente QuickShots - Met slechts een paar tikken maakt Mini 4K automatisch videos op professioneel niveau met behulp van Spiraal, Dronie, Raket, Cirkel en Boomerang QuickShots.
-- Minder dan 249 g, Klasse C0-certificering - Dankzij het ultralichte gewicht mag de Mini 4K vliegen in de categorieën A1 en A3. Bedieners hoeven geen tests af te leggen.
-- Opmerkingen: De relevante wettelijke vereisten kunnen variëren, afhankelijk van hoe u uw drone gebruikt. Zorg er voor uw veiligheid voor dat u de meest recente lokale wet- en regelgeving controleert en strikt opvolgt voordat u gaat vliegen.
 - 38 km/u (niveau 5) windbestendig - Borstelloze motoren vergroten het vermogen en maken opstijgen mogelijk op hoogtes tot 4.000 meter. Bovendien reikt de transmissieafstand tot 10 km (32.800 voet). [2]
+- 4K Ultra HD en 3-assige gimbal voor opnamen van filmische kwaliteit - Leg verbluffende momenten vast bij elke lichtsituatie: zonsopgangen, zonsondergangen en nachtscènes. Dankzij de 3-assige gimbal kunt u beelden van filmische kwaliteit maken.
+- Minder dan 249 g, Klasse C0-certificering - Dankzij het ultralichte gewicht mag de Mini 4K vliegen in de categorieën A1 en A3. Bedieners hoeven geen tests af te leggen.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CXJ9GM3G{{</world>}}

@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Goede grip
-- Flexibel
 - Extra duurzame ingrediënten
 - Lichtgewicht
 - Gemakkelijk te monteren
+- Goede grip
+- Flexibel
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B01I0BBO2S{{</world>}}

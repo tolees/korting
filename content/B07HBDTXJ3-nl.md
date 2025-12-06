@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Exclusieve TrueMove3+ 12.000 CPI, 350 IPS optische 1 op 1 trackingsensor voor e-sport
 - De laagste en nauwkeurigste hefafstand ter wereld, aanpasbaar van .5 mm tot 2 mm
-- De Quantum Wireless levert vrijheid van draden met vertragingsvrije prestaties
 - Levensduur van de batterij 24+ uur bij volledig opladen of 10 uur vanaf 15 minuten snel opladen
+- De Quantum Wireless levert vrijheid van draden met vertragingsvrije prestaties
+- Exclusieve TrueMove3+ 12.000 CPI, 350 IPS optische 1 op 1 trackingsensor voor e-sport
 - Personaliseerbaar met 256 configuraties voor gewichtsafstelling van het zwaartepunt
 
 [🛒 Buy it!!]({{< param buyurl >}})

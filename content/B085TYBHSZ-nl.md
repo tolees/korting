@@ -31,8 +31,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 - De glas-collectie La Divina voldoet met het elegante, tijdloze design helemaal aan hoge eisen en is geschikt voor stijlvolle gelegenheden.
 - Perfecte haptiek, dunne mondranddikte voor een aangename drinkervaring, glasvorm maakt een perfecte ontwikkeling van het bouquet van de wijn mogelijk
 - Ook geschikt voor de gastronomie: Het hoogwaardig kristalglas is geschikt voor de vaatwasser en zorgt voor een langdurige glans
-- Leveringsinhoud: 4x Villeroy & Boch, La Divina, witte wijn glas (380 ml), materiaal: Kristalglas (art.-nr. 11-3667-8120)
 - Het eenvoudige design is uitstekend te combineren met alle collecties en als set ideaal met andere La Divina glazen uit te breiden
+- Leveringsinhoud: 4x Villeroy & Boch, La Divina, witte wijn glas (380 ml), materiaal: Kristalglas (art.-nr. 11-3667-8120)
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B085TYBHSZ{{</world>}}

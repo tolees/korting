@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- MODERN DESIGN: Dankzij de kelkvorm en dikke bodem liggen de glazen bijzonder goed in de hand, terwijl de dunne rand voor een aangename drinkervaring zorgt.
 - HOOGSTE KWALITEIT: Robuust gourmetglas van kristalglas, smaakloos, vaatwasmachinebestendig en duurzaam in de bekende Villeroy & Boch kwaliteit.
-- INHOUD: 1x Villeroy & Boch Dressed Up waterglasset (bestaat uit 4x waterglas), inhoud: 310 ml, materiaal: kristalglas, kleur: helder (gewicht: 1,152 kg (art.nr. 1136208152)
 - WATERGLASSET: Originele waterglazen met geometrische binnenstructuur voor stijlvol genieten van water en sap, ideaal voor dagelijks gebruik en als cadeauidee.
+- INHOUD: 1x Villeroy & Boch Dressed Up waterglasset (bestaat uit 4x waterglas), inhoud: 310 ml, materiaal: kristalglas, kleur: helder (gewicht: 1,152 kg (art.nr. 1136208152)
+- MODERN DESIGN: Dankzij de kelkvorm en dikke bodem liggen de glazen bijzonder goed in de hand, terwijl de dunne rand voor een aangename drinkervaring zorgt.
 - VEELZIJDIG BRUIKBAAR: De glazen zijn geschikt voor koude frisdranken in de zomer, cocktailpartys met vrienden en het serveren van desserts zoals ijskoffie of vanillecrème.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

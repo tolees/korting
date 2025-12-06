@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 【Veilige en flexibele opslag- en slaapmodus】Elke EZVIZ wifi IP-camera is uitgerust met een MicroSD-kaartsleuf die maximaal 256 GB ondersteunt. Als er extra back-up nodig is, zijn er ook abonnementsgebaseerde cloudopslagopties beschikbaar, maar niet de verplichte ). Voor een extra beschermingslaag voor uw privacy kunt u altijd de slaapmodus van de camera inschakelen in de EZVIZ-app.
 - 【Tweerichtingsaudio】 Communiceer op afstand en creëer een soepel, helder gesprek met uw baby of huisdier met de ingebouwde microfoon en luidspreker.
+- 【Veilige en flexibele opslag- en slaapmodus】Elke EZVIZ wifi IP-camera is uitgerust met een MicroSD-kaartsleuf die maximaal 256 GB ondersteunt. Als er extra back-up nodig is, zijn er ook abonnementsgebaseerde cloudopslagopties beschikbaar, maar niet de verplichte ). Voor een extra beschermingslaag voor uw privacy kunt u altijd de slaapmodus van de camera inschakelen in de EZVIZ-app.
 - 【FHD 1080P & Pan/Tilt 360°】EZVIZ WiFi-bewakingscamera legt elk detail vast met 1080P high definition. Horizontale beweging tot 340° en verticale beweging tot 55°, brede dekking om elk moment vast te leggen. (De bewakingscamera ondersteunt alleen 2,4GHz WiFi)
 - 【Bewegingsdetectie en alarmen】Wanneer de bewakingscamera een bewegend object detecteert, is hij intelligent genoeg om de beweging ervan automatisch te volgen en u te waarschuwen door het beeld in realtime weer te geven.
 - 【Geavanceerd nachtzicht】Zelfs s nachts kan de wifi-bewakingscamera een visuele afstand van maximaal 10 meter bekijken.

@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- ELEGANT CONTROLELAMPJE: Blauwe verlichting in de schakelaar brandt wanneer de waterkoker aanstaat voor extra gebruiksgemak
-- RVS DESIGN: Duurzaam, voedselveilig geborsteld roestvast staal voor langdurig en betrouwbaar gebruik
 - GEMAAKT OM LANG MEE TE GAAN: Snelle kookprestaties dankzij een superefficiënt verwarmingselement voor optimaal gebruiksgemak
 - EENVOUDIG REINIGEN: Veerdeksel met grote opening voor makkelijk schoonmaken, plus drukknop om contact met stoom te vermijden
+- RVS DESIGN: Duurzaam, voedselveilig geborsteld roestvast staal voor langdurig en betrouwbaar gebruik
+- ELEGANT CONTROLELAMPJE: Blauwe verlichting in de schakelaar brandt wanneer de waterkoker aanstaat voor extra gebruiksgemak
 - 1,7 LITER INHOUD: Meer dan 7 kopjes koffie of thee uit een volle kan, ideaal voor het hele gezin of kantoor
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Fleecestof voelt zacht en warm.
 - Met trekkoord kun je je afdekking aanpassen.
 - Kangoeroezak aan de voorkant
+- Fleecestof voelt zacht en warm.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08T9VXH22{{</world>}}

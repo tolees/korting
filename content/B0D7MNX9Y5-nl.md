@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Afspelen van muziek en video regelen
+- Anders dan bij de veelvoorkomende ronde oortjes is het ontwerp van de EarPods gebaseerd op de geometrie van het oor. Hierdoor zitten ze voor veel meer mensen een stuk comfortabeler dan gewone oortjes.
 - Betere bescherming tegen transpiratie en water
 - De EarPods met Lightning-connector hebben ook een ingebouwde afstandsbediening waarmee je het volume instelt, het afspelen van muziek en video regelt en gesprekken beantwoordt of beëindigt met een kneepje in het snoer.
-- Afspelen van muziek en video regelen
 - De luidsprekers van de EarPods zijn ontworpen om de uitvoer te maximaliseren en het geluidsverlies tot een minimum te beperken, voor een optimale geluidskwaliteit.
-- Anders dan bij de veelvoorkomende ronde oortjes is het ontwerp van de EarPods gebaseerd op de geometrie van het oor. Hierdoor zitten ze voor veel meer mensen een stuk comfortabeler dan gewone oortjes.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0D7MNX9Y5{{</world>}}

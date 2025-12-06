@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Verzamel je favoriete figuren uit de Super Mario Bros; figuurlijn van 13 cm
-- Ieder figuur wordt geleverd met een afneembaar op de film gebaseerd accessoire
 - Geschikt vanaf 3 jaar oud
+- Ieder figuur wordt geleverd met een afneembaar op de film gebaseerd accessoire
 - Movie! Ieder figuur van 13 cm is geïnspireerd op de film en heeft eersteklas details, waaronder realistische ogen van acryl en 8-16 articulatiepunten
 
 [🛒 Buy it!!]({{< param buyurl >}})

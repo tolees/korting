@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Schroeven, beitelen en losmaken van vastzittende schroeven
-- Uitstekende hantering dankzij ergonomische vorm en soft-grip-zone
 - Inhoud: kruisschroevendraaier PH1, schachtlengte: 1 mm
-- Extreme robuustheid dankzij het doorlopend roestvrijstalen lemmet, massieve stalen neus en geharde punt
+- Uitstekende hantering dankzij ergonomische vorm en soft-grip-zone
 - Hoogste draaimoment door geïntegreerde inbussleutel
+- Extreme robuustheid dankzij het doorlopend roestvrijstalen lemmet, massieve stalen neus en geharde punt
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B081KD55JN{{</world>}}
