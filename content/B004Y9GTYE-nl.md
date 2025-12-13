@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Maybelline New York - Instant Anti Age Eraser 01 Light - Verhult donkere Kringen in 1 swipe - Met Ingebouwde Applicatiespons - Beige - 6 8 ml - zeer dekkende concealer'
+date: 2025-12-06 23:26:23
+image: 'https://m.media-amazon.com/images/I/31n28WfxO6L._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B004Y9GTYE-nl Maybelline New York - Instant Anti Age Eraser 01 Light -...'
+sku: 'B004Y9GTYE-nl'
+tags: [ 'Beauty','Beauty & persoonlijke verzorging','Concealers & correctors gezicht','Gezichtsmake-up','Make-up','maybelline','🇳🇱', ]
+actualPrice: 8.3 EUR
+currency: EUR
+price: 8.3
+comparePrice: 15.99 EUR
+prodname: 'Maybelline New York - Instant Anti Age Eraser 01 Light - Verhult donkere Kringen in 1 swipe - Met Ingebouwde Applicatiespons - Beige - 6 8 ml - zeer dekkende concealer'
+country: 'nl'
+flag: '🇳🇱'
+brand: 'MAYBELLINE'
+buyurl: 'https://www.amazon.nl/dp/B004Y9GTYE/?tag=tolees0b-21'
+descuento: '48.09'
+average: '8.2'
+---
+
+You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Met ingebouwde applicatiespons voor een ultra gemakkelijke applicatie
+- Verrijkt met Goji bes extract voor hydratatie en Haloxyl wat donkere kringen onder de ogen neutraliseert
+- In één stap een wakkere blik met de Maybelline concealer
+- Zachte, crèmige textuur die direct oneffenheden, donkere kringen en wallen bedekt
+- Zeer dekkende concealer: gebruik op de schone huid of gebruik over een face product zoals foundation, BB cream of CC cream
+
+[🛒 Buy it!!]({{< param buyurl >}})
+{{<world>}}B004Y9GTYE{{</world>}}
