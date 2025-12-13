@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Speel met je vrienden in coöp met 4 spelers
 - Verken iconische locaties in en rond South Park
 - Een gloednieuwe South Park-game in volledig 3D!
+- Speel met je vrienden in coöp met 4 spelers
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CHWBPV11{{</world>}}

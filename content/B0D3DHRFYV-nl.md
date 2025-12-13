@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Meer details, meer scherpte: Ervaar vier keer de detailscherpte van eerdere Full HD-tvs met Ultra HD 4K-resolutie (3.840 x 2.160).
-- Leveringsomvang: Smart TV MD31641 X15015 voetjes incl. schroeven, afstandsbediening incl. batterijen (2x AAA), gebruiksaanwijzing.
-- Elegante 125,7 cm (50") UHD smart TV met HDR10, CI+, Wi-Fi, Bluetooth, PVR ready, mediaspeler, HbbTV, VIDAA Store, NETFLIX, Prime Video, DAZN, Disney+ & Amazon Prime Video app en andere smart TV-diensten.
 - Briljanter dan ooit: High Dynamic Range (HDR10) zorgt voor levensechte contrasten en kleuren.
+- Leveringsomvang: Smart TV MD31641 X15015 voetjes incl. schroeven, afstandsbediening incl. batterijen (2x AAA), gebruiksaanwijzing.
 - De volgende generatie televisie: Met de Smart TV van MEDION ervaar je het internet in je woonkamer: apps, streamingdiensten, nieuws en nog veel meer!
+- Meer details, meer scherpte: Ervaar vier keer de detailscherpte van eerdere Full HD-tvs met Ultra HD 4K-resolutie (3.840 x 2.160).
+- Elegante 125,7 cm (50") UHD smart TV met HDR10, CI+, Wi-Fi, Bluetooth, PVR ready, mediaspeler, HbbTV, VIDAA Store, NETFLIX, Prime Video, DAZN, Disney+ & Amazon Prime Video app en andere smart TV-diensten.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0D3DHRFYV{{</world>}}

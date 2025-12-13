@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Bedrijfstemperatuur bereik: 220-250 ° C
-- Diameter tolerantie: +/- 0.02mm
-- Eenvoudig te gebruiken: geen klitten, geen verstopping, geen bellen, kan worden gebruikt in verschillende populaire 3D-printers
-- Goede dichtheid: er is geen risico dat de spoel of het mondstuk verstopt.
 - Garantie: Als u vragen heeft of hulp nodig hebt, neem dan gerust contact met ons op elk moment.
+- Eenvoudig te gebruiken: geen klitten, geen verstopping, geen bellen, kan worden gebruikt in verschillende populaire 3D-printers
+- Diameter tolerantie: +/- 0.02mm
+- Goede dichtheid: er is geen risico dat de spoel of het mondstuk verstopt.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08C7C63XJ{{</world>}}

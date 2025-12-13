@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Geoptimaliseerd voor competitief gamen: Pixel perfecte tracking, nul muisacceleratie, geen spinouts meer, 1000 Hz polling rate, minder dan 0,7 mm lift-off afstand. Klik-/scrollsnelheid, 6 knoppen met macro-ondersteuning en meer.
 - Ultraflexibele kabel: onze Ascended Paracord is zo licht dat hij zonder slepen te gebruiken is. De ultieme bedrade muis met het gevoel van een draadloze gamingmuis.
-- Muisvoetjes: De Glorious Skates zijn gemaakt van 100% zuiver PTFE en glijden als zwaarden over ijs. Hierdoor heb je zelfs bij de hoogste snelheden volledige controle.
 - Formaat en stijl: Ambidextreuze lichtgewicht muis voor gaming. Gebouwd voor snelheid, controle en comfort, met optimaal gewicht en hoge duurzaamheid. Het Model O- (Small) is ideaal voor middelgrote en kleine handen.
 - Gebouwd om lang mee te gaan: Model O-s honingraatontwerp helpt de ultieme lichtgewicht muis te creëren, zonder in te leveren op duurzaamheid. State of the art Omron-switches die goed zijn voor 20 miljoen klikken en de beste bouwkwaliteit maken de Model O- (Small) gebouwd om lang mee te gaan.
-- Geoptimaliseerd voor competitief gamen: Pixel perfecte tracking, nul muisacceleratie, geen spinouts meer, 1000 Hz polling rate, minder dan 0,7 mm lift-off afstand. Klik-/scrollsnelheid, 6 knoppen met macro-ondersteuning en meer.
+- Muisvoetjes: De Glorious Skates zijn gemaakt van 100% zuiver PTFE en glijden als zwaarden over ijs. Hierdoor heb je zelfs bij de hoogste snelheden volledige controle.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07VMM5LKH{{</world>}}

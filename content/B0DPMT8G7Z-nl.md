@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- DIK EN DUURZAAM: MooiFun lade matten zijn gemaakt van 500–615 g/㎡ EVA-materiaal, dat bijzonder dik, flexibel en zacht is. Het krult niet, is gemakkelijk uit te rekken en is extreem duurzaam voor herhaaldelijk wassen en drogen
-- ANTISLIPONTWERP: De gestructureerde kant van de lade mat voorkomt dat voorwerpen in lades of kastplanken verschuiven. De andere kant heeft een gladde, anti-aanbaklaag die later gemakkelijk te verwijderen is en geen sporen achterlaat
 - MATERIALVEILIG: De koelkastmat is gemaakt van BPA-vrij, levensmiddelengeschikt EVA-materiaal. Het beschermt niet alleen de gezondheid van u en uw gezin, maar beschermt ook lades, koelkasten en werkbladen tegen krassen
 - EASY TE REINIGEN: De kastmat is water- en oliebestendig, zodat kleine gemorste vloeistoffen gemakkelijk met een vochtige doek kunnen worden afgeveegd, en grotere gemorste vloeistoffen kunnen worden gereinigd met water en zeep. Ze drogen snel en zien er altijd als nieuw uit
 - EENVOUDIG TE SNIJDEN: De kastmat is flexibel aan te passen. Meet het gewenste gebied en snijd het met een huishoudschaar op de juiste grootte of vorm. Ideaal voor persoonlijke behoeften en veelzijdige toepassingen
+- DIK EN DUURZAAM: MooiFun lade matten zijn gemaakt van 500–615 g/㎡ EVA-materiaal, dat bijzonder dik, flexibel en zacht is. Het krult niet, is gemakkelijk uit te rekken en is extreem duurzaam voor herhaaldelijk wassen en drogen
+- ANTISLIPONTWERP: De gestructureerde kant van de lade mat voorkomt dat voorwerpen in lades of kastplanken verschuiven. De andere kant heeft een gladde, anti-aanbaklaag die later gemakkelijk te verwijderen is en geen sporen achterlaat
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DPMT8G7Z{{</world>}}

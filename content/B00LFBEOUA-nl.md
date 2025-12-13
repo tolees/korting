@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Logitech exclusieve Fusion Engine levert de hoogste trackingsnelheid van het moment
-- DPI wisselen tijdens de game; maak de juiste bewegingen in elke gamesituatie; schakel door tot wel 4 dpi-instellingen, van pixelprecies richten (250 dpi) tot bliksemsnelle bewegingen (tot 4000 dpi)
 - Absoluut comfort; we gebruikten warmtebeelden om de juiste materialen en gebieden te bepalen die een optimale feel en functie bieden
-- Behaal geweldige resultaten met de standaardconfiguratie direct uit de doos of programmeer tot 8 knoppen voor jouw optimale instelling
+- DPI wisselen tijdens de game; maak de juiste bewegingen in elke gamesituatie; schakel door tot wel 4 dpi-instellingen, van pixelprecies richten (250 dpi) tot bliksemsnelle bewegingen (tot 4000 dpi)
+- Logitech exclusieve Fusion Engine levert de hoogste trackingsnelheid van het moment
 - Constante communicatie: met de 1 ms pollingsnelheid worden jouw bewegingen met de hoogst mogelijke snelheid doorgegeven aan het spel
+- Behaal geweldige resultaten met de standaardconfiguratie direct uit de doos of programmeer tot 8 knoppen voor jouw optimale instelling
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00LFBEOUA{{</world>}}

@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Bouwvakkers, opgelet! Met zijn uitschuifbare en draaibare telescooparm kan de truck zware objecten op de bouwplaats heen en weer manoeuvreren. De grote laadbak kan omhoog en omlaag kantelen en de zijkanten kunnen worden neergelaten.
-- Het origineel: Playmobil verblijdt sinds 1974 kinderen en volwassenen. Hoge kwaliteit en robuuste materialen zorgen voor een lange levensduur.
 - Creativiteit zonder grenzen: De PLAYMOBIL-speelsets kunnen eindeloos worden gecombineerd en uitgebreid. De bouwtruck met kraan is een geweldige uitbreiding voor andere PLAYMOBIL-werelden! Hoe gaat jouw PLAYMOBIL-verhaal verder?
-- Veilig spelen: Bouwinstructies samen met de ouders. Reiniging van de onderdelen (zonder stickers) onder stromend water en zonder chemische middelen.
+- Het origineel: Playmobil verblijdt sinds 1974 kinderen en volwassenen. Hoge kwaliteit en robuuste materialen zorgen voor een lange levensduur.
+- Bouwvakkers, opgelet! Met zijn uitschuifbare en draaibare telescooparm kan de truck zware objecten op de bouwplaats heen en weer manoeuvreren. De grote laadbak kan omhoog en omlaag kantelen en de zijkanten kunnen worden neergelaten.
 - Speelplezier voor kinderen vanaf 4 jaar: Ideaal voor kinderhanden door de leeftijdsappropriate grootte en aangename tactiliteit met afgeronde randen. Stimuleert de verbeelding van uw kind.
+- Veilig spelen: Bouwinstructies samen met de ouders. Reiniging van de onderdelen (zonder stickers) onder stromend water en zonder chemische middelen.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DPJ92XG2{{</world>}}

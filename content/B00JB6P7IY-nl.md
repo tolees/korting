@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Inhoud: 1 x Weleda rozemarijn activeringsbad voor mannen en vrouwen
-- Hoogste Weleda-kwaliteit: vrij van synthetische emulgatoren, synthetische geur-, kleur- en conserveringsmiddelen en grondstoffen op minerale olie; vrij van schuimende oppervlakteactieve stoffen; veganistisch
-- Ideaal om in beweging te komen: de kruidige geur van rozemarijn verdrijft vermoeidheid en bevordert een weldadige opwarming van het lichaam
-- Activeert het lichaam: een bad werkt opbeurend en activeert je zintuigen zoals de warmte van de zon, die door de rozemarijnplant wordt opgenomen
 - Aangename geur: de echte etherische oliën ontwikkelen een verkwikkende kruidige geur die je dag brengt; de badessentie bevordert de doorbloeding, weldadige warmte doorstroomt het lichaam
+- Activeert het lichaam: een bad werkt opbeurend en activeert je zintuigen zoals de warmte van de zon, die door de rozemarijnplant wordt opgenomen
+- Hoogste Weleda-kwaliteit: vrij van synthetische emulgatoren, synthetische geur-, kleur- en conserveringsmiddelen en grondstoffen op minerale olie; vrij van schuimende oppervlakteactieve stoffen; veganistisch
+- Inhoud: 1 x Weleda rozemarijn activeringsbad voor mannen en vrouwen
+- Ideaal om in beweging te komen: de kruidige geur van rozemarijn verdrijft vermoeidheid en bevordert een weldadige opwarming van het lichaam
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B00JB6P7IY{{</world>}}

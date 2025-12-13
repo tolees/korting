@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- VERBETERDE GELUIDS- EN BELKWALITEIT – AirPods 4 zijn uitgerust met de door Apple ontworpen H2-chip. Stemisolatie verbetert de gesprekskwaliteit als je belt op een drukke plek. Met computationele audio wordt het achtergrondgeluid gedempt en wordt je stem geïsoleerd en versterkt. Zo ben je beter te horen.
-- PERSOONLIJKE RUIMTELIJKE AUDIO – Persoonlijke ruimtelijke audio met dynamische hoofdtracking omringt je met geluid. Zo geniet je van muziek, tv series, films, games en nog veel meer alsof je in de bioscoop zit.
-- MAGISCHE ERVARING – Zeg gewoon “Siri” of “Hé Siri” om een nummer af te spelen, te bellen of je agenda te checken. Ook kun je nu met Siri-interacties op Siri reageren door ja te knikken of nee te schudden. Koppel AirPods 4 heel eenvoudig door ze naast je device te houden en op ‘Verbind’ te tikken. Luister met z’n tweeën naar hetzelfde nummer of dezelfde serie, ieder op je eigen AirPods. Een huiddetectiesensor zorgt dat er alleen geluid wordt afgespeeld wanneer je je AirPods in hebt. Zodra je ze uitdoet, gaan ze op pauze. En met de ‘Zoek mijn’-app kun je makkelijk zien waar je AirPods en oplaadcase zijn.
-- LANGE BATTERIJDUUR – Tot 5 uur luistertijd na één keer volledig opladen. En in totaal tot 30 uur luistertijd met de case.
-- NIEUW CASE-DESIGN – De case is oplaadbaar via USB-C en meer dan 10 procent kleiner dan die van de vorige generatie.
 - NIEUW DESIGN VOOR EXTRA COMFORT – AirPods 4 zijn opnieuw ontworpen zodat ze de hele dag lekker en stevig blijven zitten. Met bediening van muziek en telefoontjes door kort te drukken, een kortere steel en een elegant design.
+- PERSOONLIJKE RUIMTELIJKE AUDIO – Persoonlijke ruimtelijke audio met dynamische hoofdtracking omringt je met geluid. Zo geniet je van muziek, tv series, films, games en nog veel meer alsof je in de bioscoop zit.
+- NIEUW CASE-DESIGN – De case is oplaadbaar via USB-C en meer dan 10 procent kleiner dan die van de vorige generatie.
+- LANGE BATTERIJDUUR – Tot 5 uur luistertijd na één keer volledig opladen. En in totaal tot 30 uur luistertijd met de case.
+- MAGISCHE ERVARING – Zeg gewoon “Siri” of “Hé Siri” om een nummer af te spelen, te bellen of je agenda te checken. Ook kun je nu met Siri-interacties op Siri reageren door ja te knikken of nee te schudden. Koppel AirPods 4 heel eenvoudig door ze naast je device te houden en op ‘Verbind’ te tikken. Luister met z’n tweeën naar hetzelfde nummer of dezelfde serie, ieder op je eigen AirPods. Een huiddetectiesensor zorgt dat er alleen geluid wordt afgespeeld wanneer je je AirPods in hebt. Zodra je ze uitdoet, gaan ze op pauze. En met de ‘Zoek mijn’-app kun je makkelijk zien waar je AirPods en oplaadcase zijn.
 - STOF-, ZWEET- EN WATERBESTENDIG – AirPods 4 en de oplaadcase zijn waterbestendig volgens de IP54-norm, en dus prima bestand tegen een flinke bui of een stevige work out.
+- VERBETERDE GELUIDS- EN BELKWALITEIT – AirPods 4 zijn uitgerust met de door Apple ontworpen H2-chip. Stemisolatie verbetert de gesprekskwaliteit als je belt op een drukke plek. Met computationele audio wordt het achtergrondgeluid gedempt en wordt je stem geïsoleerd en versterkt. Zo ben je beter te horen.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DGHWD7CT{{</world>}}

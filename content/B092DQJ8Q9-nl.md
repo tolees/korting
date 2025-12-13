@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - De gelegde puzzel lijkt een poster
-- Gemaakt van milieu vriendelijk, gerecycleerd karton
 - Elk puzzelstukje heeft een unieke pasvorm en vorm
 - Falcon legpuzzel van 1000 puzzelstukjes.
+- Gemaakt van milieu vriendelijk, gerecycleerd karton
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B092DQJ8Q9{{</world>}}

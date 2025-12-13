@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Beschermt de huid tegen UVA/UVB-stralen
-- Q10 voorkomt en bestrijdt fijne lijntjes, rimpels en pigmentvlekken
-- Hydrateert de huid
 - Beschermt tegen huidveroudering door de zon
+- Q10 voorkomt en bestrijdt fijne lijntjes, rimpels en pigmentvlekken
 - Beschermt de huid van binnen & buiten
+- Hydrateert de huid
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B086CK7HZX{{</world>}}

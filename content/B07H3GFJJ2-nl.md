@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Extra grote muisrollen voor vloeibare, gecontroleerde bewegingen
-- Eenvoudige personalisatie met HyperX NGenuity-software
 - Comfortabel symmetrisch design
 - Zeven programmeerbare knoppen
+- Extra grote muisrollen voor vloeibare, gecontroleerde bewegingen
+- Eenvoudige personalisatie met HyperX NGenuity-software
 - Optische Pixart 3327 sensor met standaard DPI-instellingen tot 6200 DPI
 
 [🛒 Check the deal!!]({{< param buyurl >}})

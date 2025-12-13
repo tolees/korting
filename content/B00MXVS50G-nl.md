@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kleur: Bruin
 - Buitenzool/Kenmerken: Rubber voor buitengewone grip
+- Kleur: Bruin
 - Bovenwerk: leer (kalfsleer)
 - Voering: 100% kalfsleer
 - 360º gestikt voor duurzaamheid

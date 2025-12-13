@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Afmetingen pakket: 19.2 L x 45.2 B x 69 H cm
 - Voltage: 240 volt
-- Hardware interface: Displayport,HDMI
 - Pakketgewicht: 7.14 kg
+- Hardware interface: Displayport,HDMI
+- Afmetingen pakket: 19.2 L x 45.2 B x 69 H cm
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BQWDLH8K{{</world>}}

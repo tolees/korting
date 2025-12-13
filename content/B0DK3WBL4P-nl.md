@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Als je ’m open‑ of dichtklapt, gaat de sluimerstand van je iPad automatisch uit of aan.
 - De Smart Folio klikt magnetisch vast en je kunt hem in diverse standen neerzetten.
 - De dunne en lichte Smart Folio voor iPad mini beschermt de voor‑ en achterkant van je device.
 - Daardoor kun je op je gemak een FaceTime-gesprek voeren of bijvoorbeeld iets lezen, kijken of typen.
+- Als je ’m open‑ of dichtklapt, gaat de sluimerstand van je iPad automatisch uit of aan.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DK3WBL4P{{</world>}}

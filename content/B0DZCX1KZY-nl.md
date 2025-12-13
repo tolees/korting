@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- VERSTELBARE ZICHTHOEK: Het magnetische oppervlak is verstelbaar zodat je je smartphone in een hoek van 0-70 graden kunt zetten, zonder dat je bang hoeft te zijn dat hij eraf valt.
-- STEVIG EN DUURZAAM: Een antislip voet biedt de benodigde stabiliteit voor je apparaten. Dit product combineert na gebruik gerecycled materiaal (ten minste 60%) met een nieuwe soft-touch behuizing.
-- TWEE APPARATEN TEGELIJK DRAADLOOS OPLADEN: Deze BoostCharge Pro draadloze oplader voor iPhone en meer laadt twee apparaten tegelijk op. Hij levert tot 15 W voor het snel opladen van je iPhone en 5 W voor het opladen van je Apple Watch of AirPods.
 - ONDERSTEUNT STANDBY-MODUS: Dit BoostCharge Pro 2-in-1 dockingstation ondersteunt de StandBy-modus waardoor je je iPhone naar wens kunt gebruiken. Deze blijft in de ideale stand staan voor gebruik als nachtklok of fotolijstje en gebruik van widgets.
+- STEVIG EN DUURZAAM: Een antislip voet biedt de benodigde stabiliteit voor je apparaten. Dit product combineert na gebruik gerecycled materiaal (ten minste 60%) met een nieuwe soft-touch behuizing.
 - SNEL OPLADEN: Deze draadloze lader (voor Samsung, iPhone en meer) heeft een 30 W PD-voedingsadapter en een geïntegreerde USB-C-kabel voor het snel en eenvoudig opladen van je compatibele apparaten.
+- VERSTELBARE ZICHTHOEK: Het magnetische oppervlak is verstelbaar zodat je je smartphone in een hoek van 0-70 graden kunt zetten, zonder dat je bang hoeft te zijn dat hij eraf valt.
+- TWEE APPARATEN TEGELIJK DRAADLOOS OPLADEN: Deze BoostCharge Pro draadloze oplader voor iPhone en meer laadt twee apparaten tegelijk op. Hij levert tot 15 W voor het snel opladen van je iPhone en 5 W voor het opladen van je Apple Watch of AirPods.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DZCX1KZY{{</world>}}

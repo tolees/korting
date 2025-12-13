@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Lichte en vloeibare formule met glycerine en sheaboter voor een intensieve hydratatie de hele dag lang
+- Vloeibare highlighter voor gezicht en lichaam voor een stralende teint en ter accentuering van de natuurlijke uitstraling
 - Gebruik: voor een gelijkmatige teint onder of boven de make-up aanbrengen, als highlighter een lichtere tint dan de huidskleur aanbrengen, als contour een donkerdere tint op de contouren aanbrengen
 - Resultaat: onmiddellijke hydratatie voor een natuurlijke, stralende uitstraling en een zongekuste teint zonder zon
-- Vloeibare highlighter voor gezicht en lichaam voor een stralende teint en ter accentuering van de natuurlijke uitstraling
+- Lichte en vloeibare formule met glycerine en sheaboter voor een intensieve hydratatie de hele dag lang
 - Inhoud: LOréal Paris perfecte match Lumi Glotion, Natural Glow Enhancer, 902 Light Glow, 40 ml
 
 [🛒 Buy it!!]({{< param buyurl >}})

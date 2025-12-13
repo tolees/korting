@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Geschikt voor: alle seizoenen
 - Lichte & comfortabele schoenen
 - Kledingsstijl: informeel
-- Geschikt voor: alle seizoenen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BN72S8X3{{</world>}}

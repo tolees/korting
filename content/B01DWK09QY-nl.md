@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Materiaal: 925 sterling zilver
-- gedeeltelijk zwart
 - Mooie ring die gecombineerd kan worden met andere ringen
-- Ring bestaat uit kleine onderling verbonden oneindige symbolen
+- gedeeltelijk zwart
+- Materiaal: 925 sterling zilver
 - Kleur: zilver
+- Ring bestaat uit kleine onderling verbonden oneindige symbolen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01DWK09QY{{</world>}}

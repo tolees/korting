@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - NAVULBARE shampooverpakking van 250ml - 60% minder plastic**
-- RESULTAAT: tot 8 weken lang voeding*
-- VOOR DROOG HAAR: intensieve voeding
 - MARULA- EN CAMELIA-OLIE: natuurlijke oliën voor zacht haar
 - LANGDURIGE VERZORGING: voedt tot 8 weken*
+- VOOR DROOG HAAR: intensieve voeding
+- RESULTAAT: tot 8 weken lang voeding*
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DSJLJQSR{{</world>}}

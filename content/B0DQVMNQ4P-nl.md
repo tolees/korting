@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Ervaar spannende dino-avonturen: Het onderzoeksteam komt oog in oog te staan met de Brachiosaurus! Begin een spannende verkenningstocht met het drijvende luchtkussenvoertuig terwijl de dino rustig bladeren eet – inclusief een kenniskaart!
-- Ontdek verborgen schatten: Ontdek verborgen verrassingen tijdens de expeditie, zoals een libelle gevangen in barnsteen. Plus, leer fascinerende dino-feiten met de interactieve kenniskaart – een boeiende ervaring voor jonge ontdekkingsreizigers!
-- Zipline voor extra actie: Swing direct het avontuur in met de zipline! Toon je moed en observeer de Brachiosaurus van dichtbij terwijl hij bladeren van de bomen trekt.
 - Actievolle luchtkussenvoertuig set: Het PLAYMOBIL luchtkussenvoertuig biedt plaats aan twee onderzoekers, perfect voor spannende avonturen op het water. Een must-have voor kleine dino-fans en avonturiers!
+- Zipline voor extra actie: Swing direct het avontuur in met de zipline! Toon je moed en observeer de Brachiosaurus van dichtbij terwijl hij bladeren van de bomen trekt.
 - Duurzaam en creatief spel: De PLAYMOBIL set is gemaakt van meer dan 80% gerecycled en biobased materiaal – voor urenlang milieubewust spel dat de verbeelding prikkelt.
+- Ontdek verborgen schatten: Ontdek verborgen verrassingen tijdens de expeditie, zoals een libelle gevangen in barnsteen. Plus, leer fascinerende dino-feiten met de interactieve kenniskaart – een boeiende ervaring voor jonge ontdekkingsreizigers!
+- Ervaar spannende dino-avonturen: Het onderzoeksteam komt oog in oog te staan met de Brachiosaurus! Begin een spannende verkenningstocht met het drijvende luchtkussenvoertuig terwijl de dino rustig bladeren eet – inclusief een kenniskaart!
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DQVMNQ4P{{</world>}}

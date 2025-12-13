@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- "Perfect Pour"-schenktuit voor druppelvrij schenken
-- Automatische en handmatige LED indicatie; externe waterniveauaanduiding; aan/uit schakelaar met rode controlelamp
-- Bespaart tot 70% energie - met behulp van de snelkookzone zie je precies hoeveel water er nodig is en vermijdt je overmatig energie verbruik
 - Een kop bevat 235 ml water
-- Roestvrij staal; uitneembare anti-kalkfilter; 360°-draaivoet, ideaal voor links- en rechtshandigen; droog-/oververhittingsbescherming; kookautomaat en handmatige uitschakelmogelijkheid
+- Automatische en handmatige LED indicatie; externe waterniveauaanduiding; aan/uit schakelaar met rode controlelamp
 - Snelkookfunctie met aanduiding voor 1/2/3 koppen: Kookt 1 kop water in 50 seconden
+- "Perfect Pour"-schenktuit voor druppelvrij schenken
+- Roestvrij staal; uitneembare anti-kalkfilter; 360°-draaivoet, ideaal voor links- en rechtshandigen; droog-/oververhittingsbescherming; kookautomaat en handmatige uitschakelmogelijkheid
+- Bespaart tot 70% energie - met behulp van de snelkookzone zie je precies hoeveel water er nodig is en vermijdt je overmatig energie verbruik
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01MYDNDXZ{{</world>}}

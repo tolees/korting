@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Beschermt de huid tegen irritaties na het scheren dankzij de Ultra Glide Technology
-- Beschermt de huid tegen irritaties na het scheren dankzij de Ultra Glide Technology
-- Deze scheergel is alcoholvrij*, dus geeft geen branderig gevoel
-- Formule met kamille en vitamine E hydrateert en beschermt onmiddellijk tegen irritaties na het scheren
 - Verzacht de baardharen voor een comfortabele scheerbeurt
+- Formule met kamille en vitamine E hydrateert en beschermt onmiddellijk tegen irritaties na het scheren
+- Deze scheergel is alcoholvrij*, dus geeft geen branderig gevoel
+- Beschermt de huid tegen irritaties na het scheren dankzij de Ultra Glide Technology
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B089HCG3HR{{</world>}}

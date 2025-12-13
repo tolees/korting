@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Licht en ademend
-- Afneembare, gedempte inlegzool voor groot comfort
-- TUSSENZOOL: PU met Max Air unit
 - Air Max sneakers van het merk Nike
+- Licht en ademend
 - Zichtbare Air-Sole-eenheid in de hiel voor nog meer demping
+- TUSSENZOOL: PU met Max Air unit
+- Afneembare, gedempte inlegzool voor groot comfort
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00MAMY4A8{{</world>}}

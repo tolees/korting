@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Vorm: gewone band
+- Handelsmerk: Pandora
 - Kleur: goud
 - Steen: Cubic Zirkonia
-- Handelsmerk: Pandora
+- Vorm: gewone band
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CKXX65HB{{</world>}}

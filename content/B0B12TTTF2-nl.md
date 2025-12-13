@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- De set bevat: 1 DiamondClean 9000 sonische elektrische tandenborstel, 4 C3 Premium Plaque Defence-opzetborstels, 1 oplader, 1 reisetui. Verpakking kan variëren
-- Veilig en zacht: als u te veel druk uitoefent, laat het handvat u met een lichte trilling weten dat u de druk moet verminderen om uw tanden en tandvlees te beschermen
-- De wereldwijd door tandartsen aanbevolen nummer 1 sonische tandenborstel²: profiteer van de expertise van Philips om uw tanden en tandvlees in de beste conditie te houden
-- Personaliseer uw poetsroutine met deze elektrische tandenborstel: kies uit 4 poetsmodi en 3 intensiteitsniveaus om uw mondverzorgingsdoelen te bereiken
-- Deze geavanceerde sonische Philips-tandenborstel zorgt voor een betere mondgezondheid met tot 10x betere tandplakverwijdering¹ dankzij de C3 Premium-opzetborstel voor natuurlijk wittere tanden
 - Perfectioneer uw poetsroutine: koppel uw tandenborstel aan de Philips Sonicare-app voor coaching en voortgangsrapporten
+- Deze geavanceerde sonische Philips-tandenborstel zorgt voor een betere mondgezondheid met tot 10x betere tandplakverwijdering¹ dankzij de C3 Premium-opzetborstel voor natuurlijk wittere tanden
+- Personaliseer uw poetsroutine met deze elektrische tandenborstel: kies uit 4 poetsmodi en 3 intensiteitsniveaus om uw mondverzorgingsdoelen te bereiken
+- De set bevat: 1 DiamondClean 9000 sonische elektrische tandenborstel, 4 C3 Premium Plaque Defence-opzetborstels, 1 oplader, 1 reisetui. Verpakking kan variëren
+- De wereldwijd door tandartsen aanbevolen nummer 1 sonische tandenborstel²: profiteer van de expertise van Philips om uw tanden en tandvlees in de beste conditie te houden
+- Veilig en zacht: als u te veel druk uitoefent, laat het handvat u met een lichte trilling weten dat u de druk moet verminderen om uw tanden en tandvlees te beschermen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0B12TTTF2{{</world>}}

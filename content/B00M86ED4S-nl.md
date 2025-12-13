@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Drie schalen voor het presenteren van lekkernijen, praktische metalen stangen met handgreep voor veilig transporteren, stoot- en slagvaste randen.
-- Inhoud: 1 x Villeroy & Boch Toys Delight etagère (33 cm), materiaal: premium porselein, metaal, kleur: wit/rood.
 - Past bij Toys Delight Royal Classic en speelgoed fantasy, dankzij kerstverpakking ook geschikt als cadeau.
+- Inhoud: 1 x Villeroy & Boch Toys Delight etagère (33 cm), materiaal: premium porselein, metaal, kleur: wit/rood.
 - Decoratieve etagère van porselein in nostalgisch design voor het maken van koekjes en andere lekkernijen, ideaal voor de feestelijke koffietafel
+- Drie schalen voor het presenteren van lekkernijen, praktische metalen stangen met handgreep voor veilig transporteren, stoot- en slagvaste randen.
 - Gemaakt van hoogwaardig en bijzonder robuust premium porselein, ideaal voor dagelijks gebruik, kan met een vochtige doek worden schoongemaakt.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

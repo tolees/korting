@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Half-snap-ontwerp voor veelzijdigheid en eenvoudig aan- en uittrekken
 - Binding aan de kraag voor een afgewerkte look
 - Lengte middenrug 28,0 in/71,1 cm
 - 100% polyester MTR-filamentvlies 250 g
-- Half-snap-ontwerp voor veelzijdigheid en eenvoudig aan- en uittrekken
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CLR93KY5{{</world>}}

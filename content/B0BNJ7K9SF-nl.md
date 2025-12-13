@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Dag na dag*: De huid straalt en is natuurlijk gebruind. De huid krijgt een gezonde glow en is intens gehydrateerd.
 - Een gebruinde huid verschijnt een aantal uur na één keer aanbrengen. Opbouwbaar bruiningsniveau: je bepaalt zelf hoe bruin je wilt worden.
+- Gecertificeerd door Cruelty Free: Garnier is gecertificeerd door Cruelty Free, Garnier zet zich voortdurend in om de ecologische en negatieve sociale impact van haar producten te verminderen tijdens hun gehele levenscyclus, dus inclusief gedurende de productie- en gebruiksfase.
+- Dag na dag*: De huid straalt en is natuurlijk gebruind. De huid krijgt een gezonde glow en is intens gehydrateerd.
 - Na eerste gebruik: De huid is gehydrateerd, en voelt zachter aan.
 - De self-tan drops voor het gezicht hebben een vegan formule***.
-- Gecertificeerd door Cruelty Free: Garnier is gecertificeerd door Cruelty Free, Garnier zet zich voortdurend in om de ecologische en negatieve sociale impact van haar producten te verminderen tijdens hun gehele levenscyclus, dus inclusief gedurende de productie- en gebruiksfase.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BNJ7K9SF{{</world>}}

@@ -30,9 +30,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Betere prestaties: Onze draadloze kampioensmuis, maar nu nog beter; nu met 8kHz-polling, USB-C opladen, batterijduur van 95 uur (3) en compatibiliteit met POWERPLAY en dat alles bij 60 g.
 - Snelle en precieze draadloze gamingmuis: Een pro-gamingicoon - nu sneller en preciezer; ontworpen in samenwerking met s werelds toonaangevende e-sportprofessionals en gemaakt om te winnen
-- Meest geavanceerde optische sensor voor gaming: HERO 2 trackt meer dan 888+ IPS, tot wel 44.000 DPI, en precieze sensorcalibratie zonder enig gladstrijken, versnellen of filteren
-- Professionele precisie: LIGHTFORCE hybride optisch-mechanische schakelaars bieden precisie, betrouwbaarheid en ultralage latentie op professioneel niveau met een scherpe, voelbare klik
 - PTFE-muisvoetjes zonder additieven: Profiteer van een soepele glijbeweging en naadloze verbinding met je game met PTFE-muisvoetjes zonder additieven.
+- Professionele precisie: LIGHTFORCE hybride optisch-mechanische schakelaars bieden precisie, betrouwbaarheid en ultralage latentie op professioneel niveau met een scherpe, voelbare klik
+- Meest geavanceerde optische sensor voor gaming: HERO 2 trackt meer dan 888+ IPS, tot wel 44.000 DPI, en precieze sensorcalibratie zonder enig gladstrijken, versnellen of filteren
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07W5JKP66{{</world>}}

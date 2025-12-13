@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Supersnelle installatie: dankzij het automatische vergrendelsysteem kunt u op eenvoudige wijze uw TV vergrendelen en ontgrendelen. De muurbeugel wordt geleverd met 5 kabelbinders, 1,8 m HDMI-kabel, waterpas, gemakkelijk te begrijpen instructies en alle benodigde producten om de tv te plaatsen.
-- Universele tv-beugel: past op de meeste platte en gebogen tvs van 37  - 82  met een gewicht tot 60 kg; Compatibele VESA-gaten: 600x400 / 400x400 / 400x300 / 400x200 / 300x300 / 300x200 / 200x200 / 200x100mm / 100x100mm. Bevestig de VESA-, gewichts- en grootte specificatie van uw tv voordat u deze aanschaft.
 - Verbeter uw kijkervaring: wordt geleverd met een kantelfunctie tussen 1 ° en -8 °. Op deze wijze kunt u de meest comfortabele positie kiezen en hiermee nek en oogvermoeidheid te verminderen.
 - Ultrasterk en duurzaam: gemaakt van versterkt koudgewalst staal afgewerkt met zwarte poedercoating, hierdoor wordt deze muurbeugel is extreem stevig en duurzaam. Roestbestendige technologie en stalen gespen voor langdurig gebruik.
 - Ruimtebesparend: ontworpen om niet op te vallen, deze tv-beugel zit op slechts 38 mm van de muur zodat hij na installatie bijna onzichtbaar is. Ruimte besparend met een nette uitstraling.
+- Universele tv-beugel: past op de meeste platte en gebogen tvs van 37  - 82  met een gewicht tot 60 kg; Compatibele VESA-gaten: 600x400 / 400x400 / 400x300 / 400x200 / 300x300 / 300x200 / 200x200 / 200x100mm / 100x100mm. Bevestig de VESA-, gewichts- en grootte specificatie van uw tv voordat u deze aanschaft.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0073UBRP2{{</world>}}

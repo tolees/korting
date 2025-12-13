@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Televisie van de volgende generatie: met de smart-tv van MEDION beleeft u het internet in uw woonkamer: apps, streamingdiensten, nieuws en nog veel meer!
-- Leveringsomvang: Smart-TV MD850200 X850200 voetstukken incl. schroeven, afstandsbediening incl. batterijen (2x AAA), VESA-afstandhouders, gebruiksaanwijzing.
 - Briljanter dan ooit tevoren: High Dynamic Range (HDR10) zorgt voor levensechte contrasten en kleuren.
+- Televisie van de volgende generatie: met de smart-tv van MEDION beleeft u het internet in uw woonkamer: apps, streamingdiensten, nieuws en nog veel meer!
 - aMeer details, meer scherpte: ervaar met de Ultra HD 4K-resolutie (3.840 x 2.160) een vier keer hogere detailscherpte dan bij eerdere Full HD-tvs.
 - Elegante 125,7 cm (50") UHD Smart-tv met HDR10, CI+ interface, wifi, Bluetooth, PVR-ready, mediaspeler, HbbTV, VIDAA App Store, NETFLIX, Prime Video, DAZN, Disney+ & Amazon Prime Video-app en andere Smart-tv-diensten.
+- Leveringsomvang: Smart-TV MD850200 X850200 voetstukken incl. schroeven, afstandsbediening incl. batterijen (2x AAA), VESA-afstandhouders, gebruiksaanwijzing.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08L6ND4XP{{</world>}}

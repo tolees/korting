@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Play mini-games as one of the furry friends - find out which animals are the best at which game.
 - 10+ mini games - Fishing, Racing, Matching and Rhythmic games are just a few to help you increase Happy Feelings and help the tree grow
 - 9 different animals living in the forest are your new BFFs!
+- Play mini-games as one of the furry friends - find out which animals are the best at which game.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BMB3Z3SS{{</world>}}

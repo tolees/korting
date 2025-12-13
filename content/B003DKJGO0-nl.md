@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Deze L’Oréal mascara is geschikt voor gevoelige ogen
-- Uniek borstelontwerp waardoor jouw wimpers verspreid worden voor een open blik
 - Verkrijgbaar in zwart, extra zwart, zwart waterproof en bruin
 - Geeft clean, volume en separatie voor een natuurlijk resultaat
 - Verrijkt met verzorgende kamille en zwarte orchidee oliën voor zachte wimpers
+- Uniek borstelontwerp waardoor jouw wimpers verspreid worden voor een open blik
+- Deze L’Oréal mascara is geschikt voor gevoelige ogen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B003DKJGO0{{</world>}}

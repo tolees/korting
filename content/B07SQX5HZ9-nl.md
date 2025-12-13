@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- WiFi-aansluiting met praktische timer met dag- en weekprogramma - Schakel elektronische apparaten automatisch in en uit en verlaag ook onnodige stand-by stroomkosten voor aangesloten apparaten
-- Het slimme contactdoos biedt ook de mogelijkheid om handmatig te schakelen - bovendien kan met de app een willekeurig aantal WiFi stekdozen worden bediend zonder dat er een gateway of hub nodig is
-- Slimme stekker, bijv. voor het bedienen van entertainmentelektronica (max. 3000W) via spraak of gratis app - met internettoegang op elk moment en vanaf elke locatie
-- Slim stekker heeft geen hub nodig - sluit de WiFi-stekker aan op de WiFi-router en bedien de aangesloten apparaten eenvoudig via de gratis app of spraakbesturing met Amazon Alexa of Google Assistant
 - Brennenstuhl Connect WiFi-stekker met timerfunctie voor gebruik binnenshuis - Installatie met de gratis Brennenstuhl Connect app in de 2,4 GHz band van de WiFi router
+- Slim stekker heeft geen hub nodig - sluit de WiFi-stekker aan op de WiFi-router en bedien de aangesloten apparaten eenvoudig via de gratis app of spraakbesturing met Amazon Alexa of Google Assistant
+- WiFi-aansluiting met praktische timer met dag- en weekprogramma - Schakel elektronische apparaten automatisch in en uit en verlaag ook onnodige stand-by stroomkosten voor aangesloten apparaten
+- Slimme stekker, bijv. voor het bedienen van entertainmentelektronica (max. 3000W) via spraak of gratis app - met internettoegang op elk moment en vanaf elke locatie
+- Het slimme contactdoos biedt ook de mogelijkheid om handmatig te schakelen - bovendien kan met de app een willekeurig aantal WiFi stekdozen worden bediend zonder dat er een gateway of hub nodig is
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07SQX5HZ9{{</world>}}

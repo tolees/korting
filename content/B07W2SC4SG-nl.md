@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Bovenmateriaal: leer (rundleer)
-- Kleur: zwart
 - Elastische riem voor een comfortabele pasvorm
+- Kleur: zwart
 - Rondom naad voor hoge duurzaamheid
 - Loopzool/eigenschappen: TPU-zool met Contact Earth-technologie voor hoge slijtvastheid
 

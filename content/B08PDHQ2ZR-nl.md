@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Kies een maat groter voor een casual stijl of blijf bij je maat voor een klassieke look
-- Met discreet logo op de borst
-- Een veelzijdig poloshirt dat stijlvol, chique en allesbehalve oud is
 - Van licht, ademend piqueweefsel
+- Een veelzijdig poloshirt dat stijlvol, chique en allesbehalve oud is
+- Met discreet logo op de borst
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08PDHQ2ZR{{</world>}}

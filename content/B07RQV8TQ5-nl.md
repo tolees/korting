@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Hydradeert de huid tot wel 24 uur* instrumentele test
-- Verzorgende dagcrème en make-up in 1
 - Verrijkt met vitamine B5 en E
+- Verzorgende dagcrème en make-up in 1
+- Hydradeert de huid tot wel 24 uur* instrumentele test
 - Stralende finish en natuurlijke dekking
 - 5 effecten in 1: egaliseert, hydrateert, beschermt, maakt gladder en laat stralen
 

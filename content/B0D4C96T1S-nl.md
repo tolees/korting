@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Gemaakt van mesh met een leren middenvoetkooi en Navic Fit-webbingdetail dat een natuurlijke en stevige vergrendeling geeft.
-- Gemaakt van Omni-Grip niet-afgevend tractierubber en ademende materialen, met een hiel- en teenkap voor verbeterde duurzaamheid
 - Inhoud: 1x Columbia Jeugd Unisex Peakfreak Rush Mid Waterdicht, Maat: 34 EU, Kleur: Zwart
 - Columbia Peakfreak Rush middelhoge waterdichte wandelschoenen voor jonge ontdekkingsreizigers, ontworpen voor wandelen en buitenavonturen, waterdicht voor natte omstandigheden, ideaal voor bergpaden
+- Gemaakt van mesh met een leren middenvoetkooi en Navic Fit-webbingdetail dat een natuurlijke en stevige vergrendeling geeft.
+- Gemaakt van Omni-Grip niet-afgevend tractierubber en ademende materialen, met een hiel- en teenkap voor verbeterde duurzaamheid
 - Lichtgewicht Techlite tussenzool voor superieure demping en dynamische energieteruggave, snel en gemakkelijk in te lopen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

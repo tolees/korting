@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Mooi cadeau-idee: de wieg is geweldig als cadeau of souvenir voor familie, goede vrienden en verzamelaars van nostalgische decoratie
-- Elegant ontwerp: de figuren van de kerststal zijn liefdevol bewerkt, hebben veel details en stralen een nostalgische flair uit
 - Hoogwaardige kwaliteit: de kleine wieg is gemaakt van stevig hard porselein en kan met een doek met de hand worden afgestoft
+- Elegant ontwerp: de figuren van de kerststal zijn liefdevol bewerkt, hebben veel details en stralen een nostalgische flair uit
 - Inhoud: 1 x Villeroy & Boch Christmas Toys Memory kribbe, afmetingen: 27 x 16 x 16 cm (art.nr. 14-8602-6560)
 - Decoratief element: de gedetailleerde kleine wieg is ideaal als decoratie onder de kerstboom
 

@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 27,8 cm (11,0 inch) WUXGA-scherm met 1920 x 1200 pixels
 - WLAN, BT 5.1, USB-C, 491 g, 5G
-- 2,2 GHz Qualcomm snapdragon 695 Octa-Core-processor
 - 8,0 MP camera, 5,0 MP frontcamera, video 1920 x 1080
+- 2,2 GHz Qualcomm snapdragon 695 Octa-Core-processor
 - 8 GB geheugen, 128 GB intern geheugen, max. Geheugenuitbreiding
+- 27,8 cm (11,0 inch) WUXGA-scherm met 1920 x 1200 pixels
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CMDJKN27{{</world>}}

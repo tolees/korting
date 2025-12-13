@@ -30,10 +30,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Voor de tere huid onder de ogen
 - Voor de tere huid onder de ogen
-- Kalmerende ooggel met biologische vijgencatus.
-- Kalmerende ooggel met biologische vijgencatus.
 - Laat vermoeide ogen weer stralen
 - Laat vermoeide ogen weer stralen
+- Kalmerende ooggel met biologische vijgencatus.
+- Kalmerende ooggel met biologische vijgencatus.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08FC4TFFG{{</world>}}

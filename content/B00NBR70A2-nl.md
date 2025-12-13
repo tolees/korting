@@ -30,9 +30,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Inhoud: Sony MDR-ZX110/WC(AE) opvouwbare hoofdtelefoon wit
 - De 30 mm driver zorgt voor een verrassend sterk geluid.
-- Opvouwbare instapkoptelefoon in stijlvol design met uitstekend geluid. Ideaal voor walkman, iPod of andere MP3-speler.
-- Licht en robuust ontwerp voor hoog draagcomfort onderweg.
 - De hoofdtelefoon is opvouwbaar en daardoor ruimtebesparend.
+- Licht en robuust ontwerp voor hoog draagcomfort onderweg.
+- Opvouwbare instapkoptelefoon in stijlvol design met uitstekend geluid. Ideaal voor walkman, iPod of andere MP3-speler.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00NBR70A2{{</world>}}

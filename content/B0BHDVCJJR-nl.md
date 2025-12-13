@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- SPEEL OP JE EIGEN NIVEAU: Ook nieuwe spelers kunnen door de straten scheuren en method grabs uitvoeren zonder bang te hoeven zijn dat ze met hun gezicht op de stoeprand terechtkomen
-- ALLE VRIJHEID OM JE TE UITEN: Verken het skateparadijs van Radlandias en bewijs je vaardigheden om speciale beloningen vrij te spelen waarmee je het uiterlijk, de tricks en de stijl van je personage kunt aanpassen
 - WELKOM IN RADLANDIA: Maak een reis door een uitgestrekt skateboardutopia en vind je grind in de Inflatable Alley of raas door Los Vulgas om nieuwe paden, zijmissies, beloningen en epische tricks te ontdekken
+- ALLE VRIJHEID OM JE TE UITEN: Verken het skateparadijs van Radlandias en bewijs je vaardigheden om speciale beloningen vrij te spelen waarmee je het uiterlijk, de tricks en de stijl van je personage kunt aanpassen
+- SPEEL OP JE EIGEN NIVEAU: Ook nieuwe spelers kunnen door de straten scheuren en method grabs uitvoeren zonder bang te hoeven zijn dat ze met hun gezicht op de stoeprand terechtkomen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BHDVCJJR{{</world>}}

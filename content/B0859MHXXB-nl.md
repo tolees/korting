@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- MU-MIMO – verbeterde prestaties door efficiënte communicatie
-- Verdere wifi-afdekking, maximaal bereik en doelgerichte draadloze ontvangst
 - 3 × 3 MIMO technologie – gegevensoverdracht en ontvangst op drie streams voor verbindingen tussen 3 x 3 clients
-- 802.11ac Wave2 WLAN – 1300 Mbit/s op 5 GHz en 600 Mbit/s op 2,4 GHz
+- MU-MIMO – verbeterde prestaties door efficiënte communicatie
 - Levering – AC1900 Dualband WLAN-router Archer C80, spanningsadapter, ethernetkabel, snelstartgids (mogelijk niet beschikbaar in het Nederlands)
 - Gepersonaliseerd management – geavanceerde functies zoals bescherming van kinderen, toegangscontrole, gastennetwerk voor gepersonaliseerd management
+- Verdere wifi-afdekking, maximaal bereik en doelgerichte draadloze ontvangst
+- 802.11ac Wave2 WLAN – 1300 Mbit/s op 5 GHz en 600 Mbit/s op 2,4 GHz
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0859MHXXB{{</world>}}

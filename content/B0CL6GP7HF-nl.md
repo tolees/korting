@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Heteluchtfriteuse P20 XXL (MD11760), 2 grillroosters, gebruiksaanwijzing
 - Handig kijkvenster: Met het praktische kijkvenster hoef je de friteuse niet te openen om je eten te controleren.
 - Heteluchtfriteuse voor vetvrij frituren met 2.600 watt vermogen, frituurmand van 8,7 liter, antiaanbaklaag en 10 automatische programmas
-- Heteluchtfriteuse P20 XXL (MD11760), 2 grillroosters, gebruiksaanwijzing
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CL6GP7HF{{</world>}}

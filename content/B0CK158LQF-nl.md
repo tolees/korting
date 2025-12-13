@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 【Tight Diameter Tolerance】GratKit PETG used Advanced CCD diameter measuring and self-adaptive control system to guarantee the filament output at 1.75(±0.03)mm diameter during production process;
+- 【Excellent Mechanical Properties】GratKit PETG Filament is designed for your special inventions and strong gadget.It has a higher touughness than the regula PLA, combines the advantages of PLA with the mechanical strength of ABS；
 - 【Dust Free Storage】GratKit PLA filament comes with a zipper bag for filament storage after unpacking, to keep the filament away from dust. It is also recommended to zip remaining filament together with desiccant bag in the zipper bag;
 - 【Easy to print】GratKit PETG Filament is as easy to print as regular PLA; No clogging, no warping and no bubbles issues to guarantee a smooth and stable printing experience.It also has excellent bed adhesion and very consistent color;
 - 【Environmental Packing】GratKit PLA 3D Printer filament uses recyclable cardboard reels for environmental purpose.
-- 【Excellent Mechanical Properties】GratKit PETG Filament is designed for your special inventions and strong gadget.It has a higher touughness than the regula PLA, combines the advantages of PLA with the mechanical strength of ABS；
+- 【Tight Diameter Tolerance】GratKit PETG used Advanced CCD diameter measuring and self-adaptive control system to guarantee the filament output at 1.75(±0.03)mm diameter during production process;
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CK158LQF{{</world>}}

@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Hot Wheels Monster Trucks inspireren kinderen om hun creatieve vertelvaardigheden aan te scherpen door middel van spetterend en crashplezier.
 - Elke spuitgegoten truck heeft een schaal van 1:64 en de personages zijn bewust gekozen om geweldige tegenstanders te zijn in de strijd tegen elkaar.
+- Hot Wheels Monster Trucks inspireren kinderen om hun creatieve vertelvaardigheden aan te scherpen door middel van spetterend en crashplezier.
 - Met 2 rivalen in elk pakket kunnen kinderen met de Hot Wheels Monster Trucks Demolition Doubles gevechten opzetten voor spannende bashing-actie, direct uit de doos!
 
 [🛒 Buy it now!!]({{< param buyurl >}})

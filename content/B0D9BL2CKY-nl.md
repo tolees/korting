@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Onzichtbare finish zonder witte waas.
+- Voor een gehydrateerde huid
 - SPF50+ bescherming
 - Niet plakkerig en niet vettig
 - Ultra-lichte formule
-- Onzichtbare finish zonder witte waas.
-- Voor een gehydrateerde huid
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0D9BL2CKY{{</world>}}

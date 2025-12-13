@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Monteer de Hue dimmer switch waar je maar wil met de bijgeleverde schroeven of plakband. Je kunt de schakelaar bedienen met de afstandsbediening of de Philips Hue app in combinatie met de Hue Hub.
+- Zet je Philips Hue lampen feller of dim je lampen, zonder dat je een kabel naar de dimmer switch nodig hebt. Kies een van de bestaande lichtrecepten Ontspannen, Lezen, Concentreren of Energie en haal alles uit je dagelijkse routines wat erin zit.
+- De Hue Bridge vormt het hart van je systeem. Hiermee kun je al je lampen en schakelaars van Philips Hue bedienen via de Philips Hue app, zelfs als je niet thuis bent.
 - Maak de dimmer switch onderdeel van je slimme Hue systeem door deze draadloze schakelaar te combineren met Hue accessoires (afzonderlijk verkrijgbaar). Gebruik spraakbediening met Amazon Alexa, Apple HomeKit of de Google Assistent.
 - Wil je genieten van alle mogelijkheden van dit artikel, dan heb je een Philips Hue Bridge nodig. Hiermee kun je deze bewegingssensor toevoegen aan je verlichtingssysteem, waarmee je tot wel 50 slimme lampen kunt bedienen, of je nu thuis of onderweg bent.
-- Monteer de Hue dimmer switch waar je maar wil met de bijgeleverde schroeven of plakband. Je kunt de schakelaar bedienen met de afstandsbediening of de Philips Hue app in combinatie met de Hue Hub.
-- De Hue Bridge vormt het hart van je systeem. Hiermee kun je al je lampen en schakelaars van Philips Hue bedienen via de Philips Hue app, zelfs als je niet thuis bent.
-- Zet je Philips Hue lampen feller of dim je lampen, zonder dat je een kabel naar de dimmer switch nodig hebt. Kies een van de bestaande lichtrecepten Ontspannen, Lezen, Concentreren of Energie en haal alles uit je dagelijkse routines wat erin zit.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08PKMT2DV{{</world>}}

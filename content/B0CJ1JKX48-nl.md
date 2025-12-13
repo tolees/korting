@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Tip: combineer voor nog betere resultaten met NIVEA MEN Anti-Age Hyaluron Gezichtscrème SPF 15
-- Revitaliserende aftershavelotion met zichtbaar anti-age effect
 - Huidvriendelijkheid dermatologisch goedgekeurd, dus geschikt voor elk huidtype
 - Verzacht de huid na het scheren, het hyaluronzuur helpt pijnlijke en ontsierende huidongemakken sneller genezen – of voorkomt deze
+- Revitaliserende aftershavelotion met zichtbaar anti-age effect
+- Tip: combineer voor nog betere resultaten met NIVEA MEN Anti-Age Hyaluron Gezichtscrème SPF 15
 - Voor een huid die er frisser en gezond uitziet
 
 [🛒 Buy it!!]({{< param buyurl >}})

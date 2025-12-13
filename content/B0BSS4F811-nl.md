@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Clementoni houdt altijd rekening met het milieu en maakt daarom veelvuldig gebruik van gerecyclede materialen, waarbij gebruik van vervuilende onderdelen wordt vermeden
+- Ga naar het gedeelte Assistentie van Clementoni om gebruik te maken van de service kwijtgeraakte stukjes
 - Afmetingen complete puzzel: 97,5 x 66,8 cm Deze puzzels zijn gewijd aan topmusea en de grootste kunstwerken uit de geschiedenis en zijn een originele manier om uw eigen privécollectie samen te stellen
 - Puzzel voor volwassenen, 2000 stukjes
-- Ga naar het gedeelte Assistentie van Clementoni om gebruik te maken van de service kwijtgeraakte stukjes
+- Clementoni houdt altijd rekening met het milieu en maakt daarom veelvuldig gebruik van gerecyclede materialen, waarbij gebruik van vervuilende onderdelen wordt vermeden
 - Gemaakt in Italië
 
 [🛒 Buy it now!!]({{< param buyurl >}})

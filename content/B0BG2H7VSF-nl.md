@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Reis naar Alamut, de legendarische thuishaven van de Assassins die de basis legden voor de Creed, in deze hartverwarmende hommage aan de game waarmee het allemaal begon.
 - Verken een dichtbevolkte, levendige stad waarvan de inwoners reageren op elke beweging die je maakt en ontdek de geheimen van de vier unieke wijken tijdens de gouden eeuw van Bagdad.
 - Geniet van een moderne versie van de iconische functies en gameplay die al 15 jaar een franchise kenmerken, terwijl je je moeiteloos door de stad verplaatst en je doelwitten heimelijk uitschakelt op instinctievere en directere manieren dan ooit tevoren.
-- Reis naar Alamut, de legendarische thuishaven van de Assassins die de basis legden voor de Creed, in deze hartverwarmende hommage aan de game waarmee het allemaal begon.
 - Ontdek een vakkundig gemaakt actie-avontuur met een spannend verhaal dat vertelt over de transformatie van een opstandige jongeman tot een geraffineerde Master Assassin.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

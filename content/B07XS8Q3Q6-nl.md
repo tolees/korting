@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Gevalideerd voor gebruik in veeleisende omstandigheden met een speciale coating voor meer duurzaamheid
-- Ergonomisch en licht voor comfortabele, snelle bewegingen met klauw- of vingertophandgreep
 - Optische gamingsensor van 7000 dpi voor nauwkeurige tracking en twee dpi-knoppen om de muisgevoeligheid snel aan te passen
+- Ergonomisch en licht voor comfortabele, snelle bewegingen met klauw- of vingertophandgreep
+- Gevalideerd voor gebruik in veeleisende omstandigheden met een speciale coating voor meer duurzaamheid
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07XS8Q3Q6{{</world>}}
