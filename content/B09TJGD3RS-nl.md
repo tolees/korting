@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'ASUS TUF Gaming BE6500 Dual Band Wi-Fi 7 802.11be Extendable Gaming Router 4x 2.5 GbE-poorten 3-traps poort-forwardheid Smart Home Master AiMesh-ondersteuning AiProtection Pro TUF-BE6500'
+date: 2025-12-22 07:36:07
+image: 'https://m.media-amazon.com/images/I/31s79KgGhCL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B09TJGD3RS-nl ASUS TUF Gaming BE6500 Dual Band Wi-Fi 7 802.11be...'
+sku: 'B09TJGD3RS-nl'
+tags: [ 'Computers, onderdelen & accessoires','Elektronica','Netwerkapparaten','Routers','asus','🇳🇱', ]
+actualPrice: 139.0 EUR
+currency: EUR
+price: 139.0
+comparePrice: 209.0 EUR
+prodname: 'ASUS TUF Gaming BE6500 Dual Band Wi-Fi 7 802.11be Extendable Gaming Router 4x 2.5 GbE-poorten 3-traps poort-forwardheid Smart Home Master AiMesh-ondersteuning AiProtection Pro TUF-BE6500'
+country: 'nl'
+flag: '🇳🇱'
+brand: 'ASUS'
+buyurl: 'https://www.amazon.nl/dp/B09TJGD3RS/?tag=tolees0b-21'
+descuento: '33.49'
+average: '139.0'
+---
+
+You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Uitgebreid beveiligingssysteem – uitgerust met de nieuwste ASUS-beveiligingsfuncties die betrouwbare bescherming tegen netwerkbedreigingen garanderen
+- Quad 2.5 GbE-poorten – 2,5 GbE-poorten geven prioriteit aan het verkeer en optimaliseren de bekabelde internetverbinding voor maximale prestaties
+- Een router. Alle speltypes: met prioritering van de mobiele spelmodus, een eigen gaming-poort voor topprestaties en vereenvoudigde Open NAT voor eenvoudige multiplayer-setups
+- Geteste duurzaamheid en stabiele werking: het apparaat is getest voor betrouwbare en stabiele prestaties in strenge tests en is daarom zeer duurzaam
+- 4K QAM & multi-link werking – de Wi-Fi 7 dual-band router levert snelheden tot 6500 Mbps. 4096-QAM verhoogt de snelheid met 1,2 keer
+
+[🛒 Check the deal!!]({{< param buyurl >}})
+{{<world>}}B09TJGD3RS{{</world>}}
