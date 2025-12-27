@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Diep hydraterende crème met verzachtende werking
 - Beschermt je huid met SPF 15
 - Alcoholvrije formule
 - Verrijkt met kamille en vitamine E
 - Helpt de gevoelige huid te kalmeren
+- Diep hydraterende crème met verzachtende werking
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CZRJPPPX{{</world>}}

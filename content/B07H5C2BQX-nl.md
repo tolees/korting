@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Dubbele koppeling: verbind twee Bluetooth-apparaten tegelijkertijd en geniet van je muziek, beantwoord je oproepen, etc. *
-- Bluetooth 5: de overdracht van de gegevens gebeurt bijna twee keer zo snel, en de verbinding is steeds stabiel, ook bij een afstand tot 10 meter.
 - Eersteklas batterijduur: geniet van een non-stop speeltijd tot 12 uur.
 - Moeiteloos oproepen ontvangen: sluit je telefoon aan en telefoneer.
+- Bluetooth 5: de overdracht van de gegevens gebeurt bijna twee keer zo snel, en de verbinding is steeds stabiel, ook bij een afstand tot 10 meter.
+- Dubbele koppeling: verbind twee Bluetooth-apparaten tegelijkertijd en geniet van je muziek, beantwoord je oproepen, etc. *
 - Draadloos streamen: speel muziek af van apparaten zonder Bluetooth.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

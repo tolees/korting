@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Gemaakt van hoogwaardig en bijzonder robuust premium porselein, ideaal voor dagelijks gebruik, voor het reinigen met een vochtige doek afvegen
 - In elkaar stapelbaar, stoot- en slagvaste randen, is dankzij de sierlijke verpakking ook een mooi kerstcadeau
 - Blikvanger op het feestbord, past ook bij het servies van Toys Delight Royal Classic en Toys Fantasy
 - Decoratief bord met nostalgische motieven en gebogen bordrand, voor een bijzonder feestelijk gedekte kersttafel
+- Gemaakt van hoogwaardig en bijzonder robuust premium porselein, ideaal voor dagelijks gebruik, voor het reinigen met een vochtige doek afvegen
 - Inhoud: 1 x Villeroy & Boch Toys Delight bord (35 cm), materiaal: premium porselein, kleur: wit/rood
 
 [🛒 Check the deal!!]({{< param buyurl >}})

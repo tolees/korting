@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 【Repeater voor openbare wifi】 Converteer een openbaar netwerk (bedraad/draadloos) naar een privé-wifi voor veilig surfen. Over het algemeen stellen de meeste gratis openbare Wi-Fi-hotspots een tijdslimiet in voor gebruikers, waardoor uw apparaten worden losgekoppeld zodra de tijd voorbij is. Om met deze situatie om te gaan, verbind je je router opnieuw met wifi. ***Geen ondersteuning voor easytethering***
-- 【Volledige gigabit-poorten】Gigabit draadloze internetrouter met 2 gigabit LAN-poorten en 1 gigabit WAN-poorten, ideaal voor veel internetabonnementen en waarmee u uw bekabelde apparaten rechtstreeks kunt aansluiten.
 - 【Houd uw internet veilig】IPv6 ondersteund. OpenVPN & WireGuard vooraf geïnstalleerd, compatibel met 30+ VPN-serviceproviders. Cloudflare-codering ondersteund om de privacy te beschermen.
-- 【Zakvriendelijk】Lichtgewicht ontwerp (145 g) dat is ontworpen voor uw volgende reis of avontuur. Naast het draagbare, compacte ontwerp is het gemakkelijk mee te nemen onderweg.
+- 【Repeater voor openbare wifi】 Converteer een openbaar netwerk (bedraad/draadloos) naar een privé-wifi voor veilig surfen. Over het algemeen stellen de meeste gratis openbare Wi-Fi-hotspots een tijdslimiet in voor gebruikers, waardoor uw apparaten worden losgekoppeld zodra de tijd voorbij is. Om met deze situatie om te gaan, verbind je je router opnieuw met wifi. ***Geen ondersteuning voor easytethering***
 - 【AC1200 Dual-band draadloze router】 Gelijktijdige dual-band met draadloze snelheid tot 300 Mbps (2,4 GHz) + 867 Mbps (5 GHz). De 2,4 GHz-band kan enkele eenvoudige taken aan, zoals e-mails of surfen op het web, terwijl bandbreedte-intensieve taken zoals gamen of 4K-videostreaming kunnen worden afgehandeld door de 5GHz-band.
+- 【Volledige gigabit-poorten】Gigabit draadloze internetrouter met 2 gigabit LAN-poorten en 1 gigabit WAN-poorten, ideaal voor veel internetabonnementen en waarmee u uw bekabelde apparaten rechtstreeks kunt aansluiten.
 - 【VPN eenvoudig inschakelen】Schakel direct de door u geselecteerde functie (OpenVPN Client of WireGuard Client) in of uit via de fysieke schakelaar. ***De standaardinstelling van de knop is GEEN Functie, u moet dit instellen in het admin-paneel voordat u deze functie gebruikt.***
+- 【Zakvriendelijk】Lichtgewicht ontwerp (145 g) dat is ontworpen voor uw volgende reis of avontuur. Naast het draagbare, compacte ontwerp is het gemakkelijk mee te nemen onderweg.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09N72FMH5{{</world>}}

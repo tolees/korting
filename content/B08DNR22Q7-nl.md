@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Sterke Compatibiliteit: De M.2 SSD behuizing is compatibel met Windows/Mac/Linux systemen.
-- Ideaal Ontwerp: Eenvoudig te gebruiken, geen gereedschap nodig om te installeren. Er zijn LED lampjes op de M.2 behuizing die de status van de M.2 behuizing (verbonden of niet) en SSD activiteit weergeven. Als er gedurende 15 minuten geen bediening is, gaat het in de slaapstand om stroom te besparen.
 - Goede Warmteafvoer: Het ontwerp van het koelgat en de aluminium behuizing zorgen voor een betere warmteafvoer en een langere levensduur.
+- Ideaal Ontwerp: Eenvoudig te gebruiken, geen gereedschap nodig om te installeren. Er zijn LED lampjes op de M.2 behuizing die de status van de M.2 behuizing (verbonden of niet) en SSD activiteit weergeven. Als er gedurende 15 minuten geen bediening is, gaat het in de slaapstand om stroom te besparen.
 - NVMe SSD Behuizing : NVMe M.2 behuizing past op NVMe M-Key / M+B Key SSD tot 2TB, compatibel met 2230/2242/2260/2280 formaat. Hints: Het ondersteunt geen SATA NGFF.
 - 10Gbps Hoge Snelheid: De M.2 NVMe adapter gebruikt de nieuwste USB C 3.1 Gen 2 interface, ondersteunt een theoretische gegevensoverdrachtssnelheid tot 10Gbps en zet een high definition film over in slechts 2 seconden. Het ondersteunt UASP, TRIM, S.M.A.R.T.
 

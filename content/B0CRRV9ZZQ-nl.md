@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Pokémon, ik moet ze allemaal vangen en een episch verjaardagsfeestje geven!
+- Wimpel vlaggen met Pikachu, bliksem en poke balls vlaggen.
 - Materiaal: Papier
 - Geweldig voor muren, ramen of deuropeningen.
 - Lengte: 3.3m
-- Pokémon, ik moet ze allemaal vangen en een episch verjaardagsfeestje geven!
-- Wimpel vlaggen met Pikachu, bliksem en poke balls vlaggen.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CRRV9ZZQ{{</world>}}

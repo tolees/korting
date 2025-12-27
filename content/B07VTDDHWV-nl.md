@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Krachtige, nauwkeurig afgestemde audio voor meeslepende gameplay
 - 40 mm drivers omgeven door zachte, gevoerde oorschelpen voor maximaal comfort
-- Officieel gelicentieerd door Nintendo
 - Soepele ruisonderdrukkende microfoon met flip-functie om te dempen
+- Krachtige, nauwkeurig afgestemde audio voor meeslepende gameplay
+- Officieel gelicentieerd door Nintendo
 - Lichtgewicht constructie (200 g) voor gamesessies die de hele dag duren
 
 [🛒 Buy it!!]({{< param buyurl >}})

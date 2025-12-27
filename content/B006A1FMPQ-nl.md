@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Stevig design voor simpele bewegingen
-- Geschikt voor: koud weer
 - Laarzen van het merk COLUMBIA
+- Geschikt voor: koud weer
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B006A1FMPQ{{</world>}}

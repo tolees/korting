@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Bevordert de verwijdering van dode huidcellen
 - Egaliseert en verfijnt de teint
 - Krachtige combinatie van AHA, BHA en niacinamide
-- Bevordert de verwijdering van dode huidcellen
 - Vermindert en voorkomt onzuiverheden
 - Een zichtbaar gavere huid in 7 dagen*
 

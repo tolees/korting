@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Gelegde puzzel heeft een afmeting van ca. 49 x 36 cm
-- Easy click technology- Individuele stukken zijn zo nauwkeurig gemaakt dat je daadwerkelijk een klik kunt horen wanneer een stuk op de juiste plaats wordt aangelegd
-- Voor kinderen vanaf 6 jaar
 - Hoge kwaliteit – De Ravensburger puzzels zullen je overtuigen met premium kwaliteit, zowel qua inhoud als materiaal
+- Gelegde puzzel heeft een afmeting van ca. 49 x 36 cm
+- Voor kinderen vanaf 6 jaar
+- Easy click technology- Individuele stukken zijn zo nauwkeurig gemaakt dat je daadwerkelijk een klik kunt horen wanneer een stuk op de juiste plaats wordt aangelegd
 - Een geweldig cadeau - Puzzels zijn leuk om alleen of in een groep te doen, ook zijn ze een geweldig cadeau voor alle leeftijden op verjaardagen en feestdagen zoals kerst of Sinterklaas
 
 [🛒 Check the deal!!]({{< param buyurl >}})

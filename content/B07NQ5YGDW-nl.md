@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Bluetooth 4.0 – voorzien van de nieuwste bluetooth low energy (ble 4.0) en achterwaarts compatibel met bluetooth 3.0/2.1/2.0/1.1
-- Geen stuurprogramma– plug and play voor windows 8, 8.1 en 10
 - Klein design – zeer klein en handzaam met betrouwbare, hoogwaardige prestaties
 - Ondersteunde besturingssystemen – ondersteunt windows 10/8.1/8/7/xp
+- Geen stuurprogramma– plug and play voor windows 8, 8.1 en 10
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07NQ5YGDW{{</world>}}

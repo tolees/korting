@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Complete kit: bevat een reservemes en een reservemesje voor een bijzonder grondige snit
+- Details en contouring: perfect voor een schone scheerbeurt, detail- en contourscheerbeurt
 - Reisvriendelijk: compact en licht haar- en baardscheerapparaat voor mannen, dat overal mee naartoe kan worden genomen
 - Overal veilig bewaren: wordt geleverd in een metalen doos en bevat een praktische reistas voor onderweg
-- Details en contouring: perfect voor een schone scheerbeurt, detail- en contourscheerbeurt
-- Complete kit: bevat een reservemes en een reservemesje voor een bijzonder grondige snit
 - Oplaadbaar scheerapparaat – Ni-MH-accu met 45 minuten draadloze looptijd bij een 8 uur opladen
 
 [🛒 Buy it!!]({{< param buyurl >}})

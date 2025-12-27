@@ -28,14 +28,14 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- 20 Harry Potter afbeeldingen om te projecteren, waar je ook wilt
 - Aanpasbare armband, perfect voor kleine polsen
 - Beweegbare ring om afbeeldingen te projecteren
-- 20 Harry Potter afbeeldingen om te projecteren, waar je ook wilt
-- Vanaf 3 jaar
-- Weergave van datum en tijd
 - VOEDING: 5 x AG3/LR41 batterijen (meegeleverd).
 - Communiceer met je vrienden door het verzenden van gecodeerde berichten door middel van je projecties
+- Weergave van datum en tijd
 - Garantie: 2 jaar.
+- Vanaf 3 jaar
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B091JPCQ75{{</world>}}

@@ -31,8 +31,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 - De zakken met rits houden je handen warm en je kunt je waardevolle spullen, zoals smartphones, enz. veilig opbergen.
 - Fleece voor heren met moderne en klassieke pasvorm en volledige ritssluiting, ideaal voor dagelijks gebruik
 - Inhoud: 1x Columbia Steens Mountain 2.0 Fleece met rits voor heren, Kleur: Collegiate Navy, Maat: M, Art. Nr.: 1476671
-- Verkrijgbaar in verschillende kleuren, subtiel Columbia logo
 - Hoge kraag voor warmte en bescherming
+- Verkrijgbaar in verschillende kleuren, subtiel Columbia logo
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0084AWSAI{{</world>}}

@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Toegang op afstand – bedien je slimme gloeilamp comfortabel via je smartphone met Tapo-app, overal en altijd
-- Dimbaar licht: kies met individueel instelbare helderheid de verlichting die bij de situatie past
-- Spraakbesturing: compatibel met Amazon Alexa of Google Assistant
-- Inhoud van de levering: Tapo L510E, snelinstallatiegids
-- Afwezigheidsmodus: laat je verlichting op verschillende tijdstippen automatisch in- en uitgaan om de aanwezigheid van een persoon te simuleren
 - Afvoeringen en tijdschemas – plan bepaalde tijden voor het in- of uitschakelen van je gloeilampen; ingang: 220-240 V, 50/60 Hz, 73 mA
+- Toegang op afstand – bedien je slimme gloeilamp comfortabel via je smartphone met Tapo-app, overal en altijd
+- Inhoud van de levering: Tapo L510E, snelinstallatiegids
+- Spraakbesturing: compatibel met Amazon Alexa of Google Assistant
+- Afwezigheidsmodus: laat je verlichting op verschillende tijdstippen automatisch in- en uitgaan om de aanwezigheid van een persoon te simuleren
+- Dimbaar licht: kies met individueel instelbare helderheid de verlichting die bij de situatie past
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08QRPVW9S{{</world>}}

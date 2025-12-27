@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- De parfum geeft je een frisse blik en een ongekende passie, zodat je spontaan en moeiteloos connecties maakt
-- De gewaagde Lime Gin Fizz en koele muskus vormen een prachtig contrast voor een bruisende beleving
-- CK IN2U for Men is een heldere, houtachtige oriëntaalse geur
 - Een vurig hart van pimiento-peper wordt gecombineerd met het lichte kruid van shisoblaadjes en warme cacao
+- De gewaagde Lime Gin Fizz en koele muskus vormen een prachtig contrast voor een bruisende beleving
 - De sprankelende Lime Gin Fizz en tangelo geven de geur een speels gevoel
+- CK IN2U for Men is een heldere, houtachtige oriëntaalse geur
+- De parfum geeft je een frisse blik en een ongekende passie, zodat je spontaan en moeiteloos connecties maakt
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B000VOLKEA{{</world>}}

@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Aanbevolen leeftijd: vanaf 7 jaar, puzzelafmetingen: 43,2 x 29,1 cm
 - 150 stukjes kinderpuzzel incl. puzzelposter ter grootte van de gelegde puzzel, met stanslijnen voor oriëntatie en indien nodig om snel de juiste positie te vinden.
-- Puzzel van graspapp: ecologisch, hulpbronnenvriendelijk en duurzaam. Samenstelling ca. 40% gras/60% oud papier.
 - Kinderpuzzel van Schmidt Spiele – groot legplezier voor kleine ontdekkers
+- Aanbevolen leeftijd: vanaf 7 jaar, puzzelafmetingen: 43,2 x 29,1 cm
 - 6-sterren kwaliteit: grote verscheidenheid aan vormen, perfecte samenhang, perfecte pasvorm, linnenstructuur, exclusief design, speciale matte lak
+- Puzzel van graspapp: ecologisch, hulpbronnenvriendelijk en duurzaam. Samenstelling ca. 40% gras/60% oud papier.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08P2JNXPH{{</world>}}

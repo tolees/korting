@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Ideaal voor onderweg
-- Intense hydratatie door toevoeging van hyaluronzuur
-- De compact-naar-vloeibare textuur egaliseert de huid
-- Concealer, foundation en poeder in één
 - Geschikt voor contouring
+- Concealer, foundation en poeder in één
+- Intense hydratatie door toevoeging van hyaluronzuur
+- Ideaal voor onderweg
+- De compact-naar-vloeibare textuur egaliseert de huid
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07JGSGXZW{{</world>}}

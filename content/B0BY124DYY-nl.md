@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - [Gemakkelijk te verplaatsen] Dankzij de 4 soepele universele wielen en het praktische stalen handvat kan de keukentrolley gemakkelijk naar de plek worden geduwd waar je hem nodig hebt
-- [Robuust en duurzaam] Stalen frame, robuust rooster, slijtvaste en gemakkelijk te reinigen spaanplaat - deze keukenplank is stevig, stabiel en duurzaam
 - [Perfect voor kleine ruimtes] Deze smalle trolley (diepte 22 cm) past perfect in smalle nissen in de keuken, badkamer, thuiskantoor, woonkamer of slaapkamer. Met deze trolley voor nissen kun je verticale ruimte optimaal benutten en opbergruimte maximaliseren
+- [Robuust en duurzaam] Stalen frame, robuust rooster, slijtvaste en gemakkelijk te reinigen spaanplaat - deze keukenplank is stevig, stabiel en duurzaam
 - [Veel opbergruimte] Deze alkoofplank met 4 verdiepingen biedt veel opbergruimte: één plank om spullen bij de hand te houden, 3 gaasplanken met opstaande randen om glazen en flessen veilig te houden en te voorkomen dat ze omvallen
 - [Eenvoudige montage] Dankzij de gedetailleerde instructies en gelabelde onderdelen kun je deze smalle plank snel in elkaar zetten
 

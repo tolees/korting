@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Elektrostatisch veilig gereedschap door oppervlakteweerstand van < 10
 - Kraftform Micro kruiskopschroevendraaier voor kruiskopschroeven Phillips Recess
 - Met afrolbeveiliging en draaibare dop voor snel draaien
 - Meercomponenten microhandgreep voor snel en ergonomisch schroeven
-- Elektrostatisch veilig gereedschap door oppervlakteweerstand van < 10
 - De Wera Black Point-punt biedt pasvorm en geoptimaliseerde bescherming tegen corrosie
 - 9 ohm
 

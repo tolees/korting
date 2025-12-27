@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Gemakkelijk aan te brengen met de pipet
-- Bevat AHA + BHA, Charcoal, Niacinamide en Salicylzuur
-- Klinisch bewezen -35% imperfecties na 8 weken**
 - **Klinische score, 43 personen, tweedagelijkse applicatie gedurende 28 dagen
+- Klinisch bewezen -35% imperfecties na 8 weken**
+- Bevat AHA + BHA, Charcoal, Niacinamide en Salicylzuur
 - Anti-onzuiverheden Serum voor een gladdere en meer egale huid
 
 [🛒 Buy it!!]({{< param buyurl >}})

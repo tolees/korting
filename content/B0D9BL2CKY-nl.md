@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Niet plakkerig en niet vettig
 - SPF50+ bescherming
-- Voor een gehydrateerde huid
 - Onzichtbare finish zonder witte waas.
+- Niet plakkerig en niet vettig
+- Voor een gehydrateerde huid
 - Ultra-lichte formule
 
 [🛒 Buy it now!!]({{< param buyurl >}})

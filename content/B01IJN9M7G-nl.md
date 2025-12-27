@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- stijl: Sandalen
 - buitenmateriaal: Overig leer
 - Comfortabel voetbed voor de hele dag dragen
+- stijl: Sandalen
 - sluiting type: Pull On
 - Lederen bovenwerk
 

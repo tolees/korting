@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Buitenzool/Kenmerken: Rubber voor buitengewone grip
-- Kleur: Bruin
-- 360º gestikt voor duurzaamheid
 - Bovenwerk: leer (kalfsleer)
 - Voering: 100% kalfsleer
+- 360º gestikt voor duurzaamheid
+- Kleur: Bruin
+- Buitenzool/Kenmerken: Rubber voor buitengewone grip
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B00MXVS50G{{</world>}}

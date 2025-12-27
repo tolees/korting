@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- CREËER ZELF JE LIGHTSABER: dit lightsaberspeelgoed bestaat uit vier onderdelen: een uitschuifbaar rood blad, een handvat, een schede en een kern, zodat kinderen hun eigen oplichtende lightsaber in elkaar kunnen zetten voor denkbeeldige gevechten
-- MAAK KENNIS MET KYBER CORE: Hasbros officieel gelicentieerde lijn Star Wars Lightsabers breidt uit met Kyber Core, met doorzichtige delen en een gloeiende kern om kyber-kristallen na te bootsen
+- DOORZICHTIGE GLOEIENDE KERN: behalve een gloeiend blad, heeft deze lightsaber voor kinderen ook een doorzichtige, gloeiende kern, geïnspireerd op het kyber-kristal dat zich in het hart van elke lightsaber bevindt
 - LICHT- EN GELUIDSEFFECTEN: met lichteffecten en lightsabergeluiden geïnspireerd op het entertainment, is dit oplichtende speelgoed ideaal als Star Wars-cadeau voor jongens en meisjes vanaf 4 jaar. (Werkt op 2 AAA-batterijen van 1,5 V. Niet inbegrepen)
 - ONTWERP EN DECORATIE GEÏNSPIREERD OP HET PERSONAGE: stel je voor hoe je de kracht van de dark side gebruikt met de elektronische Lightsaber Forge Kyber Core Darth Vader-lightsaber, geïnspireerd op de populaire schurk Darth Vader
-- DOORZICHTIGE GLOEIENDE KERN: behalve een gloeiend blad, heeft deze lightsaber voor kinderen ook een doorzichtige, gloeiende kern, geïnspireerd op het kyber-kristal dat zich in het hart van elke lightsaber bevindt
+- MAAK KENNIS MET KYBER CORE: Hasbros officieel gelicentieerde lijn Star Wars Lightsabers breidt uit met Kyber Core, met doorzichtige delen en een gloeiende kern om kyber-kristallen na te bootsen
+- CREËER ZELF JE LIGHTSABER: dit lightsaberspeelgoed bestaat uit vier onderdelen: een uitschuifbaar rood blad, een handvat, een schede en een kern, zodat kinderen hun eigen oplichtende lightsaber in elkaar kunnen zetten voor denkbeeldige gevechten
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CFYWBZVW{{</world>}}

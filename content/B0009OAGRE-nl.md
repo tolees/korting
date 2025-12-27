@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Merk : Calvin Klein
 - Hoeveelheid product : 100 ml
-- De verpakking kan variëren
+- Merk : Calvin Klein
 - Producttype: Eau de Parfum
+- De verpakking kan variëren
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0009OAGRE{{</world>}}

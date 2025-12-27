@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Spraakbediening – compatibel met Amazon Alexa of Google Assistant
 - Eenvoudige installatie en gebruik - snelle en eenvoudige dagelijkse installatie en beheer via gratis app (gratis voor iOS en Android)
 - Procedures en tijdschemas: plan bepaalde tijden voor het in- of uitschakelen van je gloeilampen
-- Dimbaar licht: kies met individueel instelbare helderheid de verlichting die bij de situatie past
+- Spraakbediening – compatibel met Amazon Alexa of Google Assistant
 - Energieverbruikscontrole: analyseer de real-time en het historische stroomverbruik van het aangesloten apparaat
+- Dimbaar licht: kies met individueel instelbare helderheid de verlichting die bij de situatie past
 - Spraakbesturing: activeer je slimme stopcontact met spraakopdrachten via Amazon Alexa of de Google Assistant
 
 [🛒 Buy it now!!]({{< param buyurl >}})

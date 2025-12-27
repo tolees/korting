@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Deze rijke balsem hydrateert direct en beschermt je huid tegen uitdroging
-- Niet vettig, trekt snel in
-- De verzachtende balsem met Aloë Vera helpt de huid te herstellen direct na het scheren en vermindert roodheid en een trekkerig gevoel
 - De verzorgende formule met Pro-Vitamine B5 hydrateert en helpt de natuurlijke huidbarrière te versterken
+- Deze rijke balsem hydrateert direct en beschermt je huid tegen uitdroging
 - Voor een sterk en gezond uitziende huid
+- De verzachtende balsem met Aloë Vera helpt de huid te herstellen direct na het scheren en vermindert roodheid en een trekkerig gevoel
+- Niet vettig, trekt snel in
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B010IS9IYM{{</world>}}

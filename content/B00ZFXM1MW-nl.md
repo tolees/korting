@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Ideale afmetingen voor koekjes en kleine lekkernijen, inhoud blijft dankzij deksel met praktische greep lang fris
-- Gemaakt van hoogwaardig materiaal: bijzonder robuust premium porselein, onderhoud: met een vochtige doek reinigen
-- Inhoud: 1 x Villeroy & Boch Toys Delight kleine voorraaddoos (13 cm), materiaal: premium porselein, kleur: wit/rood
-- Kleine, ronde voorraaddoos van porselein met feestelijke motieven en rode band, voor lekkere kerstsnoepjes
 - Past bij Toys Delight Royal Classic en speelgoed fantasy, dankzij kerstverpakking ook geschikt als cadeau
+- Kleine, ronde voorraaddoos van porselein met feestelijke motieven en rode band, voor lekkere kerstsnoepjes
+- Gemaakt van hoogwaardig materiaal: bijzonder robuust premium porselein, onderhoud: met een vochtige doek reinigen
+- Ideale afmetingen voor koekjes en kleine lekkernijen, inhoud blijft dankzij deksel met praktische greep lang fris
+- Inhoud: 1 x Villeroy & Boch Toys Delight kleine voorraaddoos (13 cm), materiaal: premium porselein, kleur: wit/rood
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B00ZFXM1MW{{</world>}}

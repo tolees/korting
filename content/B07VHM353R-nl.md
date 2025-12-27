@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Werkt met Alexa en Google Assistant: gebruik eenvoudige gespreksstarters om je lichten aan en uit te zetten, kleuren in te stellen en de helderheid aan te passen.
 - Muziek-ledstrips: met de ingebouwde microfoon synchroniseren de lichtstrips met de muziek en dansen ze samen met muziekbeats. Deze functie is beschikbaar in de app en in de controller.
 - App-bediening via wifi: neem de controle met de Govee Home APP en schakel de ledstrips overal in en uit.
-- Veel gebruikt: het is niet waterdicht en is ontworpen voor gebruik binnenshuis. Het kan vooral slaapkamer, plafond, keukenkast en woonkamer versieren.
 - Gemakkelijk te installeren: onze app wordt voortdurend bijgewerkt om ons product compatibel te maken met slimmere apparaten. (Opmerking: connectoren zijn niet inbegrepen.)
+- Werkt met Alexa en Google Assistant: gebruik eenvoudige gespreksstarters om je lichten aan en uit te zetten, kleuren in te stellen en de helderheid aan te passen.
+- Veel gebruikt: het is niet waterdicht en is ontworpen voor gebruik binnenshuis. Het kan vooral slaapkamer, plafond, keukenkast en woonkamer versieren.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07VHM353R{{</world>}}

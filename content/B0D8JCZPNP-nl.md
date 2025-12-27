@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maybelline New York Super Stay up to 30H Lumi-Matte Foundation with Amino Acids - 350'
-date: 2025-12-23 02:44:43
+date: 2025-12-27 10:43:20
 image: 'https://m.media-amazon.com/images/I/41T34lLg85L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: 'MAYBELLINE'
 buyurl: 'https://www.amazon.nl/dp/B0D8JCZPNP/?tag=tolees0b-21'
 descuento: '50.03'
-average: '9.49'
+average: '9.65666666666667'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Verkrijgbaar in 14 tinten.
-- Vegan formule: geen ingrediënten van dierlijke oorsprong.
-- Langhoudende, luchtige dekking
-- Stralende, matte look.
 - Blijft tot wel 30 uur zitten.
+- Verkrijgbaar in 14 tinten.
+- Stralende, matte look.
+- Langhoudende, luchtige dekking
+- Vegan formule: geen ingrediënten van dierlijke oorsprong.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0D8JCZPNP{{</world>}}

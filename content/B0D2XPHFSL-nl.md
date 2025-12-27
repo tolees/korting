@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Vind uw perfecte oplaadhoek: pas uw laadhoek vrij aan dankzij de 45° verticale en 360° horizontale rotatiemogelijkheden.
+- Blijf op de hoogte met dubbele LEDs: Beschikt over twee LED-lampjes die duidelijk de laadstatus van uw telefoon en oordopjes aangeven - niet meer gissen!
 - Wat je krijgt: Anker MagGo draadloze oplader (2-in-1 standaard), 5 ft / 1,5 m USB-C naar USB-C-kabel, welkomstgids, 24 maanden garantie en onze vriendelijke klantenservice.
 - Snel, efficiënt opladen van 15 W: laad je iPhone 15 Pro tot 25% op in slechts 21 minuten met deze MagSafe-compatibele 15W snellader.
-- Blijf op de hoogte met dubbele LEDs: Beschikt over twee LED-lampjes die duidelijk de laadstatus van uw telefoon en oordopjes aangeven - niet meer gissen!
-- Vind uw perfecte oplaadhoek: pas uw laadhoek vrij aan dankzij de 45° verticale en 360° horizontale rotatiemogelijkheden.
 - Laad 2 apparaten tegelijk op: geniet van het gemak en de tijdbesparende voordelen van het opladen van zowel je telefoon als oordopjes tegelijk.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

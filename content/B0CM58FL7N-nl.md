@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- De robuuste hoes van PU, EVA, beschermend schuim en krasbestendig nylon beschermt je PlayStation Portal onderweg
-- [Opmerking] Er is vrije ruimte in de hoes zodat u het apparaat eenvoudig kunt verwijderen. De vulling biedt rondom bescherming met nauwkeurige uitsparingen voor joysticks en knoppen.
 - Geïntegreerde riem voor het hanteren van de oplader en oplaadkabel
+- [Opmerking] Er is vrije ruimte in de hoes zodat u het apparaat eenvoudig kunt verwijderen. De vulling biedt rondom bescherming met nauwkeurige uitsparingen voor joysticks en knoppen.
+- De robuuste hoes van PU, EVA, beschermend schuim en krasbestendig nylon beschermt je PlayStation Portal onderweg
 - ALLEEN compatibel met PlayStation Portal
 - De tas heeft een klittenbandsluiting met suède binnenkant voor veilige grip en schermbescherming, een verborgen opbergvak eronder en een compartiment voor een trackingapparaat
 

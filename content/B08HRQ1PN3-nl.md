@@ -29,13 +29,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Gebruik: na het wassen van het haar als een kuur met kam of handen aanbrengen en ca. 3-5 minuten laten inwerken. voor fantasie-effecten 15 minuten laten inwerken. vervolgens voorzichtig met lauw water uitspoelen. Handschoenen zijn raadzaam omdat de intensieve kleuren huid en nagels verven.
-- Verzorgt het haar en frist de kleur op
-- Aantal eenheden: milliliter
 - beter kambaar
+- Verzorgt het haar en frist de kleur op
 - Aantal eenheden: 240.0
-- Volume: 240,0 milliliter
 - Voorzien van voedingsstoffen
+- Aantal eenheden: milliliter
 - kleur: 600 rood, inhoud: 240 ml
+- Volume: 240,0 milliliter
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08HRQ1PN3{{</world>}}

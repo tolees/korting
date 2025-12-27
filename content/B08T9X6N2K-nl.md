@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Kangoeroezak aan de voorkant
+- capuchon met trekkoord
 - Fleecestof voelt zacht en warm.
 - Met trekkoord kun je je afdekking aanpassen.
-- capuchon met trekkoord
 - geborduurde Swoosh
-- Kangoeroezak aan de voorkant
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08T9X6N2K{{</world>}}

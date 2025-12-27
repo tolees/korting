@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- DUURZAME FOCUS: Met recyclebaar plastic en aluminium en FSC-gecertificeerd papier geeft de REVLON PROFESSIONAL NUTRI COLORTM FILTERS FASHION FILTERS verpakking prioriteit aan het milieu
+- Eenvoudig te gebruiken: Laat de heldere semi-permanente directe haarkleur 3 minuten inwerken voor een kleuropfrissing of 15 minuten voor intensere tinten op een vooraf verlichte of gebleekte basis
 - NUTRI COLOR TM FILTERS: Ontdek het volledige assortiment semi-permanente directe haarkleur inclusief de toning filters en 3 mengfilters​
 - KLEUR en VERZORGING: De haarkleur met lage toewijding heeft een 3-in-1 Insta-Pic Technology TM die voedt en hydrateert terwijl het haar conditioneert voor een gezondere look en feel
-- Eenvoudig te gebruiken: Laat de heldere semi-permanente directe haarkleur 3 minuten inwerken voor een kleuropfrissing of 15 minuten voor intensere tinten op een vooraf verlichte of gebleekte basis
-- DUURZAME FOCUS: Met recyclebaar plastic en aluminium en FSC-gecertificeerd papier geeft de REVLON PROFESSIONAL NUTRI COLORTM FILTERS FASHION FILTERS verpakking prioriteit aan het milieu
 - Vette KLEUR: NUTRI COLOR TM FASHION FILTERS bieden 10 tinten levendige semi-permanente directe haarkleur met glans
 
 [🛒 Buy it now!!]({{< param buyurl >}})

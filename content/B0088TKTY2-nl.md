@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-WN823N 300Mbps Wifi USB Adapter Ondersteunt Windows 8.1/8/7/XP MacOS Linux One-touch Pairing'
-date: 2025-12-03 19:58:17
+date: 2025-12-27 10:30:19
 image: 'https://m.media-amazon.com/images/I/41rtAqKMpQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

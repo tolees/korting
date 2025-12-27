@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- De set bevat 1 Hot Wheels Monstertrucks Mega-Wrex (schaal 1:64) en 2 sloopautos die kinderen op de tribune kunnen zetten of aan Crushzilla kunnen voeren.
-- Een geweldig cadeau voor kinderen vanaf 4 jaar die houden van beuken en crashen.
-- Koppel de Mega-Wrex tegen Crushzilla Bazengevecht aan andere Hot Wheels Monstertrucks Arenabeukers sets om een Monstertrucks arena te bouwen vol met verschillende uitdagingen en obstakels. (Extra sets apart verkrijgbaar.)
 - Crushzilla beweegt op basis van de aanvallen van Mega-Wrex, voor een speelplek van 360 graden en enorm veel te ontdekken details.
-- In de Hot Wheels Monstertrucks Arenabeukers Mega-Wrex tegen Crushzilla Bazengevecht speelset lanceren kinderen Mega-Wrex richting een draaiende en tollende Crushzilla om hem uit te schakelen en de uitdaging te winnen!
-- De basis van de set kan tijdens het spel bewegen en schudden, zodat je zintuiglijke feedback krijgt tijdens het beuken en crashen.
+- Koppel de Mega-Wrex tegen Crushzilla Bazengevecht aan andere Hot Wheels Monstertrucks Arenabeukers sets om een Monstertrucks arena te bouwen vol met verschillende uitdagingen en obstakels. (Extra sets apart verkrijgbaar.)
+- Een geweldig cadeau voor kinderen vanaf 4 jaar die houden van beuken en crashen.
 - Kinderen kunnen metalen sloopautos in de bek van Crushzilla plaatsen en vervolgens Mega-Wrex op de juiste beukplek richten om ze weer te bevrijden. (Extra autos apart verkrijgbaar.)
+- De basis van de set kan tijdens het spel bewegen en schudden, zodat je zintuiglijke feedback krijgt tijdens het beuken en crashen.
+- In de Hot Wheels Monstertrucks Arenabeukers Mega-Wrex tegen Crushzilla Bazengevecht speelset lanceren kinderen Mega-Wrex richting een draaiende en tollende Crushzilla om hem uit te schakelen en de uitdaging te winnen!
+- De set bevat 1 Hot Wheels Monstertrucks Mega-Wrex (schaal 1:64) en 2 sloopautos die kinderen op de tribune kunnen zetten of aan Crushzilla kunnen voeren.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BN156MBT{{</world>}}

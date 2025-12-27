@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 7 kg
-- Artikelgewicht: 5
 - BenQ Mobiuz EX240N Gaming Monitor (23,8 inch, 165hz, 1ms, HDMI en DP ondersteuning met 120 Hz voor PS5, Xbox Series X en Series S)
+- 7 kg
 - 24-inch display: VA gaming-monitor met 165 Hz beeldherhalingsfrequentie, 1 ms MPRT, 1920 x 1080 FHD-resolutie en AMD FreeSync Premium voor vloeibare gameplay
+- Artikelgewicht: 5
+- Superieur geluid: dynamisch geluid uit twee 2,5 watt luidsprekers plus DSP-chip, treVolo-geluid met drie aangepaste modi
 - Bedieningscomfort: 5-weg navigator, scenario-mapping en gaming Quick OSD voor eenvoudige bediening; bovendien in hoogte en hoek verstelbaar en met eye-care voor een aangename ervaring
 - Connectiviteit: HDMI- en DP-aansluitingen compatibel met 120 Hz voor PS5 en Xbox Series X
-- Superieur geluid: dynamisch geluid uit twee 2,5 watt luidsprekers plus DSP-chip, treVolo-geluid met drie aangepaste modi
 - Beeldscherm: HDRi-technologie, Light Tuner en Black eQualizer van BENQ optimaliseren de beeldkwaliteit voor een uitstekende gamingervaring
 
 [🛒 Buy it!!]({{< param buyurl >}})

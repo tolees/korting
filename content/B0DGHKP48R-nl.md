@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Dankzij de ingebouwde magneten die perfect matchen met iPhone 16 Pro is koppelen een kwestie van klikken en gaat draadloos opladen nog sneller. Als het tijd is om op te laden, laat je het hoesje gewoon om je iPhone zitten en klik je de MagSafe-oplader eraan vast. Je kunt je iPhone ook op je Qi2 of Qi‑oplader leggen.
-- Zoals alle hoesjes van Apple is ook dit model duizenden uren getest, zowel in de ontwerpfase als tijdens het fabricageproces. Het ziet er daarom niet alleen fantastisch uit, maar beschermt je iPhone ook tegen krassen en vallen.
-- Dit siliconen hoesje met MagSafe is speciaal door Apple ontworpen om je iPhone 16 Pro te beschermen. Het hoesje is voor 55% gemaakt van gerecycled siliconen­materiaal en voelt zijdezacht aan in je hand. En aan de binnenkant zorgt microvezel voor een goede bescherming.
 - Dit hoesje werkt moeiteloos met de camera­­­­­regelaar. Er zit een saffierkristal in dat met een geleidende laag is verbonden, zodat de cameraregelaar je vingerbewegingen kan opvangen.
+- Dit siliconen hoesje met MagSafe is speciaal door Apple ontworpen om je iPhone 16 Pro te beschermen. Het hoesje is voor 55% gemaakt van gerecycled siliconen­materiaal en voelt zijdezacht aan in je hand. En aan de binnenkant zorgt microvezel voor een goede bescherming.
+- Zoals alle hoesjes van Apple is ook dit model duizenden uren getest, zowel in de ontwerpfase als tijdens het fabricageproces. Het ziet er daarom niet alleen fantastisch uit, maar beschermt je iPhone ook tegen krassen en vallen.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DGHKP48R{{</world>}}

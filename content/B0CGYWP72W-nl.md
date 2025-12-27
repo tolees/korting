@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Entertainment voor iedereen: Geniet van een gebruiksvriendelijke interface met elektronische begeleiding, tijdvertraging, ouderlijk toezicht, mediaspeler en hotelmodus.
 - Drievoudige tuner en CI+: Kies de ontvangst van je voorkeur. Ontvang gecodeerde programmas zonder extra apparatuur, via kabelverbinding (DVB-C), satellietverbinding (DVB-S2) of terrestrische TV (DVB-T2). Profiteer van geweldige connectiviteit met 3 HDMI- en 2 USB-poorten, digitale audio, AV IN, koptelefoon en CI+ slot.
+- Entertainment voor iedereen: Geniet van een gebruiksvriendelijke interface met elektronische begeleiding, tijdvertraging, ouderlijk toezicht, mediaspeler en hotelmodus.
+- Verlichte afstandsbediening: Verlichte knoppen voor eenvoudige menunavigatie met gedimde verlichting.
 - Design voor iedereen: Thomson TVs hebben een modern frameloos design.
 - De Thomson belofte: Geniet van de gemoedsrust van 3 jaar garantie. Het A+ paneel zorgt voor scherpe beelden met 0 dode pixels. Om de beste kwaliteit te garanderen, worden de producten in Europa geassembleerd.
-- Verlichte afstandsbediening: Verlichte knoppen voor eenvoudige menunavigatie met gedimde verlichting.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CGYWP72W{{</world>}}

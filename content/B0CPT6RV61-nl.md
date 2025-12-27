@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Gebruik: voor een gelijkmatige teint onder of boven de make-up aanbrengen, als highlighter een lichtere tint dan de huidskleur aanbrengen, als contour een donkerdere tint op de contouren aanbrengen
-- Vloeibare highlighter voor gezicht en lichaam voor een stralende teint en ter accentuering van de natuurlijke uitstraling
-- Resultaat: onmiddellijke hydratatie voor een natuurlijke, stralende uitstraling en een zongekuste teint zonder zon
 - Inhoud: LOréal Paris Perfect Match Lumi Glotion, Natural Glow Enhancer, 904 Deep Glow, 40 ml
+- Vloeibare highlighter voor gezicht en lichaam voor een stralende teint en ter accentuering van de natuurlijke uitstraling
+- Gebruik: voor een gelijkmatige teint onder of boven de make-up aanbrengen, als highlighter een lichtere tint dan de huidskleur aanbrengen, als contour een donkerdere tint op de contouren aanbrengen
+- Resultaat: onmiddellijke hydratatie voor een natuurlijke, stralende uitstraling en een zongekuste teint zonder zon
 - Lichte en vloeibare formule met glycerine en sheaboter voor een intensieve hydratatie de hele dag lang
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Hij staat nauw verbonden met erotiek, liefde en sensualiteit
-- Lijn erotische producten
 - Een van de kostbaarste geuren wordt daarom in veel dure parfums gebruikt
 - Jasmijn van de geur van de lente. Laat de lente in je liefdesleven
 - Combinatie van zeer hoogwaardige en voedende oliën
+- Hij staat nauw verbonden met erotiek, liefde en sensualiteit
+- Lijn erotische producten
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B002FO8TCA{{</world>}}

@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Nieuw en origineel: voor degenen die in de fandom op zoek zijn naar nieuwigheden en alles wat nerds, gek en uniek is, is Paladone je beste bron voor bestverkocht speelgoed, mokken, verzamelobjecten , en nieuwigheden
 - Harry Potter-merchandise: als je een fan bent van Hogwarts en van de jongen met het litteken en de bril, dan is dit officiële Harry Potter-item iets voor jou. Ideaal voor elke heks of tovenaar die van boeken en films houdt
 - Verlicht tovenarij: The Golden Snitch Light laat de Snitch zweven in een hoge verlichte stolp. Zie hoe de Snaai glinstert terwijl hij je bureau, nachtkastje of planken opfleurt
 - Uniek nachtlampje: voeg dit verzamellampje toe aan je mancave, slaapkamer, kantoor of kinderkamer voor een beetje magisch plezier. Maatregelen ca. 20 cm lang en inclusief USB-kabel
+- Nieuw en origineel: voor degenen die in de fandom op zoek zijn naar nieuwigheden en alles wat nerds, gek en uniek is, is Paladone je beste bron voor bestverkocht speelgoed, mokken, verzamelobjecten , en nieuwigheden
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07B2Y1DZ6{{</world>}}

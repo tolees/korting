@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Houdt geuren binnen, ongedierte buiten: Soft-seal deksel laat organische stoffen ademen, houdt geuren zoals bananenschil onder controle en ongedierte zoals fruitvliegen.
-- niet magisch, magnetisch: magnetisch dockingsysteem zet niet alleen de caddy stevig op zijn plaats, het houdt ook het deksel open voor gemakkelijk schrapen en afpellen.
-- Compostering eenvoudiger gemaakt: Onze compostcaddy dokt handig aan de zijkant van simplehuman liner velgbakken en moedigt u aan om organisch materiaal van algemeen afval te scheiden, waardoor afvalbeheer nog efficiënter wordt.
 - eenvoudig te legen, gemakkelijk schoon te maken: afneembaar deksel en een gladde binnenemmer zijn ontworpen voor efficiënt verwijderen, dumpen en spoelen.
+- Compostering eenvoudiger gemaakt: Onze compostcaddy dokt handig aan de zijkant van simplehuman liner velgbakken en moedigt u aan om organisch materiaal van algemeen afval te scheiden, waardoor afvalbeheer nog efficiënter wordt.
+- Houdt geuren binnen, ongedierte buiten: Soft-seal deksel laat organische stoffen ademen, houdt geuren zoals bananenschil onder controle en ongedierte zoals fruitvliegen.
 - voedselbereidingsvriendelijk: Compostcaddy kan gemakkelijk worden losgemaakt van het magnetische dock voor gebruik aan het aanrecht tijdens het bereiden en opruimen van voedsel.
+- niet magisch, magnetisch: magnetisch dockingsysteem zet niet alleen de caddy stevig op zijn plaats, het houdt ook het deksel open voor gemakkelijk schrapen en afpellen.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08S2P53GD{{</world>}}

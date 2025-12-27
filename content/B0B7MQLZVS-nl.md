@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- L’Oréal Paris Elvive Dream Lengths 8 Seconden Wonder Water - Lang, Beschadigd Haar - Maakt het haar tot wel 10x zachter - Geeft het haar een schitterende glans - 200ml
-- Silliconenvrije vloeibare formule
 - Geeft het haar een schitterende glans
 - Maakt het haar tot wel 10x zachter
+- Silliconenvrije vloeibare formule
 - vloeibare formule
+- L’Oréal Paris Elvive Dream Lengths 8 Seconden Wonder Water - Lang, Beschadigd Haar - Maakt het haar tot wel 10x zachter - Geeft het haar een schitterende glans - 200ml
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0B7MQLZVS{{</world>}}

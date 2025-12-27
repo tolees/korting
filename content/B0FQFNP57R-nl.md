@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Zoals alle hoesjes van Apple is ook dit model duizenden uren getest, zowel in de ontwerpfase als tijdens het fabricageproces. Het ziet er daarom niet alleen fantastisch uit, maar beschermt je iPhone ook tegen krassen en vallen.
-- Dankzij de ingebouwde magneten die perfect matchen met iPhone Air is koppelen een kwestie van klikken en gaat draadloos opladen nog sneller. Als het tijd is om op te laden, laat je het hoesje gewoon om je iPhone zitten en klik je je MagSafe-oplader eraan vast. Je kunt je iPhone ook op je Qi2.2- of Qi‑oplader leggen.
 - Het dunne en lichte iPhone Air-hoesje met MagSafe is zo geoptimaliseerd dat je iPhone goed beschermd blijft tegen krassen en vallen. Dit hoesje werkt moeiteloos met de Cameraregelaar, zodat je op de gebruikelijke manier kunt klikken en slepen. Dankzij de twee aansluitpunten is het hoesje stevig vast te maken aan het crossbody­koord, zodat je je iPhone makkelijk handsfree kunt dragen.
+- Dankzij de ingebouwde magneten die perfect matchen met iPhone Air is koppelen een kwestie van klikken en gaat draadloos opladen nog sneller. Als het tijd is om op te laden, laat je het hoesje gewoon om je iPhone zitten en klik je je MagSafe-oplader eraan vast. Je kunt je iPhone ook op je Qi2.2- of Qi‑oplader leggen.
+- Zoals alle hoesjes van Apple is ook dit model duizenden uren getest, zowel in de ontwerpfase als tijdens het fabricageproces. Het ziet er daarom niet alleen fantastisch uit, maar beschermt je iPhone ook tegen krassen en vallen.
 - Dit ultradunne doorzichtige hoesje is speciaal gemaakt voor de opmerkelijk dunne iPhone Air. De achterkant is maar 0,9 mm dun en versterkt met een frame van polycarbonaat. De binnenkant heeft een licht matte afwerking, terwijl de buitenkant een glanzende look heeft. Door het nieuwe design voelen knoppen heel prettig, precies en responsief aan.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - 【NVME & SATA】De M2 SSD-behuizing is compatibel met M.2 SSDs van NVMe- en SATA-protocollen. Het ondersteunt tegelijkertijd M.2 PCIe NVME SSDs van M-Key of B+M Key en M.2 SATA SSDs van M+B Key 2280/2260/2242/2230. Deze behuizing ondersteunt harde schijven met een grote capaciteit van 8 TB.
+- 【20 Gbps bliksemsnelle overdracht】Deze NVME SATA-behuizing kan worden aangesloten op zowel NVME als SATA harde schijven. Overdrachtssnelheden tot 20 Gbps kunnen alleen worden bereikt als de computerinterface voldoet aan de USB C 3.2 Gen 2x2 standaard.
 - 【Uitstekende warmteafvoer】 Het koelkussen dat in de M.2 SSD-behuizing is geïntegreerd, helpt de schijf om warmte beter af te voeren en de schijf effectiever te beschermen. Daarnaast helpt de hoogwaardige aluminium behuizing om de warmteoverdracht te versnellen en de warmte af te voeren. Dit zorgt voor een snelle gegevensoverdracht gedurende lange perioden.
 - 【UASP- en TRIM-ondersteuning】De M.2-behuizing ondersteunt het UASP- en TRIM-protocol, wat de snelle lees- en schrijfsnelheid ten goede komt. De “Auto Sleep” functie biedt bescherming voor de schijf, waardoor je harde schijf zuinig en duurzaam is.
-- 【20 Gbps bliksemsnelle overdracht】Deze NVME SATA-behuizing kan worden aangesloten op zowel NVME als SATA harde schijven. Overdrachtssnelheden tot 20 Gbps kunnen alleen worden bereikt als de computerinterface voldoet aan de USB C 3.2 Gen 2x2 standaard.
 - 【RGB-verlichting】Deze 20 Gbps M.2 NVMe SATA-behuizing is uitgerust met een RGB-lichtstrip. Wanneer de behuizing gegevens overdraagt, wordt het kleurverloop van het RGB-licht automatisch gegenereerd, wat zorgt voor een coole visuele ervaring.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

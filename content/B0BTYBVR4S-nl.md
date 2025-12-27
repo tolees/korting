@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LANGE SPEELDUUR EN SNEL OPLADEN: tot 9 uur afspeeltijd met één acculading, te verlengen naar 28 uur met het oplaaddoosje. Laad de draadloze soundcore A20i-oordopjes 10 minuten op voor 2 uur extra speeltijd, zodat je onderweg kunt opladen.
-- AANGEPAST GELUID: kies uit 22 EQ-presets in de soundcore-app en pas de bedieningselementen aan. Gebruik de kenmerkende BassUp-presets van soundcore om je bas te versterken.
-- LICHTGEWICHT EN COMFORTABEL: geniet van urenlang luisterplezier en uitzonderlijk comfort dankzij het ergonomische en lichtgewicht ontwerp van de draadloze A20i-oordopjes.
 - ONTWORPEN VOOR DRAAGBAARHEID: de draadloze soundcore A20i-oordopjes zijn klein, licht en hebben een compact doosje. Ze worden ook geleverd met een draagkoord, zodat je je geen zorgen hoeft te maken over de opbergruimte in je tas of broekzak.
+- LICHTGEWICHT EN COMFORTABEL: geniet van urenlang luisterplezier en uitzonderlijk comfort dankzij het ergonomische en lichtgewicht ontwerp van de draadloze A20i-oordopjes.
+- LANGE SPEELDUUR EN SNEL OPLADEN: tot 9 uur afspeeltijd met één acculading, te verlengen naar 28 uur met het oplaaddoosje. Laad de draadloze soundcore A20i-oordopjes 10 minuten op voor 2 uur extra speeltijd, zodat je onderweg kunt opladen.
 - MET AI VERBETERDE TELEFOONGESPREKKEN: een AI-algoritme en 2 ingebouwde microfoons zorgen ervoor dat je stem altijd duidelijk wordt gehoord tijdens gesprekken, hoe lawaaierig je omgeving ook is.
+- AANGEPAST GELUID: kies uit 22 EQ-presets in de soundcore-app en pas de bedieningselementen aan. Gebruik de kenmerkende BassUp-presets van soundcore om je bas te versterken.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BTYBVR4S{{</world>}}

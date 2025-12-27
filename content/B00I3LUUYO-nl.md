@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Inhoud: Sony MDREX110APW.CE7 in-ear hoofdtelefoon wit connectiviteit: spreiding
 - Grote verscheidenheid aan kleuren die bij uw stijl passen
+- Inhoud: Sony MDREX110APW.CE7 in-ear hoofdtelefoon wit connectiviteit: spreiding
 - Neodymiummembranen van 9 mm voor dynamisch geluid
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Laarzen van het merk Columbia
 - Duurzame design zorgt voor lang gebruik
 - Geschikt voor: koud weer
+- Laarzen van het merk Columbia
 - Stevig en comfortabel design voor soepele bewegingen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Een geur voor de moderne man die zich op zijn gemak voelt met zichzelf en zijn wereld
-- Dit klassieke parfum is perfect in harmonie met de moderne man
-- Eternity for Men is zowel gevoelig als mannelijk, krachtig en toch verfijnd
-- Eternity for Men heeft een basis van mandarijn, salie en een vleugje lavendel
 - Gemaakt voor de romantische man die is toegewijd aan zijn gezin, werk, gezondheid en geluk
+- Een geur voor de moderne man die zich op zijn gemak voelt met zichzelf en zijn wereld
+- Eternity for Men is zowel gevoelig als mannelijk, krachtig en toch verfijnd
+- Dit klassieke parfum is perfect in harmonie met de moderne man
+- Eternity for Men heeft een basis van mandarijn, salie en een vleugje lavendel
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B000C1VTJS{{</world>}}

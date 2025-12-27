@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Aanbevolen extrusie-/mondstuktemperatuur 190 ¡ÃC - 220 ¡ÃC (374 ¡ãf - 428 ¡ãf)
-- Jamvrij: speciaal ontworpen om storingen in de spuitmond te verminderen
 - 1 kg (2,2 lbs) /spoel. Spoeldiameter* Breedte 20* 5,7 cm (8* 2,2 inch). Diameter van het spoolnaafgat: 3,15"
+- Aanbevolen extrusie-/mondstuktemperatuur 190 ¡ÃC - 220 ¡ÃC (374 ¡ãf - 428 ¡ãf)
 - 1,75 mm filamentdiameter (maatnauwkeurigheid +/- 0,06 mm).
+- Jamvrij: speciaal ontworpen om storingen in de spuitmond te verminderen
 - PLA (polymelkzuur) 3D-printerfilament gevacumeerd verzegeld met droogmiddel.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
