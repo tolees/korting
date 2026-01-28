@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Garnier Skin Active Face Micellair - 6 x 100 ml - Micellair water'
-date: 2026-01-25 07:49:36
+date: 2026-01-28 04:22:14
 image: 'https://m.media-amazon.com/images/I/413TL4MEbIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: 'Garnier'
 buyurl: 'https://www.amazon.nl/dp/B0FP33F6SV/?tag=tolees0b-21'
 descuento: '40.02'
-average: '9.2'
+average: '9.41'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

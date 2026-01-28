@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Voer een geweldige Monster Jam-show op met het 2-pack. Elke set wordt geleverd met 2 iconische Monster Jam-monstertrucks, waaronder Grave Digger vs. Higher Education, Bulldozer vs. Racing Stripes e.a.
 - Speel je eigen epische Monster Jam-confrontaties met het metalen 2-pack op een schaal van 1:64. Elk 2-pack bevat de populairste en meest begeerde trucks, klaar om te beginnen
 - Voeg alle 2-pack combinaties toe aan je collectie (elk elk afzonderlijk verkrijgbaar) en beuk je een weg naar de overwinning. Dit speelgoed is het perfecte cadeau voor kinderen vanaf 3 jaar
+- Voer een geweldige Monster Jam-show op met het 2-pack. Elke set wordt geleverd met 2 iconische Monster Jam-monstertrucks, waaronder Grave Digger vs. Higher Education, Bulldozer vs. Racing Stripes e.a.
 - Inhoud: 2 Monster Jam-monstertrucks, schaal 1:64
 - Elke metalen Monster Jam-monstertruck van 1:64 heeft realistische details en levensechte graphics, officiële BKT-banden en een gestyled chassis waardoor het lijkt alsof je een echt exemplaar vasthoudt
 

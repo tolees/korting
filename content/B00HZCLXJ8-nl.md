@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CAMPER 80353-009 Sneaker jongens 25 EU'
-date: 2026-01-26 18:08:48
+date: 2026-01-28 18:32:37
 image: 'https://m.media-amazon.com/images/I/31xQy90QOoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Klittenbandsluitsysteem voor eenvoudige pasvorm
+- Bovenwerk: Kalfsleer / Technische stof
 - Buitenzool/Kenmerken: Gestikte rubberen buitenzool voor duurzaamheid en goede grip
 - Kleur: Zwart
-- Bovenwerk: Kalfsleer / Technische stof
+- Klittenbandsluitsysteem voor eenvoudige pasvorm
 - Voering: 64% Stof (60% Nylon - 40% PU) 36% Stof (100% Gerecycled PET)
 
 [🛒 Buy it now!!]({{< param buyurl >}})

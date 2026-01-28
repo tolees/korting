@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Majosta - Nivea: Taccuino A5 | Nome personalizzato Nivea | Regalo di compleanno per moglie mamma sorella figlia | Ragazza carina con orsacchiotto | 120 pagine a righe piccolo formato A5 14.8 x 21 cm'
-date: 2026-01-24 18:22:06
+date: 2026-01-28 04:57:38
 image: 'https://m.media-amazon.com/images/I/41t19epFqPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

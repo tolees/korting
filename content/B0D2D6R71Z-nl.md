@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Spoelparameters Spoeldiameter: 19,9 cm. Spoelbreedte: 6,50 cm. Diameter spoelopening: 5,31 cm. De afmeting van de Flashforge-filamentspoel is geschikt voor de meeste 3D-printers
 - Printtips Mondstuk: 190-210˚ C. Bed: 50-55˚ C. Snelheid: < 250 mm/s.
-- Klompvrij en zonder luchtbellen. Het Flashforge filament is vervaardigd met klompvrije en luchtbelvrije technologie en belooft een soepele en stabiele afdruk. Gedurende 24 uur volledig gedroogd voor verpakking en vacuüm verzegeld met droogmiddelen in een PC-zak.
-- Dimensionale nauwkeurigheid en nette wikkeling. De +/- 0,02mm dimensionale nauwkeurigheid en nette wikkeling bieden garantie voor succesvol 3D-printen
+- Spoelparameters Spoeldiameter: 19,9 cm. Spoelbreedte: 6,50 cm. Diameter spoelopening: 5,31 cm. De afmeting van de Flashforge-filamentspoel is geschikt voor de meeste 3D-printers
 - Veilig afdrukken. PLA-filament wordt gewonnen uit maïszetmeel, dat geurloos en onschadelijk is voor gebruikt in een schoolklas of in een gezinssituatie thuis.
+- Dimensionale nauwkeurigheid en nette wikkeling. De +/- 0,02mm dimensionale nauwkeurigheid en nette wikkeling bieden garantie voor succesvol 3D-printen
+- Klompvrij en zonder luchtbellen. Het Flashforge filament is vervaardigd met klompvrije en luchtbelvrije technologie en belooft een soepele en stabiele afdruk. Gedurende 24 uur volledig gedroogd voor verpakking en vacuüm verzegeld met droogmiddelen in een PC-zak.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0D2D6R71Z{{</world>}}

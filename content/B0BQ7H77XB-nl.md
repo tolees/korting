@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Een zachte geur van linnen voor langdurig fris ruikende oksels
-- De anti-bacteriële geurbestrijding gaat zweet en nare geurtjes tegen
-- De anti-transpirant biedt volledige bescherming om je op je best te voelen
 - De 1/4 hydraterende crème verzorgt de huid en beschermt tegen irritatie
+- De anti-transpirant biedt volledige bescherming om je op je best te voelen
+- De anti-bacteriële geurbestrijding gaat zweet en nare geurtjes tegen
 - Deze anti-transpirant biedt 72 uur lang krachtige bescherming tegen zweet
+- Een zachte geur van linnen voor langdurig fris ruikende oksels
 - Dove Men+Care Advanced Clean Comfort Anti-Transpirant Deodorant Spray
 
 [🛒 Check the deal!!]({{< param buyurl >}})

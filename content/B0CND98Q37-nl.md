@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PANDORA ME Steine & Emaille Ring aus Sterling Silber mit Cubik Zirkonia Größe: 58 193089C01-58'
-date: 2026-01-25 01:33:35
+date: 2026-01-28 04:59:38
 image: 'https://m.media-amazon.com/images/I/31y95mgrPcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

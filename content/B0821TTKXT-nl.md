@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Bovenmateriaal van stof met gelaste synthetische coating
+- OutDry, waterdichte en ademende constructie
 - Slijtvast Omni-Grip rubber voor goede grip
 - Lichte Techlite-tussenzool voor meer flexibiliteit en comfort
-- OutDry, waterdichte en ademende constructie
-- Bovenmateriaal van stof met gelaste synthetische coating
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0821TTKXT{{</world>}}

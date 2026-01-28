@@ -28,16 +28,16 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 【500g PLA PLUS 2.0 Filament】SUNLU PLA+2.0 wordt geleverd op een compacte spoel van 500g, de helft van een standaard 1kg spoel. Dit spoelloze 0.5kg filament is ideaal voor kleine printprojecten. Let op: deze filamentnavulling is niet compatibel met de SUNLU 2de herbruikbare spoel
-- 【Ondersteunt Snel Printen】SUNLU PLA+2.0 Filament maakt hogesnelheidsprinten mogelijk tot 300mm/s, waarbij het een premium kwaliteit behoudt dankzij een goede vloeibaarheid om uw project perfect af te ronden
-- 【SUNLU Filament Navulverpakking】4 rollen van 500g PLA plus 2.0 navulling, in totaal 2kg. Spoelgatdiameter: 82.5mm. Perfect voor herbruikbare filamentspoelen en compatibel met Bambu Lab AMS 3D-printers
-- 【Luchtdicht Verpakt & Zonder Bubbels】SUNLU 3D-printerfilament navullingen zijn allemaal luchtdicht verzegeld met een droogmiddel om vocht, stof en beschadiging buiten te houden. Geen bubbels, minder krimp en minder warping
-- 【Hoogwaardig PLA+2.0 Filament】SUNLU PLA filament heeft een nauwkeurige diameter van 1.75 mm en een hoge dimensionale nauwkeurigheid van +/-0.02 mm, met strikte controle over de draaddikte tolerantie
 - 【SUNLU Upgrade PLA+ Filament】SUNLU PLA+2.0 3D-printerfilament heeft een betere taaiheid en slagvastheid dan gewoon PLA+ filament, waardoor het geschikt is voor het printen van sterke functionele onderdelen
 - 【Aanbevolen Instellingen】Voor optimale printprestaties met SUNLU PLA+ 2.0 filament bevelen we een nozzletemperatuur van 205-220°C, een bedtemperatuur van 50-60°C en een printsnelheid van 100-300mm/s aan
-- 【Meerkleuren Pakketten】SUNLU PLA plus filament is verkrijgbaar in meerdere kleuren, werkt naadloos samen met Bambu Lab 3D-printers en is geschikt voor het printen van hoogwaardige modellen, functionele onderdelen en decoratieve items
 - Makkelijk te Installeren】Maak een afneembare spoel klaar: plaats de spoel door de orientatiepunten uit te lijnen en draai de spoel tot deze vergrendelt. Door spoelloos filament te gebruiken, worden miljoenen plastic spoelen bespaard
+- 【500g PLA PLUS 2.0 Filament】SUNLU PLA+2.0 wordt geleverd op een compacte spoel van 500g, de helft van een standaard 1kg spoel. Dit spoelloze 0.5kg filament is ideaal voor kleine printprojecten. Let op: deze filamentnavulling is niet compatibel met de SUNLU 2de herbruikbare spoel
+- 【Hoogwaardig PLA+2.0 Filament】SUNLU PLA filament heeft een nauwkeurige diameter van 1.75 mm en een hoge dimensionale nauwkeurigheid van +/-0.02 mm, met strikte controle over de draaddikte tolerantie
 - 【Netjes Opgewonden Filament】Dankzij de netjes opgewonden technologie vermindert SUNLU sterker PLA+ filament de kans op knopen en biedt het een stabiele en probleemloze printervaring. Het helpt breuk van de draad voorkomen
+- 【Luchtdicht Verpakt & Zonder Bubbels】SUNLU 3D-printerfilament navullingen zijn allemaal luchtdicht verzegeld met een droogmiddel om vocht, stof en beschadiging buiten te houden. Geen bubbels, minder krimp en minder warping
+- 【Ondersteunt Snel Printen】SUNLU PLA+2.0 Filament maakt hogesnelheidsprinten mogelijk tot 300mm/s, waarbij het een premium kwaliteit behoudt dankzij een goede vloeibaarheid om uw project perfect af te ronden
+- 【Meerkleuren Pakketten】SUNLU PLA plus filament is verkrijgbaar in meerdere kleuren, werkt naadloos samen met Bambu Lab 3D-printers en is geschikt voor het printen van hoogwaardige modellen, functionele onderdelen en decoratieve items
+- 【SUNLU Filament Navulverpakking】4 rollen van 500g PLA plus 2.0 navulling, in totaal 2kg. Spoelgatdiameter: 82.5mm. Perfect voor herbruikbare filamentspoelen en compatibel met Bambu Lab AMS 3D-printers
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FH47RLV6{{</world>}}

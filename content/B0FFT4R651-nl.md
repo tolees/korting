@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Configureer hem eenvoudig met de Nighthawk-app of druk op de WPS-knop om verbinding te maken met de router
-- Breid de afdekking uit met de NETGEAR WiFi Repeater tot 100 ㎡ en verbind meer dan 20 apparaten voor een stabiel en snel mesh-netwerk.
-- Sluit gewoon je pc, gameconsoles, streaming-speler of andere bekabelde apparaten aan op de 1 Gigabit Ethernet-aansluiting, voor maximale snelheid
 - Compatibel met alle routers en modemrouters, de krachtige wifi-repeater voor thuis is geoptimaliseerd voor WiFi 6-apparaten.
 - De AX3000 WiFi Extender biedt tot 3 Gbps voor naadloze 4K streaming, videogames en videogesprekken.
+- Configureer hem eenvoudig met de Nighthawk-app of druk op de WPS-knop om verbinding te maken met de router
+- Sluit gewoon je pc, gameconsoles, streaming-speler of andere bekabelde apparaten aan op de 1 Gigabit Ethernet-aansluiting, voor maximale snelheid
 - Sluit de wifi-versterker aan op het stopcontact en behoud de bestaande SSID-naam voor soepele verbindingen thuis of op kantoor.
+- Breid de afdekking uit met de NETGEAR WiFi Repeater tot 100 ㎡ en verbind meer dan 20 apparaten voor een stabiel en snel mesh-netwerk.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FFT4R651{{</world>}}

@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- GEMAAKT VOOR GEMAK – Magic Keyboard is ontworpen met twee scharnierpunten, zodat je je device traploos in de ideale kijkhoek kunt zetten. Dankzij de verlichte toetsen met schaarmechanisme en een rij van 10 functietoetsen ben je flexibeler dan ooit. De ingebouwde glazen trackpad geeft je voelbare feedback en ondersteunt Multi‑Touch-bewegingen en het gebruik van de cursor.
 - COMPATIBILITEIT – Magic Keyboard werkt met de 11‑inch iPad Pro (M4).
 - WAAROM MAGIC KEYBOARD VOOR IPAD – Het ongelofelijk dunne en handzame Magic Keyboard typt heel prettig en heeft een glazen trackpad met voelbare feedback. Daarnaast is het voorzien van een rij functietoetsen en een USB‑C-poort voor opladen. Je klikt het magnetisch vast aan je iPad, waardoor je die van voor tot achter beschermt. Zonder pairen of opladen.
 - TOETSENBORD ÉN BESCHERMING – Opvouwbaar om je device van voor tot achter te beschermen en overal mee naartoe te nemen. En voorzien van een USB‑C-poort om je iPad mee op te laden. Verkrijgbaar in zwart of wit.
-- GEMAAKT VOOR GEMAK – Magic Keyboard is ontworpen met twee scharnierpunten, zodat je je device traploos in de ideale kijkhoek kunt zetten. Dankzij de verlichte toetsen met schaarmechanisme en een rij van 10 functietoetsen ben je flexibeler dan ooit. De ingebouwde glazen trackpad geeft je voelbare feedback en ondersteunt Multi‑Touch-bewegingen en het gebruik van de cursor.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0D3J7V8Z2{{</world>}}

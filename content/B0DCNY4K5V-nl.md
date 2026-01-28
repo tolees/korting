@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple USB‑C-oplaadkabel 60 W 1 m '
-date: 2026-01-03 12:40:32
+date: 2026-01-28 04:21:28
 image: 'https://m.media-amazon.com/images/I/21BIB-6MewL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DCNY4K5V-nl Apple USB‑C-oplaadkabel 60 W 1 m'
 sku: 'B0DCNY4K5V-nl'
 tags: [ 'Accessories','Apple producten','Arborist Merchandising Root','Audiokabels','Elektronica','Hifi- & home audio-accessoires','Producten voor audio & home cinema','Self Service','Special Features Stores','Voedingskabels voor audio & video','apple','be0c145d-645e-47ab-b638-53e8112e3d67_0','be0c145d-645e-47ab-b638-53e8112e3d67_2801','🇳🇱', ]
-actualPrice: 18.76 EUR
+actualPrice: 11.99 EUR
 currency: EUR
-price: 18.76
+price: 11.99
 comparePrice: 25.0 EUR
 prodname: 'Apple USB‑C-oplaadkabel 60 W 1 m '
 country: 'nl'
 flag: '🇳🇱'
 brand: 'Apple'
 buyurl: 'https://www.amazon.nl/dp/B0DCNY4K5V/?tag=tolees0b-21'
-descuento: '24.96'
-average: '18.76'
+descuento: '52.04'
+average: '16.5033333333333'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Lichte elastische eigenschappen
-- ronde hals
 - Groot Nike-logo print
 - T-shirt voor opleiding of presentatie
+- ronde hals
+- Lichte elastische eigenschappen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08QW8NYQ9{{</world>}}

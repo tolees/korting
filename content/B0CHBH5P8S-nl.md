@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - OPTIMALE WIFI 6 SNELHEDEN - Optimale WiFi 6 snelheden tot 3 Gbps voor sneller browsen, streamen en downloaden, allemaal tegelijk.
-- ECO-VRIENDELIJKE STROOMBESPARING - Target Wake Time (TWT) vermindert het stroomverbruik voor je mobiele en IoT-apparaten tijdens gegevensoverdrachten
 - WiFi DAT GAAT VERDER - 4× multi-directionele high-gain antennes met beamforming stimuleren stabiele verbindingen door je hele huis voor sterke WiFi-signalen in elke hoek.
+- ECO-VRIENDELIJKE STROOMBESPARING - Target Wake Time (TWT) vermindert het stroomverbruik voor je mobiele en IoT-apparaten tijdens gegevensoverdrachten
 - OVERAL VEILIGHEIDSBEVEILIGING - De nieuwste WPA3 biedt verbeterde WiFi-beveiliging
 - MEER APPARATEN, MEER FUN - Ondersteunt MU-MIMO en OFDMA om congestie te verminderen en de gemiddelde doorvoer te verviervoudigen.
 

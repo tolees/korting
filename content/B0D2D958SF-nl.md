@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Ontspannen ogen, ook bij langere gamesessies door de Eye Saver-modus en de Flicker Free-technologie voor minder blauw licht en flikkeren van het scherm, ergonomisch dankzij hoogteverstelling
 - Realiteitsdicht als nooit tevoren: gaming monitor met Fast IPS-paneel met QHD-resolutie (2.560 x 1.440 pixels), brede kijkhoek van 178° en snelle actie met AMD FreeSync
-- Inhoud: 1 x Samsung Odyssey G50D QHD gaming monitor LS27DG500EUXEN, 27 inch, 1,5 m stroomkabel, 1 x DisplayPort-kabel, 1 x HDMI-kabel
 - Optimale weergave en zichtbaarheid, zelfs in donkere scènes: DisplayHDR 400 voor meer contrast met diepere zwarttinten en helder wit
+- Ontspannen ogen, ook bij langere gamesessies door de Eye Saver-modus en de Flicker Free-technologie voor minder blauw licht en flikkeren van het scherm, ergonomisch dankzij hoogteverstelling
 - Reacties in real-time dankzij 180 Hz vernieuwingsfrequentie en een responstijd van slechts 1 ms voor een vloeiende weergave van je games zonder schokken of vervorming
+- Inhoud: 1 x Samsung Odyssey G50D QHD gaming monitor LS27DG500EUXEN, 27 inch, 1,5 m stroomkabel, 1 x DisplayPort-kabel, 1 x HDMI-kabel
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0D2D958SF{{</world>}}

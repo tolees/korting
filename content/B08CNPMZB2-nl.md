@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Perfect cadeau voor DC IMPERIAL PALACE FANS - Ideaal voor feestdagen, verjaardagen of speciale gelegenheden en als cadeau is dit exclusieve beeldje een must-have aanvulling op elke DC Imperial Palace merchandise collectie
+- Toonaangevend merk voor popcultuur: Vertrouw op de expertise van Funko, de belangrijkste maker van popcultuurmerchandise met vinylfiguren, actiespeelgoed, pluche, kleding, bordspellen en meer.
 - Premium VINYL MATERIAAL - Gemaakt van hoogwaardig, duurzaam vinyl, dit verzamelobject is gebouwd om lang mee te gaan en dagelijks gebruik te weerstaan, waardoor zowel fans als verzamelaars langdurig plezier garanderen.
 - Ideale verzamelbare maat - Met een hoogte van ongeveer 9,5 cm past dit vinyl minibeeldje andere verzamelobjecten aan en past hij perfect in je vitrine of op je bureau.
-- Toonaangevend merk voor popcultuur: Vertrouw op de expertise van Funko, de belangrijkste maker van popcultuurmerchandise met vinylfiguren, actiespeelgoed, pluche, kleding, bordspellen en meer.
-- Perfect cadeau voor DC IMPERIAL PALACE FANS - Ideaal voor feestdagen, verjaardagen of speciale gelegenheden en als cadeau is dit exclusieve beeldje een must-have aanvulling op elke DC Imperial Palace merchandise collectie
 - Breid je collectie uit - Voeg dit unieke Batman vinyl displaystuk toe aan je groeiende assortiment Funko Pop! figuren, en zoek andere zeldzame en exclusieve verzamelobjecten voor een complete set
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 100% polyester MTR-filamentvlies 250 g
 - Binding aan de kraag voor een afgewerkte look
 - Half-snap-ontwerp voor veelzijdigheid en eenvoudig aan- en uittrekken
+- 100% polyester MTR-filamentvlies 250 g
 - Lengte middenrug 28,0 in/71,1 cm
 
 [🛒 Buy it now!!]({{< param buyurl >}})

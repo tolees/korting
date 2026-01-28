@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Zak met drukknopen aan de voorkant met logopatch, 2 zijzakken
+- Afmetingen 36 x 46 x 11,5 cm; Kleur blauw
 - met laptopvak; verstelbare, gewatteerde schouderbanden
 - officieel gelicentieerde Super Mario-rugzak
-- Afmetingen 36 x 46 x 11,5 cm; Kleur blauw
 - met kleine Super Mario Jump & Run-motieven
 
 [🛒 Check the deal!!]({{< param buyurl >}})

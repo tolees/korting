@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Leer dino-feiten: De meegeleverde kenniskaart biedt fascinerende informatie over de Triceratops en hun levenswijze. Een perfecte set voor kleine dino-fans die meer willen leren over de prehistorie.
-- Duurzaam en educatief: De PLAYMOBIL Triceratops set is gemaakt van meer dan 80% gerecycled en biobased materiaal. Perfect voor milieubewuste ontdekkingsreizigers die genieten van urenlang plezier en educatief spel!
-- Dino ei en onderzoeksapparatuur: Gebruik de handige tangen om de Triceratops te voeren of hun gedrag van dichtbij te bestuderen. Het dino ei en de opwindende accessoires bieden eindeloze mogelijkheden voor fantasierijk verhalen vertellen.
 - Ontdek de Triceratops familie: De PLAYMOBIL Triceratops set brengt de prehistorie tot leven! De beweegbare Triceratops en zijn baby zullen je zeker verbazen. Verken hun wereld met voertangen en accessoires.
+- Dino ei en onderzoeksapparatuur: Gebruik de handige tangen om de Triceratops te voeren of hun gedrag van dichtbij te bestuderen. Het dino ei en de opwindende accessoires bieden eindeloze mogelijkheden voor fantasierijk verhalen vertellen.
 - Ervaar dino-avonturen: De dino-onderzoeker begint aan een spannend avontuur met uitgebreide apparatuur om de Triceratops familie te bestuderen. Voer de dinosaurussen en bestudeer het zeldzame Triceratops ei!
+- Duurzaam en educatief: De PLAYMOBIL Triceratops set is gemaakt van meer dan 80% gerecycled en biobased materiaal. Perfect voor milieubewuste ontdekkingsreizigers die genieten van urenlang plezier en educatief spel!
+- Leer dino-feiten: De meegeleverde kenniskaart biedt fascinerende informatie over de Triceratops en hun levenswijze. Een perfecte set voor kleine dino-fans die meer willen leren over de prehistorie.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DQVPB7QT{{</world>}}

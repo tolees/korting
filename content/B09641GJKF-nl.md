@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kledingsstijl: informeel
 - Sandalen van het merk Columbia
+- Kledingsstijl: informeel
 - Licht & ademend design
 
 [🛒 Buy it now!!]({{< param buyurl >}})

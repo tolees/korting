@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Artikel van het merk CAMPER
 - De sluiting van dit artikel is VETERS
+- Artikel van het merk CAMPER
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07NZCRQ16{{</world>}}

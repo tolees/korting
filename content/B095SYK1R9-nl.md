@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link RE500X WiFi 6 WiFi Versterker WLAN Repeater AX1500 Dual band 1200MBit/s 5GHz en 300MBit/s 2 4GHz Tri-Core 1 5 GHz CPU Gigabit Port compatibel met alle WLAN Router'
-date: 2026-01-24 11:35:16
+date: 2026-01-28 20:07:01
 image: 'https://m.media-amazon.com/images/I/216ZZZ1BcxS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.nl/dp/B095SYK1R9/?tag=tolees0b-21'
 descuento: '45.42'
-average: '49.6944117647056'
+average: '49.3563888888887'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Gigabit LAN-poort voor integratie van bekabelde netwerkapparaten zoals spelconsoles, smart-tvs in een wifi
 - Tot 1200 Mbit/s op 5 GHz en 300 Mbit/s op 2,4 GHz, ideaal voor alle bandbreedte-intensieve toepassingen.
-- Wi-Fi 6 voor ultrasone wifi-snelheden, hogere capaciteit en minder netwerkoverbelasting.
 - Inhoud: WLAN-repeater RE500X, snelle installatiehandleiding
-- Compatibel met alle gangbare WLAN-routers
-- Access Point modus voor eenvoudige uitbreiding van het bekabelde netwerk.
 - Intelligent signaallicht helpt de beste locatie voor een optimale wifi-dekking te bepalen
+- Compatibel met alle gangbare WLAN-routers
+- Gigabit LAN-poort voor integratie van bekabelde netwerkapparaten zoals spelconsoles, smart-tvs in een wifi
+- Wi-Fi 6 voor ultrasone wifi-snelheden, hogere capaciteit en minder netwerkoverbelasting.
+- Access Point modus voor eenvoudige uitbreiding van het bekabelde netwerk.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B095SYK1R9{{</world>}}

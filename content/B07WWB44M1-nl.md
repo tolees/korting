@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Strange Things Beyond The Sunny Side'
-date: 2026-01-25 21:30:09
+date: 2026-01-28 04:57:17
 image: 'https://m.media-amazon.com/images/I/41HfcOMUVuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: ''
 buyurl: 'https://www.amazon.nl/dp/B07WWB44M1/?tag=tolees0b-21'
 descuento: '22.12'
-average: '14.9911111111112'
+average: '14.9672727272728'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

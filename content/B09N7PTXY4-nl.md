@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Sluiting: rubber
 - M
-- Bovenmateriaal: suède
-- Hakvorm: plat
 - Binnenmateriaal: synthetisch
+- Hakvorm: plat
+- Sluiting: rubber
+- Bovenmateriaal: suède
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09N7PTXY4{{</world>}}

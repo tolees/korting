@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple USB‑C-naar-Lightning-kabel 2 m '
-date: 2026-01-23 18:21:04
+date: 2026-01-28 04:15:33
 image: 'https://m.media-amazon.com/images/I/31dQNjJ24jL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: 'Apple'
 buyurl: 'https://www.amazon.nl/dp/B0D7MPZD9F/?tag=tolees0b-21'
 descuento: '30.57'
-average: '20.6329166666665'
+average: '20.9149999999998'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - En het opladen van bepaalde iPhone‑ en iPad-modellen gaat er zelfs extra snel mee.
-- Sluit je iPhone, iPad of iPod met Lightning-connector aan op de USB‑C-poort of Thunderbolt 3-poort (USB‑C) van je Mac om je device op te laden en te synchroniseren, of op je iPad met USB-C om op te laden.
 - Je kunt deze kabel ook gebruiken met je Apple USB‑C-lichtnetadapter van 18 W, 20 W, 29 W, 30 W, 61 W, 87 W of 96 W om je iOS-device op te laden.
+- Sluit je iPhone, iPad of iPod met Lightning-connector aan op de USB‑C-poort of Thunderbolt 3-poort (USB‑C) van je Mac om je device op te laden en te synchroniseren, of op je iPad met USB-C om op te laden.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0D7MPZD9F{{</world>}}

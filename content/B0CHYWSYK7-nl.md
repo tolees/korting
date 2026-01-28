@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Deze adapter maakt verbinding met de meeste autos, vooral autos die met CarPlay werken. U kunt ook rechtstreeks een USB-kabel van uw auto aansluiten op de USB-C-aansluiting van uw iPhone.
 - Sluit het USB-C-uiteinde van de adapter aan op de USB-C-aansluiting van je iPhone of iPad en sluit vervolgens je Lightning-accessoire aan.
+- Deze adapter maakt verbinding met de meeste autos, vooral autos die met CarPlay werken. U kunt ook rechtstreeks een USB-kabel van uw auto aansluiten op de USB-C-aansluiting van uw iPhone.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CHYWSYK7{{</world>}}

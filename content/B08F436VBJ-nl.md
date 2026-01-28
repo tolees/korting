@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 3,5 mm stereo headsetaansluiting
-- Dubbele trilmotoren
-- Rood ontwerp met zacht aanvoelende afwerking
-- Afneembare USB-kabel van 3 m
 - Officieel gelicentieerd voor Xbox One
+- Afneembare USB-kabel van 3 m
 - 2 jaar beperkte garantie
+- Rood ontwerp met zacht aanvoelende afwerking
+- Dubbele trilmotoren
+- 3,5 mm stereo headsetaansluiting
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08F436VBJ{{</world>}}

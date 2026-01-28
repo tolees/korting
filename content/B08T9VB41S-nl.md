@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- normale snit
 - fleece binnenvoering
 - Met trekkoord kun je je afdekking aanpassen.
-- Fleecestof voelt zacht en warm.
 - Kangoeroezak aan de voorkant
+- Fleecestof voelt zacht en warm.
+- normale snit
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08T9VB41S{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PANDORA ME Pavé & Weiß Doppelring aus Sterling Silber mit klaren Cubic Zirkonia Steinchen in der Größe 52 192528C02-52'
-date: 2026-01-16 05:22:44
+date: 2026-01-28 04:59:21
 image: 'https://m.media-amazon.com/images/I/31P82zUpkbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: 'PANDORA'
 buyurl: 'https://www.amazon.nl/dp/B0BZ4ZGDQT/?tag=tolees0b-21'
 descuento: '35.90'
-average: '35.5'
+average: '32.0'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:

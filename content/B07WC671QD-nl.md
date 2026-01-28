@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Park20 regenjas
 - 100% polyester
-- Gemaakt in Cambodja
+- Park20 regenjas
 - jas
+- Gemaakt in Cambodja
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07WC671QD{{</world>}}

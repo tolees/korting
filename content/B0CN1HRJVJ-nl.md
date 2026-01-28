@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- De bloemige geur van de Scent Experience na pioenroos en lychee hult je in een lieflijke, zachte geurwolk en betovert met zijn romantische geurnoten
-- De Jean&Len Scent Experience Peony & Lychee is een klein parfum, dat dankzij de praktische afmetingen ideaal is voor onderweg – met liefde in Europa gemaakt
 - Inhoud van de levering: 1 x 10 ml Jean&Len Scent Experience Peony & Lychee Eau de Toilette met pioenroos en lychee-geur, praktisch mini-parfum, ideaal voor onderweg, uniseks, hoogwaardige glazen flacon
-- Onze Scent Experience bevindt zich in een hoogwaardige, smalle glazen flacon en heeft een praktische pompsproeier voor de ideale pompdosering – het parfum is ook ideaal om cadeau te geven
 - Zonder Gedøns: Gedøns zijn voor ons ingrediënten, waar oprichter Len persoonlijk graag van afziet: de parfumspray is vegan
+- Onze Scent Experience bevindt zich in een hoogwaardige, smalle glazen flacon en heeft een praktische pompsproeier voor de ideale pompdosering – het parfum is ook ideaal om cadeau te geven
+- De Jean&Len Scent Experience Peony & Lychee is een klein parfum, dat dankzij de praktische afmetingen ideaal is voor onderweg – met liefde in Europa gemaakt
+- De bloemige geur van de Scent Experience na pioenroos en lychee hult je in een lieflijke, zachte geurwolk en betovert met zijn romantische geurnoten
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CN1HRJVJ{{</world>}}

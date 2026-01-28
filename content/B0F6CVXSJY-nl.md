@@ -30,8 +30,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Verzacht onmiddelijk een jeukerig huidgevoel
 - 72 uur* Hydratatie
-- Snel absorberend & niet-vettige textuur
 - Versterkt de huid barrière en voorkomt vochtverlies
+- Snel absorberend & niet-vettige textuur
 - Verbeterde formule met 10% Glycerine complex en provitamine B5 + Niacinamide.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

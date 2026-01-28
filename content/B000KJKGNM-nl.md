@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Referentie: 1289.
 - APLI – doos met 100 vellen etiketten, wit, ILC 105 x 481289 – APLI
 - Merk: Apli
-- Referentie: 1289.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B000KJKGNM{{</world>}}

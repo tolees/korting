@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Verrijkt met hyaluronzuur en fibroxyl
-- Geeft de huid aanzienlijk meer volume en stevigheid
-- Geschikt voor vrouwen vanaf 35 jaar, extra geschikt voor de rijpere huid
 - Vermindert zichtbaar rimpels, lijntjes en kraaienpootjes
+- Geschikt voor vrouwen vanaf 35 jaar, extra geschikt voor de rijpere huid
+- Geeft de huid aanzienlijk meer volume en stevigheid
+- Verrijkt met hyaluronzuur en fibroxyl
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07R85SX6C{{</world>}}

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- EXZACT Hoogwaardige keukenweegschaal van roestvrij staal, productafmetingen: 19,5 x 17,8 x 3,8 cm.
 - Capaciteit: 5 kg; gewichtsaanduiding: gramm; standen: 1 gram, met 2 te wisselen modellen van gram en lb.
+- Groot lcd-display: 5,8 cm x 2,7 cm, met "nul" of "leeggewicht" functie wegen van meerdere ingrediënten zonder de vorige inhoud te verwijderen; automatische instelfunctie na 1 minuut, meet het gewicht van droge ingrediënten en volume voor vloeistoffen (water en melk).
 - Afneembare grote mengkom van roestvrij staal: diameter 21 cm/hoogte 10 cm, met gemakkelijk afwasbare behuizing van roestvrij staal.
 - Indicatie voor laag batterijniveau en overbelasting, werkt op 2 x AAA-batterijen (niet inbegrepen)
-- EXZACT Hoogwaardige keukenweegschaal van roestvrij staal, productafmetingen: 19,5 x 17,8 x 3,8 cm.
-- Groot lcd-display: 5,8 cm x 2,7 cm, met "nul" of "leeggewicht" functie wegen van meerdere ingrediënten zonder de vorige inhoud te verwijderen; automatische instelfunctie na 1 minuut, meet het gewicht van droge ingrediënten en volume voor vloeistoffen (water en melk).
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B00Z7VLGL4{{</world>}}

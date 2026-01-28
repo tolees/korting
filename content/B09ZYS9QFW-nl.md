@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 🚿 AROMATHERAPY VOOR DE DOUCHE: Geurbeleving & wellnessgevoel tijdens het douchen - de perfecte time-out na een stressvolle dag - douchetabletten zorgen voor ontspanning voor lichaam en geest
-- 😍 INHOUD - EEN FIJNE SELECTIE VAN ONZE VERSPREIDINGEN - 6 PAKKETTEN: 1x limoen-munt voor totale verfrissing, 1x spar voor totale ontspanning, 1x sinaasappel voor volle energie, 1x roos voor goed humeur, 1x lavendel voor volledige ontspanning, 1x eucalyptus voor volledige frisheid
-- 🇦🇹 KWALITEITSPRODUCT GEMAAKT IN EUROPA: Oostenrijk als kwaliteitslocatie ligt ons na aan het hart - onze producten worden uitsluitend volgens onze eigen receptuur geproduceerd
 - 🏆 GEKEND VAN 2MINUTES2MILLIONS: De wellness-innovatie van de Oostenrijkse start-up show - Bekroond met de Duitse innovatieprijs in goud - Het kwaliteitsmerk WALTZ 7 uit Oostenrijk
+- 🇦🇹 KWALITEITSPRODUCT GEMAAKT IN EUROPA: Oostenrijk als kwaliteitslocatie ligt ons na aan het hart - onze producten worden uitsluitend volgens onze eigen receptuur geproduceerd
+- 😍 INHOUD - EEN FIJNE SELECTIE VAN ONZE VERSPREIDINGEN - 6 PAKKETTEN: 1x limoen-munt voor totale verfrissing, 1x spar voor totale ontspanning, 1x sinaasappel voor volle energie, 1x roos voor goed humeur, 1x lavendel voor volledige ontspanning, 1x eucalyptus voor volledige frisheid
+- 🚿 AROMATHERAPY VOOR DE DOUCHE: Geurbeleving & wellnessgevoel tijdens het douchen - de perfecte time-out na een stressvolle dag - douchetabletten zorgen voor ontspanning voor lichaam en geest
 - 🌱 Natuurlijk geurwonder: Hoogwaardige geuren & natuurlijke essentiële oliën uit Duitsland - volledig zonder microplastics en natuurlijk veganistisch - het alternatief voor badballen en badzout
 
 [🛒 Check the deal!!]({{< param buyurl >}})

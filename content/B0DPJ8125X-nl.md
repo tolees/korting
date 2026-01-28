@@ -28,14 +28,14 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- LAADT VEILIG OP DOOR HOESJES HEEN: Magnetische lader die voldoet aan de strenge Belkin SmartProtect-veiligheidsnormen en grondig is getest. Je telefoon wordt ook veilig opgeladen wanneer hij in een MagSafe-compatible hoesje van maximaal 3 mm zit.
 - VEILIG EN DUURZAAM GEMAAKT: Ons BoostCharge laadstation heeft een brandwerende behuizing en is getest om te beschermen tegen overspanning, overstroom, oververhitting, kortsluiting en overladen.
+- 40W-VOEDINGSADAPTER: Deze lader wordt geleverd met een 40W-voedingsadapter, die al is aangesloten op de DC-connector van de kabel van 1,5 m, zodat je direct na het uitpakken kunt beginnen met opladen zonder dat je extra aankopen hoeft te doen.
 - GELIJKTIJDIG OPLADEN: Laad je iPhone, Apple Watch en AirPods gelijktijdig draadloos op zodat je snel klaar bent voor je volgende avontuur. Je AirPods laad je op via het 5 W Qi-laadoppervlak. Een ledlampje geeft de laadstatus weer.
+- LAADT VEILIG OP DOOR HOESJES HEEN: Magnetische lader die voldoet aan de strenge Belkin SmartProtect-veiligheidsnormen en grondig is getest. Je telefoon wordt ook veilig opgeladen wanneer hij in een MagSafe-compatible hoesje van maximaal 3 mm zit.
+- SNEL OPLADEN MET DE NIEUWSTE Qi2-TECHNOLOGIE: Plaats je iPhone of Qi2-compatible apparaat op de magnetische lader om je apparaat snel op te laden, tot 15 W. Met Qi2 kun je twee keer zo snel draadloos opladen* en hoef je minder lang te wachten!
 - DUURZAAM GEMAAKT + 2 JAAR GARANTIE: De behuizing van dit BoostCharge-laadstation is verantwoord gemaakt met gerecycled materiaal. De verpakking is 100% plasticvrij.** Twee jaar garantie en aangesloten-apparatuurgarantie tot € 2.000 bieden zekerheid.
 - STANDBY-READY: 3-In-1 magnetische draadloze iPhone oplader die de StandBy-modus ondersteunt voor slim gebruik van je iPhone tijdens het opladen. Zo kun je bijvoorbeeld de tijd aflezen op je werk of in je slaapkamer en meer.
 - LAADT JE APPLE WATCH SNEL OP: Onze geüpgradede 5W-laadmodule voor je horloge laadt een Apple Watch Series 10, 9, 8 of 7 of een Apple Watch Ultra of Ultra 2 snel op. Je apparaat wordt sneller en efficiënter opgeladen.
-- SNEL OPLADEN MET DE NIEUWSTE Qi2-TECHNOLOGIE: Plaats je iPhone of Qi2-compatible apparaat op de magnetische lader om je apparaat snel op te laden, tot 15 W. Met Qi2 kun je twee keer zo snel draadloos opladen* en hoef je minder lang te wachten!
-- 40W-VOEDINGSADAPTER: Deze lader wordt geleverd met een 40W-voedingsadapter, die al is aangesloten op de DC-connector van de kabel van 1,5 m, zodat je direct na het uitpakken kunt beginnen met opladen zonder dat je extra aankopen hoeft te doen.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DPJ8125X{{</world>}}

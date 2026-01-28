@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Alarm: de watersensor waarschuwt via SmartThings app en kan in slimme acties worden geïntegreerd. Laat de lampen knipperen, of schakel sirene in.
-- Eenvoudig in gebruik: plaats de watermelder eenvoudig op de vloer, bijvoorbeeld in de keuken, badkamer of kelder.
 - Zigbee standaard: de sensor werkt met de Zigbee draadloze standaard. Een Zigbee-hub of gateway, zoals de SmartThings Hub is vereist.
+- Alarm: de watersensor waarschuwt via SmartThings app en kan in slimme acties worden geïntegreerd. Laat de lampen knipperen, of schakel sirene in.
 - Alarm in realtime: de watermelder is op zijn onder- en bovenkant uitgerust met twee contactpunten, die bij contact met water in real-time een alarm via Zigbee radio naar de SmartThings hub stuurt tijdens contact met water.
 - Voorkom dure waterschade: de SmartThings watermelder detecteert vroegtijdig lekkend water en bewaakt de omgevingstemperatuur
+- Eenvoudig in gebruik: plaats de watermelder eenvoudig op de vloer, bijvoorbeeld in de keuken, badkamer of kelder.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08RGD1W4W{{</world>}}

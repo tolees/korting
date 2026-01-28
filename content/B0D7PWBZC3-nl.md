@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - 40 nieuwe en leuke nummers voor iedereen
-- Doe het hele jaar door mee aan seizoensgebonden thema-evenementen met nieuwe en spannende nummers
 - Één platform met alle content
 - Workout-modus voor fitnessfanaten
+- Doe het hele jaar door mee aan seizoensgebonden thema-evenementen met nieuwe en spannende nummers
 - Makkelijk of intens, kies je uitdaging
 
 [🛒 Buy it!!]({{< param buyurl >}})

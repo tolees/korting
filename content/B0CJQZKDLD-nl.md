@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Zonder luchtontwerp: De thermoborstel is een verwarmde ronde borstel voor het steilen en stylen van het haar. Creëer sensationeel volume met ons luchtloze verwarmde stylingapparaat.
 - Eén tool, meerdere stijlen: Combineert een krultang en een kam, en is daarmee multifunctioneel. Krul, stijl en kam je haar met slechts één haarstylingapparaat en creëer een volledig aanpasbare stylingervaring. De borstel glijdt moeiteloos door het haar zonder te trekken en is zacht voor de hoofdhuid.
-- K&K Ionische Hete Krulborstel: Deze borstel beschikt over een krachtige ionengenerator om statische elektriciteit te elimineren en pluizig haar te temmen. De roségouden titanium cilinder in 3 maten met nylon borstelharen is ideaal voor het creëren van zachte, zijdezachte krullen.
+- Zonder luchtontwerp: De thermoborstel is een verwarmde ronde borstel voor het steilen en stylen van het haar. Creëer sensationeel volume met ons luchtloze verwarmde stylingapparaat.
 - Dubbele spanning voor op reis: 100 V–240 V dubbele spanning. Past zich automatisch aan de juiste spanning aan met een compatibele adapter. Het 360 graden draaibare snoer is tot 2,5 meter lang. Snel en efficiënt stylen voor onderweg.
+- K&K Ionische Hete Krulborstel: Deze borstel beschikt over een krachtige ionengenerator om statische elektriciteit te elimineren en pluizig haar te temmen. De roségouden titanium cilinder in 3 maten met nylon borstelharen is ideaal voor het creëren van zachte, zijdezachte krullen.
 - Ronde borstelkop-ontwerp: Voorzien van hittebestendige nylon borstelharen en een koele punt. De rubberen handgreep zorgt voor een comfortabelere en veiligere grip. Geen verbrande huid meer door een stijltang. Automatische uitschakeling na 60 minuten inactiviteit.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

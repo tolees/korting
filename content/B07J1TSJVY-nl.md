@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Rond ontbijtbord in mat gestructureerde leisteen-look, ideale metgezel voor de klassieke koffie- of ontbijtbord.
-- Vaatwasmachinebestendig, geschikt voor de magnetron, hoogwaardige kwaliteit: premium porselein Made in Germany
 - Inhoud: 1 x Villeroy & Boch Manufacture Rock ontbijtbord (22 cm), materiaal: premium porselein, kleur: zwart.
-- De grootte is geschikt voor het maken van ontbijt en desserts, brede rand voor een druppelvrij serveren, maakt het Rock servies van Manufacture perfect.
 - Ook geschikt voor horeca dankzij de handige vorm, stapelbaar, stootvaste en slagvaste randen, optimale afmetingen voor de vaatwasser.
+- Rond ontbijtbord in mat gestructureerde leisteen-look, ideale metgezel voor de klassieke koffie- of ontbijtbord.
+- De grootte is geschikt voor het maken van ontbijt en desserts, brede rand voor een druppelvrij serveren, maakt het Rock servies van Manufacture perfect.
+- Vaatwasmachinebestendig, geschikt voor de magnetron, hoogwaardige kwaliteit: premium porselein Made in Germany
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07J1TSJVY{{</world>}}

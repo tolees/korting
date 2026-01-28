@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Majosta - Nivea: Taccuino A5 | Nome personalizzato Nivea | Regalo di compleanno per moglie mamma sorella figlia ... | Design: carta colorata | 120 pagine a righe piccolo formato A5 14.8 x 21 cm'
-date: 2026-01-25 21:34:21
+date: 2026-01-28 04:57:23
 image: 'https://m.media-amazon.com/images/I/41xc-BPqzgS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

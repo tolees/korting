@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hugo Boss Hugo Homme/Men Deodorantstick per stuk verpakt 1 x 75 ml'
-date: 2026-01-26 11:55:51
+date: 2026-01-28 18:23:58
 image: 'https://m.media-amazon.com/images/I/31jfBRubG-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: 'HUGO BOSS'
 buyurl: 'https://www.amazon.nl/dp/B000XE6C2I/?tag=tolees0b-21'
 descuento: '43.52'
-average: '12.9742857142857'
+average: '12.97625'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

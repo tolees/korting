@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple USB‑C-oplaadkabel 240 W 2 m '
-date: 2026-01-16 04:54:48
+date: 2026-01-28 04:22:23
 image: 'https://m.media-amazon.com/images/I/21XDOsJpXyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: 'Apple'
 buyurl: 'https://www.amazon.nl/dp/B0DCNZGSHV/?tag=tolees0b-21'
 descuento: '43.00'
-average: '20.776'
+average: '20.6383333333333'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Deze 2 meter lange geweven oplaadkabel heeft aan beide uiteinden een USB‑C-connector en is ideaal voor het opladen van USB‑C-devices en voor het synchroniseren en overzetten van gegevens.
 - USB‑C-lichtnetadapters zijn afzonderlijk verkrijgbaar.
+- Deze 2 meter lange geweven oplaadkabel heeft aan beide uiteinden een USB‑C-connector en is ideaal voor het opladen van USB‑C-devices en voor het synchroniseren en overzetten van gegevens.
 - De kabel is geschikt voor opladen met een vermogen tot 240 W en voor gegevensoverdracht op USB 2-snelheid. Sluit de USB‑C-oplaadkabel aan op een compatibele USB‑C-lichtnetadapter om je devices extra snel op te laden via een stopcontact.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

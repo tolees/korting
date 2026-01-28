@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Minder dode zones dankzij externe antennes - Verstelbare antennes maken eenvoudige positionering mogelijk voor de beste ontvangst.
+- Volledig nieuwe 6GHz-band - minder opstoppingen en interferentie voor wifi-verbindingen
 - Nieuwste Bluetooth 5.2 - verbeterd signaalbereik, hogere transmissiesnelheden en minder interferentie
 - ASUS WiFi 6E totaaloplossing - geoptimaliseerde mogelijkheden en prestaties
-- Volledig nieuwe 6GHz-band - minder opstoppingen en interferentie voor wifi-verbindingen
 - Ultrasnelle WiFi 6 & WiFi 6E - 4,6x hogere snelheden, verbeterde verbindingsefficiëntie en betere netwerkbeveiliging
 
 [🛒 Buy it now!!]({{< param buyurl >}})

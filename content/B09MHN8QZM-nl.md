@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - 8 wijzen -- Onze fairy lichten hebben 8 mooie verlichtingswijzen, met inbegrip van combinatie, golf, opeenvolging, langzaam licht, volg/flits, langzame fade, flits/flits en regelmatig licht.
-- Brede toepassing -- Ideale decoratie voor uw veranda, gazon, terras, poort, binnenplaats, fotomuur, huwelijksceremonie, meisjeskamer, kampeertenten, enz. Het kan een romantische, zachte, gezellige sfeer creëren in elke situatie.
-- Lichtketting op batterijen -- Lichtkleur: Warm wit; Totale lengte: 10 m; Aantal LEDs: 100; Kabel: 0,3 m; Lampafstand: 10 cm; Kabelkleur: Donkergroen; Hoeveelheid: 2 stuks; Voeding: 3xAA batterijen (niet inbegrepen)
 - Timing-functie -- tijdprogramma (6 uur aan, 18 uur uit) . Wanneer deze is ingeschakeld, wordt de timer standaard gestart en is het niet nodig een extra timer in te stellen.
+- Lichtketting op batterijen -- Lichtkleur: Warm wit; Totale lengte: 10 m; Aantal LEDs: 100; Kabel: 0,3 m; Lampafstand: 10 cm; Kabelkleur: Donkergroen; Hoeveelheid: 2 stuks; Voeding: 3xAA batterijen (niet inbegrepen)
+- Brede toepassing -- Ideale decoratie voor uw veranda, gazon, terras, poort, binnenplaats, fotomuur, huwelijksceremonie, meisjeskamer, kampeertenten, enz. Het kan een romantische, zachte, gezellige sfeer creëren in elke situatie.
 - Waterdicht --- Stof- en waterdicht tot IP44-niveau. Dit betekent dat de lichtketting ook kan worden gebruikt in moeilijke omstandigheden zoals stof, regen, sneeuw en zelfs vorst.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

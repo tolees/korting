@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Gemakkelijk aan te trekken en verstelbaar met een rits en veters.
-- Hakhoogte: 5 cm
 - De gepatenteerde Geox-systemen garanderen de ademende werking van de buitenzool, zodat de voet comfortabel blijft.
+- Hakhoogte: 5 cm
+- Gemakkelijk aan te trekken en verstelbaar met een rits en veters.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08PL3MFSP{{</world>}}

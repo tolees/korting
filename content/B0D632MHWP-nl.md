@@ -28,15 +28,15 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- TECH-SPECIFICATIES: Bluetooth-bereik van 350 voet/105 m. Batterij tot 3 jaar. Waterbestendig (IP68 beoordeeld)
-- WERKT MET iOS EN ANDROID: De gratis Life360-app werkt voor alle huishoudens en particulieren
-- Geef het cadeau van vinden: Tile is een eenvoudig en functioneel cadeau voor familie en vrienden
-- DE ALLES TRACKER: Bescherm verloren of gestolen spullen en maak het gezinsleven gemakkelijker. Bevestig aan alledaagse dingen zoals sleutels, waterflessen of tassen
-- VIND JE DINGEN: Bel je kwijtgeraakte tegel of zoek het op in de gratis app
 - BLIJF VEILIG MET SOS: Activeer discreet een SOS-waarschuwing naar uw dierbaren in onveilige situaties
-- VIND JE TELEFOON: Telefoon verstopt zich onder een kussen? Gebruik je Tile om hem te laten rinkelen - zelfs als het zwijgen wordt opgelegd
-- GEBRUIK MET LIFE360: voeg je tegels toe aan Life360 - een topapp voor familieverbindingen en veiligheid - om alles en iedereen op dezelfde kaart te zien
 - Vereist gebruik van de Life360-app op de telefoon met locatieservices aan
+- DE ALLES TRACKER: Bescherm verloren of gestolen spullen en maak het gezinsleven gemakkelijker. Bevestig aan alledaagse dingen zoals sleutels, waterflessen of tassen
+- Geef het cadeau van vinden: Tile is een eenvoudig en functioneel cadeau voor familie en vrienden
+- VIND JE DINGEN: Bel je kwijtgeraakte tegel of zoek het op in de gratis app
+- GEBRUIK MET LIFE360: voeg je tegels toe aan Life360 - een topapp voor familieverbindingen en veiligheid - om alles en iedereen op dezelfde kaart te zien
+- WERKT MET iOS EN ANDROID: De gratis Life360-app werkt voor alle huishoudens en particulieren
+- TECH-SPECIFICATIES: Bluetooth-bereik van 350 voet/105 m. Batterij tot 3 jaar. Waterbestendig (IP68 beoordeeld)
+- VIND JE TELEFOON: Telefoon verstopt zich onder een kussen? Gebruik je Tile om hem te laten rinkelen - zelfs als het zwijgen wordt opgelegd
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0D632MHWP{{</world>}}

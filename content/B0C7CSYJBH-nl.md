@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Helpt zichtbaar bij het verminderen van rimpels
-- Met een extra hoge concentratie hyaluronzuur van 1,5%
-- Verbetert aanzienlijk de veerkracht en stevigheid van de huid|Helpt zichtbaar bij het verminderen van rimpels
 - Een ware boost voor de huid
+- Verbetert aanzienlijk de veerkracht en stevigheid van de huid|Helpt zichtbaar bij het verminderen van rimpels
+- Met een extra hoge concentratie hyaluronzuur van 1,5%
 - Een ware boost voor de huid
 
 [🛒 Buy it!!]({{< param buyurl >}})

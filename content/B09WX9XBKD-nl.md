@@ -28,14 +28,14 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- MAAK KENNIS MET ECHO POP: Een compacte bluetooth smartspeaker met fullsound, ideaal voor slaapkamers en kleine ruimtes. Klein genoeg om niet op te vallen en krachtig genoeg om op te vallen.
-- ONTWORPEN VOOR DUURZAAMHEID - De stof van Echo Pop is vervaardigd van 100% gerecycled garen en het aluminium bestaat voor 80% uit gerecycled aluminium. 99% van deze verpakking is gemaakt van materialen op basis van houtvezels uit verantwoordelijk beheerde bossen of gerecyclede grondstoffen.
-- MAAK VAN ELKE RUIMTE EEN SLIMME RUIMTE: Bestuur compatibele smarthome-apparaten met je stem. Je kunt routines instellen om slimme ventilatoren automatisch in te schakelen als de binnentemperatuur hoger is dan de door jou ingestelde omgevingstemperatuur.
-- MUZIEK BEDIENEN MET JE STEM: Vraag Alexa om muziek en podcasts af te spelen vanaf je favoriete aanbieders zoals Amazon Music, Apple Music, Spotify en luister naar radiostations. Koppel je smartphone via bluetooth en stream door je hele ruimte.
-- MAAK KENNIS MET ALEXA: Echo Pop is een smartspeaker met spraakbesturing die verbonden kan worden met Alexa om muziek af te spelen, timers en wekkers in te stellen, vragen te stellen, je huis slimmer te maken met compatibele apparaten en nog veel meer. Het enige wat je moet doen, is het vragen. Beschikbaar in het Nederlands.
-- ONTWORPEN OM JE PRIVACY TE BESCHERMEN: Meerdere lagen privacybescherming, waaronder een Microfoon uit-knop die de microfoons elektronisch uitschakelt.
 - BESCHIKBAARHEID VAN FUNCTIES: Alexa wordt altijd slimmer en krijgt steeds meer nieuwe functies en skills. Selecteer Nederlands in de Alexa-app om toegang te krijgen tot Nederlandse functies en skills.
+- MAAK KENNIS MET ALEXA: Echo Pop is een smartspeaker met spraakbesturing die verbonden kan worden met Alexa om muziek af te spelen, timers en wekkers in te stellen, vragen te stellen, je huis slimmer te maken met compatibele apparaten en nog veel meer. Het enige wat je moet doen, is het vragen. Beschikbaar in het Nederlands.
+- MAAK KENNIS MET ECHO POP: Een compacte bluetooth smartspeaker met fullsound, ideaal voor slaapkamers en kleine ruimtes. Klein genoeg om niet op te vallen en krachtig genoeg om op te vallen.
+- MUZIEK BEDIENEN MET JE STEM: Vraag Alexa om muziek en podcasts af te spelen vanaf je favoriete aanbieders zoals Amazon Music, Apple Music, Spotify en luister naar radiostations. Koppel je smartphone via bluetooth en stream door je hele ruimte.
 - ALEXA HELPT JE GRAAG: Vraag Alexa naar het weerbericht, om handsfree timers in te stellen, naar een antwoord op je vragen en zelfs om moppen te vertellen.
+- ONTWORPEN VOOR DUURZAAMHEID - De stof van Echo Pop is vervaardigd van 100% gerecycled garen en het aluminium bestaat voor 80% uit gerecycled aluminium. 99% van deze verpakking is gemaakt van materialen op basis van houtvezels uit verantwoordelijk beheerde bossen of gerecyclede grondstoffen.
+- ONTWORPEN OM JE PRIVACY TE BESCHERMEN: Meerdere lagen privacybescherming, waaronder een Microfoon uit-knop die de microfoons elektronisch uitschakelt.
+- MAAK VAN ELKE RUIMTE EEN SLIMME RUIMTE: Bestuur compatibele smarthome-apparaten met je stem. Je kunt routines instellen om slimme ventilatoren automatisch in te schakelen als de binnentemperatuur hoger is dan de door jou ingestelde omgevingstemperatuur.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09WX9XBKD{{</world>}}

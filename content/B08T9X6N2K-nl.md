@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NIKE Herentrui met capuchon M Nk Flc Park20 Pro Hoodie dennengroen/wit/wit CW6894-302 L'
-date: 2026-01-22 19:23:15
+date: 2026-01-28 20:06:26
 image: 'https://m.media-amazon.com/images/I/31vb-thrE8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: 'NIKE'
 buyurl: 'https://www.amazon.nl/dp/B08T9X6N2K/?tag=tolees0b-21'
 descuento: '28.32'
-average: '45.9625'
+average: '44.975'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Met trekkoord kun je je afdekking aanpassen.
-- Fleecestof voelt zacht en warm.
-- capuchon met trekkoord
 - geborduurde Swoosh
+- capuchon met trekkoord
 - Kangoeroezak aan de voorkant
+- Fleecestof voelt zacht en warm.
+- Met trekkoord kun je je afdekking aanpassen.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08T9X6N2K{{</world>}}

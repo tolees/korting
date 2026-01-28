@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Beschikt over 32 individuele LED-lampjes om een verbluffend effect toe te voegen aan uw gaming-opstelling. De basis heeft een onafhankelijke aan/uit-knop aan de achterkant die kan worden gebruikt om de lichten uit te schakelen. Als alternatief kan de gebruiker zijn console-instellingen aanpassen om te voorkomen dat de stroom naar USB-poorten wordt geleverd wanneer deze in stand-by staat
 - Verlicht uw console met keuze uit zeven verschillende kleuren met instelbare helderheid
-- Stijlvolle meerkleurige LED-standaard voor uw Xbox Series X-console
 - Behoudt toegang tot alle poorten, knoppen, ventilatieopeningen en andere consolefunctionaliteit
+- Beschikt over 32 individuele LED-lampjes om een verbluffend effect toe te voegen aan uw gaming-opstelling. De basis heeft een onafhankelijke aan/uit-knop aan de achterkant die kan worden gebruikt om de lichten uit te schakelen. Als alternatief kan de gebruiker zijn console-instellingen aanpassen om te voorkomen dat de stroom naar USB-poorten wordt geleverd wanneer deze in stand-by staat
 - USB-voeding - sluit eenvoudig aan op de achterkant van uw console
+- Stijlvolle meerkleurige LED-standaard voor uw Xbox Series X-console
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08Z5BSJRT{{</world>}}

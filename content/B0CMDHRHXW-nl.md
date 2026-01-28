@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy Tab A9 Wifi 4+64GB Gray'
-date: 2026-01-25 14:57:17
+date: 2026-01-28 20:05:34
 image: 'https://m.media-amazon.com/images/I/31WjDHgYuEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: 'Samsung'
 buyurl: 'https://www.amazon.nl/dp/B0CMDHRHXW/?tag=tolees0b-21'
 descuento: '22.36'
-average: '123.84625'
+average: '124.751111111111'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

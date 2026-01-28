@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - 360° ruimtelijk geluid - Indrukwekkend surroundsound brengt je naar de gamewereld en laat je elke kritieke stap, herlading of stemgeluid horen om je een voordeel te geven. *Volledig compatibel met Microsoft Spatial Sound/Tempest 3D Audio voor PS5
-- Dual Audio Streams - Meng twee audioverbindingen tegelijk en chat met vrienden terwijl je gamet. Speel met vertragingsvrije 2.4GHz terwijl je tegelijk bluetooth gebruikt voor telefoontjes, Discord, muziek en podcasts.
-- Almighty Audio - Op maat gemaakt Nova akoestisch systeem voorzien van ongeëvenaarde audio voor gaming met hifi-drivers. Creëer jouw ideale geluidservaring met een professionele parametrische equalizer.
-- Ongelooflijk lange accuduur - Dankzij de accuduur van 38 uur zit je meer dan 1,5 dag in de actie en met fast-charge via USB-C geef je de headset binnen 15 minuten een boost voor nog eens 6 uur gebruik.
 - Verstelbaar voor een perfecte pasvorm - Het ComfortMAX System omvat in de hoogte verstelbare, draaibare oorschelpen met AirWeave Memory Foam-kussens en een elastische band. De lichte staalconstructie van de headset is bedoeld om lang mee te gaan.
+- Ongelooflijk lange accuduur - Dankzij de accuduur van 38 uur zit je meer dan 1,5 dag in de actie en met fast-charge via USB-C geef je de headset binnen 15 minuten een boost voor nog eens 6 uur gebruik.
+- Almighty Audio - Op maat gemaakt Nova akoestisch systeem voorzien van ongeëvenaarde audio voor gaming met hifi-drivers. Creëer jouw ideale geluidservaring met een professionele parametrische equalizer.
+- Dual Audio Streams - Meng twee audioverbindingen tegelijk en chat met vrienden terwijl je gamet. Speel met vertragingsvrije 2.4GHz terwijl je tegelijk bluetooth gebruikt voor telefoontjes, Discord, muziek en podcasts.
 - Ondersteuning voor meerdere platforms - Breng de Arctis Nova 7 naar je favoriete platform, zoals Xbox, pc, Mac, PlayStation, of Switch, met een USB-C-dongle in zakformaat voor supersnel Quantum 2.0 draadloos (2,4 GHz). USB-A-adapter inbegrepen.
 - Ruisonderdrukkende microfoon met AI - De ClearCast Gen 2 maakt achtergrondgeluid stil voor een kristalheldere communicatie, ondersteund door de krachtige AI-algoritmes van Sonar-software. Schuif de microfoon in de oorschelp voor een stijlvollere look.
 

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Titanium schakelaar optische voor een mechanisch gevoel met optische snelheid
-- symmetrische, ergonomische vorm, die van de grond tot opnieuw is ontworpen en beter aanvoelt en beter werkt
-- Phantomflex kabel verdwijnt bijna volledig, geen kabelhouder nodig
-- Warmtebehandelde glijelementen die zorgen voor vloeiende bewegingen, Roccat owl-eye 16k dpi optische sensor op basis van pmw3389 van pixart
 - Lichtdoorlatende honingraatbehuizing met extreem laag gewicht van 68 g
+- symmetrische, ergonomische vorm, die van de grond tot opnieuw is ontworpen en beter aanvoelt en beter werkt
+- Warmtebehandelde glijelementen die zorgen voor vloeiende bewegingen, Roccat owl-eye 16k dpi optische sensor op basis van pmw3389 van pixart
+- Phantomflex kabel verdwijnt bijna volledig, geen kabelhouder nodig
+- Titanium schakelaar optische voor een mechanisch gevoel met optische snelheid
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08HR39MYY{{</world>}}

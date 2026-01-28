@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 1 m USB oplaadkabel
-- En het werkt heel eenvoudig
-- Compatibiliteit: Apple Watch Series 6, Apple Watch Series 5, Apple Watch Series 4, Apple Watch Series 3, Apple Watch Series 2, Apple Watch Series 1, Apple Watch (1e generatie)
-- Het is een volledig gesloten systeem zonder open contactpunten
 - Met deze kabel laad je je Apple Watch heel eenvoudig op
+- Het is een volledig gesloten systeem zonder open contactpunten
+- 1 m USB oplaadkabel
+- Compatibiliteit: Apple Watch Series 6, Apple Watch Series 5, Apple Watch Series 4, Apple Watch Series 3, Apple Watch Series 2, Apple Watch Series 1, Apple Watch (1e generatie)
+- En het werkt heel eenvoudig
 - Als je de connector bij de achterkant van je Watch houdt, klikt hij automatisch op de juiste plaats
 
 [🛒 Check the deal!!]({{< param buyurl >}})

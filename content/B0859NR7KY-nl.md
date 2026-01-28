@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Bevestig je drive aan je sleutelring zodat deze veilig en steeds bij de hand is; Nu heb je de drive altijd bij de hand als je ruimte moet vrijmaken terwijl je op pad bent
-- Maak automatisch back ups van je fotos; videos; muziek; documenten en contactpersonen met de SanDisk Memory Zone app
 - Met SanDisk Ultra Dual Drive Go kun je naadloos bestanden overbrengen tussen je USB Type C smartphone; tablets en Macs en computers met USB Type A
+- Maak automatisch back ups van je fotos; videos; muziek; documenten en contactpersonen met de SanDisk Memory Zone app
 - Sluit simpelweg de SanDisk Ultra Dual Drive Go USB flashdrive aan en verplaats op eenvoudige wijze bestanden van je apparaat; waardoor kostbare ruimte vrijkomt
 - Zodra bestanden zich op je SanDisk Ultra Dual Drive Go bevinden; biedt de USB 3.2 Gen 1 drive je de mogelijkheid om snel je bestanden over te brengen naar je computer met leessnelheden van 400 MB/s
 

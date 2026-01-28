@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Met hyaluronzuur en glycerine - De milde gezichtsreiniger is ontwikkeld in samenwerking met dermatologen en verrijkt met ingrediënten die van nature in de huid voorkomen, zoals hyaluronzuur en glycerine
+- De reinigingsgel is geschikt voor alle huidtypen en is zacht voor de huidbarrière. Bovendien verstopt de olievrije formule de poriën niet en wordt de huid de hele dag lang gehydrateerd.
 - Boost de vitaliteit van je huid - De Neutrogena Hydro Boost Aqua Reinigingsgel boost de vitaliteit van je huid en reinigt zacht om overtollige make-up en vuil te verwijderen. Wetenschappelijk bewezen werking.
 - Reinigt de huid effectief van vuil, talg en make-up - De reinigingsgel reinigt de huid effectief van vuil, talg en make-up. Gebruik: Aanbrengen op een vochtig gezicht en laten schuimen, daarna grondig afspoelen.
-- De reinigingsgel is geschikt voor alle huidtypen en is zacht voor de huidbarrière. Bovendien verstopt de olievrije formule de poriën niet en wordt de huid de hele dag lang gehydrateerd.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B082VPVQZS{{</world>}}

@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Groene ethernet-technologie bespaart tot 70% energie
 - Plug-and-Play, geen configuratie nodig
 - IEEE 802.3x gegevensstroombeheer zorgt voor een betrouwbare gegevensoverdracht
 - Plastic behuizing, desktop of wandmontage
-- Groene ethernet-technologie bespaart tot 70% energie
 - 5 10/100Mbps Auto-Negotiation RJ45-poorten, ondersteunt Auto MDI/MDIX
 
 [🛒 Check the deal!!]({{< param buyurl >}})

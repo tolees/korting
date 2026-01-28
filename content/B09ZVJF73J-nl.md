@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Camper Dana Flat Sandal Dames Zwart 38 EU zwart 38 EU'
-date: 2026-01-25 00:57:44
+date: 2026-01-28 04:11:38
 image: 'https://m.media-amazon.com/images/I/317s0521leL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: 'Camper'
 buyurl: 'https://www.amazon.nl/dp/B09ZVJF73J/?tag=tolees0b-21'
 descuento: '23.51'
-average: '115.788333333333'
+average: '115.6825'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Bovenmateriaal: leer
 - Binnenmateriaal: Leer
-- Niet waterbestendig
-- Sluiting: ethyleenvinylacetaat
 - Voering: leer
 - Schoenbreedte: smal
+- Niet waterbestendig
+- Sluiting: ethyleenvinylacetaat
+- Bovenmateriaal: leer
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09ZVJF73J{{</world>}}

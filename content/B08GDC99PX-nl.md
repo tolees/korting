@@ -29,12 +29,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Aflopen en tijdschemas, plan bepaalde tijden voor het in- of uitschakelen van je ledlampen
+- Energiezuinig: dezelfde helderheid met een laag energieverbruik van 8,7 w in vergelijking met een gewone ledlamp van 60 w
+- Toegang op afstand, bedien je slimme ledlamp comfortabel via je smartphone met tapo-app, overal en altijd
 - Spraakbediening, verbind je slimme ledlamp met amazon alexa of google assistant; de controle is eenvoudig met de stem mogelijk
 - Meerkleurig: creëer heel eenvoudig scenarios voor je dagelijkse routine of activiteiten, door helderheid, lichttemperatuur en kleuren aan te passen, met 16.000 kleuren naar keuze
-- Geen hub nodig: sluit de slimme ledlamp rechtstreeks aan op je wifi thuis
-- Energiezuinig: dezelfde helderheid met een laag energieverbruik van 8,7 w in vergelijking met een gewone ledlamp van 60 w
 - Eenvoudige voorinstelling: stel verschillende verlichtingsopties vooraf in om je ledlampen met een druk op de knop direct aan te passen
-- Toegang op afstand, bedien je slimme ledlamp comfortabel via je smartphone met tapo-app, overal en altijd
+- Geen hub nodig: sluit de slimme ledlamp rechtstreeks aan op je wifi thuis
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08GDC99PX{{</world>}}

@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Casual shirtblouse met vrouwelijke kanten details
-- Reguliere pasvorm voor aangenaam draagcomfort
-- Mouwloze top met V-hals voor een elegante uitstraling
 - Gemaakt van hoogwaardige viscose voor comfort en elegantie
+- Mouwloze top met V-hals voor een elegante uitstraling
+- Reguliere pasvorm voor aangenaam draagcomfort
+- Casual shirtblouse met vrouwelijke kanten details
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07PRNC1D4{{</world>}}

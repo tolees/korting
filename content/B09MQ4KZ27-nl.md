@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Upgrade your charging speed: With new generation 100W PD technology, you can charge MacBook Pro 16" in 45 minutes to 60%. In addition, 100W USB C Samsung S22 Ultra charges up to 89% in 30 minutes, surpassing 60W cables by 45 minutes.
 - Charge your phone 15 times faster: Experience the next level of charging! With our lightning-fast 100W USB-C to USB-C cable, your Phone 15 series reaches a whopping 71% battery in just 30 minutes. Dont miss this charging revolution!
-- A Cable for Life: Exclusive FLYWEAVE coating & compound that passed 45000+ bending tests combines 250d bulletproof fiber core to make a cable that lasts even longer than your phone.
 - Fast Charging & Data Transfer 2 in 1: Our 100W fast charging cable also supports the transfer of your favorite movies and music at a speed of 480Mbps (does not support video/media output).
+- Upgrade your charging speed: With new generation 100W PD technology, you can charge MacBook Pro 16" in 45 minutes to 60%. In addition, 100W USB C Samsung S22 Ultra charges up to 89% in 30 minutes, surpassing 60W cables by 45 minutes.
+- A Cable for Life: Exclusive FLYWEAVE coating & compound that passed 45000+ bending tests combines 250d bulletproof fiber core to make a cable that lasts even longer than your phone.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09MQ4KZ27{{</world>}}

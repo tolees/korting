@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Dynamische RGB-verlichting: Verlicht je desktop met zes geïntegreerde verlichtingseffecten, wijs een kleur toe aan elke verlichtingszone of programmeer je eigen sprankelende verlichtingseffecten in vijf RGB-verlichtingszones met CORSAIR iCUE-software.
-- Stof- en morsbestendig design: De IP42-certificering beschermt tegen ongelukken, zodat je niet hoeft te stoppen met gamen.
 - Afneembare polssteun: Een polssteun van zacht rubber vermindert de druk op je polsen voor langer comfortabel gamen, met een getextureerd oppervlak zodat je handen niet wegglijden.
 - Zes speciale macrotoetsen: Activeer functies, snelkoppelingen of toetsaanslagen in slechts één beweging met zes speciale macrotoetsen, eenvoudig in te stellen via CORSAIR iCUE-software, of gebruik commando’s voor directe streaming via Elgato Stream Deck-software.
+- Stof- en morsbestendig design: De IP42-certificering beschermt tegen ongelukken, zodat je niet hoeft te stoppen met gamen.
+- Dynamische RGB-verlichting: Verlicht je desktop met zes geïntegreerde verlichtingseffecten, wijs een kleur toe aan elke verlichtingszone of programmeer je eigen sprankelende verlichtingseffecten in vijf RGB-verlichtingszones met CORSAIR iCUE-software.
 - Speciale volume- en mediatoetsen: Handige bediening om het afspelen van media direct te regelen en het volume nauwkeurig af te stellen zonder dat je jouw game hoeft te onderbreken.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

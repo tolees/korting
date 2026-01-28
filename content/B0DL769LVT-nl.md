@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Dit toetsenbord is draadloos en heeft een oplaadbare batterij die zonder tussentijds opladen voldoende stroom levert voor ongeveer een maand. Het toetsenbord maakt automatisch verbinding met je Mac, dus je kunt meteen aan de slag. Er zit een USB‑C-poort op en er wordt een geweven USB‑C-oplaadkabel meegeleverd. Daarmee kun je je Magic Keyboard aansluiten op een USB‑C‑poort op je Mac om te pairen en op te laden.
-- Het numerieke toetsenblok is ideaal als je veel met spreadsheets en cijfers werkt.
-- Magic Keyboard is verkrijgbaar met Touch ID, waarmee je snel, makkelijk en veilig inlogt en aankopen doet.
 - Op het Magic Keyboard met Touch ID en numeriek toetsenblok typ je heel prettig en nauwkeurig.
 - Het heeft een grotere lay‑out met handige toetsen om door documenten heen te swipen, en pijltoetsen die van pas komen bij het gamen.
+- Magic Keyboard is verkrijgbaar met Touch ID, waarmee je snel, makkelijk en veilig inlogt en aankopen doet.
+- Dit toetsenbord is draadloos en heeft een oplaadbare batterij die zonder tussentijds opladen voldoende stroom levert voor ongeveer een maand. Het toetsenbord maakt automatisch verbinding met je Mac, dus je kunt meteen aan de slag. Er zit een USB‑C-poort op en er wordt een geweven USB‑C-oplaadkabel meegeleverd. Daarmee kun je je Magic Keyboard aansluiten op een USB‑C‑poort op je Mac om te pairen en op te laden.
+- Het numerieke toetsenblok is ideaal als je veel met spreadsheets en cijfers werkt.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DL769LVT{{</world>}}

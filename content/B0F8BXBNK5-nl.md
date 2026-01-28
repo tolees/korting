@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Kids Smart Watch with Video Call: Stay Connected Face-to-Face HD video and voice calls help parents and children stay connected throughout the day. Ideal for daily check-ins after school or before bedtime.
 - Kids Watch with GPS Tracker: Real-Time Location Indoors & Out Combining GPS, Wi-Fi and smart sensors, this kids watch with GPS tracker provides reliable real-time location tracking for everyday routines.
 - Parental Control via App: A Safe Kids Phone Watch Parents can manage contacts, block unknown callers and enable Class Mode through the free imoo app, helping children stay focused at school.
-- Kids Smart Watch with Video Call: Stay Connected Face-to-Face HD video and voice calls help parents and children stay connected throughout the day. Ideal for daily check-ins after school or before bedtime.
 - One-Touch SOS: Trusted Kids Tracker Watch for Safety In emergencies, children can press the SOS button to instantly call preset contacts and share their location for quick help.
 - Waterproof & Comfortable: Everyday Kids Watch for Boys & Girls Rated IPX8 waterproof and made with soft, skin-friendly materials, the Z1 is designed for daily wear, rain or shine.
 

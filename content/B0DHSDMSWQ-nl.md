@@ -32,9 +32,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 - Bouw- en displaymodel met speelse details – de bouwbare Grogu figuur heeft armen die met een draaiknop kunnen worden bediend en een verstelbaar hoofd en oren en kan zowel in als naast de zweefkinderwagen worden geplaatst
 - Authentieke accessoires voor rollenspellen – deze fantasieset bevat een Sorgan-kikker van LEGO stenen, een schakelknop en een koekje voor Grogu om vast te houden
 - Grogu LEGO figuur – het hoofdmodel wordt geleverd met een Grogu informatieplaatje op een standaard, met ruimte voor de meegeleverde Grogu LEGO figuur van standaardformaat in een kleine zweefkinderwagen om zelf te bouwen
-- Bouwbare LEGO Star Wars speelgoed Grogu figuur en zweefkinderwagen – maak een schattig Star Wars: The Mandalorian display met Grogu
-- Intuïtieve instructies – de LEGO Builder app begeleidt je kind tijdens een intuïtief bouwavontuur met functies waarmee het kan inzoomen en een digitale 3D-versie van het model in 3D kan draaien
 - Cadeau voor jongens, meisjes en fans – geef deze 1048-delige bouwset cadeau aan kinderen van 10 jaar en ouder, fans van Star Wars: The Mandalorian en verzamelaars
+- Intuïtieve instructies – de LEGO Builder app begeleidt je kind tijdens een intuïtief bouwavontuur met functies waarmee het kan inzoomen en een digitale 3D-versie van het model in 3D kan draaien
+- Bouwbare LEGO Star Wars speelgoed Grogu figuur en zweefkinderwagen – maak een schattig Star Wars: The Mandalorian display met Grogu
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DHSDMSWQ{{</world>}}

@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Tot 100% grijsdekking
-- Permanente haarkleuring zonder ammoniak voor een aangename geur
-- Verbetert zichtbaar de haarkwaliteit met verzorgende formule
 - Kleurcrème op basis van 60% oliën
 - Intense, langhoudende kleur
+- Permanente haarkleuring zonder ammoniak voor een aangename geur
+- Verbetert zichtbaar de haarkwaliteit met verzorgende formule
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00M1HN5H0{{</world>}}

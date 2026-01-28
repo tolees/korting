@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Met de Lightning-naar-USB-kabel kun je je iPhone, iPad of iPod met Lightning-connector opladen en synchroniseren met een Mac of Windows-pc.
-- Met deze USB 2.0-kabel kun je je iPhone, iPad of iPod met Lightning-connector aansluiten op de USB-poort van je computer om de batterij op te laden en je device te synchroniseren.
 - Of sluit je device via deze kabel aan op de Apple USB-lichtnetadapter en een stopcontact.
+- Met deze USB 2.0-kabel kun je je iPhone, iPad of iPod met Lightning-connector aansluiten op de USB-poort van je computer om de batterij op te laden en je device te synchroniseren.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CX22ZZG5{{</world>}}

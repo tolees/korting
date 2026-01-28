@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Spatwaterdicht: dat betekent dat je het veilig kunt gebruiken in de badkamer, de keuken, op het balkon of in andere vochtige ruimten
 - Dimbaar: Gebruik je bestaande lichtschakelaar om de lamp op 100%, 40% of 10% helderheid in te stellen
+- Het slanke ontwerp is ideaal voor kamers met een laag plafond
 - Philips LED-plafondlamp met warmwit licht (2700K) voor een gezellige sfeer in huis
 - Bespaar tot 90% energie t.o.v. conventionele lichtbronnen
-- Spatwaterdicht: dat betekent dat je het veilig kunt gebruiken in de badkamer, de keuken, op het balkon of in andere vochtige ruimten
-- Het slanke ontwerp is ideaal voor kamers met een laag plafond
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B097RBNZLY{{</world>}}
