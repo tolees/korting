@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- De digitale keukenweegschaal van Beurer heeft een automatische uitschakeling en een overbelastingsindicator de digitale glazen weegschaal wordt op batterijen gebruikt (2 x 1,5 V batterij AAA is inbegrepen)
-- De digitale keukenweegschaal met extra functie: om meerdere ingrediënten eenvoudiger te mengen, druk na elk ingrediënt op de sensorknop om de digitale weegschaal weer op 0 te zetten
 - De praktische keukenhulp: voor het individueel wegen van bak- en kookingrediënten kunnen weegresultaten in kg, g en lb: oz worden uitgegeven, deze worden weergegeven op het grote LCD-scherm (6,6 x 2,8 cm en cijferhoogte van 22 mm)
+- De digitale keukenweegschaal met extra functie: om meerdere ingrediënten eenvoudiger te mengen, druk na elk ingrediënt op de sensorknop om de digitale weegschaal weer op 0 te zetten
+- De digitale keukenweegschaal van Beurer heeft een automatische uitschakeling en een overbelastingsindicator de digitale glazen weegschaal wordt op batterijen gebruikt (2 x 1,5 V batterij AAA is inbegrepen)
 - Sterke huishoudweegschaal voor nauwkeurige meetresultaten: de digitale keukenweegschaal heeft een draagvermogen van 1 g, zodat je deze elektronische weegschaal zelf als brievenweegschaal kunt gebruiken
 - Digitale huishoudweegschaal met weegkom: de grote en praktische weegkom is vaatwasmachinebestendig en heeft een inhoud van 1,2 liter
 

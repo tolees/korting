@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- 115 g/m² papier met spiraalvormig ontwerp op het frame
+- Elke verpakking bevat 25 vellen
 - Blauw gecertificeerd papier in a4-formaat
 - Eenmaal afgedrukt, gemarkeerd en ondertekend kunnen deze documenten niet worden vervalst. 115 g/m². Kleur: Spiraalblauw.
-- Elke verpakking bevat 25 vellen
-- 115 g/m² papier met spiraalvormig ontwerp op het frame
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B001O3K6NI{{</world>}}

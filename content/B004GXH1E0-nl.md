@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Maybelline New York - SuperStay 24H Lipstick - 195 Raspberry - Rood - Langhoudende Glanzende Lippenstift - 9 ml'
-date: 2026-01-30 06:43:45
+title: 'Maybelline New York - SuperStay 24H Lipstick - 195 Raspberry - Rood - Langhoudende Glanzende Lippenstift - 9 ml Beauty'
+date: 2026-01-31 15:51:28
 image: 'https://m.media-amazon.com/images/I/21sEEz3Z6wL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,13 +13,13 @@ actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99
 comparePrice: 17.99 EUR
-prodname: 'Maybelline New York - SuperStay 24H Lipstick - 195 Raspberry - Rood - Langhoudende Glanzende Lippenstift - 9 ml'
+prodname: 'Maybelline New York - SuperStay 24H Lipstick - 195 Raspberry - Rood - Langhoudende Glanzende Lippenstift - 9 ml Beauty'
 country: 'nl'
 flag: '🇳🇱'
 brand: 'MAYBELLINE'
 buyurl: 'https://www.amazon.nl/dp/B004GXH1E0/?tag=tolees0b-21'
 descuento: '50.03'
-average: '8.88500000000001'
+average: '8.90000000000001'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Maybelline Super Stay 24 Hour Wear lipgloss
+- Micro-flex-formule die gemakkelijk aan te brengen is en er prachtig uitziet
 - Langdurig
 - in een doos
+- Maybelline Super Stay 24 Hour Wear lipgloss
 - Geen klonters of aankoeken
-- Micro-flex-formule die gemakkelijk aan te brengen is en er prachtig uitziet
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B004GXH1E0{{</world>}}

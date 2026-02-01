@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 360º gestikt voor duurzaamheid
-- Buitenzool/Kenmerken: Rubber voor buitengewone grip
-- Kleur: Bruin
 - Bovenwerk: leer (kalfsleer)
+- Buitenzool/Kenmerken: Rubber voor buitengewone grip
+- 360º gestikt voor duurzaamheid
 - Voering: 100% kalfsleer
+- Kleur: Bruin
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00L3CPQLW{{</world>}}

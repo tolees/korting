@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Darth Vader Lamp: De dreigende helm van Sith Lord gloeit met onheilspellende rode LED. De lamp meet ongeveer 14 cm (5,5 inch) hoog, ideaal voor een plank, bureau of gameroom tafel. Aangedreven door 2 AAA-batterijen (niet inbegrepen)
 - Star Wars Merch: Dit epische intergalactische verhaal fascineert al tientallen jaren generaties fans over de hele wereld met onvergetelijke verhalen en personages. Houd de saga levend door deze toe te voegen aan de collectie
 - Star Wars Collectible: Toon Dark Side met de donkerste sith van allemaal, Darth Vader. Deze Star Wars-lamp om te verzamelen heeft de vorm van de zwarte helm van Sith, gloeit rood van binnenuit en is voorzien van het officiële ademhalingsgeluid van Vader zelf
+- Darth Vader Lamp: De dreigende helm van Sith Lord gloeit met onheilspellende rode LED. De lamp meet ongeveer 14 cm (5,5 inch) hoog, ideaal voor een plank, bureau of gameroom tafel. Aangedreven door 2 AAA-batterijen (niet inbegrepen)
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09RLNM8LZ{{</world>}}

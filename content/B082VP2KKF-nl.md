@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Elimineert talg en vuil en reinigt de huid tot in de diepste lagen zonder het vochtgehalte van de huid aan te tasten
 - Neutrogena Deep Clean 3-in-1 micellair water reinigt de huid tot in de diepste lagen en verwijdert in een oogwenk alle onzuiverheden
-- Dankzij de drievoudige micellaire technologie verwijdert Neutrogena Deep Clean 3-in-1 gezichtsreiniger make-up en zelfs waterproofmascara, zonder te wrijven
 - Oftalmologisch getest en geschikt voor alle huidtypen
+- Dankzij de drievoudige micellaire technologie verwijdert Neutrogena Deep Clean 3-in-1 gezichtsreiniger make-up en zelfs waterproofmascara, zonder te wrijven
+- Elimineert talg en vuil en reinigt de huid tot in de diepste lagen zonder het vochtgehalte van de huid aan te tasten
 - Zacht micellair water tegen vervuilende stoffen in de omgeving - voor een stralende teint
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 【M.2-interface】Gebruik de PCIe-interface voor krachtige communicatie tussen SSD en Raspberry Pi.
 - 【Hoge snelheid NVMe SSD-ondersteuning】Het HAT-bord ondersteunt M.2 NVMe SSDs voor razendsnelle gegevenstoegang en opslag.
-- 【PoE HAT-ontwerp】Vereenvoudig de stroomvoorziening met Power over Ethernet, elimineer de noodzaak voor extra stroomkabels.
-- 【Maximaal vermogen】 Kan tot 25 W leveren bij 5,1 V/4,5 A, geschikt voor voeding van Raspberry Pi en NVMe SSD.
 - 【Compatibiliteit】Deze set bevat een P33 M.2 NVME M-Key PoE+ HAT en een officiële Raspberry Pi Active Cooler, speciaal ontworpen voor het nieuwste Raspberry Pi 5-model om optimale prestaties en compatibiliteit te garanderen.
 - 【802.3at PoE-ondersteuning】Vereist een PoE-switch met 802.3at PoE-switch om tot 30 W vermogen te leveren, en het vermogen is voldoende voor de vereisten van de toepassingen.
+- 【M.2-interface】Gebruik de PCIe-interface voor krachtige communicatie tussen SSD en Raspberry Pi.
+- 【Maximaal vermogen】 Kan tot 25 W leveren bij 5,1 V/4,5 A, geschikt voor voeding van Raspberry Pi en NVMe SSD.
+- 【PoE HAT-ontwerp】Vereenvoudig de stroomvoorziening met Power over Ethernet, elimineer de noodzaak voor extra stroomkabels.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0D8J7B47N{{</world>}}

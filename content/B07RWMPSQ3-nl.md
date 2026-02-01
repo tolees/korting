@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Verzorgende dagcrème en make-up in 1
-- Stralende finish en natuurlijke dekking
-- 5 effecten in 1: egaliseert, hydrateert, beschermt, maakt gladder en laat stralen
-- Verrijkt met vitamine B5 en E
 - Hydradeert de huid tot wel 24 uur* instrumentele test
+- Verzorgende dagcrème en make-up in 1
+- 5 effecten in 1: egaliseert, hydrateert, beschermt, maakt gladder en laat stralen
+- Stralende finish en natuurlijke dekking
+- Verrijkt met vitamine B5 en E
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07RWMPSQ3{{</world>}}

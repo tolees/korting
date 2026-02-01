@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'AL!VE AG - Ronal der Barbar 3D: Blu-ray 3D + 2D'
-date: 2026-01-29 01:37:12
+title: 'Ronal der Barbar 3D: Blu-ray 3D + 2D : Juul Anders Ka-Koush Hadi Andersen Lærke Winther Lykke Brian Mikkelsen Lars Aude Peter Bom Lars Thestrup Ole Kristensen Preben Christoffersen Thorbjørn Andersen Kresten Vestbjerg Lipski Philip Einstein Hagopian Melanie Risager Per Schmidt Nicklas Duckert Jan Francavillo Bobby Heidegaard Trine Juul Henrik Lipski Philip Einstein Orfelt Bjarne Spellerberg Films & tv'
+date: 2026-01-31 15:09:48
 image: 'https://m.media-amazon.com/images/I/51AF5wb6XDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B006W8DSAS-nl AL!VE AG - Ronal der Barbar 3D: Blu-ray 3D + 2D'
+slug: 'B006W8DSAS-nl Ronal der Barbar 3D: Blu-ray 3D + 2D : Juul Anders Ka-...'
 sku: 'B006W8DSAS-nl'
 tags: [ 'Boeken','Films','Films & tv','al!ve ag','🇳🇱', ]
 actualPrice: 11.18 EUR
 currency: EUR
 price: 11.18
 comparePrice: 29.59 EUR
-prodname: 'AL!VE AG - Ronal der Barbar 3D: Blu-ray 3D + 2D'
+prodname: 'Ronal der Barbar 3D: Blu-ray 3D + 2D : Juul Anders Ka-Koush Hadi Andersen Lærke Winther Lykke Brian Mikkelsen Lars Aude Peter Bom Lars Thestrup Ole Kristensen Preben Christoffersen Thorbjørn Andersen Kresten Vestbjerg Lipski Philip Einstein Hagopian Melanie Risager Per Schmidt Nicklas Duckert Jan Francavillo Bobby Heidegaard Trine Juul Henrik Lipski Philip Einstein Orfelt Bjarne Spellerberg Films & tv'
 country: 'nl'
 flag: '🇳🇱'
 brand: 'AL!VE AG'
 buyurl: 'https://www.amazon.nl/dp/B006W8DSAS/?tag=tolees0b-21'
 descuento: '62.22'
-average: '11.1835000000002'
+average: '11.1833333333335'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

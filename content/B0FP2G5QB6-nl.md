@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Voedt en verzorgt het haar: de sulfaatvrije shampoo heeft een crèmestructuur die dof haar tegengaat en voor glanzend haar zorgt − voor alle haartypes, ook voor krullend, gebleekt of steil haar.
 - Glansverzorging voor thuis met glycolzuur: herstelt de haarvezels van binnenuit om de haarkwaliteit te verbeteren, vult het haar op en zorgt voor een langdurige glans.
+- Laat je haar in slechts 10 min. stralen met de Glycolic Gloss haarroutine: combineer de shampoo voor een optimaal resultaat met de conditioner en de 5 minuten lamellaire verzorging.
 - ²Instrumentele test na gebruik van de shampoo + conditioner
 - Klinisch bewezen: deze shampoo zorgt voor twee keer meer glans², met zichtbare resultaten die tot 5 wasbeurten aanhouden⁴. Voor 88% zachter haar³!
-- Laat je haar in slechts 10 min. stralen met de Glycolic Gloss haarroutine: combineer de shampoo voor een optimaal resultaat met de conditioner en de 5 minuten lamellaire verzorging.
-- Voedt en verzorgt het haar: de sulfaatvrije shampoo heeft een crèmestructuur die dof haar tegengaat en voor glanzend haar zorgt − voor alle haartypes, ook voor krullend, gebleekt of steil haar.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FP2G5QB6{{</world>}}

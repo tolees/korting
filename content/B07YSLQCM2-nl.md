@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 1 meter
 - Type C naar type C kabel
+- 1 meter
 - Merk op: Samsung
 
 [🛒 Check the deal!!]({{< param buyurl >}})

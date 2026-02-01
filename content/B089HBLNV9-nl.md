@@ -31,8 +31,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 - Waterbestendige formule
 - Formule is licht, niet-vettig en bevat geen zelfbruiner
 - Onmiddellijk bescherming tegen verbranding en vroegtijdige huidveroudering
-- Beschermt onmiddellijk tegen UVA/UVB-stralen
 - Bewezen melanine activering
+- Beschermt onmiddellijk tegen UVA/UVB-stralen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B089HBLNV9{{</world>}}

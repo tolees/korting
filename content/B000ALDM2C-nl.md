@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Soort product: Make up
 - Product inhoud: Oogpotlood
 - Merk: Clinique
+- Soort product: Make up
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B000ALDM2C{{</world>}}

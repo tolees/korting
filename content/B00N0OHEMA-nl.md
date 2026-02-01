@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tp-Link TL-SG105E Gigabit Switch Easy Smart/Unmanaged Pro Plug En Play Gigabit Poorten Metalen Behuizing Vlan Qos Smart Managed. 5 Port Zwart'
-date: 2026-01-25 01:23:08
+date: 2026-01-31 15:30:18
 image: 'https://m.media-amazon.com/images/I/41fJIwOGPRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.nl/dp/B00N0OHEMA/?tag=tolees0b-21'
 descuento: '38.11'
-average: '17.6499999999998'
+average: '17.7258333333331'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Slim beheer via de webmanagementpagina en downloadbaar hulpprogramma
-- 5 x RJ45-poorten (10/100/1000 MBps)
-- Green-technologie vermindert het energieverbruik
 - Duurzame metalen behuizing van hoogwaardige kwaliteit met een professionele uitstraling
+- 5 x RJ45-poorten (10/100/1000 MBps)
 - Plug and play: geen configuratie nodig
+- Green-technologie vermindert het energieverbruik
+- Slim beheer via de webmanagementpagina en downloadbaar hulpprogramma
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00N0OHEMA{{</world>}}

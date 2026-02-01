@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- IONISCHE TECHNOLOGIE — Vermindert pluis, voegt glans en gladheid toe voor een strakke afwerking.
 - STYLING NAAR WENS — 2 temperatuurinstellingen, 2 snelheidsniveaus, plus een cool shot voor langdurige styling.
 - PREMIUM KWALITEIT — Gemaakt in Italië met 5 jaar garantie waarmee je kan rekenen op duurzaamheid en betrouwbaarheid.
-- KRACHTIGE & SNEL DROGING — 2200W vermogen met een luchtstroom van 110 km/u voor snel en moeiteloos drogen.
 - VEELZIJDIGE OPZETSTUKKEN — Inclusief een blaasmond voor strakke stijlen en een diffuser voor natuurlijke krullen.
+- KRACHTIGE & SNEL DROGING — 2200W vermogen met een luchtstroom van 110 km/u voor snel en moeiteloos drogen.
+- IONISCHE TECHNOLOGIE — Vermindert pluis, voegt glans en gladheid toe voor een strakke afwerking.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07Y2YG8QX{{</world>}}

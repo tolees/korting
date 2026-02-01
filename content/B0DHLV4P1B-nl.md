@@ -31,9 +31,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 - DE NIEUWSTE: Blink Outdoor 4-camera is de 4de generatie, draadloze, slimme beveiligingscamera voor binnen en buiten, bediening via de Blink-app op je smartphone.
 - BATTERIJDUUR VAN 2 JAAR: In enkele minuten te installeren en tot 2 jaar stroom met de meegeleverde AA-lithiumbatterijen. Koop ook het uitbreidingspakket (apart verkrijgbaar) voor een batterijduur tot 4 jaar met elke camera.
 - IN DE DOOS: 1 camera, 1 Sync Module Core, 2 AA-lithiummetaalbatterijen, 1 montagekit, 1 USB-kabel en 1 voedingsadapter.
-- PERSOONDETECTIE: Ontvang meldingen bij detectie van een persoon met ingebouwde computervisie (CV) bij een optioneel Blink-abonnement (apart verkrijgbaar).
 - BEWAAR EN DEEL VIDEOCLIPS: 30 dagen onbeperkte opslag. Probeer het Blink-abonnement 30 dagen gratis uit en sla gebeurtenissen op in de cloud. Incl. Sync Module Core.
 - GEAVANCEERDE BEWEGINGSDETECTIE: Word sneller gewaarschuwd bij beweging via je smartphone met geavanceerde bewegingsdetectie voor twee zones.
+- PERSOONDETECTIE: Ontvang meldingen bij detectie van een persoon met ingebouwde computervisie (CV) bij een optioneel Blink-abonnement (apart verkrijgbaar).
 - PRIVACYZONES: Maak twee privacyzones om gebieden in het zicht van de Outdoor 4 af te schermen. Respecteer de privacy van je buren en pas de installatie aan.
 - KIJK, LUISTER EN SPREEK MET DE BLINK-APP: Ervaar 1080p HD-livebeeld, infrarood nachtzicht en heldere intercomfunctie.
 

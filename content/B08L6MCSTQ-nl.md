@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Leveringsomvang: MEDION LCD TV E8402500 MD840000, voetjes incl. schroeven, afstandsbediening incl. batterij (AAA), AV-adapter, bedieningshandleiding
 - Puur gemak: je kunt eenvoudig genieten van fotos en videos op het grote tv-scherm met de geïntegreerde mediaspeler.
-- Direct betaal-tv ontvangen: Met behulp van de CI+ sleuf kun je met een geschikte module en een smartcard genieten van gecodeerde tv-kanalen.
-- Veelzijdige Full HD-televisie met een beelddiagonaal van 40 inch, twee HDMI-aansluitingen, drievoudige HD-tuner, CI+ interface en geïntegreerde mediaspeler.
 - Altijd klaar voor ontvangst: Gebruik kabel, satelliet en de nieuwe digitale aardse televisie DVB-T2 HD met de HD triple tuner (DVB-T2 HD, DVB-C, DVB-S2).
+- Veelzijdige Full HD-televisie met een beelddiagonaal van 40 inch, twee HDMI-aansluitingen, drievoudige HD-tuner, CI+ interface en geïntegreerde mediaspeler.
+- Direct betaal-tv ontvangen: Met behulp van de CI+ sleuf kun je met een geschikte module en een smartcard genieten van gecodeerde tv-kanalen.
+- Leveringsomvang: MEDION LCD TV E8402500 MD840000, voetjes incl. schroeven, afstandsbediening incl. batterij (AAA), AV-adapter, bedieningshandleiding
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08L6MCSTQ{{</world>}}

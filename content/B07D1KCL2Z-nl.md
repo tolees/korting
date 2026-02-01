@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Supersnelle data transfers tot 400MB/s, varieert per capaciteit
-- 5-voudige bescherming: water, extreme temperatuur, röntgenstraling, magnetisme en schok bestendig
 - USB 3.1 maar ondersteunt ook USB 3.0 en 2.0
 - 5 jaar beperkte garantie
+- 5-voudige bescherming: water, extreme temperatuur, röntgenstraling, magnetisme en schok bestendig
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07D1KCL2Z{{</world>}}

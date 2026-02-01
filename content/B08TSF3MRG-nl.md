@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - GEGARANDEERD GEEN SCHROEIPLEKKEN - Veilig voor alle strijkbare stoffen; SmartFlow-stoomplaat voorkomt schroeischade, ook op delicate stoffen
-- COMPACT EN OPVOUWBAAR - Lichtgewicht, opvouwbaar en makkelijk op te bergen; perfect voor thuis of onderweg
 - EENVOUDIG KREUKVRIJ - Automatische continue stoom tot 20 g/min maakt strijken snel en moeiteloos; stoom horizontaal voor moeilijk bereikbare plekken zoals kragen
 - VERFRIST ZONDER WASSEN - Verwijdert geurtjes en doodt 99,9% van de bacteriën; ideaal om kleding tussen wasbeurten door op te frissen*
+- COMPACT EN OPVOUWBAAR - Lichtgewicht, opvouwbaar en makkelijk op te bergen; perfect voor thuis of onderweg
 - IN DE VERPAKKING - Handstomer en reisetui inbegrepen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

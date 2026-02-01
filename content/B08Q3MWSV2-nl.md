@@ -28,16 +28,16 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Geschikt voor Apple en Android
-- Magnetische oortjes met automatisch afspelen/pauzeren
-- Urenlang draagcomfort met de Flex-Form-kabel en vier verschillende oorkussentjes
-- Inhoud van de verpakking: Draadloze Beats Flex-oortjes, USB-C-naar-USB-C-oplaadkabel, Oorkussentjes in vier formaten, Beknopte handleiding, Garantiekaart
-- Class 1 Bluetooth voor een groter bereik en minder uitval
-- Met audiodeling kun je audio draadloos delen met een andere Beats-koptelefoon of AirPods
 - Tot maar liefst 12 uur luisteren
+- Magnetische oortjes met automatisch afspelen/pauzeren
+- Met audiodeling kun je audio draadloos delen met een andere Beats-koptelefoon of AirPods
+- Inhoud van de verpakking: Draadloze Beats Flex-oortjes, USB-C-naar-USB-C-oplaadkabel, Oorkussentjes in vier formaten, Beknopte handleiding, Garantiekaart
 - Met Apple W1-koptelefoonchip voor probleemloze connectiviteit
-- On-ear-bediening voor muziek, telefoongesprekken en spraakbediening
 - Ingebouwde microfoon met windonderdrukking voor een beter stemgeluid
+- Geschikt voor Apple en Android
+- On-ear-bediening voor muziek, telefoongesprekken en spraakbediening
+- Urenlang draagcomfort met de Flex-Form-kabel en vier verschillende oorkussentjes
+- Class 1 Bluetooth voor een groter bereik en minder uitval
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08Q3MWSV2{{</world>}}

@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Dolby Audio 7.1 Surround Sound op pc en Mac: De meegeleverde USB-adapter maakt een audio-ervaring via meerdere kanalen mogelijk, zodat je volledig opgaat in je game
 - Discord-certificering: Voor kristalheldere communicatie en uitzonderlijk geluid
-- Urenlang comfortabel gamen: De verstelbare kunstleren oorschelpen met traagschuim en verstelbare hoofdband zorgen dat het gewicht van slechts 273 gram comfortabel
 - Omnidirectionele microfoon: Registreert nauwgezet al je oproepen en commando’s en beschikt over een handige flip-to-mute-functie
+- Urenlang comfortabel gamen: De verstelbare kunstleren oorschelpen met traagschuim en verstelbare hoofdband zorgen dat het gewicht van slechts 273 gram comfortabel
+- Dolby Audio 7.1 Surround Sound op pc en Mac: De meegeleverde USB-adapter maakt een audio-ervaring via meerdere kanalen mogelijk, zodat je volledig opgaat in je game
 - Corsair gaming-audio: De hoogwaardige, 50 mm neodymium-audiodrivers leveren een uitstekende geluidskwaliteit met het bereik om in het heetst van en ondersteunen Tempest 3D-audio op PS5
 
 [🛒 Buy it!!]({{< param buyurl >}})

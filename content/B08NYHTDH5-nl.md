@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Praktisch
 - Merk: Nike
 - Eersteklas kwaliteit
+- Praktisch
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08NYHTDH5{{</world>}}

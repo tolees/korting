@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- DERMA CONTROL: getest onder dermatologisch toezicht
-- S.O.S. PIMPLE PASTE om puistjes en imperfecties s nachts te vervagen
-- VERRIJKT MET 5% Niaciamide + Glycolzuur
 - GESCHIKT VOOR een vette huid die vatbaar is voor oneffenheden
+- VERRIJKT MET 5% Niaciamide + Glycolzuur
+- DERMA CONTROL: getest onder dermatologisch toezicht
 - LOREAL PARIS MEN EXPERT DERMA CONTROL S.O.S. PIMPLE PASTE
+- S.O.S. PIMPLE PASTE om puistjes en imperfecties s nachts te vervagen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DSJM6L7D{{</world>}}

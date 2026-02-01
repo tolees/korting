@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Meeslepende interieurdetails en thematische resonantie: met meer dan 100 gedrukte onderdelen en rijke interieurdetails, waaronder automodellen, kleispeelgoed, dinosaurus- en treinscènes, wordt de winkelervaring van de speelgoedwinkel levendig nagebootst. Het koppelen van verschillende LUMI bouwstenen, ontwaken vol herinneringen en bouwplezier
 - Verzamelminifiguren en bordspelbonus: de set bevat unieke minifiguren zoals een clown, een oude winkelier, een speelgoedjager en een schrijver van het Book Café, die verhalen vertellen combineert met verzamelwaarde. Samen met een bordspel met een westers thema combineert het bouwen en interactie voor eindeloos plezier
 - [Hoe de lichten aan te zetten] Werkt via USB-poort of batterijpakket (batterijen niet inbegrepen, vereist 3 × AA)
-- Meeslepende interieurdetails en thematische resonantie: met meer dan 100 gedrukte onderdelen en rijke interieurdetails, waaronder automodellen, kleispeelgoed, dinosaurus- en treinscènes, wordt de winkelervaring van de speelgoedwinkel levendig nagebootst. Het koppelen van verschillende LUMI bouwstenen, ontwaken vol herinneringen en bouwplezier
-- Klassieke Europese architectonische stijl: geïnspireerd door Edwardiaanse architectuur in het Verenigd Koninkrijk, aangevuld met exclusieve persimmon-rode bakstenen, die de charme van klassieke Europese wijken laten zien. Versierd met ballonnen, geschenkdozen en kleurrijke etalages, combineert het model speelsheid met verzamelbare schoonheid. (Standaard grondplaat: 32*32 noppen)
-- Atmosferische verlichtingservaring: Met 10 ingebouwde lichtpunten, voornamelijk warm wit, die de gezellige avondatmosfeer van een Europees stadje nabootst. Roterende lampen verlichten het winkelbord en creëren een lichtbakeffect dat het hele straatbeeld meer meeslepend maakt
 - 2-in-1 modulair poppenhuisfunctie: de voorgevel kan snel worden verwijderd, waardoor het gebouw onmiddellijk verandert in een poppenhuisdisplay. Zes kamers zijn uittrekbaar en uitwisselbaar, terwijl modulaire binnenplanken doe-het-zelf maatwerk mogelijk maken, wat plezier toevoegt aan zowel bouwen als tentoonstellen
+- Atmosferische verlichtingservaring: Met 10 ingebouwde lichtpunten, voornamelijk warm wit, die de gezellige avondatmosfeer van een Europees stadje nabootst. Roterende lampen verlichten het winkelbord en creëren een lichtbakeffect dat het hele straatbeeld meer meeslepend maakt
+- Klassieke Europese architectonische stijl: geïnspireerd door Edwardiaanse architectuur in het Verenigd Koninkrijk, aangevuld met exclusieve persimmon-rode bakstenen, die de charme van klassieke Europese wijken laten zien. Versierd met ballonnen, geschenkdozen en kleurrijke etalages, combineert het model speelsheid met verzamelbare schoonheid. (Standaard grondplaat: 32*32 noppen)
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FKN9D9K8{{</world>}}

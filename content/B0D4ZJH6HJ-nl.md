@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Briljant licht - Ervaar helder licht door de 1700 lumen LEDs
 - Ontdek de volledige kracht van Hue - Voeg een Hue bridge toe om te profiteren van automatisering, bediening vanaf elke plek ter wereld en een veilige, stabiele verbinding die uw wifi niet belast. Gebruik Matter om uw slimme led-lampen, huishoudelijke apparaten te verbinden met uw slimme Hue-verlichtingssysteem
-- Containing product: Deze hue lichtstrip is geclassificeerd als een Containing product vanwege de permanent geïnstalleerde lichtbron. Daarom is er geen EEL-label aanwezig en vereist
-- Perfect voor grote oppervlakten - ideale verlichting om grotere oppervlakten met zacht, stijlvol indirect licht te verlichten. Bevestig de 5 meter lange lichtstrip bijvoorbeeld op kastplanken, koven, onder keukenkastjes of achter steunbalken
 - 16 miljoen kleuren en 50.000 wittinten - wij geloven dat RGB-LEDs nooit gemend mogen worden om wit licht te creëren. Daarom gebruiken onze lightstrips alleen RGBWW-LEDs voor kleuren en puur wit licht. Zo heb je keuze uit 16 miljoen kleuren en 50.000 wittinten, zo heb je altijd het juiste licht voor elk moment
+- Briljant licht - Ervaar helder licht door de 1700 lumen LEDs
+- Perfect voor grote oppervlakten - ideale verlichting om grotere oppervlakten met zacht, stijlvol indirect licht te verlichten. Bevestig de 5 meter lange lichtstrip bijvoorbeeld op kastplanken, koven, onder keukenkastjes of achter steunbalken
 - Gemakkelijk te installeren - Knip je lichtstrip op maat van je ruimte. Daarna plakken, aansluiten en gebruiken. Houd er rekening mee dat je ze niet opnieuw kunt aansluiten als je ze eenmaal hebt doorgeknipt
+- Containing product: Deze hue lichtstrip is geclassificeerd als een Containing product vanwege de permanent geïnstalleerde lichtbron. Daarom is er geen EEL-label aanwezig en vereist
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0D4ZJH6HJ{{</world>}}

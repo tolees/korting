@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Levensduur van de batterij is meer dan 400 uur ononderbroken met behulp van revolutionaire energie-efficiente technologie
+- Ultra-lage latentie draadloze technologie met automatische kanaaloptimalisatie voor wired-like prestaties
 - Gemaakt van duurzame materialen en uitgerust met 60 miljoen kliks mechanische switches (6x de standaard)
 - Quantum 2.0 Dual Wireless biedt de flexibiliteit van supersnelle draadloze gamingkwaliteit via 2.4 GHz en handige Bluetooth 5.0 voor directe koppeling met pc, Mac, laptops en meer
-- Ultra-lage latentie draadloze technologie met automatische kanaaloptimalisatie voor wired-like prestaties
 - TrueMove Air optische gamingsensor voor de beste prestaties in zijn klasse in beide draadloze modi
 
 [🛒 Buy it!!]({{< param buyurl >}})

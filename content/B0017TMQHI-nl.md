@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Euphoria is een verleidelijke en onweerstaanbare geur die de belofte van onvergetelijke herinneringen brengt levenlust opwekt en inspireert tot het opdoen van nieuwe ervaringen
-- Mysterieus
 - Euphoria for Women is een Eau de Parfum die vrouwelijkheid uitstraalt
 - Uitdagend
+- Euphoria is een verleidelijke en onweerstaanbare geur die de belofte van onvergetelijke herinneringen brengt levenlust opwekt en inspireert tot het opdoen van nieuwe ervaringen
 - Spannend
+- Mysterieus
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0017TMQHI{{</world>}}

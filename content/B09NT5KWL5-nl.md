@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Voor een gladdere en stevigere huid
 - Vermindert zichtbaar rimpels, verstevigt en laat de huid stralen
-- Herstellend antioxidant complex met neohesperidine en vitamine E
+- Voor een gladdere en stevigere huid
 - Ondersteunt de natuurlijke celvernieuwing
+- Herstellend antioxidant complex met neohesperidine en vitamine E
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09NT5KWL5{{</world>}}

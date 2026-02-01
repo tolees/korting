@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Inhoud: 75 ml
 - Deze verfrissende balsem helpt bij vermoeide of transpirerende voeten en remt eeltvorming en blaren.
+- Inhoud: 75 ml
 - 1 Stuk
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - De voedende formule is olievrij, geurvrij en verstopt de poriën niet.
-- Deze formule resulteert in een soepele, gezond uitziende huid en versterkt de huidbarrière tot wel 80%. Voedt en hydrateert de huid optimaal.
 - De Neutrogena Hydro Boost Gel Crème is geschikt voor de droge huid en is ontwikkeld in samenwerking met dermatologen.
+- Deze formule resulteert in een soepele, gezond uitziende huid en versterkt de huidbarrière tot wel 80%. Voedt en hydrateert de huid optimaal.
 - De watergelformule bevat hydraterende ingrediënten zoals: aminozuren, elektrolyten, hyaluronzuur en ceramiden. Klinisch bewezen 72 uur hydratatie.
 - De nieuwe formule van de Neutrogena Hydro Boost Gel Crème is ontworpen om de huid tot wel 6x meer te hydrateren gedurende 72 uur.
 

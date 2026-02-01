@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 2 borden (24 cm) en 2 schalen (750 ml) in stijlvol kartonnen bord, 2 buikige bekers met handig handvat, speelse motieven als blikvanger.
-- Decoratief porseleinservies in nostalgisch design voor maximaal twee personen, ideaal voor de kerstontbijt
-- Inhoud: 1 x Villeroy & Boch Toys Delight Red "Breakfast for Two" ontbijtservice 6-delig, materiaal: Premium porselein, kleur: wit/rood.
 - Past bij Toys Delight Royal Classic en Toys Fantasy, ook geschikt als kerstcadeau.
+- Decoratief porseleinservies in nostalgisch design voor maximaal twee personen, ideaal voor de kerstontbijt
+- 2 borden (24 cm) en 2 schalen (750 ml) in stijlvol kartonnen bord, 2 buikige bekers met handig handvat, speelse motieven als blikvanger.
 - Gemaakt van hoogwaardig en bijzonder robuust premium porselein, ideaal voor dagelijks gebruik, kan met een vochtige doek worden schoongemaakt.
+- Inhoud: 1 x Villeroy & Boch Toys Delight Red "Breakfast for Two" ontbijtservice 6-delig, materiaal: Premium porselein, kleur: wit/rood.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B008V8ISEI{{</world>}}

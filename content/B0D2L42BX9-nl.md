@@ -28,15 +28,15 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Besturingssysteem: Android
-- Draadloze provider: all-carriers
-- Opslagcapaciteit: 256,0 GB
 - realme Smartphone GT 6T 256GB 8GB Razor Green EU
-- Draadloze netwerktechnologie: wifi
-- Cellular-technologie: 5G
-- Inclusief componenten: USB-kabel
 - Transportbeperkingen: {modes:["AIR", "GROUND], eval_attrs:{{4AEA6u6jgYPen4a+nN6ahI6RaGF6bWF0U3ltYm9sVGFibGWFIQGIIV7ep7vdskg/7Cj1wo9cKbNxXa9xOK" Xdsk" Xdsk" HAt. XwAAAAAALNxNaNxX+NxMw ==}}}
+- Inclusief componenten: USB-kabel
 - Batterijen inbegrepen: True
+- Opslagcapaciteit: 256,0 GB
+- Besturingssysteem: Android
+- Cellular-technologie: 5G
+- Draadloze netwerktechnologie: wifi
+- Draadloze provider: all-carriers
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0D2L42BX9{{</world>}}

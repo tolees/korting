@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Loopzool: 100% gevulkaniseerd rubber
 - Bovenmateriaal: 100% stof (100% gerecycled katoen)
+- Loopzool: 100% gevulkaniseerd rubber
 - Voering: 60% textiel (45% gerecycled PET - 35% gerecycled katoen - 20% viscose), 40% gerecycled PET
 - Kleur: medium groen
 

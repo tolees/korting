@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Afmeting gemaakte puzzel is ca. 10,3 x 11,2 x 4,8 cm
 - PRECISION FIT - Hoe groot of klein onze puzzels ook zijn, ze zijn met precisie gemaakt zodat elk stukje perfect past
-- Voor kinderen van een leeftijd van 7 jaar
 - HOGE KWALITEIT – De Ravensburger 3D-puzzels zullen je overtuigen met premium kwaliteit, zowel qua inhoud als materiaal
+- Voor kinderen van een leeftijd van 7 jaar
+- Afmeting gemaakte puzzel is ca. 10,3 x 11,2 x 4,8 cm
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07ZJGZJRJ{{</world>}}

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Oftalmologisch getest, geschikt voor gevoelige ogen en lensdragers
-- Eindeloos lengte en natuurlijk ogend volume
-- Flexibele borstel die elke wimper bereikt
-- Verrijkt met bamboe extract voor eindeloos lange wimpers, zonder te verzwaren
 - Geschikt voor gevoelige ogen
+- Oftalmologisch getest, geschikt voor gevoelige ogen en lensdragers
+- Flexibele borstel die elke wimper bereikt
+- Eindeloos lengte en natuurlijk ogend volume
+- Verrijkt met bamboe extract voor eindeloos lange wimpers, zonder te verzwaren
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08P4YPB8Q{{</world>}}

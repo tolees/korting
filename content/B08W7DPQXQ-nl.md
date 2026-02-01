@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Fire Truck Coloring Book: Variety of Fire Truck Images to Color | for Kids Ages 4-8'
-date: 2026-01-26 17:53:44
+title: 'Fire Truck Coloring Book: Variety of Fire Truck Images to Color | for Kids Ages 4-8 : Publishing Sunrise to Sunset Boeken'
+date: 2026-01-31 15:41:39
 image: 'https://m.media-amazon.com/images/I/51AqaiTviUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,7 +13,7 @@ actualPrice: 5.29 EUR
 currency: EUR
 price: 5.29
 comparePrice: 7.44 EUR
-prodname: 'Fire Truck Coloring Book: Variety of Fire Truck Images to Color | for Kids Ages 4-8'
+prodname: 'Fire Truck Coloring Book: Variety of Fire Truck Images to Color | for Kids Ages 4-8 : Publishing Sunrise to Sunset Boeken'
 country: 'nl'
 flag: '🇳🇱'
 brand: ''

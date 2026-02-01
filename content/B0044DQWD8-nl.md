@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Lichtgewicht: minimaal gewicht.
+- Certificaat van de Leather Working Group
 - Hoofdmateriaal: glad leer.
 - Ongelooflijk flexibel.
-- Certificaat van de Leather Working Group
 - Kleur: zwart.
-- Lichtgewicht: minimaal gewicht.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0044DQWD8{{</world>}}

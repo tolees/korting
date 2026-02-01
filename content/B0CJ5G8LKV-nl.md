@@ -28,15 +28,15 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- ✓ Panoramisch volume van hoek tot hoek
-- ✓ Korte & lange borstelhaartjes voor 1.4x* groter uitziende ogen (*Instrumentele test, 30 personen)
 - ✓ Beschikbaar in bruin & zwart
+- ✓ Panoramisch volume van hoek tot hoek
 - Value1: AQUA / WATER / EAU PROPYLENE GLYCOL STYRENE/ACRYLATES/AMMONIUM METHACRYLATE COPOLYMER POLYURETHANE-35 CERA ALBA / BEESWAX / CIRE DABEILLE SYNTHETIC FLUORPHLOGOPITE GLYCERYL STEARATE CETYL ALCOHOL PEG-200 GLYCERYL STEARATE ETHYLENEDIAMINE/STEARYL DIMER DILINOLEATE COPOLYMER
-- ✓ Lengte, separatie & volume
 - ✓ Verrijkt met 5% stretchflex complex
+- ✓ Korte & lange borstelhaartjes voor 1.4x* groter uitziende ogen (*Instrumentele test, 30 personen)
 - COPERNICIA CERIFERA CERA / CARNAUBA WAX / CIRE DE CARNAUBA STEARIC ACID PALMITIC ACID ETHYLENE/VA COPOLYMER ALCOHOL DENAT. PARAFFIN AMINOMETHYL PROPANEDIOL PHENOXYETHANOL CAPRYLYL GLYCOL GLYCERIN HYDROXYETHYLCELLULOSE BUTYLENE GLYCOL METHYLPROPANEDIOL XANTHAN GUM CAPRYLIC/CAPRIC TRIGLYCERIDE SODIUM LAURETH SULFATE RAYON MYRISTIC ACID TETRASODIUM EDTA PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE POTASSIUM SORBATE PHENYLPROPANOL SILICA BAMBUSA VULGARIS EXTRACT
-- ✓ Geschikt voor alle wimpertypes, gevoelige ogen, dragers van contactlenzen
+- ✓ Lengte, separatie & volume
 - ✓ Oogheelkundig getest
+- ✓ Geschikt voor alle wimpertypes, gevoelige ogen, dragers van contactlenzen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CJ5G8LKV{{</world>}}

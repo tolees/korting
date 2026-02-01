@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Uitneembare binnenzool
-- Het Zero Shock-systeem met schokabsorberende bolletjes versterkt het dempingseffect en biedt meer bescherming tegen schokken en stress.
 - Lichtgewicht schoeisel voor meer bewegingsvrijheid.
+- Het Zero Shock-systeem met schokabsorberende bolletjes versterkt het dempingseffect en biedt meer bescherming tegen schokken en stress.
+- Uitneembare binnenzool
 - De gepatenteerde Geox-systemen garanderen de ademende werking van de buitenzool, zodat de voet comfortabel blijft.
 - Gemakkelijk aanpasbare pasvorm, dankzij de vetersluiting.
 

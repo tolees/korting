@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- ✅ 【Cadeauverstuiver-editie】 Bevat een elegante verstuiver, waarmee je je geur nauwkeuriger en gelijkmatiger kunt aanbrengen, ideaal voor het meenemen en naroeren van je parfum indien nodig.
-- Khamrah-geur: een oosterse geur van hoge kwaliteit met zoete noten van vanille, kaneel en kruidige houtsoorten, die voor een unieke en langdurige geurervaring zorgen.
 - Schattig oosterse unisex parfum: Khamrah is een unisex geur met een fascinerende mix van vanille, kruiden en houtachtige noten, ideaal voor degenen die op zoek zijn naar een omhullende geur, perfect als cadeau.
-- Origineel uit Dubai (U.A.E.) Khamrah is 100% origineel en wordt rechtstreeks uit de Verenigde Arabische Emiraten geïmporteerd en garandeert authenticiteit en luxe in elke fles.
 - Duurzame en aantrekkelijke geur voor elke gelegenheid: met zijn mix van zoete en kruidige noten is Khamrah ideaal voor zowel overdag als s nachts en laat een onvergetelijke geur achter.
+- Khamrah-geur: een oosterse geur van hoge kwaliteit met zoete noten van vanille, kaneel en kruidige houtsoorten, die voor een unieke en langdurige geurervaring zorgen.
+- Origineel uit Dubai (U.A.E.) Khamrah is 100% origineel en wordt rechtstreeks uit de Verenigde Arabische Emiraten geïmporteerd en garandeert authenticiteit en luxe in elke fles.
+- ✅ 【Cadeauverstuiver-editie】 Bevat een elegante verstuiver, waarmee je je geur nauwkeuriger en gelijkmatiger kunt aanbrengen, ideaal voor het meenemen en naroeren van je parfum indien nodig.
 - Inclusief praktische 5 ml verstuiver (willekeurige kleur). Perfect om je favoriete geur comfortabel en draagbaar te dragen. Ideaal voor op reis of om je parfum altijd binnen handbereik te hebben, zonder de hele fles mee te hoeven nemen.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - En het bandje is snel en makkelijk verstelbaar, ook onderweg. Dit bandje is CO₂‑neutraal.
-- Het ultradunne en lichte Trail-bandje is gemaakt van geweven nylon. Daardoor voelt het zacht aan en is het extra elastisch, zodat het altijd prettig zit.
 - Qua gewicht bestaat het Trail-bandje voor 32% uit gerecycled materiaal, bij de productie wordt alleen schone elektriciteit gebruikt en minimaal de helft van alle CO₂‑neutrale Apple Watch-producten wordt niet per vliegtuig vervoerd.
+- Het ultradunne en lichte Trail-bandje is gemaakt van geweven nylon. Daardoor voelt het zacht aan en is het extra elastisch, zodat het altijd prettig zit.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CHX1K3V3{{</world>}}

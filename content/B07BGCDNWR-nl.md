@@ -30,9 +30,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Milieuvriendelijk: door het gebruik van sojawas is de kaars vrij van giftige stoffen. Bovendien is de geurkaars roetarm en bekoort door zijn lange brandduur van 24 uur
 - Inhoud: 1 x geurkaars French Cotton Afmetingen H 8 cm, Ø 6,5 cm, uit het traditionele bedrijf Blomus
-- Trendy, trendy design: door de betonlook wordt de geurkaars een unieke blikvanger in je huis en een decoratief accessoire
 - Hoogwaardige verpakking: de kaarsen zijn verpakt in een hoogwaardige geschenkverpakking van Blomus Ze zijn dus ideaal als cadeau
 - Verfrissend en krachtig: de geurkaars verspreidt een verfrissende geur van French Cotton. Een compositie van bloemige aromas met een kruid-zoete noot
+- Trendy, trendy design: door de betonlook wordt de geurkaars een unieke blikvanger in je huis en een decoratief accessoire
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07BGCDNWR{{</world>}}

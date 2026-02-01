@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- OFFICIEEL LICENTIE: Dit verzamelobject van hoge kwaliteit is een unieke toevoeging aan de set van elke fan. Geef deze coole verzamelwaar aan moeders, vaders, fans, afgestudeerden, kinderen, jongens en meiden die van popcultuurplezier houden!
-- HOT ITEM: Of je nu een koffieliefhebber, theefan of kenner van warme chocolademelk bent, deze mok is voor jou. Gemaakt van duurzaam materiaal en een cool ontwerp, zal het je dag thuis of op kantoor opfleuren.
-- R2D2 MOK: Of je nu een drankje nodig hebt tijdens een reis door de melkweg, of een koele mok wilt om vast te houden tijdens het kijken naar de Star Wars-filmserie, deze reismok is voor jou.
-- IN EEN GALAXY FAR, FAR AWAY: deze mok is gemaakt voor de sci-fi-fan, met R2-D2, een favoriete droid die samen met zijn vriend C-3PO deel uitmaakte van veel van de Star Wars-films.
 - ORIGINELE GIFTWARE: Voor degenen in het fandom die op zoek zijn naar nieuwe items en alles wat geek, gek en uniek is, is Paladone je beste bron voor best verkopend speelgoed, mokken, verzamelobjecten en nieuwigheden.
+- IN EEN GALAXY FAR, FAR AWAY: deze mok is gemaakt voor de sci-fi-fan, met R2-D2, een favoriete droid die samen met zijn vriend C-3PO deel uitmaakte van veel van de Star Wars-films.
+- R2D2 MOK: Of je nu een drankje nodig hebt tijdens een reis door de melkweg, of een koele mok wilt om vast te houden tijdens het kijken naar de Star Wars-filmserie, deze reismok is voor jou.
+- HOT ITEM: Of je nu een koffieliefhebber, theefan of kenner van warme chocolademelk bent, deze mok is voor jou. Gemaakt van duurzaam materiaal en een cool ontwerp, zal het je dag thuis of op kantoor opfleuren.
+- OFFICIEEL LICENTIE: Dit verzamelobject van hoge kwaliteit is een unieke toevoeging aan de set van elke fan. Geef deze coole verzamelwaar aan moeders, vaders, fans, afgestudeerden, kinderen, jongens en meiden die van popcultuurplezier houden!
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B074VJ2HPT{{</world>}}

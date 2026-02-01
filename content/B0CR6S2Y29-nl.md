@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Geen schilfers, makkelijk aan te brengen en net zo zacht en makkelijk te verwijderen.
 - Met ons unieke tweezijdige borsteltje dat de wimpers van de aanzet tot de punt volume geeft zonder te klonteren.
+- De sneldrogende formule bevat vitamine C en phytocycle sinaasappel(extract) om de wimpers er fris en energiek uit te laten zien.
 - Bourjois Volume Glamour Lift & Stretch Mascara – zeg ‘bonjour’ tegen een wakkere oogopslag!
 - Lift de wimpers in een hoek tot wel 20 graden en maakt ze langer.
-- De sneldrogende formule bevat vitamine C en phytocycle sinaasappel(extract) om de wimpers er fris en energiek uit te laten zien.
+- Geen schilfers, makkelijk aan te brengen en net zo zacht en makkelijk te verwijderen.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CR6S2Y29{{</world>}}

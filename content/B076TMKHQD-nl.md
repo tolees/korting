@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Zandloper hoogpolig fleece
 - Handzakken
+- Zandloper hoogpolig fleece
 - 100% polyester
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Vermindert de zichtbaarheid van striae, zonnevlekken en pigmentvlekken
 - Zichtbaar verminderde vlekken in 4 weken*
-- Eenmaal per dag aanbrengen op doelgebied
-- Lichte textuur
 - 48u hydratatie
+- Eenmaal per dag aanbrengen op doelgebied
+- Vermindert de zichtbaarheid van striae, zonnevlekken en pigmentvlekken
+- Lichte textuur
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CS7JB1SG{{</world>}}

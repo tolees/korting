@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Neodymium magneet: 13,5 mm driver unit voor krachtige basklanken
-- Oordopjes inbegrepen: met 2 paar oordopjes voor een veilige pasvorm.
-- Kleurkeuze: Grote keuze aan kleuren geschikt voor muziekspeler of gewoon in je favoriete kleur.
 - Kabel (1,2 m): stabiele en lichte kabel van 1,2 m.
+- Oordopjes inbegrepen: met 2 paar oordopjes voor een veilige pasvorm.
 - Passend bij een muziekspeler: gebruik je hoofdtelefoon samen met een WALKMAN, iPod of mp3-speler
+- Kleurkeuze: Grote keuze aan kleuren geschikt voor muziekspeler of gewoon in je favoriete kleur.
+- Neodymium magneet: 13,5 mm driver unit voor krachtige basklanken
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B004MMG34Y{{</world>}}

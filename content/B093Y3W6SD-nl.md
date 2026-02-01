@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Star Wars Logo Light, wandmontage en vrijstaand
 - Officieel gelicentieerde merchandise
 - Paladone
-- Star Wars Logo Light, wandmontage en vrijstaand
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B093Y3W6SD{{</world>}}

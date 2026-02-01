@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Duurzame design zorgt voor lang gebruik
-- Schoenen van het merk Columbia
 - Gemaakt van duurzame materialen
+- Schoenen van het merk Columbia
 - Comfortabel en licht design
 
 [🛒 Buy it!!]({{< param buyurl >}})

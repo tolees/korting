@@ -31,8 +31,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 - Extreem veelzijdig: het uitgekiende design van deze longdrinkglazen is ideaal voor zowel dagelijkse maaltijden als voor feestelijke beleggingen
 - Inhoud: 1 x Villeroy & Boch NewMoon longdrink-glasset, houdbaar: 370 ml meegemeten, gewicht: 1,2 kg (artikelnr. 11-3653-8260)
 - Leuk cadeau-idee: deze longdrinkglazen zijn een uitstekend cadeau voor goede vrienden, familie en iedereen die van ongewone ontwerpen houdt
-- Fascinerend modern: de onconventionele, asymmetrische rand van de bril zal ieders aandacht trekken en een frisse wind op je tafel brengen
 - Premium kwaliteit: dit kristalglas is gemaakt om lang mee te gaan en behoudt zijn glans zelfs gedurende vele jaren
+- Fascinerend modern: de onconventionele, asymmetrische rand van de bril zal ieders aandacht trekken en een frisse wind op je tafel brengen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B084QXPCXF{{</world>}}

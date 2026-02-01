@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- De gepatenteerde Geox-systemen garanderen de ademende werking van de buitenzool, zodat de voet comfortabel blijft.
-- Lichtgewicht schoeisel voor meer bewegingsvrijheid.
-- Gemakkelijk aanpasbare pasvorm, dankzij de vetersluiting.
 - Schoeisel dat optimale warmte-isolatie biedt.
+- De gepatenteerde Geox-systemen garanderen de ademende werking van de buitenzool, zodat de voet comfortabel blijft.
+- Gemakkelijk aanpasbare pasvorm, dankzij de vetersluiting.
+- Lichtgewicht schoeisel voor meer bewegingsvrijheid.
 - Uitneembare binnenzool
 - Amphibiox-technologie maakt het bovenwerk waterdicht, voor superieure bescherming in alle weersomstandigheden
 

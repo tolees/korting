@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Wifi automatisch synchroniseren – voeg extra extenders toe aan je Powerline-netwerk en synchroniseer de instellingen van al je apparaten, zoals het wachtwoord, de SSID, wifi-schemas en led-schemas
 - OneMeshTM - werkt in combinatie met je OneMeshTM -router om een uniform mesh-netwerk op te zetten zodat je naadloos kunt streamen binnen je woning
-- Wifi configureren met een druk op de knop - met een druk op de wifi-knop kopieer je de netwerknaam en het -wachtwoord van je router Alle wijzigingen van de wifi-instellingen worden automatisch toegepast binnen het hele Powerline-netwerk
-- HomePlug AV2-standaard - biedt supersnelle Powerline-overdrachtssnelheden tot 1300 Mbps*. AC1200 dual-band wifi - breidt de supersnelle dual-band wifi uit met snelheden tot 867 Mbps op de 5GHz-band en 300 Mbps op de 2.4GHz-band*
 - 3x gigabit-poorten – biedt beveiligde bekabelde netwerken voor desktops, smart-tvs of gameconsoles
+- Wifi automatisch synchroniseren – voeg extra extenders toe aan je Powerline-netwerk en synchroniseer de instellingen van al je apparaten, zoals het wachtwoord, de SSID, wifi-schemas en led-schemas
+- Wifi configureren met een druk op de knop - met een druk op de wifi-knop kopieer je de netwerknaam en het -wachtwoord van je router Alle wijzigingen van de wifi-instellingen worden automatisch toegepast binnen het hele Powerline-netwerk
 - Extra stopcontact - dankzij het geïntegreerde stopcontact kun je nog steeds andere apparaten aansluiten
+- HomePlug AV2-standaard - biedt supersnelle Powerline-overdrachtssnelheden tot 1300 Mbps*. AC1200 dual-band wifi - breidt de supersnelle dual-band wifi uit met snelheden tot 867 Mbps op de 5GHz-band en 300 Mbps op de 2.4GHz-band*
 - Plug-and-play – stel je Powerline-netwerk in en geniet in slechts enkele minuten van snelle, naadloze bekabelde/draadloze verbindingen
 
 [🛒 Buy it!!]({{< param buyurl >}})

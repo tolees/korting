@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - High-Speed Data Transmission: This xbox series x stand has a USB 3.0 port and two USB 2.0 ports. The USB 3.0 port supports high-speed data transmission with USB 2.0 ports for connection with charging gamepads, mobile phones and keyboard, controllers and so on.
-- RGB led light Stand: Our xbox series x cooling stand has RGB led light including 6-color lighting with independent on/off button. You can also DIY your favorite lighting effect on your xbox series x stand
-- Multi-function: Perfectly for your xbox series x, with the function of heat dissipation, RGB atmosphere light, provide you better gaming experience and extend the service time of device.
-- Warranty: Customer satisfaction is one of our highest priorities, so we give you 12 months worry-free warranty. If you have any questions about our product, please do not hesitate to contact us.
 - Adjustable Cooling System: Compare with other xbox series x fans, our xbox series x stand is equipped with one high speed fan, providing more effective air flow distribution with 3 level speed with 3 indicators, orange for low, blue for medium and green for high.
+- Multi-function: Perfectly for your xbox series x, with the function of heat dissipation, RGB atmosphere light, provide you better gaming experience and extend the service time of device.
+- RGB led light Stand: Our xbox series x cooling stand has RGB led light including 6-color lighting with independent on/off button. You can also DIY your favorite lighting effect on your xbox series x stand
+- Warranty: Customer satisfaction is one of our highest priorities, so we give you 12 months worry-free warranty. If you have any questions about our product, please do not hesitate to contact us.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0B7RPXSYB{{</world>}}

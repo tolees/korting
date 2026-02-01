@@ -30,8 +30,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - 108MP AI camera system;
 - 120Hz eye-care display,wet-hand touch
-- Corning Gorilla Glass 5;
 - MediaTek Helio G99-Ultra,6nm manufacturing process technology;
+- Corning Gorilla Glass 5;
 - 5500mAh batterij met 33W snel-laden;
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Hook up COMPATIABLE USB hardware to your microsoft xbox (snes and nes usb controllers are not compatiable).
+- Perfect for softmod or linux installations
 - Perfect for all developers and coders
 - For the original Xbox (does NOT work with Xbox 360 or Xbox One)
-- Hook up COMPATIABLE USB hardware to your microsoft xbox (snes and nes usb controllers are not compatiable).
 - USB Type - A Female Socket Adapter for your PC Keyboard or other USB Devices
-- Perfect for softmod or linux installations
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B076KL1YGF{{</world>}}

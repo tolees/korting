@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SwitchBot Smart Switch Button Pusher - Bluetooth App/Timer Control Makkelijk te Gebruiken met Drie Modi SwitchBot Hub Nodig om Compatibel te Zijn met Alexa Google Assistant Siri IFTTT Wit'
-date: 2026-01-30 17:53:29
+date: 2026-01-31 22:39:10
 image: 'https://m.media-amazon.com/images/I/316eAadOw2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: 'SwitchBot'
 buyurl: 'https://www.amazon.nl/dp/B07B7NXV4R/?tag=tolees0b-21'
 descuento: '27.24'
-average: '22.4200000000001'
+average: '22.3914285714286'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Timers - Gebruik de SwitchBot App om ingebouwde timers in te plannen, zonder telefoon of Hub. Zet verlichting of huishoudelijke apparaten automatisch aan of uit, zelfs als je weg bent. Maak je handen vrij.
+- Universeel - werkt goed met zowat elke tuimelschakelaar en knop van elk toestel (behalve aanraakschermschakelaar). Slimme knopdrukker voor je slimme huis. Met de bijgeleverde add-on sticker, één Bot helpt om je licht zowel aan als uit te zetten.
 - Nog beter met SwitchBot Hub - Met SwitchBot Hub Plus/Mini (ondersteunt alleen 2,4 GHz wifi), kan je je SwitchBot op afstand bedienen vanaf elke locatie en stembediening inschakelen. Werkt goed met Amazon Alexa, Google Assistant, Siri en IFTTT.
+- Timers - Gebruik de SwitchBot App om ingebouwde timers in te plannen, zonder telefoon of Hub. Zet verlichting of huishoudelijke apparaten automatisch aan of uit, zelfs als je weg bent. Maak je handen vrij.
 - Gemakkelijk op te zetten - 5-seconden installatie. Plak hem naast een tuimelschakelaar of knop met een 3M sticker. Geen verwisselen, geen gereedschap nodig. Eenvoudige bediening.
 - SwitchBot Ecosystem - Koppeling met andere SwitchBot producten is mogelijk. Open SwichBot-apparaten in ingestelde Scènes via de App. Ondersteunt SwitchBot API.
-- Universeel - werkt goed met zowat elke tuimelschakelaar en knop van elk toestel (behalve aanraakschermschakelaar). Slimme knopdrukker voor je slimme huis. Met de bijgeleverde add-on sticker, één Bot helpt om je licht zowel aan als uit te zetten.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07B7NXV4R{{</world>}}

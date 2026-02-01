@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Stabiel en betrouwbaar draadloos netwerk: het wifi-signaal dekt een breed scala aan gebieden af, die stabiel en betrouwbaar genoeg zijn voor de normale werking van alle met de hub verbonden apparaten. (Let op: Zigbee Hub moet werken in de 2,4 GHz wifi-frequentieband).
-- Een must voor alle ZigBee-producten: dit is een hub die verbinding maakt met een groot aantal ZigBee-smart-producten en de brug en een controlecentrum voor Smart Homes is, dat voor alle ZigBee-producten een onvervangbare rol speelt.
-- Dual protocol-ondersteuning: ondersteunt Zigbee, bluetooth mesh dual-protocollen en ondersteunt tegelijkertijd de wifi-bediening. Ongeacht of je apparaat wifi, ZigBee of Bluetooth ondersteunt, je kunt het samen via de gateway in de Smart Life-app bedienen. Communiceer met apparaten zoals ZigBee, bluetooth en wifi voor het koppelen van apparaten.
-- App en spraakbesturing: het toevoegen van apparaten, het resetten van apparaten, de besturing door derden en de groepsbesturing om aan de eisen van intelligente toepassingen te voldoen, worden allemaal ondersteund door de hub. Gebruik gewoon je smartphone om het met de hub verbonden externe veiligheidskit-systeem altijd en overal te bedienen. Compatibel met Alexa & Google Assistant:
 - Eenvoudig te installeren en te gebruiken: je hoeft geen netwerkkabel aan te sluiten, schakel gewoon deze intelligente gateway-hub in en verbind hem met de Smart Life-app of de Tuya Smart app. Binnen enkele minuten krijg je een intelligente thuisautomatisering.
+- Dual protocol-ondersteuning: ondersteunt Zigbee, bluetooth mesh dual-protocollen en ondersteunt tegelijkertijd de wifi-bediening. Ongeacht of je apparaat wifi, ZigBee of Bluetooth ondersteunt, je kunt het samen via de gateway in de Smart Life-app bedienen. Communiceer met apparaten zoals ZigBee, bluetooth en wifi voor het koppelen van apparaten.
+- Een must voor alle ZigBee-producten: dit is een hub die verbinding maakt met een groot aantal ZigBee-smart-producten en de brug en een controlecentrum voor Smart Homes is, dat voor alle ZigBee-producten een onvervangbare rol speelt.
+- Stabiel en betrouwbaar draadloos netwerk: het wifi-signaal dekt een breed scala aan gebieden af, die stabiel en betrouwbaar genoeg zijn voor de normale werking van alle met de hub verbonden apparaten. (Let op: Zigbee Hub moet werken in de 2,4 GHz wifi-frequentieband).
+- App en spraakbesturing: het toevoegen van apparaten, het resetten van apparaten, de besturing door derden en de groepsbesturing om aan de eisen van intelligente toepassingen te voldoen, worden allemaal ondersteund door de hub. Gebruik gewoon je smartphone om het met de hub verbonden externe veiligheidskit-systeem altijd en overal te bedienen. Compatibel met Alexa & Google Assistant:
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BDYF1Y1J{{</world>}}

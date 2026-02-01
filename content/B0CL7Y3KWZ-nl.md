@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - In totaal ca. 1347 stuks
+- Constructiespeelgoed dat bestaat uit een miniatuurteamtrainer
 - Verenigingsstickers voor de voorkant, de achterkant en de zijkanten van de bus inbegrepen
 - Afmetingen: ca. 23 cm x 8 cm x 6 cm in gemonteerde toestand
-- Constructiespeelgoed dat bestaat uit een miniatuurteamtrainer
 - Geschikt vanaf 12 jaar | Waarschuwing: verstikkingsgevaar – kleine onderdelen
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ravensburger Sneaker Grafitti Print - 3D puzzel - 108 stukjes'
-date: 2026-01-27 08:13:46
+date: 2026-01-31 22:39:28
 image: 'https://m.media-amazon.com/images/I/51TyVhIHOaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: 'Ravensburger'
 buyurl: 'https://www.amazon.nl/dp/B01MQYCBU4/?tag=tolees0b-21'
 descuento: '24.10'
-average: '16.97'
+average: '16.9326666666667'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Kinderen
-- Binnenshuis
 - Puzzel
+- Binnenshuis
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01MQYCBU4{{</world>}}

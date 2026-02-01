@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - 4 poorten met PoE aansluiting, gegevens en stroom kunnen worden verstuurd via een enkele kabel
-- Eenvoudige netwerkinstellingen en plug-and-play aansluiting
 - Web-based gebruikersinterface en Easy Smart Configuration Utility vereenvoudigen de configuratie
+- Eenvoudige netwerkinstellingen en plug-and-play aansluiting
 - 8 x 10/100/1000 MBps RJ45 poorten
 - Netwerk monitoring, verkeersprioriteiten en VLAN functies
 

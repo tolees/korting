@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Op het Magic Keyboard typ je heel prettig en nauwkeurig.
 - Bovendien is het draadloos en heeft het een oplaadbare batterij die ontzettend lang meegaat, waardoor je er ongeveer een maand of langer mee kan werken zonder opnieuw op te laden.
+- Op het Magic Keyboard typ je heel prettig en nauwkeurig.
 - Het maakt automatisch verbinding met je Mac, dus je kunt meteen aan de slag. Er zit een USB‑C-poort op en er wordt een geweven USB‑C-oplaadkabel meegeleverd. Daarmee kun je je Magic Keyboard aansluiten op een USB‑C‑poort op je Mac om te pairen en op te laden.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Vanwege platformcompatibiliteitsproblemen is de DJI Fly-app verwijderd van Google Play. Bezoek de officiële DJI-website om de gebruikershandleiding en de nieuwste DJI Fly-app te downloaden voor een betere ervaring.
-- Vlieg zonder zorgen - Deze 4K-cameradrone heeft propellerbeschermers van lichtgewicht koolstofvezel die volledige bescherming bieden voor u. Geniet van uw tijd met de drone!
+- Lichtgewicht en reguleringsvriendelijk - Met een gewicht van minder dan 249 g, [1] voldoet deze drone aan de C0-regelgeving, dus geen training of tests nodig. Hij is compact, handig en ideaal voor uw reizen!
 - Adembenemende 4K/60 fps HDR-video - Leg de schoonheid van zonsopgang en zonsondergang vast met ultra-high-definition video. Deze minidrone biedt een uitzonderlijke visuele ervaring, waardoor elk moment adembenemend lijkt.
 - Leg elk detail vast met 1/1.3-inch CMOS - De grotere sensor in deze 4K-cameradrone vangt meer licht op, wat zorgt voor helderdere beelden met levendige details, ideaal voor het vastleggen van zowel landschappen als portretten.
 - 31 min maximale vliegtijd - Laat batterijzorgen achterwege. Met tot 31 minuten vliegtijd [5] kan deze minidrone meer momenten vastleggen en verder verkennen zonder onderbrekingen.
-- Lichtgewicht en reguleringsvriendelijk - Met een gewicht van minder dan 249 g, [1] voldoet deze drone aan de C0-regelgeving, dus geen training of tests nodig. Hij is compact, handig en ideaal voor uw reizen!
+- Vlieg zonder zorgen - Deze 4K-cameradrone heeft propellerbeschermers van lichtgewicht koolstofvezel die volledige bescherming bieden voor u. Geniet van uw tijd met de drone!
 - Uw regisseur voor Onderweg - Met onderwerptracking blijft uw onderwerp in focus. Of u nu aan het wandelen bent of een feestje hebt, deze drone fungeert als uw persoonlijke cinematograaf en legt elke beweging vast.
+- Vanwege platformcompatibiliteitsproblemen is de DJI Fly-app verwijderd van Google Play. Bezoek de officiële DJI-website om de gebruikershandleiding en de nieuwste DJI Fly-app te downloaden voor een betere ervaring.
 - Inclusief de DJI Flip, RC 2-afstandsbediening met een helder scherm, één batterij en meer. Ideaal voor een verbeterde vliegervaring.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

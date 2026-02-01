@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Elke dag mooi voelen
 - Mooie aanwinst voor ieders persoonlijke verzorgingskit
 - Crème Clinique
+- Elke dag mooi voelen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B018URIZ8S{{</world>}}

@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Vermindert zichtbaar rimpels, lijntjes en kraaienpootjes
 - Verrijkt met hyaluronzuur en fibroxyl
 - Geeft de huid aanzienlijk meer volume en stevigheid
-- Vermindert zichtbaar rimpels, lijntjes en kraaienpootjes
 - Geschikt voor vrouwen vanaf 35 jaar, extra geschikt voor de rijpere huid
 
 [🛒 Buy it now!!]({{< param buyurl >}})

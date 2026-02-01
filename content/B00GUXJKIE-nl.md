@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Woodburn II Chukka Omni-Heat waterdichte wandelschoenen voor heren Bruin Cordovan x Garnet Red 42.5 EU'
-date: 2026-01-26 18:06:30
+date: 2026-01-31 22:23:37
 image: 'https://m.media-amazon.com/images/I/414jhQEgNWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Omni-Grip niet-markerend tractierubber
-- Waterdicht schoenen; Let op: veters en ritsen in Columbia Sportswear Company schoenen zijn niet waterdicht
-- Techlite lichtgewicht tussenzool voor langdurige superieure demping en hoge energieteruggave
 - Bovenwerk van waterdicht mesh/leer
-- Omni-Tech waterdichte ademende naad verzegelde membraan bootie constructie
 - Omni-Heat reflecterende voering
+- Techlite lichtgewicht tussenzool voor langdurige superieure demping en hoge energieteruggave
+- Waterdicht schoenen; Let op: veters en ritsen in Columbia Sportswear Company schoenen zijn niet waterdicht
 - Wandel en trekkingschoenen van het merk COLUMBIA
+- Omni-Tech waterdichte ademende naad verzegelde membraan bootie constructie
+- Omni-Grip niet-markerend tractierubber
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00GUXJKIE{{</world>}}

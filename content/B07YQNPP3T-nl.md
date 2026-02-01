@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Pikachu heeft bliksemschichten op zijn wangen, het symbool van de aanval met elektriciteit
-- De verpakking kan variëren
 - Dit bouwspeelgoed is perfect voor kinderen vanaf 6 jaar. Door te bouwen en te spelen ontwikkelen ze hun creativiteit en leren ze problemen op te lossen.
+- De verpakking kan variëren
 - De stenen kunnen gecombineerd worden met alle Mega Construx bouwsets en bouwsets van andere merken
 
 [🛒 Buy it!!]({{< param buyurl >}})

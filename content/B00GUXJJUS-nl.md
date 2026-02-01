@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Omni-Grip niet-markerend tractierubber
+- Wandel en trekkingschoenen van het merk COLUMBIA
 - Omni-Heat reflecterende voering
-- Omni-Tech waterdichte ademende naad verzegelde membraan bootie constructie
 - Bovenwerk van waterdicht mesh/leer
 - Techlite lichtgewicht tussenzool voor langdurige superieure demping en hoge energieteruggave
 - Waterdicht schoenen; Let op: veters en ritsen in Columbia Sportswear Company schoenen zijn niet waterdicht
-- Omni-Grip niet-markerend tractierubber
-- Wandel en trekkingschoenen van het merk COLUMBIA
+- Omni-Tech waterdichte ademende naad verzegelde membraan bootie constructie
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00GUXJJUS{{</world>}}

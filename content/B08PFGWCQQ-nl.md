@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Gevormde rubberen grip voor een comfortabele schrijfervaring
-- Slanke behuizing met een moderne matte afwerking voor een stijlvolle, professionele uitstraling
 - Intrekbaar, gebruiksvriendelijk ontwerp; met duurzame clip om de pen aan zakken, koffers, rugzakken en meer te bevestigen
-- De verpakking bevat 12 gelpennen met zwarte inkt; medium punt (0,7 mm)
+- Gevormde rubberen grip voor een comfortabele schrijfervaring
 - Deze gelpennen in opvallende inktkleuren vegen niet, vloeien niet uit en bieden een uiterst soepele en levendige schrijfervaring
+- Slanke behuizing met een moderne matte afwerking voor een stijlvolle, professionele uitstraling
+- De verpakking bevat 12 gelpennen met zwarte inkt; medium punt (0,7 mm)
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08PFGWCQQ{{</world>}}

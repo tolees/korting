@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- 5. Milieuvriendelijk, uv-bestendig (antioxige). Geschikt voor het printen van flexibele apparaten, zoals mobiele telefoonhoesjes, schoenen, kinderspeelgoed, enz.
 - 2. Duurzaam en rekbaar materiaal dat ook zeer flexibel is, het herstelt de oorspronkelijke vorm na het stretchen.
 - 3. Met correct instellen van TPU-kunststof is eenvoudiger dan PLA-plastic, om aan een verwarmd bed te kunnen klemmen.
-- 5. Milieuvriendelijk, uv-bestendig (antioxige). Geschikt voor het printen van flexibele apparaten, zoals mobiele telefoonhoesjes, schoenen, kinderspeelgoed, enz.
-- 1. Temperatuur: 200-220 °C voor warme temperaturen of 60-80 °C. Printsnelheid: 25-30 mm/s.
 - 4. Compatibel met de meeste FDM 3D-prints op de markt, zorgt ervoor dat de extruder-tension verstelbaar is voor gebruik met TPU.
+- 1. Temperatuur: 200-220 °C voor warme temperaturen of 60-80 °C. Printsnelheid: 25-30 mm/s.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07XNYTPN9{{</world>}}

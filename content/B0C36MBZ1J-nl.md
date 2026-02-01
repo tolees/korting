@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- ✔ PERFECT MATERIAAL - Het zachte 100% katoenen Pique zorgt voor een aangenaam draagcomfort en uitstekende comfort.
-- ✔ CLEAN - Slanke pasvorm, nette uitstraling met kraag en het nieuwe logo op de borst maakt het ontwerp perfect af.
 - ✔ EVERYDAY LOOK - Met sneakers en jeans maak je je basic outfit compleet! Een strakke allrounder van JACK & JONES!
+- ✔ CLEAN - Slanke pasvorm, nette uitstraling met kraag en het nieuwe logo op de borst maakt het ontwerp perfect af.
 - ✔ PREMIUM - Deze veelbelovende allrounder overtuigt door topkwaliteit en een zeer waardevolle afwerking.
+- ✔ PERFECT MATERIAAL - Het zachte 100% katoenen Pique zorgt voor een aangenaam draagcomfort en uitstekende comfort.
 - ✔ COMFORT - Uitstekend huidgevoel en volledige bewegingsvrijheid dankzij ademende en stevige stof.
 
 [🛒 Buy it!!]({{< param buyurl >}})

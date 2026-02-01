@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Officieel erkende Harry Potter merchandise.
-- Een comfortabel grijs Zweinstein shirt met gouden glitter details.
 - Compleet met contrasterende Bordeaux broek met een comfortabele elastische tailleband.
+- Een comfortabel grijs Zweinstein shirt met gouden glitter details.
+- Officieel erkende Harry Potter merchandise.
 - Harry Potter pyjama voor vrouwen.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

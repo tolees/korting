@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Verken iconische locaties in en rond South Park
-- Een gloednieuwe South Park-game in volledig 3D!
 - Speel met je vrienden in coöp met 4 spelers
+- Een gloednieuwe South Park-game in volledig 3D!
+- Verken iconische locaties in en rond South Park
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CHW9CWMX{{</world>}}

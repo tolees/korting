@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Omni-Grip niet-markerend tractierubber
-- Ademend mesh-weefsel, bovenmateriaal van leer, waterdichte en ademende Omni-Tech-constructie met verzegelde naden
-- Klittenbandsluiting
 - Lichte Techlite-tussenzool voor langdurig comfort, superieure demping en hoog energierendement
+- Klittenbandsluiting
+- Ademend mesh-weefsel, bovenmateriaal van leer, waterdichte en ademende Omni-Tech-constructie met verzegelde naden
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CLWNT4HS{{</world>}}

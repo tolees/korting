@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Veelzijdige installatie met houder en schroeven inbegrepen – Kan eenvoudig aan een keukenkastdeur worden gehangen of aan de muur worden bevestigd, ideaal als keuken afvalbakje voor kleine ruimtes of als tafelafvalbakje. De houder is ook compatibel met plakstrips zoals Glue Fix (niet inbegrepen).
-- Gemaakt van 100% gerecycled kunststof – Duurzaam en milieuvriendelijk compostbakje keuken dat afvalscheiding keuken eenvoudiger maakt en tegelijkertijd robuust en makkelijk schoon te maken is.
 - Gegarandeerde kwaliteit van TATAY – Ontworpen en geproduceerd in Spanje door specialisten in huishoudoplossingen; dit organisch afvalbakje biedt betrouwbaarheid, functionaliteit en stijl.
 - Compatibel met standaard 10L zakken – Dit vuilnisbak klein formaat is geschikt voor gangbare afvalzakken, waardoor legen snel en hygiënisch gaat. De houder bevat bovendien een vak om lege zakken op te bergen en altijd een reserve bij de hand te hebben.
-- Voor gft-afval en compost – Werkt als een compost bakje of gft bakje aanrecht voor voedselresten, koffiecups of ander organisch afval in de keuken.
-- Praktisch deksel voor dagelijks gebruik – Blijft open tijdens het weggooien en sluit soepel; een handige prullenbak met deksel zonder filters of navullingen.
 - Compact en multifunctioneel ontwerp – Met een inhoud van 6 L en afmetingen van 26,5×20,5×18,5 cm, geschikt als compost afvalbak keuken onder de gootsteen, op het aanrecht of in een lade; perfect als keuken prullenbakje voor dagelijks gebruik.
+- Veelzijdige installatie met houder en schroeven inbegrepen – Kan eenvoudig aan een keukenkastdeur worden gehangen of aan de muur worden bevestigd, ideaal als keuken afvalbakje voor kleine ruimtes of als tafelafvalbakje. De houder is ook compatibel met plakstrips zoals Glue Fix (niet inbegrepen).
+- Praktisch deksel voor dagelijks gebruik – Blijft open tijdens het weggooien en sluit soepel; een handige prullenbak met deksel zonder filters of navullingen.
+- Voor gft-afval en compost – Werkt als een compost bakje of gft bakje aanrecht voor voedselresten, koffiecups of ander organisch afval in de keuken.
+- Gemaakt van 100% gerecycled kunststof – Duurzaam en milieuvriendelijk compostbakje keuken dat afvalscheiding keuken eenvoudiger maakt en tegelijkertijd robuust en makkelijk schoon te maken is.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09W2VRC5S{{</world>}}

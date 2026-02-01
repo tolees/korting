@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 7-voudig bescherming: Waterdicht, Temperatuurbestendig, Röntgenbestendig, Magneetbestendig, Schokbestendig, Valbestendig en Slijtvast
 - 10 jaar beperkte garantie
+- 7-voudig bescherming: Waterdicht, Temperatuurbestendig, Röntgenbestendig, Magneetbestendig, Schokbestendig, Valbestendig en Slijtvast
 - s Werelds nummer 1 merk voor flashgeheugen sinds 2003
-- Sequentiële lees-/schrijfsnelheden tot 200/130 MB/s met UHS-I-interface.
 - Kies uit 512 GB, 256 GB, 128 GB en 64 GB. Voeg extra opslagruimte toe aan je DSLR, spiegelloze cameras, pcs en meer.
+- Sequentiële lees-/schrijfsnelheden tot 200/130 MB/s met UHS-I-interface.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CHMP24PP{{</world>}}

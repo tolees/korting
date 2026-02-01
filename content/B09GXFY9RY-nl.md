@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Monster Truck Coloring Book For Boys: A Fun Coloring Book For Kinds Designet to Relax and Calm For Little Ones'
-date: 2026-01-30 19:01:42
+title: 'Monster Truck Coloring Book For Boys: A Fun Coloring Book For Kinds Designet to Relax and Calm For Little Ones : Dream Mary Boeken'
+date: 2026-01-31 22:39:05
 image: 'https://m.media-amazon.com/images/I/4175cRbeESL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,7 +13,7 @@ actualPrice: 5.47 EUR
 currency: EUR
 price: 5.47
 comparePrice: 8.26 EUR
-prodname: 'Monster Truck Coloring Book For Boys: A Fun Coloring Book For Kinds Designet to Relax and Calm For Little Ones'
+prodname: 'Monster Truck Coloring Book For Boys: A Fun Coloring Book For Kinds Designet to Relax and Calm For Little Ones : Dream Mary Boeken'
 country: 'nl'
 flag: '🇳🇱'
 brand: ''

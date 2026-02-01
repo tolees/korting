@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Nieuwe skin-matching technologie: Meer pigmenten. Een preciezere match.
 - beschikbaar in 45 tinten
 - Natuurlijke dekking
-- Nieuwe skin-matching technologie: Meer pigmenten. Een preciezere match.
 - SPF 16
 - Formule verrijkt met hyaluronzuur
 

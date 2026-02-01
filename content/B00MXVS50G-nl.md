@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 360º gestikt voor duurzaamheid
 - Bovenwerk: leer (kalfsleer)
+- 360º gestikt voor duurzaamheid
 - Kleur: Bruin
 - Voering: 100% kalfsleer
 - Buitenzool/Kenmerken: Rubber voor buitengewone grip

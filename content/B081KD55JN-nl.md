@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Uitstekende hantering dankzij ergonomische vorm en soft-grip-zone
+- Inhoud: kruisschroevendraaier PH1, schachtlengte: 1 mm
+- Hoogste draaimoment door geïntegreerde inbussleutel
 - Extreme robuustheid dankzij het doorlopend roestvrijstalen lemmet, massieve stalen neus en geharde punt
 - Schroeven, beitelen en losmaken van vastzittende schroeven
-- Hoogste draaimoment door geïntegreerde inbussleutel
-- Inhoud: kruisschroevendraaier PH1, schachtlengte: 1 mm
-- Uitstekende hantering dankzij ergonomische vorm en soft-grip-zone
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B081KD55JN{{</world>}}

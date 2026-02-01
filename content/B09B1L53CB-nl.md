@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Verpakkingsinhoud: 3 x displaybeschermfolies van gehard glas, stickers voor het verwijderen van stof, handleiding.
-- Extreem belastbaar en krasbestendig dankzij 9H-hardheid en voorkomt vingerafdrukken.
-- Speciaal ontworpen voor Nintendo Switch OLED (Modellen 2021).
-- Kristalhelder met 99,9% schermtransparantie, zorgt voor een natuurlijke kijkervaring.
 - Super dun: 0,3 mm, betrouwbaar, belastbaar en belooft volledige bruikbaarheid en gevoeligheid van het touchscreen.
+- Verpakkingsinhoud: 3 x displaybeschermfolies van gehard glas, stickers voor het verwijderen van stof, handleiding.
+- Speciaal ontworpen voor Nintendo Switch OLED (Modellen 2021).
+- Extreem belastbaar en krasbestendig dankzij 9H-hardheid en voorkomt vingerafdrukken.
+- Kristalhelder met 99,9% schermtransparantie, zorgt voor een natuurlijke kijkervaring.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09B1L53CB{{</world>}}

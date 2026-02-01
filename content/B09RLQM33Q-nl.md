@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Iconisch merk: PlayStation is een van de beste gamingmerken ter wereld met zijn logo, videogames, pictogrammen, console, controller en naam zijn direct herkenbaar voor gamers van alle leeftijden
-- Officieel gelicentieerde merchandise: Ontdek een nieuw stuk merchandise voor je collectie met ons assortiment verzamelobjecten voor mannen, vrouwen, fans, kinderen, jongens en meisjes die houden van popcultuurplezier
-- Drie lichtmodi: Deze 21 cm hoge lamp heeft een standaard, samen met de lichtmodi kleurfasering, kleurselectie en muziekreactief. Aangedreven door batterij of USB (3 x AA en micro USB niet inbegrepen)
 - PlayStation-licht: versier je speelkamer, mancave of slaapkamer met het PlayStation-logo met het iconische Playstation-logo. Het is zowel vrijstaand als wandmonteerbaar
+- Officieel gelicentieerde merchandise: Ontdek een nieuw stuk merchandise voor je collectie met ons assortiment verzamelobjecten voor mannen, vrouwen, fans, kinderen, jongens en meisjes die houden van popcultuurplezier
+- Iconisch merk: PlayStation is een van de beste gamingmerken ter wereld met zijn logo, videogames, pictogrammen, console, controller en naam zijn direct herkenbaar voor gamers van alle leeftijden
+- Drie lichtmodi: Deze 21 cm hoge lamp heeft een standaard, samen met de lichtmodi kleurfasering, kleurselectie en muziekreactief. Aangedreven door batterij of USB (3 x AA en micro USB niet inbegrepen)
 - Leuke cadeaus voor leuke mensen: Voor wie op zoek is naar coole dingen en alles wat geek, gek en uniek is, zijn we er trots op om best verkopende speelgoed, mokken, lichten, decor en cadeautjes te maken die mensen laten glimlachen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
