@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Amazon.nl'
+date: 2026-02-02 09:23:41
+image: 'https://m.media-amazon.com/images/I/31W1ASgt6UL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0F6CVXSJY-nl Amazon.nl'
+sku: 'B0F6CVXSJY-nl'
+tags: [ 'Beauty','Beauty & persoonlijke verzorging','Bodylotions','Huidverzorging','Lichaamverzorgingsproducten','Vochtinbrengende middelen voor lichaam','nivea','🇳🇱', ]
+actualPrice: 6.05 EUR
+currency: EUR
+price: 6.05
+comparePrice: 13.79 EUR
+prodname: 'Amazon.nl'
+country: 'nl'
+flag: '🇳🇱'
+brand: 'NIVEA'
+buyurl: 'https://www.amazon.nl/dp/B0F6CVXSJY/?tag=tolees0b-21'
+descuento: '56.13'
+average: '6.05'
+---
+
+You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Snel absorberend & niet-vettige textuur
+- 72 uur* Hydratatie
+- Verzacht onmiddelijk een jeukerig huidgevoel
+- Verbeterde formule met 10% Glycerine complex en provitamine B5 + Niacinamide.
+- Versterkt de huid barrière en voorkomt vochtverlies
+
+[🛒 Check the deal!!]({{< param buyurl >}})
+{{<world>}}B0F6CVXSJY{{</world>}}
