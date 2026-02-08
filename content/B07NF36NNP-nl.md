@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Collectie Pandora Garden
-- De gegraveerde woorden "luck" en "courage" maken het tot een symbolische aanvulling op je sieradencollectie, als herinnering aan dingen die belangrijk voor je zijn
-- Het product wordt niet in een doos verzonden. Deze moet apart worden gekocht
 - Het open design geeft de blik op de Pandora Moments-armband vrij, waarop je hem draagt
+- Het product wordt niet in een doos verzonden. Deze moet apart worden gekocht
+- De gegraveerde woorden "luck" en "courage" maken het tot een symbolische aanvulling op je sieradencollectie, als herinnering aan dingen die belangrijk voor je zijn
 - Betover je Pandora Moments-armband met geluksbedels en persoonlijke symbolen, deze sterling zilveren klaverblad-bedel maakt het begin
 
 [🛒 Buy it!!]({{< param buyurl >}})

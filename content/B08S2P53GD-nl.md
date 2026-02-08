@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - niet magisch, magnetisch: magnetisch dockingsysteem zet niet alleen de caddy stevig op zijn plaats, het houdt ook het deksel open voor gemakkelijk schrapen en afpellen.
-- eenvoudig te legen, gemakkelijk schoon te maken: afneembaar deksel en een gladde binnenemmer zijn ontworpen voor efficiënt verwijderen, dumpen en spoelen.
 - voedselbereidingsvriendelijk: Compostcaddy kan gemakkelijk worden losgemaakt van het magnetische dock voor gebruik aan het aanrecht tijdens het bereiden en opruimen van voedsel.
+- eenvoudig te legen, gemakkelijk schoon te maken: afneembaar deksel en een gladde binnenemmer zijn ontworpen voor efficiënt verwijderen, dumpen en spoelen.
 - Houdt geuren binnen, ongedierte buiten: Soft-seal deksel laat organische stoffen ademen, houdt geuren zoals bananenschil onder controle en ongedierte zoals fruitvliegen.
 - Compostering eenvoudiger gemaakt: Onze compostcaddy dokt handig aan de zijkant van simplehuman liner velgbakken en moedigt u aan om organisch materiaal van algemeen afval te scheiden, waardoor afvalbeheer nog efficiënter wordt.
 

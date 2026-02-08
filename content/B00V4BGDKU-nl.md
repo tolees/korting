@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Opklapbaar portable ontwerp past uitstekend bij uw Ultrabook
 - Plug and Play in Windows (XP/Vista/7/8/8.1/10), Mac OS X (10.9/10.10), Linux OS nB: stuurprogramma nodig voor Mac OS X (10.5-10.8)
+- Opklapbaar portable ontwerp past uitstekend bij uw Ultrabook
 - Snelste USB 3.0 en gigabit oplossing verzekert hoogste transmissiesnelheid
 
 [🛒 Buy it!!]({{< param buyurl >}})

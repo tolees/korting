@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Figuur staat 25 cm en wordt geleverd in een etalage doos
+- Van Mandalorian, 10 Inch Mandalorian, als gestileerd 10 inch POP-vinyl van Funko
 - Bekijk de andere Star Wars-figuren van Funko Verzamel ze allemaal
 - Funko POP Is het speelgoed van de Peoples Choice Awards 2018 van het jaar
-- Van Mandalorian, 10 Inch Mandalorian, als gestileerd 10 inch POP-vinyl van Funko
-- Figuur staat 25 cm en wordt geleverd in een etalage doos
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B083MCJYTL{{</world>}}

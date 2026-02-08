@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Na 3 nachten:* De huid ziet er stralender & gezonder uit. *zelf-evaluatie, serum één keer per nacht aangebracht door 79 vrouwen
-- Met pure Vitamine C en Hyaluronzuur
-- Met 10% Pure Vitamine C
 - Na het eerste gebruik:* De huid lijkt gladder, soepeler, gerevitaliseerd en uitgerust.
+- Met 10% Pure Vitamine C
+- Met pure Vitamine C en Hyaluronzuur
 - Na 2 maanden:** Zichtbare vermindering van pigmentvlekken, de huid straal, fijne lijntjes zijn verminderd, de huid lijkt zichtbaar egaler en gladder. **klinische test, serum één keer per nacht aangebracht door 79 vrouwen.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

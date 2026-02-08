@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Inhoud: 1 x Garnier SkinActive doekmaskerset Discovery Collection met 5 verschillende doekmaskers
-- Doekmaskerset met verschillende effecten: glow-booster, anti-vermoeidheid, opvullend effect, vermindering van wallen en gezwollen ogen
 - Discovery Collection met vijf verschillende doekmaskers voor gezicht en ogen en verschillende huidbehoeften, kalmerende frisheid en vochtbooster met hyaluronzuur
+- Doekmaskerset met verschillende effecten: glow-booster, anti-vermoeidheid, opvullend effect, vermindering van wallen en gezwollen ogen
 - Veganistische en hydraterende formule met natuurlijke ingrediënten, zichtbare resultaten na 15 minuten inwerktijd, optimale aanvulling op de huidverzorgingsroutine
 - Gebruik: de witte kant van het masker op het gezicht aanbrengen, blauwe folie verwijderen, masker aan het gezicht aanpassen en 15 minuten laten inwerken, na het verwijderen zacht inmasseren van de resten
 

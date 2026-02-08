@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 🔥Kan ZHA gebruiken in Home Assistant of Zigbee2MQTT gebruiken
-- 🔥+ 20dBm uitgangsversterking
-- 🔥Voorgeflitst met de firmware van de Z-Stack 3.x.0-coördinator
-- 🔥Basis op TI CC2652P + CP2102(N)
 - 🔥SMA interface externe antenne, de aluminium behuizing vermindert effectief signaalinterferentie van apparaten
+- 🔥Voorgeflitst met de firmware van de Z-Stack 3.x.0-coördinator
+- 🔥+ 20dBm uitgangsversterking
+- 🔥Basis op TI CC2652P + CP2102(N)
+- 🔥Kan ZHA gebruiken in Home Assistant of Zigbee2MQTT gebruiken
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09KXTCMSC{{</world>}}

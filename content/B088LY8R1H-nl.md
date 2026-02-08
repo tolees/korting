@@ -31,8 +31,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 - Ideaal voor Google Assistant en Alexa
 - Snelle toegang tot Amazon Prime en Netflix
 - Muiswijzerfunctie, gebarenbediening
-- Spraakbesturing met microfoonknop
 - Kalibratiefunctie voor tv-geluid
+- Spraakbesturing met microfoonknop
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B088LY8R1H{{</world>}}

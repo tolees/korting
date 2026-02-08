@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - De milde, zachte waspeeling verfijnt de huid en beschermt tegen schadelijke stoffen van buitenaf.
-- Neutrogena Deep Clean huidverfijnende peeling maakt de poriën vrij van vuil stof, make-upresten en talg zonder het vochtgehalte van de huid aan te tasten.
 - De waspeeling met micro-exfoliators verrijkt met glycolzuur aanbrengen op het vochtige gezicht vervolgens grondig afspoelen.
-- Verfrist en reinigt tot diep in de poriën voor een stralend teint.
+- Neutrogena Deep Clean huidverfijnende peeling maakt de poriën vrij van vuil stof, make-upresten en talg zonder het vochtgehalte van de huid aan te tasten.
 - Geschikt voor alle huidtypen.
+- Verfrist en reinigt tot diep in de poriën voor een stralend teint.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B082VNSG4N{{</world>}}

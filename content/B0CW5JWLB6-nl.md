@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 【Service na verkoop】 Als je niet zeker weet of deze afstandsbediening geschikt is voor je apparaat, neem dan gerust contact met ons op voor meer professionele ondersteuning en we nemen binnen 12 uur contact met je op.
 - 【Compatibiliteit】 Vervangende universele tv-afstandsbediening voor tv: voor Samsung TV, voor LG TV, voor Sony TV, voor Hisense TV, voor TCL TV, voor RCA TV, voor Toshiba TV, voor Panasonic TV, voor Sharp TV, voor Haier TV, voor Hitachi TV, voor JVC TV, enz.
-- 【Installatiestappen】 ①Zoek je tv-code in de CODELIJST. ②Houd de SETUP-knop ingedrukt totdat het rode lampje van de afstandsbediening wordt ingeschakeld. ③Druk op de geselecteerde apparaatknop op de afstandsbediening (TV/STR/AUD-knop). ④Voer de eerste 4-cijferige code voor uw apparaat in. ⑤Richt de afstandsbediening op het apparaat en test de knoppen. Als de knop niet werkt zoals verwacht, herhaal dan stap 2-5 voor de volgende code van het apparaat totdat elke knop correct werkt.
 - Inhoud van de verpakking: 1 x universele tv-afstandsbediening, 1 x gebruikershandleiding, 1 x codelijst (geen batterijen).
 - 【Opmerking】 NIET voor Roku/Sticks en andere RF-streamingapparaten! GEEN Voice Functie!
+- 【Installatiestappen】 ①Zoek je tv-code in de CODELIJST. ②Houd de SETUP-knop ingedrukt totdat het rode lampje van de afstandsbediening wordt ingeschakeld. ③Druk op de geselecteerde apparaatknop op de afstandsbediening (TV/STR/AUD-knop). ④Voer de eerste 4-cijferige code voor uw apparaat in. ⑤Richt de afstandsbediening op het apparaat en test de knoppen. Als de knop niet werkt zoals verwacht, herhaal dan stap 2-5 voor de volgende code van het apparaat totdat elke knop correct werkt.
+- 【Service na verkoop】 Als je niet zeker weet of deze afstandsbediening geschikt is voor je apparaat, neem dan gerust contact met ons op voor meer professionele ondersteuning en we nemen binnen 12 uur contact met je op.
 - Universele TV-afstandsbediening voor DVD-merken: voor Daewoo/Infinity/Panasonic/Sansui/Sony/TCL/Vizio/Bose/ect. Ook compatibel met Blu-ray-speler, Soundbar, Streaming Media Player, DVR, videorecorder, audioapparaten, settopboxen.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

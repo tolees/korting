@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Meer batterij, minder opladen: Met de batterij van 5.000mAH heb je meer tijd om alles te doen wat je graag doet en eén keer opladen is genoeg om de hele dag en nacht door te gaan
-- Zorgeloos overal en altijd te gebruiken: Door zijn IP67-certificering is jouw nieuwe A53 5G water- en stofbestendig en door Gorilla Glass 5 kan hij ook prima tegen een stootje
-- Soepeler, sneller, intenser: Dankzij FHD+ Super AMOLED technologie komt je dagelijkse content op het 6.5" 120Hz Infinity-O Display altijd even scherp, duidelijk en helder in beeld
 - Film en fotografeer als een pro: Met de vier multifunctionele cameras van de Galaxy A53 5G maak je altijd prachtige fotos en videos en zelfs de kleinste details komen haarscherp over, dag én nacht
+- Meer batterij, minder opladen: Met de batterij van 5.000mAH heb je meer tijd om alles te doen wat je graag doet en eén keer opladen is genoeg om de hele dag en nacht door te gaan
+- Soepeler, sneller, intenser: Dankzij FHD+ Super AMOLED technologie komt je dagelijkse content op het 6.5" 120Hz Infinity-O Display altijd even scherp, duidelijk en helder in beeld
+- Zorgeloos overal en altijd te gebruiken: Door zijn IP67-certificering is jouw nieuwe A53 5G water- en stofbestendig en door Gorilla Glass 5 kan hij ook prima tegen een stootje
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09QH3JT6P{{</world>}}

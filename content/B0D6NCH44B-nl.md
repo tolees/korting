@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Gemaakt van duurzame materialen
 - Geschikt voor: alle seizoenen
 - Sneakers van het merk Geox
-- Gemaakt van duurzame materialen
 - Zachte zool voor soepele bewegingen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

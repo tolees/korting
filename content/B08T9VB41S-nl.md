@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Met trekkoord kun je je afdekking aanpassen.
-- Fleecestof voelt zacht en warm.
 - fleece binnenvoering
 - Kangoeroezak aan de voorkant
+- Fleecestof voelt zacht en warm.
 - normale snit
 
 [🛒 Buy it!!]({{< param buyurl >}})

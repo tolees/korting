@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Makkelijk en snel aan te brengen dankzij het spraysysteem
-- Uitwasbare uitgroeispray om uitgroei mee te camoufleren
-- Mengt zich met jouw haarkleur zonder kleurverschil
-- Uitwasbaar met shampoo
 - Natuurlijk ogend kleurresultaat
+- Uitwasbare uitgroeispray om uitgroei mee te camoufleren
+- Makkelijk en snel aan te brengen dankzij het spraysysteem
+- Uitwasbaar met shampoo
+- Mengt zich met jouw haarkleur zonder kleurverschil
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01N7LSNH8{{</world>}}

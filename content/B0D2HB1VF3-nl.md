@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Goede lichtdoorlatendheid: Vanwege het doorschijnende effect van de PETG 3D-prints wordt aanbevolen om modellen te printen die lichtdiffusie vereisen, zoals buitenreclametekst en lampenkappen.
+- Printtips Mondstuk: 220-240˚ C. Bed: 70-80˚ C. Snelheid: < 200 mm/s.
+- Hoge slagsterkte en taaiheid. Flashforge PETG 3D-printfilament, heeft de voordelen van zowel ABS als PLA en zorgt ervoor dat de afdruk er glanzend en doorschijnend uitziet, terwijl het vrij sterk is en niet gemakkelijk barst.
 - Dimensionale nauwkeurigheid en nette wikkeling. De +/- 0,02mm dimensionale nauwkeurigheid en nette wikkeling bieden garantie voor succesvol 3D-printen
 - Weerbestendig: Met uitstekende weerbestendigheid kan PETG-filament de taaiheid van producten handhaven en verkleuring voorkomen, waardoor het vooral geschikt is voor 3D-printen van buiten reclameartikelen.
-- Hoge slagsterkte en taaiheid. Flashforge PETG 3D-printfilament, heeft de voordelen van zowel ABS als PLA en zorgt ervoor dat de afdruk er glanzend en doorschijnend uitziet, terwijl het vrij sterk is en niet gemakkelijk barst.
-- Printtips Mondstuk: 220-240˚ C. Bed: 70-80˚ C. Snelheid: < 200 mm/s.
+- Goede lichtdoorlatendheid: Vanwege het doorschijnende effect van de PETG 3D-prints wordt aanbevolen om modellen te printen die lichtdiffusie vereisen, zoals buitenreclametekst en lampenkappen.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0D2HB1VF3{{</world>}}

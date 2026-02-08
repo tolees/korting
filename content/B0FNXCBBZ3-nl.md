@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Formule met Hyaluronzuur
-- Beschermt de huid met een onzichtbare finish en werkt goed onder en over make-up
 - Hoge bescherming met SPF 50 UVB + UVA + Lange UVA
+- Beschermt de huid met een onzichtbare finish en werkt goed onder en over make-up
 - Hypoallergeen en niet-comedogeen
+- Formule met Hyaluronzuur
 - Geschikt voor dagelijks gebruik, niet-vettig & ultra-lichte textuur
 
 [🛒 Check the deal!!]({{< param buyurl >}})

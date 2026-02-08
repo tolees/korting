@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Innovatieve waterniveau-indicator voor het nauwkeurig vullen van het waterreservoir
-- Druppelstopfunctie voor het willekeurig onderbreken van het zetproces
-- Met Aroma Swirl voor een optimaal en gelijkmatig aroma.
-- De afneembare onderdelen zijn vaatwasmachinebestendig
 - Automatische uitschakeling na de koffiebereiding voor meer veiligheid
-- Inhoud: koffiezetapparaat, glazen kan
+- De afneembare onderdelen zijn vaatwasmachinebestendig
 - Maximale capaciteit in koffiekopjes: 10 tot 15 kopjes (1,2 liter)
+- Druppelstopfunctie voor het willekeurig onderbreken van het zetproces
+- Inhoud: koffiezetapparaat, glazen kan
+- Innovatieve waterniveau-indicator voor het nauwkeurig vullen van het waterreservoir
+- Met Aroma Swirl voor een optimaal en gelijkmatig aroma.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00SCOXY6S{{</world>}}

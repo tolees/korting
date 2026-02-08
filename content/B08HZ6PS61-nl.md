@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- UNIVERSELE COMPATIBILITEIT: Verander elke USB-C poort in een handomdraai in een USB-A poort - voor moeiteloos gebruik van alle USB-A apparaten, zoals harde schijven, smartphones, printers en meer!
-- DUURZAAM MATERIAAL: De USB-C naar USB-A 3.0 connectors zijn gemaakt van hoogwaardige materialen en gaan gegarandeerd tot 10.000 keer gebruik mee.
-- STERK & STIJL: De slanke, minimalistische afwerking van krasbestendig aluminium past perfect bij je MacBook Pro.
 - DE ANKER PLUS: Word lid van meer dan 50 miljoen tevreden klanten. Laad Anker op.
+- DUURZAAM MATERIAAL: De USB-C naar USB-A 3.0 connectors zijn gemaakt van hoogwaardige materialen en gaan gegarandeerd tot 10.000 keer gebruik mee.
+- UNIVERSELE COMPATIBILITEIT: Verander elke USB-C poort in een handomdraai in een USB-A poort - voor moeiteloos gebruik van alle USB-A apparaten, zoals harde schijven, smartphones, printers en meer!
+- STERK & STIJL: De slanke, minimalistische afwerking van krasbestendig aluminium past perfect bij je MacBook Pro.
 - SMART DESIGN: Het slanke formaat zorgt ervoor dat er twee adapters tegelijk kunnen worden aangesloten op de USB-C-ingang van de MacBook Pro.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

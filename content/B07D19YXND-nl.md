@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - 【ONE TOUCH-BEDIENING】Een draadloze, veelzijdige afstandsbediening waarmee u uw smart home-apparaten kunt bedienen
-- 【Deurbelknop】Wanneer het aangesloten is op de Aqara Hub kan het apparaat ook als deurbel worden gebruikt met een aantal verschillende beltonen. Daarbij biedt Aqara naverkoopdienst van 12 maanden. Heeft u vragen? Neem gerust contact met ons op. Zigbee2MQTT en vergelijkbare USB-dongles van derden worden niet officieel ondersteund door Aqara. De volledige productfunctionaliteit kan beperkt of niet beschikbaar zijn.
-- ✽【OPMERKINGEN】Dit apparaat werkt alleen met de Aqara Hub. VEREIST een beveiligde 2. 4 gigahertz Wi-Fi netwerkverbinding. Op een Aqara Hub kunnen tot 32 Aqara-apparaten aangesloten worden.
 - 【NOODKNOP】Als er een noodgeval is in uw woning kunnen uw dierbaren met een druk op de knop een melding sturen naar uw apparaat, of het alarmgeluid op de Aqara Hub in een andere kamer in werking stellen.
+- 【Deurbelknop】Wanneer het aangesloten is op de Aqara Hub kan het apparaat ook als deurbel worden gebruikt met een aantal verschillende beltonen. Daarbij biedt Aqara naverkoopdienst van 12 maanden. Heeft u vragen? Neem gerust contact met ons op. Zigbee2MQTT en vergelijkbare USB-dongles van derden worden niet officieel ondersteund door Aqara. De volledige productfunctionaliteit kan beperkt of niet beschikbaar zijn.
 - 【3 BEDIENINGSINSTELLINGEN】Stel in enkele druk, dubbele druk, en lange druk om programmeerbare functies zoals een apparaat aan/uitschakelen, een scene activeren enz. te bedienen
+- ✽【OPMERKINGEN】Dit apparaat werkt alleen met de Aqara Hub. VEREIST een beveiligde 2. 4 gigahertz Wi-Fi netwerkverbinding. Op een Aqara Hub kunnen tot 32 Aqara-apparaten aangesloten worden.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07D19YXND{{</world>}}

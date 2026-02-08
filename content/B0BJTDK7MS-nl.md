@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Dynamische drivers van 6 mm voor geluid bij telefoongesprekken en het luisteren naar muziek
 - App-vrije bediening: aanraakbediening voor het afspelen en pauzeren van muziek, het wisselen van nummer en het aannemen van telefoongesprekken
+- Lichte, siliconen oortips voor een ergonomische pasvorm
 - Tot 28 uur batterijduur: met 9 uur afspeeltijd per oplaadbeurt in de Bluetooth-earbuds en nog eens 19 uur extra in de oplaadcase kun je praten, luisteren en streamen
 - IPX4-geclassificeerd voor zweet- en waterbestendigheid: voor sportieve activiteiten als hardlopen, zowel binnen in de sportschool als buiten
-- Lichte, siliconen oortips voor een ergonomische pasvorm
-- Dynamische drivers van 6 mm voor geluid bij telefoongesprekken en het luisteren naar muziek
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BJTDK7MS{{</world>}}

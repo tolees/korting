@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 【Kabelmanagementsysteem】Twee geïntegreerde kabelmanagementclips met drie gaten helpen bij het organiseren van rommelige kabels en zorgen ervoor dat de entertainmenteenheid netjes en netjes is. 4 rubberen antislipvoetjes zorgen voor stabiliteit en beschermen de vloer tegen krassen.
-- 【Eenvoudig te monteren】Wordt geleverd met alle benodigde hardware- en installatie-instructies. Je hoeft niet in je muur te boren. Installeer de tv-standaard snel en eenvoudig.
-- 【Draaibaar en in hoogte verstelbaar】De tv-vloerstandaard is 35° naar links en rechts draaibaar om een brede kijkhoek te bereiken. 4 standen in hoogteverstelling (415/375/335/295MM), om aan je verschillende eisen voor tv-grootte of zithoogte te voldoen.
-- 【Voet van gehard glas】De basis van de tv-kast is gemaakt van hoogwaardig 8 mm dik gehard glas. met de afmetingen 416 x 260 mm. Alle componenten zijn roestvrij, met een hoog draagvermogen (tot 45 kg).
 - 【Compatibiliteit】Deze tv-standaard met houder past op de meeste tvs van 26 tot 55 inch met een maximaal draagvermogen van 45 kg. Geschikte VESA-patronen: 100x100 / 200x100 / 200x200 / 300x200 / 300x300 / 400x200 / 400x300 / 400x400, maximaal 400 x 400 mm. Geschikt voor de meeste tv-merken op de markt, zoals: LG, Panasonic, Samsung, Philips
+- 【Draaibaar en in hoogte verstelbaar】De tv-vloerstandaard is 35° naar links en rechts draaibaar om een brede kijkhoek te bereiken. 4 standen in hoogteverstelling (415/375/335/295MM), om aan je verschillende eisen voor tv-grootte of zithoogte te voldoen.
+- 【Eenvoudig te monteren】Wordt geleverd met alle benodigde hardware- en installatie-instructies. Je hoeft niet in je muur te boren. Installeer de tv-standaard snel en eenvoudig.
+- 【Voet van gehard glas】De basis van de tv-kast is gemaakt van hoogwaardig 8 mm dik gehard glas. met de afmetingen 416 x 260 mm. Alle componenten zijn roestvrij, met een hoog draagvermogen (tot 45 kg).
+- 【Kabelmanagementsysteem】Twee geïntegreerde kabelmanagementclips met drie gaten helpen bij het organiseren van rommelige kabels en zorgen ervoor dat de entertainmenteenheid netjes en netjes is. 4 rubberen antislipvoetjes zorgen voor stabiliteit en beschermen de vloer tegen krassen.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0B2PFK2H6{{</world>}}

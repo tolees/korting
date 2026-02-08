@@ -31,8 +31,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 - JHL7440 CHIP: Dual chip control, more stable and reliable, better heat dissipation, fully compatible with USB 4/3.2/3.1/3.0/2.0.（Note：SSD NOT INCLUDE）
 - POCKET SIZE TRAVEL-FRIENDLY: This compact design make TBU 405 PRO easy to be carried in a handbag or pocket, nice for travel &business trips.
 - UNIVERSAL COMPATIBILITY: This M.2 NVMe Enclosure supports M1 Pro/Max Mac devices and iPad Pro.Compatible with Windows, macOS and Linux. Compatible with USB 4/3.2/ 3.1/ 3.0/ 2.0 at respective speed limits to meet a variety of work and daily needs.
-- UPGRADED TBU405 PRO BUILT-IN COOLING FAN: We add a Built-in Cooling Fan and heat dissipation holes to the aluminum alloy shell to acheive better heat dissapation.（Note：SSD NOT INCLUDE, Before use, press the Switch button to turn on the fan
 - LIGHTENING-FAST 40Gbps. Speed test with Samsung 980 EVO Plus on Macbook Pro, the Read / Write speed of ACASIS 40Gbps nvme enclosure reaches up to 2805MB/s / 2734MB/s(Different speed may vary from different system).
+- UPGRADED TBU405 PRO BUILT-IN COOLING FAN: We add a Built-in Cooling Fan and heat dissipation holes to the aluminum alloy shell to acheive better heat dissapation.（Note：SSD NOT INCLUDE, Before use, press the Switch button to turn on the fan
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0C8CTW8M6{{</world>}}

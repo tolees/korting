@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- In de doos inbegrepen: JBL Tuner 2 DAB FM-radio en Bluetooth luidspreker in het zwart, USB-kabel type C, veiligheidsinformatieblad en snelstartgids
-- De krachtige luidsprekers van JBL leveren kristalhelder geluid en muziekversterking; Zo kunt u uw liefde voor digitale en traditionele stereoradio combineren in één compact audioapparaat
-- Ontspanning thuis of onderweg: de JBL Tuner 2 draagbare DAB; en FM-radio is IPX7 waterdicht, zodat u kunt genieten van uw muziek in de keuken, badkamer en zelfs buiten bij het zwembad of op het strand
-- De krachtige lithium-ionbatterij maakt een lange afspeeltijd met radio en podcasts mogelijk, voor tot 12 uur puur genieten; Maak draadloos verbinding via Bluetooth om te streamen vanaf uw smartphone
 - Schakel eenvoudig tussen uw favoriete stations met 5 vooraf ingestelde keuzetoetsen; Het grote LCD-scherm toont duidelijk de radiostationdetails zodat u op de hoogte kunt blijven van nieuws en weer
+- In de doos inbegrepen: JBL Tuner 2 DAB FM-radio en Bluetooth luidspreker in het zwart, USB-kabel type C, veiligheidsinformatieblad en snelstartgids
+- De krachtige lithium-ionbatterij maakt een lange afspeeltijd met radio en podcasts mogelijk, voor tot 12 uur puur genieten; Maak draadloos verbinding via Bluetooth om te streamen vanaf uw smartphone
+- Ontspanning thuis of onderweg: de JBL Tuner 2 draagbare DAB; en FM-radio is IPX7 waterdicht, zodat u kunt genieten van uw muziek in de keuken, badkamer en zelfs buiten bij het zwembad of op het strand
+- De krachtige luidsprekers van JBL leveren kristalhelder geluid en muziekversterking; Zo kunt u uw liefde voor digitale en traditionele stereoradio combineren in één compact audioapparaat
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B083X2G8CJ{{</world>}}

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Perfecte compatibiliteit: compatibel met de ROG Xbox Ally X (2025), ROG Xbox Ally (2025), ROG Ally X, ROG Ally, Steam Deck, Legion Go, Legion Go S, Razer Edge, AYA NEO, AYA ODIN, Logitech G Cloud en ONEXPLAYER. Ondersteunt maximaal 100W vermogen, wat voldoende is om je ROG Ally X, ROG Ally, Steam Deck LCD/OLED of Legion Go op volle snelheid op te laden in combinatie met de originele oplader.
 - Personaliseer je dockingstation zelf: personaliseer je dockingstation eenvoudig door een gepersonaliseerde kaart tussen de voorkant en het dock te plaatsen. Verwijder de cover, plaats je kaart en klik de cover terug. LET OP: De aanbevolen kaartgrootte is 76,3 mm x 28,7 mm x 0,3 mm (3,00" x 1,13" x 0,01"). Gepersonaliseerde kaarten NIET inbegrepen.
-- 4K-beelden: geniet van scherpe 4K@120Hz of 1080@240Hz HDMI-uitvoer voor levendige gamebeelden
-- 6-in-1 dockingstation voor handheld: ervaar verbeterde gaming met 4K@120Hz HDMI-uitgang, Gigabit Ethernet, USB C PD-opladen, USB C 3.2 Gen 1 en dubbele USB A 3.2 Gen 1-poorten
 - Modulair dockingstation: Het JSAUX-dockingstation biedt dubbele functionaliteit. Gebruik het met de gameconsole direct op het dock, of verwijder de basis voor losstaand gebruik als standaard, wat flexibiliteit biedt voor zowel desktop- als draagbare opstellingen. De extra siliconen pad zorgt voor een perfecte pasvorm, verhoogt de stabiliteit, voorkomt wegglijden en verbetert de ondersteuningshoeken voor een betere game-ervaring.
+- Perfecte compatibiliteit: compatibel met de ROG Xbox Ally X (2025), ROG Xbox Ally (2025), ROG Ally X, ROG Ally, Steam Deck, Legion Go, Legion Go S, Razer Edge, AYA NEO, AYA ODIN, Logitech G Cloud en ONEXPLAYER. Ondersteunt maximaal 100W vermogen, wat voldoende is om je ROG Ally X, ROG Ally, Steam Deck LCD/OLED of Legion Go op volle snelheid op te laden in combinatie met de originele oplader.
+- 6-in-1 dockingstation voor handheld: ervaar verbeterde gaming met 4K@120Hz HDMI-uitgang, Gigabit Ethernet, USB C PD-opladen, USB C 3.2 Gen 1 en dubbele USB A 3.2 Gen 1-poorten
+- 4K-beelden: geniet van scherpe 4K@120Hz of 1080@240Hz HDMI-uitvoer voor levendige gamebeelden
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DBLP2438{{</world>}}

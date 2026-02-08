@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- fleece stof voelt zacht en warm aan.
-- sport type: Voetbal
 - kangoeroezak aan de voorkant
+- sport type: Voetbal
 - Nike
+- fleece stof voelt zacht en warm aan.
 - capuchon met trekkoord kunt u uw dekking aanpassen.
 
 [🛒 Buy it!!]({{< param buyurl >}})

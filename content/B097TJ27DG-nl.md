@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- treklus op de hiel
 - Traditionele veters
-- Esthetiek geven
 - Hoog draagcomfort
+- Esthetiek geven
+- treklus op de hiel
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B097TJ27DG{{</world>}}

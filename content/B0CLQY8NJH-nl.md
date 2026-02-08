@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Halve drukknoopsluiting voor veelzijdigheid en eenvoudig aan- en uittrekken
 - Lengte middenachter 28,0 in/71,1 cm
+- Halve drukknoopsluiting voor veelzijdigheid en eenvoudig aan- en uittrekken
 - Binding aan de kraag voor een afgewerkte look
 
 [🛒 Buy it now!!]({{< param buyurl >}})

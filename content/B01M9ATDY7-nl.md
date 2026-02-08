@@ -28,16 +28,16 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Geofencing maakt gebruik van de locatie van uw smartphone om te bepalen wanneer u thuis of onderweg bent
 - Pas deze op afstand aan als de plannen veranderen
+- Slimme, energiezuinige besparingen: De T6R is een draadloze wifi-thermostaat die u controle geeft wanneer u thuis of onderweg bent, Deze thermostaat hoeft niet aan een muur te worden bevestigd, maar kan naar behoefte worden verplaatst en aangesloten om op te laden
+- Programmeerbaar, instelbaar, aanpasbaar: Kies instellingen die passen bij uw levensstijl, waaronder 7 dagen, 5/2 dagen en eendaagse planning met maximaal 6 verschillende tijdsinstellingen per dag
 - Dit bespaart energie en zorgt voor comfortabele temperaturen wanneer u terugkomt
-- Smart Home Connection: De T6R Smart Thermostaat werkt samen met Apple HomeKit, Amazon Alexa, Google Home en IFTTT om het comfort in uw huis te verzorgen en uw huis verbonden te houden, nu en in de toekomst, Controle en verbinding: Gebruik de Honeywell Home-app om te plannen en te synchroniseren waar u ook bent
 - Bevat ook: Ontvangerdoos met led-indicator en knop voor handmatige start van de ketel.
 - Duidelijk en intuïtief: Het grote, verlichte aanraakscherm maakt het plannen, veranderen en overschrijven van temperaturen eenvoudig met een groot, duidelijk display en intuïtieve begeleiding op het scherm, U hebt de volledige controle over het scherm, zelfs zonder de connectiviteit van de app
+- Geofencing maakt gebruik van de locatie van uw smartphone om te bepalen wanneer u thuis of onderweg bent
 - Plaats op een centrale plaats die een goede indicatie is voor de temperatuur van uw huis
+- Smart Home Connection: De T6R Smart Thermostaat werkt samen met Apple HomeKit, Amazon Alexa, Google Home en IFTTT om het comfort in uw huis te verzorgen en uw huis verbonden te houden, nu en in de toekomst, Controle en verbinding: Gebruik de Honeywell Home-app om te plannen en te synchroniseren waar u ook bent
 - Eenvoud: Eenvoudig te begrijpen, te installeren en te gebruiken Vervangt traditionele thermostaten door slimme, moderne efficiëntie
-- Programmeerbaar, instelbaar, aanpasbaar: Kies instellingen die passen bij uw levensstijl, waaronder 7 dagen, 5/2 dagen en eendaagse planning met maximaal 6 verschillende tijdsinstellingen per dag
-- Slimme, energiezuinige besparingen: De T6R is een draadloze wifi-thermostaat die u controle geeft wanneer u thuis of onderweg bent, Deze thermostaat hoeft niet aan een muur te worden bevestigd, maar kan naar behoefte worden verplaatst en aangesloten om op te laden
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B01M9ATDY7{{</world>}}

@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Fleece stof voelt zacht en warm aan
-- Kangoeroezak aan de voorzijde
-- sport type: Voetbal
 - Met trekkoord en capuchon kun je je afdekking aanpassen
+- Fleece stof voelt zacht en warm aan
+- sport type: Voetbal
+- Kangoeroezak aan de voorzijde
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08QYV7P3P{{</world>}}

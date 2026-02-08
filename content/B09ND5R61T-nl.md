@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 2,4 GHz draadloze gamingmuis met dubbele Bluetooth LE-connectiviteit
 - Middelgrote en lichte gamingmuis van 62 gram met tweehandig ontwerp (zonder batterij en dongle)
 - Optische sensor van 12.000 dpi van gamekwaliteit voor pixelperfecte tracking, plus DPI-knop voor aanpassing van de gevoeligheid in vier fasen
+- 2,4 GHz draadloze gamingmuis met dubbele Bluetooth LE-connectiviteit
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09ND5R61T{{</world>}}

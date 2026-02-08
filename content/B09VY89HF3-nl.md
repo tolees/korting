@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- INGEBOUWD GELUID: je kunt allerlei verschillende slaapliedjes of rustgevende witte ruisgeluiden programmeren om je kleintje te troosten en te kalmeren, zodat je zelf ook gerust kunt zijn
-- MODERN MINIMALISTISCH ONTWERP: de stijlvolle Maxi-Cosi See Babyfoon is met zijn minimalistische strakke lijnen en zachte, natuurlijke kleuren ontworpen als aanvulling op moderne interieurs
 - HD-LIVESTREAMS: bekijk waar je ook bent HD-livestreams van 1080p vanuit je hand
+- DAG- EN NACHTZICHT: houd je baby altijd goed in de gaten met dag- en nachtzicht en op afstand bedienbaar pannen, kantelen en zoomen
+- MODERN MINIMALISTISCH ONTWERP: de stijlvolle Maxi-Cosi See Babyfoon is met zijn minimalistische strakke lijnen en zachte, natuurlijke kleuren ontworpen als aanvulling op moderne interieurs
+- INGEBOUWD GELUID: je kunt allerlei verschillende slaapliedjes of rustgevende witte ruisgeluiden programmeren om je kleintje te troosten en te kalmeren, zodat je zelf ook gerust kunt zijn
 - PRATEN IN TWEE RICHTINGEN: hiermee kun je jouw kleintje met je stem troosten. Met één druk op de handige belknop op de monitor krijg je direct verbinding met een aangesloten mobiele telefoon
 - SLIMME WI-FI BABYMONITOR: met veilige en beveiligde live videostreams, dag- en nachtzicht op de camera en op afstand bedienbaar pannen
-- DAG- EN NACHTZICHT: houd je baby altijd goed in de gaten met dag- en nachtzicht en op afstand bedienbaar pannen, kantelen en zoomen
 - CONNECTED HOME: Een van de meerdere slimme kinderkamerproducten die worden bediend met de Connected Home-app van Maxi-Cosi of met spraakbediening via Alexa en Google. Een internetverbinding van 2,4 GHz via Wi-Fi is vereist om dit product in de Connected Home-app van Maxi-Cosi in te stellen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

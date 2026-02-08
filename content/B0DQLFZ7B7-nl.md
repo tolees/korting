@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- FORMULE verrijkt met 10% Glycerine, Niaciamide, Vitamine C* en Salicylzuur *Vitamine Cg = een afgeleide van Vitamine C
 - GARNIER VITAMIN C* GLOW BOOSTER LIQUID CARE voor een stralendere en egalere huid *Vitamine Cg = een afgeleide van Vitamine C
+- FORMULE verrijkt met 10% Glycerine, Niaciamide, Vitamine C* en Salicylzuur *Vitamine Cg = een afgeleide van Vitamine C
 - EFFECTIEF voor een stralendere egalere en gladdere huid
-- GESCHIKT VOOR ALLE huidtypes, ook voor de gevoelige huid
 - HYDRATEERT de huid onmiddellijk en intensief
+- GESCHIKT VOOR ALLE huidtypes, ook voor de gevoelige huid
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DQLFZ7B7{{</world>}}

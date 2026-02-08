@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Vetersluiting verticaal
 - Bovenmateriaal: Leer/Polyester
+- Vetersluiting verticaal
 - EVA buitenzool voor lichtgewicht
 
 [🛒 Check the deal!!]({{< param buyurl >}})

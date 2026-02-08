@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Oplaadkabel afzonderlijk verkrijgbaar.
 - Hij is compatibel met een groot aantal USB‑C-oplaadkabels
+- Oplaadkabel afzonderlijk verkrijgbaar.
 - Deze lichtnet­adapter wordt vooral aanbevolen voor de 16‑inch MacBook Pro (2021) in combinatie met een USB‑C-naar-MagSafe 3-kabel of USB‑C-oplaadkabel, zodat je kunt profiteren van snelladen en je je MacBook in ongeveer 30 minuten van 0 tot 50 procent oplaadt
 - It’s compatible with numerous USB-C charging cables
 - Met de USB‑C-lichtnetadapter van 140 W laad je je devices snel en efficiënt op

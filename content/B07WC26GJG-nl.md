@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 100% gerecycled polyester
-- Zijzakken met meshvoering helpen om het effect te beschermen en droog te houden
 - Dri-FIT-technologie en waterafstotend materiaal zorgen ervoor dat je bij lichte regen droog blijft
+- Zijzakken met meshvoering helpen om het effect te beschermen en droog te houden
+- 100% gerecycled polyester
 - De schouderbanden inspireren de klassieke voetballook
 
 [🛒 Check the deal!!]({{< param buyurl >}})

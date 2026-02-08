@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Volledig aluminium behuizing in vliegtuigkwaliteit
+- Mechanische HyperX Switches*
 - Geavanceerde personalisatie met de HyperX NGENUITy-software
 - Ultracompact TKL-design (tenkeyless) met afneembare USB-C-kabel
-- Mechanische HyperX Switches*
 - Overweldigende RGB-verlichting met dynamische effecten
 
 [🛒 Check the deal!!]({{< param buyurl >}})

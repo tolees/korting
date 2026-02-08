@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Ideale schoen voor elke dag
 - Zorgt voor comfort en gemak bij elke stap
 - Biedt ademend vermogen en een hoge mate van schokabsorptie
+- Ideale schoen voor elke dag
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CPPVDFHB{{</world>}}

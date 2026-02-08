@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Gemakkelijk te dragen, voor ongeëvenaard comfort.
 - De gepatenteerde Geox-systemen garanderen de ademende werking van de buitenzool, zodat de voet comfortabel blijft.
 - Gemakkelijk aan te trekken en verstelbaar met een rits en veters
+- Gemakkelijk te dragen, voor ongeëvenaard comfort.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B06XKXKP4C{{</world>}}

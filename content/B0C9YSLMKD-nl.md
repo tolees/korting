@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Een amber- en houtachtige geur met bergamot, zwarte peper en een rumakkoord, die sensualiteit en durf uitstraalt
 - 24 uur langhoudende geur
+- Een amber- en houtachtige geur met bergamot, zwarte peper en een rumakkoord, die sensualiteit en durf uitstraalt
 - Spray Magnetic Man deodorant bodyspray op de oksels vanaf ongeveer 15 cm afstand en laat een paar seconden drogen voor het contact met kleding; Gebruik in combinatie met de eau de toilette en douchegel voor een ultieme geurervaring
 - Whats your fantasy? De heerlijk mannelijke Bruno Banani Magnetic Man Magnetic Man Deodorant Body Spray for men heeft een betoverend sensuele en hypnotiserende amber- en houtachtige geur; Deze vegan deodorantspray voor heren van het grootste parfummerk in Duitsland is speels en gewaagd, en laat een verleidelijke geurzweem achter die 24 uur lang verfrissing biedt
 

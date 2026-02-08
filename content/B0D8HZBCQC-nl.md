@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Deze heerlijke geur is geweldig voor de zomermaanden.
+- Perfect voor elke gelegenheid: of je nu naar kantoor gaat, een avondje uit gaatof gewoon lekker thuis blijft.
 - Kleinere verpakking met FSC-certificering.
 - Nieuwe look, zelfde geur.
-- Perfect voor elke gelegenheid: of je nu naar kantoor gaat, een avondje uit gaatof gewoon lekker thuis blijft.
 - Dit is een geweldig cadeau voor een geliefde of voor jezelf.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

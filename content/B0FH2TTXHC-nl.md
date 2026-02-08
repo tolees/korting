@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 【Powerful Snapdragon 685】Built on an efficient 6nm process, Redmi 15 delivers stable performance with improved efficiency and lower power consumption.
-- 【50MP AI dual camera system】Enjoy sharp, detailed photos with the 50MP main camera, and fleeting moments with Dynamic shots — bringing everyday scenes to life in a different way.
-- 【Immersive 6.9" FHD+ display, Up to 144Hz AdaptiveSync】Redmi 15 adjusts to different scenarios for a smoother visual experience — whether youre browsing or watching. Enjoy immersive viewing with stunning clarity and brightness that brings every moment to life — indoors or out.
-- 【Quad-curved design for in-hand comfort】A quad-curved back cover with unified curvature on all sides ensures a lightweight feel that sits naturally in your palm.
 - 【7000mAh (typ) Xiaomi Surge Battery】Superior power for long-lasting performance. Powered by advanced silicon-carbon anode technology, Redmi 15 delivers an ultra-long battery life experience like never before.
+- 【Quad-curved design for in-hand comfort】A quad-curved back cover with unified curvature on all sides ensures a lightweight feel that sits naturally in your palm.
+- 【Immersive 6.9" FHD+ display, Up to 144Hz AdaptiveSync】Redmi 15 adjusts to different scenarios for a smoother visual experience — whether youre browsing or watching. Enjoy immersive viewing with stunning clarity and brightness that brings every moment to life — indoors or out.
+- 【50MP AI dual camera system】Enjoy sharp, detailed photos with the 50MP main camera, and fleeting moments with Dynamic shots — bringing everyday scenes to life in a different way.
+- 【Powerful Snapdragon 685】Built on an efficient 6nm process, Redmi 15 delivers stable performance with improved efficiency and lower power consumption.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FH2TTXHC{{</world>}}

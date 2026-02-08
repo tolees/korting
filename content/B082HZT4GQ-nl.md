@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Het artikel wordt niet in een doosje verzonden. Deze moet apart worden gekocht
 - Wishbone Pandora Shine ring met heldere kubusvormige zirkonia
+- Het artikel wordt niet in een doosje verzonden. Deze moet apart worden gekocht
 - Hij is dankzij zijn expressieve Wishbone-vorm een veelzijdig sieraad
 - Hij kan afzonderlijk worden gedragen, maar kan dankzij zijn Wishbone-vorm perfect met andere ringen worden gecombineerd tot een individuele look
 - De ring heeft een glad, goudkleurig oppervlak met fonkelende kristallen

@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Ultraklein formaat: met afmetingen van slechts 2.1 x 1.5 x 0.7 cm verstoort deze Linux USB WiFi-adapter de aangrenzende USB-poorten niet. Ideaal voor Linux-gebruikers die op zoek zijn naar draagbaarheid. Ondersteunt WPA3-encryptie.
-- Betrouwbare WiFi 6-connectiviteit: deze Linux USB WiFi-adapter levert 286 Mbps op de 2,4 GHz draadloze band en zorgt voor naadloos browsen en vertragingsvrije videostreaming op uw Linux-desktop of -laptop. 5GHz wordt NIET ondersteund
-- Beter WiFi-bereik: door gebruik te maken van Beamforming-technologie ontvangt deze Linux USB WiFi-adapter gerichte signalen van compatibele routers, waardoor een bredere dekking wordt geboden die adapters van eerdere generaties overtreft
-- Niet-ondersteunde distributies: Momenteel NIET compatibel met Arch Linux, Fedora Workstation, Kali Linux, deepin, Pop! OS, antiX, Manjaro, RHEL, CentOS, openSUSE Leap, OpenWrt, Guix, Puppy, Tails, Endless OS, LibreELEC, OSMC, SteamOS
-- Ondersteunde hardware: x86_64/x86_32 (pcs...), aarch64/armhf (Raspberry Pi 2+...). Zoek de Linux Driver Installatiehandleiding die in het pakket zit en volg de stappen om de driver te downloaden. BELANGRIJKE OPMERKING voor de eerste installatie van het stuurprogramma op Linux: 1. Internetverbinding is vereist. 2. Installeer het Linux-stuurprogramma voordat u uw WiFi-adapter aansluit
 - WiFi 6-verbinding voor Linux: upgrade uw Linux-apparaten met de AX300 WiFi 6 USB-adapter. WiFi 6-technologieën, zoals OFDMA, Beamforming en BSS Color, verbeteren de WiFi-prestaties op uw computer. Ondersteunt alleen 2,4 GHz
 - Werkt met op Debian gebaseerde besturingssystemen: Ondersteunt kernels tot en met 6.17, Ubuntu 25.10–16.04 (alle varianten), Raspberry Pi OS 13–8, Debian 13–8, Linux Mint 22–18, LMDE 7–1, Zorin OS, MX Linux, Linux Lite, elementary OS en meer. Aanvullende ondersteunde besturingssystemen voor deze Linux USB WiFi-adapter staan ​​hieronder vermeld.
+- Beter WiFi-bereik: door gebruik te maken van Beamforming-technologie ontvangt deze Linux USB WiFi-adapter gerichte signalen van compatibele routers, waardoor een bredere dekking wordt geboden die adapters van eerdere generaties overtreft
+- Ondersteunde hardware: x86_64/x86_32 (pcs...), aarch64/armhf (Raspberry Pi 2+...). Zoek de Linux Driver Installatiehandleiding die in het pakket zit en volg de stappen om de driver te downloaden. BELANGRIJKE OPMERKING voor de eerste installatie van het stuurprogramma op Linux: 1. Internetverbinding is vereist. 2. Installeer het Linux-stuurprogramma voordat u uw WiFi-adapter aansluit
+- Niet-ondersteunde distributies: Momenteel NIET compatibel met Arch Linux, Fedora Workstation, Kali Linux, deepin, Pop! OS, antiX, Manjaro, RHEL, CentOS, openSUSE Leap, OpenWrt, Guix, Puppy, Tails, Endless OS, LibreELEC, OSMC, SteamOS
+- Ultraklein formaat: met afmetingen van slechts 2.1 x 1.5 x 0.7 cm verstoort deze Linux USB WiFi-adapter de aangrenzende USB-poorten niet. Ideaal voor Linux-gebruikers die op zoek zijn naar draagbaarheid. Ondersteunt WPA3-encryptie.
+- Betrouwbare WiFi 6-connectiviteit: deze Linux USB WiFi-adapter levert 286 Mbps op de 2,4 GHz draadloze band en zorgt voor naadloos browsen en vertragingsvrije videostreaming op uw Linux-desktop of -laptop. 5GHz wordt NIET ondersteund
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CFFF4LNG{{</world>}}

@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 4-in-1 primer, concealer, highlighter en BB-cream in één tube.
-- Verkrijgbaar in zeven shades die zich aanpassen aan de huidskleur.
 - Volledig vegan*, 4-in-1 formule die vervaagt, concealt, accentueert en egaliseert.
 - Breng super gemakelijk, snel en precies aan met de ingebouwde sponsapplicator.
+- Verkrijgbaar in zeven shades die zich aanpassen aan de huidskleur.
+- 4-in-1 primer, concealer, highlighter en BB-cream in één tube.
 - Brengt aan op de huid voor de perfecte glowy make-up look.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

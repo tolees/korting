@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Bevat: 6 x HG Afvoerreiniger Sticks. Ontdek HG’s professionele assortiment aan reinigingsproducten, waaronder HG vloeibare ontstopper en andere veelzijdige reinigers
-- 100% natuurlijke ingrediënten: met natuurlijke enzymen die ontstoppingen verwijderen, waaronder zeepresten, vet, haar en voedsel. Niet giftig, in tegenstelling tot industriële afvoer ontstoppers
-- Biologisch afbreekbare en veilige formule: De sticks zijn ideaal voor gebruik als afvoerontstopper in de keuken, lossen volledig op, en verwijderen voedselresten snel. Gebruik eens per maand
 - 4-In-1 bescherming: De heavy duty ontstopper sticks bevatten geen microplastic en zijn zeer eenvoudig in gebruik. Ze zijn snelwerkend, verwijderen geurtjes en beschermen je leidingen, overal in huis
+- Biologisch afbreekbare en veilige formule: De sticks zijn ideaal voor gebruik als afvoerontstopper in de keuken, lossen volledig op, en verwijderen voedselresten snel. Gebruik eens per maand
+- 100% natuurlijke ingrediënten: met natuurlijke enzymen die ontstoppingen verwijderen, waaronder zeepresten, vet, haar en voedsel. Niet giftig, in tegenstelling tot industriële afvoer ontstoppers
 - HG Afvoerreiniger: Deze handige afvoerreinigers hebben een ingebouwde geurverwijderaar, om voorzichtig ontstoppingen op te lossen. Ideaal voor de gootsteen, de badkuip of de douche
 
 [🛒 Buy it now!!]({{< param buyurl >}})

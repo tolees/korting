@@ -28,14 +28,14 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Herbruikbaar en milieuvriendelijk: gemaakt van FSC-gecertificeerd duurzaam karton.
-- Afmetingen: breedte 400 mm × diepte 260 mm - een prachtig formaat display voor uw feestelijke inrichting.
-- Roger la Borde - Marineblauwe kerstboom - Feestelijke Pop & Slot Adventskalender
-- Inclusief 2 pop-out vellen - Met 24 genummerde stukken om in december in elkaar te zetten.
-- Kunstwerk van Jane Ray - Betoverende illustraties vol kleur, detail en feestelijke charme.
-- Bouw het zelf adventskalender - Creëer elke dag een magische 3D-kerstboomhutscène!
 - Plat verpakt voor eenvoudig posten - Een perfect pre-kerstcadeau dat leuk is om te verzenden en te ontvangen.
+- Bouw het zelf adventskalender - Creëer elke dag een magische 3D-kerstboomhutscène!
+- Herbruikbaar en milieuvriendelijk: gemaakt van FSC-gecertificeerd duurzaam karton.
 - Herbruikbare decoratie: geniet jaar na jaar van de magie!
+- Inclusief 2 pop-out vellen - Met 24 genummerde stukken om in december in elkaar te zetten.
+- Afmetingen: breedte 400 mm × diepte 260 mm - een prachtig formaat display voor uw feestelijke inrichting.
+- Kunstwerk van Jane Ray - Betoverende illustraties vol kleur, detail en feestelijke charme.
+- Roger la Borde - Marineblauwe kerstboom - Feestelijke Pop & Slot Adventskalender
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FZVJRNCH{{</world>}}

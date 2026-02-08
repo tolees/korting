@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Inhoud: externe SSD, USB 3.0 kabel
-- Schokbestendig
-- Stroomvoorziening via USB 3.0 aansluiting (achterwaarts compatibel)
 - Transferraten: lezen tot 320 MB/s, schrijven tot 70 MB/s
 - Geruisloze werking, laag stroomverbruik
+- Inhoud: externe SSD, USB 3.0 kabel
+- Stroomvoorziening via USB 3.0 aansluiting (achterwaarts compatibel)
+- Schokbestendig
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0742L5SFS{{</world>}}

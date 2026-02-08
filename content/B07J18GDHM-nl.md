@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Optimale diepte voor lekkere gerechten of bijgerechten, past perfect bij het rokservies van Manufacture, rustieke blikvanger
-- Vaatwasmachinebestendig, geschikt voor de magnetron, hoogwaardige kwaliteit: premium porselein Made in Germany
-- 1x Villeroy & Boch Manufacture Rockschaal plat, 1100 ml, 23,5 cm, gewicht: 620 g (art.nr. 10-4239-2536)
-- Platte schaal in mat gestructureerde leisteen-look voor kleine gerechten zoals salades of desserts, ideale metgezel voor elke gelegenheid
 - Ook geschikt voor gastronomie dankzij handige vorm, stapelbaar, stoot- en slagvaste randen
+- Vaatwasmachinebestendig, geschikt voor de magnetron, hoogwaardige kwaliteit: premium porselein Made in Germany
+- Platte schaal in mat gestructureerde leisteen-look voor kleine gerechten zoals salades of desserts, ideale metgezel voor elke gelegenheid
+- 1x Villeroy & Boch Manufacture Rockschaal plat, 1100 ml, 23,5 cm, gewicht: 620 g (art.nr. 10-4239-2536)
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07J18GDHM{{</world>}}

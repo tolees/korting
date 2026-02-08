@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - De grootte is geschikt voor soepen, terrines en stoofpannen voor meerdere personen, porselein en extra deksel houden gerechten lang warm.
+- Gemaakt van hoogwaardig en bijzonder robuust premium porselein, ideaal voor dagelijks gebruik, kan met een vochtige doek worden schoongemaakt.
 - Inhoud: 1 x Villeroy & Boch Toys Delight Terrine (3 liter), materiaal: premium porselein, kleur: wit/rood.
 - Past bij Toys Delight Royal Classic en Toys Fantasy, dankzij kerstverpakking ook geschikt als kerstcadeau.
 - Decoratieve terrine van porselein voor soepen, ideaal voor samen kerstdinnen met de familie.
-- Gemaakt van hoogwaardig en bijzonder robuust premium porselein, ideaal voor dagelijks gebruik, kan met een vochtige doek worden schoongemaakt.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00ZFXMPLO{{</world>}}

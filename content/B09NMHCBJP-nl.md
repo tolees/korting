@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Bovenmateriaal: leer
 - Schoenbreedte: normaal
+- Bovenmateriaal: leer
 - Zoolmateriaal: Rubber
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Verbetert en versterkt de haarlengtes
-- Geef het haar glans
-- Verrijkt met plantaardige Keratine, vitamines en Castor olie
 - Beschermt tegen haarbreuk
+- Verbetert en versterkt de haarlengtes
 - Beschermt tegen haarbreuk en gespleten punten
+- Verrijkt met plantaardige Keratine, vitamines en Castor olie
+- Geef het haar glans
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0B7MTVRP3{{</world>}}

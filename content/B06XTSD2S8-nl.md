@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Dermatologisch getest, niet comedogeen
 - De zachte schuimrubberen applicator is ontwikkeld om de textuur te benadrukken en de lippen met extreme precisie te omtrekken
 - Verzachtende lipgloss met 3D-effect voor een glanzend resultaat
-- De zachte, fluwelige textuur smelt samen met de lippen en maakt ze glad en glanzend
 - De formule bevat extract van Bidens
-- Dermatologisch getest, niet comedogeen
+- De zachte, fluwelige textuur smelt samen met de lippen en maakt ze glad en glanzend
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B06XTSD2S8{{</world>}}

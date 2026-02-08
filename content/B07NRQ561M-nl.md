@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Speelt met twee of meer personen vanaf 6 jaar om de beste tromp
 - Cadeau-idee of fanartikelen voor alle Harry Potter-fans.
 - Stap in de verschillende categorieën van het eerste jaar in Hogwarts, toverstaaflengte, stamboom, angstfactor en top trompfactor tegen elkaar
 - Wie aan het eind alle kaarten heeft, wint de ronde
-- Speelt met twee of meer personen vanaf 6 jaar om de beste tromp
 - 30 kaarten met coole motieven, nauwkeurige statistieken en spannende achtergrondinformatie over de meest indrukwekkende magiers uit de Harry Potter-serie
 
 [🛒 Buy it!!]({{< param buyurl >}})

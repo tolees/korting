@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Helder goudkleurig en helder licht
-- Verrijkt met voedende abrikozenolie, biedt de zelfbruinende natuurlijke bronzer een goudkleurige en stralende bruining zonder sporen die tot 1 week meegaan.
 - Een gebruinde huid verschijnt een aantal uur na één keer aanbrengen.
-- Een gouden en lichtgevende teint tot 1 week, streepvrij.
 - Garnier Ambre Solaire Natural Bronzer Body Mist - Zelfbruiner voor Gezicht met Vitamine E en Voedende Abrikozenolie - 150ml - Geeft een natuurlijke bruine teint.
+- Verrijkt met voedende abrikozenolie, biedt de zelfbruinende natuurlijke bronzer een goudkleurige en stralende bruining zonder sporen die tot 1 week meegaan.
+- Helder goudkleurig en helder licht
+- Een gouden en lichtgevende teint tot 1 week, streepvrij.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09TV3QT6Z{{</world>}}

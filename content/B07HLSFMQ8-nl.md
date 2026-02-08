@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Stof- en vochtbestendig
-- Circulaire diafragma met 11 lamellen voor prachtige scherpte-effecten
-- Direct Drive SSM (DDSSM) voor stille, zeer nauwkeurige focusbesturing
-- Premium groothoeklens met vaste brandpuntsafstand van de G Master serie - Geschikt voor Alpha 9, Alpha 7, A6000, A5100, A5000 en Nex Series
 - Hoge resolutie van de G Master door twee XA-elementen (extreem asferisch) in de optische constructie
+- Circulaire diafragma met 11 lamellen voor prachtige scherpte-effecten
+- Stof- en vochtbestendig
+- Premium groothoeklens met vaste brandpuntsafstand van de G Master serie - Geschikt voor Alpha 9, Alpha 7, A6000, A5100, A5000 en Nex Series
+- Direct Drive SSM (DDSSM) voor stille, zeer nauwkeurige focusbesturing
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07HLSFMQ8{{</world>}}

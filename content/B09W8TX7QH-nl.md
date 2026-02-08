@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Beschermt de huid met SPF 15 en krachtige antioxidanten
-- Voor de normale en vermoeide huid
 - Vermindert rimpels en fijne lijntjes
+- Voor de normale en vermoeide huid
+- Beschermt de huid met SPF 15 en krachtige antioxidanten
 - Geeft de vermoeide huid een opfrisser
 - Rijk aan huideigen Q10 en vitamine C
 

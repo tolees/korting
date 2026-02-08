@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Rekbare mouwen houden de beschermers op hun plaats en gebruiken Dri-FIT technologie om zweet af te voeren
-- Nike Mercurial Lite scheenbeschermers voor voetbal
 - Zacht, geperforeerd schuim beschermt tegen schokken
+- Nike Mercurial Lite scheenbeschermers voor voetbal
 - Onopvallende schaal is lichtgewicht en duurzaam
 
 [🛒 Check the deal!!]({{< param buyurl >}})

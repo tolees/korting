@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Je kunt je kinderen monteren met een grappig figuur uit het materiaal in de doos
-- Aanbevolen voor kinderen van 4 tot 8 jaar
-- Levering in doos met venster
 - Met EVA-schuimvormen, vilt, pompon, wol, enz. en alle benodigde materialen om het figuur te creëren
+- Levering in doos met venster
+- Aanbevolen voor kinderen van 4 tot 8 jaar
 - Afmetingen: 40 mm lengte, 170 mm hoog, 120 mm breed
 
 [🛒 Buy it now!!]({{< param buyurl >}})

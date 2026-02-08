@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Compleet met contrasterende Bordeaux broek met een comfortabele elastische tailleband.
 - Een comfortabel grijs Zweinstein shirt met gouden glitter details.
 - Harry Potter pyjama voor vrouwen.
-- Compleet met contrasterende Bordeaux broek met een comfortabele elastische tailleband.
 - Officieel erkende Harry Potter merchandise.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

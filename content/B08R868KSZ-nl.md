@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Plug and Play: Deze HDMI 2.0 Switch vereist geen stuurprogrammas, het is plug and play. Er is geen externe voeding nodig, sluit gewoon uw HDMI apparaat aan op deze HDMI Switch en u bent klaar om deze HDMI Switch te gebruiken (Hints: Deze HDMI Switch wordt geleverd met een HDMI Kabel van 1M, gevoed door de HDMI poort van het hoofdapparaat. Extern netsnoer en voedingsadapter niet inbegrepen).
 - 4k@60Hz Ultra HD: HDMI 2.0 4K Switch ondersteunt resoluties tot 4K@60Hz en is compatibel met zowel 2K@120Hz als 1920x1080@240/144Hz. Ondersteunt tot 18Gbps videobandbreedte, 3D, HDR, CEC, HDCP 2.2/1.4, enz. Voor een helderdere beeldkwaliteit en vloeiendere snelheid, zodat u kunt genieten van een visueel feest.
-- UGREEN HDMI 2.0 Switch: UGREEN HDMI 2.0 Switch ondersteunt het schakelen van 2 HDMI invoer apparaten (Laptop/Set-top Box/Gaming Console enz.) naar 1 HDMI uitvoer weergaveapparaat; of één HDMI invoerapparaat omschakelen naar twee HDMI apparaten met 1 HDMI uitvoer (HDTV/Projector/Monitor, enz).
-- Brede Compatibiliteit: De HDMI-Splitter 4K is compatibel met de meeste apparaten met een standaard HDMI aansluiting. Bijvoorbeeld: PC, PS3/4/5, PS4 Pro, XBox 360, Xbox One, Chromecast, TV Box, TV Stick, Switch, Blu-ray Player, DVD, Set-top Box, AV Ontvanger, Notebook, HDTV, TV, Monitor, Projector, Scherm, Satellietontvanger, enz.
 - Bidirectionele HDMI Switch: UGREEN Bidirectionele HDMI Switch ondersteunt gelijktijdige uitvoer van video en audiosignalen. Je kunt hem gebruiken als een HDMI Switch 2-in 1-out of HDMI Splitter 1-in 1-out en eenvoudig schakelen met een druk op de knop (Hints: De input en output moeten ook 4K@60Hz resolutie ondersteunen, en deze switch ondersteunt geen automatisch schakelen).
+- Plug and Play: Deze HDMI 2.0 Switch vereist geen stuurprogrammas, het is plug and play. Er is geen externe voeding nodig, sluit gewoon uw HDMI apparaat aan op deze HDMI Switch en u bent klaar om deze HDMI Switch te gebruiken (Hints: Deze HDMI Switch wordt geleverd met een HDMI Kabel van 1M, gevoed door de HDMI poort van het hoofdapparaat. Extern netsnoer en voedingsadapter niet inbegrepen).
+- Brede Compatibiliteit: De HDMI-Splitter 4K is compatibel met de meeste apparaten met een standaard HDMI aansluiting. Bijvoorbeeld: PC, PS3/4/5, PS4 Pro, XBox 360, Xbox One, Chromecast, TV Box, TV Stick, Switch, Blu-ray Player, DVD, Set-top Box, AV Ontvanger, Notebook, HDTV, TV, Monitor, Projector, Scherm, Satellietontvanger, enz.
+- UGREEN HDMI 2.0 Switch: UGREEN HDMI 2.0 Switch ondersteunt het schakelen van 2 HDMI invoer apparaten (Laptop/Set-top Box/Gaming Console enz.) naar 1 HDMI uitvoer weergaveapparaat; of één HDMI invoerapparaat omschakelen naar twee HDMI apparaten met 1 HDMI uitvoer (HDTV/Projector/Monitor, enz).
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08R868KSZ{{</world>}}

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- De 1/4 hydraterende crème verzorgt de huid en beschermt tegen irritatie
-- Dove Men+Care Advanced Clean Comfort Anti-Transpirant Deodorant Spray
-- Dove Men+Care deodorant is door PETA gecertificeerd als Vegan
 - De anti-bacteriële geurbestrijding gaat zweet en nare geurtjes tegen
 - Met een heerlijk frisse geur voor langdurig fris ruikende oksels
+- De 1/4 hydraterende crème verzorgt de huid en beschermt tegen irritatie
+- Dove Men+Care deodorant is door PETA gecertificeerd als Vegan
+- Dove Men+Care Advanced Clean Comfort Anti-Transpirant Deodorant Spray
 - Deze anti-transpirant biedt 72 uur lang krachtige bescherming tegen zweet
 
 [🛒 Buy it now!!]({{< param buyurl >}})
