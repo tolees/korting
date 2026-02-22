@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Extreme Gen4 Storage Performance: A PCIe Gen4 x4 controller delivers up to 7,100MB/sec sequential read and 6,800MB/sec sequential write speeds, for phenomenal read, write, and response times that leave standard M.2 SSDs in the dust.
-- Stylish Aluminum Heatspreader: Helps disperse heat and reduce throttling, so your SSD maintains sustained high performance.
-- High-speed Gen4 PCIe x4 NVMe 1.4 M.2 Interface: Using PCIe Gen4 technology for maximum bandwidth, the MP600 PRO XT delivers incredible storage performance.
 - Your PC Made Faster: Load games, boot Windows, open and transfer files, all faster than ever.
+- Extreme Gen4 Storage Performance: A PCIe Gen4 x4 controller delivers up to 7,100MB/sec sequential read and 6,800MB/sec sequential write speeds, for phenomenal read, write, and response times that leave standard M.2 SSDs in the dust.
 - High-Density 3D TLC NAND: Provides the ideal mix of performance and endurance to keep your drive performing at its best for years.
+- High-speed Gen4 PCIe x4 NVMe 1.4 M.2 Interface: Using PCIe Gen4 technology for maximum bandwidth, the MP600 PRO XT delivers incredible storage performance.
+- Stylish Aluminum Heatspreader: Helps disperse heat and reduce throttling, so your SSD maintains sustained high performance.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09F5X8ZMY{{</world>}}

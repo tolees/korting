@@ -28,14 +28,14 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- PERSOONDETECTIE: Ontvang meldingen bij detectie van een persoon met ingebouwde computervisie (CV) bij een optioneel Blink-abonnement (apart verkrijgbaar).
 - IN DE DOOS: 2 cameras, 1 Sync Module Core, 4 AA-lithiummetaalbatterijen, 2 montagekits, 1 USB-kabel en 1 voedingsadapter.
-- PRIVACYZONES: Maak twee privacyzones om gebieden in het zicht van de Outdoor 4 af te schermen. Respecteer de privacy van je buren en pas de installatie aan.
 - DE NIEUWSTE: Blink Outdoor 4-camera is de 4de generatie, draadloze, slimme beveiligingscamera voor binnen en buiten, bediening via de Blink-app op je smartphone.
-- KIJK, LUISTER EN SPREEK MET DE BLINK-APP: Ervaar 1080p HD-livebeeld, infrarood nachtzicht en heldere intercomfunctie.
-- BEWAAR EN DEEL VIDEOCLIPS: 30 dagen onbeperkte opslag. Probeer het Blink-abonnement 30 dagen gratis uit en sla gebeurtenissen op in de cloud. Incl. Sync Module Core.
 - GEAVANCEERDE BEWEGINGSDETECTIE: Word sneller gewaarschuwd bij beweging via je smartphone met geavanceerde bewegingsdetectie voor twee zones.
 - BATTERIJDUUR VAN 2 JAAR: In enkele minuten te installeren en tot 2 jaar stroom met de meegeleverde AA-lithiumbatterijen. Koop ook het uitbreidingspakket (apart verkrijgbaar) voor een batterijduur tot 4 jaar met elke camera.
-- PERSOONDETECTIE: Ontvang meldingen bij detectie van een persoon met ingebouwde computervisie (CV) bij een optioneel Blink-abonnement (apart verkrijgbaar).
+- KIJK, LUISTER EN SPREEK MET DE BLINK-APP: Ervaar 1080p HD-livebeeld, infrarood nachtzicht en heldere intercomfunctie.
+- PRIVACYZONES: Maak twee privacyzones om gebieden in het zicht van de Outdoor 4 af te schermen. Respecteer de privacy van je buren en pas de installatie aan.
+- BEWAAR EN DEEL VIDEOCLIPS: 30 dagen onbeperkte opslag. Probeer het Blink-abonnement 30 dagen gratis uit en sla gebeurtenissen op in de cloud. Incl. Sync Module Core.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DHLV74DS{{</world>}}

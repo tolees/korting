@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Niet compatibel met Motorola Moto G Stylus 5G, Motorola Edge, TCL 30XL, TCL 30Z, Google Pixel 8
-- Google Find Hub-gecertificeerd (alleen Android): Officieel gecertificeerd door Google Find Hub. UGREEN FineTrack G kan perfect worden gekoppeld aan Android-apparaten en biedt betrouwbare locatietracking voor uw Android-apparaat
 - Left-Behind Remind: Bluetooth Tracker geeft automatisch een herinnering weer op uw mobiele telefoon wanneer u zich op een bepaalde afstand van het voorwerp bevindt. Deze afstand is afhankelijk van de omgevingsstoringen
 - Informatie delen: met Smarttag kan objectinformatie naar meerdere mobiele telefoons worden verzonden. U hoeft zich nooit meer zorgen te maken dat familie en vrienden uw voorwerpen kwijtraken
 - Wereldwijd eerste USB-C-tracker: Bluetooth-tracker heeft een USB C-aansluiting waarmee u het apparaat op elk moment kunt opladen. Na volledig opladen biedt het product een batterijduur van maximaal 12 maanden. U hoeft zich dus geen zorgen te maken over het batterijniveau
+- Google Find Hub-gecertificeerd (alleen Android): Officieel gecertificeerd door Google Find Hub. UGREEN FineTrack G kan perfect worden gekoppeld aan Android-apparaten en biedt betrouwbare locatietracking voor uw Android-apparaat
 - Extra luid alarm en wereldwijde lokalisatie: Ingebouwde zoemer met maximaal 80 dB; kan voor u worden gevonden via “Find Hub”. Via het Find Hub-netwerk kunnen voorwerpen wereldwijd worden gelokaliseerd, zolang er mobiele telefoons in de buurt zijn
 
 [🛒 Buy it!!]({{< param buyurl >}})

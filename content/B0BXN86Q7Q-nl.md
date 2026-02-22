@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - AC1200 Wi-Fi-snelheid. 2,4GHz zorgt voor een extreem groot bereik, 5GHz bereikt 867Mbps, ideaal voor gaming en 4K streaming. Eenvoudige taken zoals surfen op het web kunnen worden afgehandeld door de 2,4GHz band, terwijl bandbreedte-intensieve taken zoals online gaming of HD video streaming tegelijkertijd kunnen worden verwerkt door de 5GHz band.
+- Een AC1200 Wi-Fi Router in zakformaat voor thuis en onderweg. De TR1200 biedt WiFi-snelheden tot 867 Mbps + 300 Mbps, twee 10/100Mbps ethernetpoorten, een USB-poort en meervoudige VPN-ondersteuning, waardoor hij perfect is voor dagelijks gebruik en onderweg.
+- Ondersteuning voor meerdere VPNs. Met de ingebouwde PPTP/ L2TP / OpenVPN / WireGuard /IPsec/ Zerotier VPN kan deze reisrouter gemakkelijk een verbinding maken met de VPN-server om al je online gegevens en verkeer te transporteren en tegelijkertijd te beveiligen met de versleuteling. Compatibel met nog 20 DDNS-providers, handig om je externe cameras te beheren.
 - Voedingsadapter niet meegeleverd.
 - WISP-modus werkt met Captive Portal. De meeste gratis openbare Wi-Fi hotspots gebruiken captive portal, TR1200s WISP modus kan ermee werken. En sommige openbare WiFi stellen meestal een tijdslimiet in voor gebruikers, die uw apparaten zal loskoppelen zodra de tijd voorbij is. Om met deze situatie om te gaan, verbind je router opnieuw met de wifi.
-- Ondersteuning voor meerdere VPNs. Met de ingebouwde PPTP/ L2TP / OpenVPN / WireGuard /IPsec/ Zerotier VPN kan deze reisrouter gemakkelijk een verbinding maken met de VPN-server om al je online gegevens en verkeer te transporteren en tegelijkertijd te beveiligen met de versleuteling. Compatibel met nog 20 DDNS-providers, handig om je externe cameras te beheren.
 - Gemakkelijk hotspot delen. Gecombineerd met meerdere werkingsmodi, waaronder WiFi-routermodus, modus draadloos toegangspunt, WiFi Extender-modus, WISP-modus, waarmee eenvoudig een openbaar netwerk (bekabeld/draadloos) kan worden omgezet in privé-Wi-Fi om veilig te surfen.
-- Een AC1200 Wi-Fi Router in zakformaat voor thuis en onderweg. De TR1200 biedt WiFi-snelheden tot 867 Mbps + 300 Mbps, twee 10/100Mbps ethernetpoorten, een USB-poort en meervoudige VPN-ondersteuning, waardoor hij perfect is voor dagelijks gebruik en onderweg.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BXN86Q7Q{{</world>}}

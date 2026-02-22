@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Crestwood waterdichte wandelschoenen voor heren Kleding schoenen & sieraden'
-date: 2026-02-18 04:23:23
+date: 2026-02-21 22:50:54
 image: 'https://m.media-amazon.com/images/I/416vo7Viw4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.nl/dp/B07RLYCHM6/?tag=tolees0b-21'
 descuento: '40.99'
-average: '60.6666666666667'
+average: '60.5392307692308'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Comfortabel en licht design
 - Duurzame design zorgt voor lang gebruik
 - Schoenen van het merk Columbia
+- Comfortabel en licht design
 - Gemaakt van duurzame materialen
 
 [🛒 Buy it!!]({{< param buyurl >}})

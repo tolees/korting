@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - gewicht van het artikelpakket: 0.27 kg
-- lengte van de verpakking van het artikel: 340 mm
-- hoogte van de verpakking van het artikel: 115 mm
 - breedte van het artikelpakket: 215 mm
+- hoogte van de verpakking van het artikel: 115 mm
+- lengte van de verpakking van het artikel: 340 mm
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0C697TYX5{{</world>}}

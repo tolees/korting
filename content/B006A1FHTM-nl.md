@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Newton Ridge Plus enkelhoge Wandelschoenen voor Dames Bruin Cordovan/Crown Jewel 37.5 EU Kleding schoenen & sieraden'
-date: 2026-02-18 04:21:23
+date: 2026-02-21 22:32:02
 image: 'https://m.media-amazon.com/images/I/41Su6br+uOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: 'Columbia'
 buyurl: 'https://www.amazon.nl/dp/B006A1FHTM/?tag=tolees0b-21'
 descuento: '40.04'
-average: '62.3533333333333'
+average: '63.7242857142857'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Geschikt voor: koud weer
 - Laarzen van het merk COLUMBIA
+- Geschikt voor: koud weer
 - Stevig design voor simpele bewegingen
 
 [🛒 Buy it!!]({{< param buyurl >}})

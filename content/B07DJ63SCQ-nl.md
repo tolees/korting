@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - 【Wateroplosbaar PVA】PVA is een in water oplosbaar hoogmoleculair polymeer, goede wateroplosbaarheid. Gemakkelijk af te pellen, beschadigt het gedrukte oppervlak niet. Milieuvriendelijk en niet giftig. Goede hechting aan verschillende materialen zoals PLA. Druktemperatuur 160-300°C. Ideaal voor complexe prints!
-- 【Stabiele maattolerantie】Minimale tolerantie en lage kromtrekken om consistente voeding en stabiele prints te garanderen, goede laaghechting, minder rijgen, geen luchtbellen, geen scheuren, geen vervorming, eenvoudige bediening, resulterend in een uitstekende oppervlakteafwerking en zijn zeer nauwkeurig.
 - 【Klittenvrij en geen pluggen】Volledige 0,5 kg 3D-printerfilamenthaspel met perfecte rondheid en zeer strakke diametertolerantie, goede wikkeling, overlapt niet en raakt niet in de war. Smelt goed, voer soepel en constant zonder het mondstuk of de extruder te verstoppen, hoge druksucces.
 - 【Vacuümverzegelde verpakking】Nettogewicht gloeidraad: 0,5 kg. eSUN filament wordt geleverd in een verzegelde vacuümzak met een droogmiddelzak, houd uw 3D-printerfilamenten gemakkelijk in een optimale opslagconditie en vrij van stof of vuil voordat u de gestofzuigde verzegelde verpakking opent.
+- 【Stabiele maattolerantie】Minimale tolerantie en lage kromtrekken om consistente voeding en stabiele prints te garanderen, goede laaghechting, minder rijgen, geen luchtbellen, geen scheuren, geen vervorming, eenvoudige bediening, resulterend in een uitstekende oppervlakteafwerking en zijn zeer nauwkeurig.
 - 【Ondersteuningsmateriaal】Dankzij de oplosbaarheid in water is het mogelijk om complexe modellen en mobiele constructies te printen die niet meer uit afzonderlijke onderdelen hoeven te worden samengesteld. Spoel de draagstructuur gewoon weg door het model onder te dompelen in water. (Verhoog de watertemperatuur kan de oplossingssnelheid versnellen.)
 
 [🛒 Buy it!!]({{< param buyurl >}})

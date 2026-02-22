@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Giet het wasparfum in de wasverzachter voordat u met het wasprogramma begint en kies de intensiteit met de doseerdop
+- PURE ESSENCE: parfum voor Wasserij met 100% geconcentreerde essentie. De parfums zijn gebonden aan de vezels en geven de stoffen een eenvoudige touch of style
+- LANGE DUUR: essence for Laundry met actieve formule van lange duur die een aanhoudende geur op je kledingstukken garandeert tot 5 weken
 - GEUR: sprankelende en frisse tonen van zoete sinaasappel die zich vermengen met talkgeur
 - Geschikt voor alle soorten wassen: ideaal voor alle wasprogrammas en stoffen. Speciaal aanbevolen voor sportkleding en linnengoed
-- LANGE DUUR: essence for Laundry met actieve formule van lange duur die een aanhoudende geur op je kledingstukken garandeert tot 5 weken
-- PURE ESSENCE: parfum voor Wasserij met 100% geconcentreerde essentie. De parfums zijn gebonden aan de vezels en geven de stoffen een eenvoudige touch of style
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07G5P82KX{{</world>}}

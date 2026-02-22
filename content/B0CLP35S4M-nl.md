@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 2×2 externe antenne, met een transmissiesnelheid tot 300 Mbps
 - Boost uw draadloze netwerk
+- 2×2 externe antenne, met een transmissiesnelheid tot 300 Mbps
 - Ondersteunt tot 16 apparaten die tegelijkertijd zijn aangesloten
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- [8 verlichtings­standen] Deze campinglamp biedt 5 + 3 modi: lichtslinger, knipperen, ademend, medium en sterk lantaarn­licht. Houd de schakelaar 3 seconden ingedrukt om de extra XTE‑standen te activeren: hoog licht, middellicht en SOS.
 - [Snelle oprol‑ en IP44‑waterdichtheid] Dankzij het handmatige oprolsysteem rol je de lamp in slechts 30 seconden op. Het IP44‑waterdichte ontwerp garandeert uitstekende duurzaamheid en bescherming tegen spatwater.
-- [USB‑oplaadbaar] Onze oprolbare campinglichtslinger heeft een ingebouwde 2000 mAh‑accu die in slechts 5 uur volledig wordt opgeladen. Geniet tot 12 uur ononderbroken sprookjes­verlichting of 5 uur in lantaarn‑ en sliertlicht­modus.
 - [Magnetische functie] De camping­sprookjeslamp is oprolbaar, weegt slechts 0,21 kg en is slechts 11 × 3,8 cm groot – zeer licht en draagbaar, eenvoudig mee te nemen in je rugzak of hand. De krachtige magneet aan de achterkant bevestig je aan ieder ijzer­houdend oppervlak. Hang ‘m op in tenten, aan takken of andere steunen, helemaal zoals jij wilt.
 - [3-in-1 multifunctionele campinglamp] De Fobekit camping­sprookjeslamp combineert sprookjes­verlichting, werklicht en zaklamp in één. Perfect als campinglamp, noodverlichting of zaklamp – een onmisbaar accessoire voor wandelen, reizen en outdoor­activiteiten. Transformeer je kampeer­ervaring met deze veelzijdige lamp en sprookjes­verlichting.
+- [USB‑oplaadbaar] Onze oprolbare campinglichtslinger heeft een ingebouwde 2000 mAh‑accu die in slechts 5 uur volledig wordt opgeladen. Geniet tot 12 uur ononderbroken sprookjes­verlichting of 5 uur in lantaarn‑ en sliertlicht­modus.
+- [8 verlichtings­standen] Deze campinglamp biedt 5 + 3 modi: lichtslinger, knipperen, ademend, medium en sterk lantaarn­licht. Houd de schakelaar 3 seconden ingedrukt om de extra XTE‑standen te activeren: hoog licht, middellicht en SOS.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0D73JRTVN{{</world>}}

@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - EVEN AANSLUITEN EN GENIETEN MAAR – sluit de 3,5mm-kabel aan voor het geluid, plug de USB-kabel in voor de verlichting en geniet van je favoriete muziek, films en games
+- KLEIN MAAR TOCH GROOT – de Trust GXT 1619 Rhox mag er dan klein uitzien, met zijn piekvermogen van 12 W (6 W RMS) doet hij niet onder voor grotere soundbars. De ruimte die je bespaart, gaat niet ten koste van de ervaring
 - LICHTSHOW – deze pc-soundbar is uitgerust met een prachtige lichtbalk met RGB-verlichting. Kies een van de zes verschillende lichtmodi en het feest kan beginnen!
 - BEDIENING BINNEN HANDBEREIK – met de grote, verlichte knop in het midden van de Rhox heb je altijd volledige controle over het volume
-- KLEIN MAAR TOCH GROOT – de Trust GXT 1619 Rhox mag er dan klein uitzien, met zijn piekvermogen van 12 W (6 W RMS) doet hij niet onder voor grotere soundbars. De ruimte die je bespaart, gaat niet ten koste van de ervaring
 - STEREOGELUID – hoewel je op het eerste gezicht maar één luidspreker verwacht, beschikt de Rhox toch over twee ingebouwde luidsprekers. Geniet van helder stereogeluid uit één unit
 
 [🛒 Check the deal!!]({{< param buyurl >}})

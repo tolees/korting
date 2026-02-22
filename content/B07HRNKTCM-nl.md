@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Stille en responsieve toetsen met anti-ghosting: met de sleutelrollover kun je de toetsen tegelijkertijd gebruiken 1 elke toetsaanslag en elke vertraging wordt geregistreerd en wordt perfect ingedrukt in de volgorde net zo snel als het werd ingevoerd. Geen verloren toetsaanslagen door gelijktijdige signalen
-- Kenmerkende lichtbalk en dynamische RGB-lichteffecten, zodat je je battle station kunt personaliseren en tot leven kunt brengen met 6 vooraf ingestelde LED-lichteffecten
-- Stevig, solide frame voor lange duurzaamheid en stabiliteit
 - Speciale mediabesturing zodat u media gemakkelijk kunt bedienen
+- Stevig, solide frame voor lange duurzaamheid en stabiliteit
+- Kenmerkende lichtbalk en dynamische RGB-lichteffecten, zodat je je battle station kunt personaliseren en tot leven kunt brengen met 6 vooraf ingestelde LED-lichteffecten
+- Stille en responsieve toetsen met anti-ghosting: met de sleutelrollover kun je de toetsen tegelijkertijd gebruiken 1 elke toetsaanslag en elke vertraging wordt geregistreerd en wordt perfect ingedrukt in de volgorde net zo snel als het werd ingevoerd. Geen verloren toetsaanslagen door gelijktijdige signalen
 - Lekvrij om schade door onbedoeld morsen te voorkomen
 
 [🛒 Buy it!!]({{< param buyurl >}})

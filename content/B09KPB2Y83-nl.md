@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Inhoud: 1 x Columbia uniseks beanie, City Trek zwaar gewicht, kleur: zwart, maat: één maat, art. 1911251
 - Comfortabel stretchmateriaal voor eenvoudig aan- en uittrekken
 - Omkeerbare dagelijkse muts met flexibele pasvorm, optimaal voor stad en land
-- Praktische eenheidsmaat, discreet, centraal Columbia-logo
 - Opvouwbare envelop voor een extra laag en dubbele warmte voor de oren
+- Praktische eenheidsmaat, discreet, centraal Columbia-logo
+- Inhoud: 1 x Columbia uniseks beanie, City Trek zwaar gewicht, kleur: zwart, maat: één maat, art. 1911251
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09KPB2Y83{{</world>}}

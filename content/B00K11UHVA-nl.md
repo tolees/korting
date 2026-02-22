@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link 300Mbps Wifi Versterker met stopcontact behoud TL-WA860RE Elektronica'
-date: 2026-02-19 03:09:54
+date: 2026-02-21 22:42:56
 image: 'https://m.media-amazon.com/images/I/41e5IS3g9KL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.nl/dp/B00K11UHVA/?tag=tolees0b-21'
 descuento: '30.01'
-average: '22.0247524752474'
+average: '22.0046601941746'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
@@ -30,9 +30,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Eenvoudige wifi-uitbreiding door druk op de range extension-knop; bedrijfstemperatuur: 0 °C ~ 40 °C; bewaartemperatuur: -40 tot 70 graden Celsius
 - Superklein gebruik, eenvoudig aan het stopcontact te bevestigen; zendvermogen maximaal: 20 dBm
-- LAN-poort voor het verbinden van bekabelde netwerkapparaten zoals Blu-ray-spelers, spelconsoles, tvs enz; in een WLAN; bedrijfsvochtigheid: 10% ~ 90%, niet-condenserend
 - Externe antennes zorgen voor een nog betere dekking
 - Inhoud: TP-Link TL-WA860RE, snelstartgids (mogelijk niet beschikbaar in het Nederlands)
+- LAN-poort voor het verbinden van bekabelde netwerkapparaten zoals Blu-ray-spelers, spelconsoles, tvs enz; in een WLAN; bedrijfsvochtigheid: 10% ~ 90%, niet-condenserend
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B00K11UHVA{{</world>}}

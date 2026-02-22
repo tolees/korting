@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Het doorlopende mesh-bovenmateriaal zorgt voor een ideaal ademend vermogen
-- Zichtbaar Max Air-element in de hiel voor demping
 - Bovenmateriaal van echt en synthetisch leer voor ideale duurzaamheid en comfort
+- Zichtbaar Max Air-element in de hiel voor demping
+- Het doorlopende mesh-bovenmateriaal zorgt voor een ideaal ademend vermogen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B073NDFGV5{{</world>}}

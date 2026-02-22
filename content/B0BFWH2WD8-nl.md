@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Uw "mini-stap" naar een Smart Home - Het is de toegang van het SwitchBot-ecosysteem. Verbind alle SwitchBot-apparaten en huishoudelijke apparaten met internet en activeer de cloudservice van je SwitchBot-apparaten. Begin met SwitchBot je eigen smart home op te bouwen
+- Eenvoudig te bedienen - Eenvoudige installatie van de Hub Mini in de SwitchBot-app. Met de "Smart Learning"-modus kan het je bestaande afstandsbediening in 5 seconden nabootsen. USB-gevoed en draagbaar, je kunt hem overal meenemen en plaatsen. <*SwitchBot Hub Mini ondersteunt alleen 2,4 GHz wifi>(Niet compatibel met Matter)(5V1A of 5V2A oplader)
 - Koppel je airconditioning, tv en andere infrarood bestuurbare apparaten met de Hub Mini. Alle apparaten in één app. Geniet van het gemak met één druk op de knop.
+- Uw "mini-stap" naar een Smart Home - Het is de toegang van het SwitchBot-ecosysteem. Verbind alle SwitchBot-apparaten en huishoudelijke apparaten met internet en activeer de cloudservice van je SwitchBot-apparaten. Begin met SwitchBot je eigen smart home op te bouwen
 - Geniet van spraakbediening - Het werkt met Alexa, Google Assistant, Siri en IFTTT. Bedien uw SwitchBot- en huishoudelijke apparaten met een eenvoudige spraakopdracht.
 - Bespaar energie en geld - Vraagt u zich af of u de airconditioning in de slaapkamer wel hebt uitgeschakeld? Schakel ze eenvoudig uit in de SwitchBot App of stel een handige scène in, u zult het NOOIT vergeten de apparaten uit te schakelen.
-- Eenvoudig te bedienen - Eenvoudige installatie van de Hub Mini in de SwitchBot-app. Met de "Smart Learning"-modus kan het je bestaande afstandsbediening in 5 seconden nabootsen. USB-gevoed en draagbaar, je kunt hem overal meenemen en plaatsen. <*SwitchBot Hub Mini ondersteunt alleen 2,4 GHz wifi>(Niet compatibel met Matter)(5V1A of 5V2A oplader)
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BFWH2WD8{{</world>}}

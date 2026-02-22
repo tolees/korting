@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Bosch Professional 6-delige schroevendraaierset  incl. Phillips  sleuf  Torx en Pozidriv  in kartonnen doos '
-date: 2025-08-30 21:53:31
+title: 'Bosch Professional 6-delige schroevendraaierset incl. Phillips sleuf Torx en Pozidriv in kartonnen doos'
+date: 2026-02-21 22:04:10
 image: 'https://m.media-amazon.com/images/I/4121uwA7HTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -13,7 +13,7 @@ actualPrice: 25.09 EUR
 currency: EUR
 price: 25.09
 comparePrice: 43.56 EUR
-prodname: 'Bosch Professional 6-delige schroevendraaierset  incl. Phillips  sleuf  Torx en Pozidriv  in kartonnen doos '
+prodname: 'Bosch Professional 6-delige schroevendraaierset incl. Phillips sleuf Torx en Pozidriv in kartonnen doos'
 country: 'nl'
 flag: '🇳🇱'
 brand: 'Bosch Professional'
@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Robuuste schroevendraaiers: dankzij hoogwaardige metalen schachten
-- Leveromvang: SL 3,5x75 mm, TX 20x100 mm, TX 15x75 mm, SL 6,5x125 mm, PZ 2x125 mm, PH 1x100 mm, EVA inlay, in kartonnen doos
 - Lange levensduur: dankzij de metalen schachten
+- Robuuste schroevendraaiers: dankzij hoogwaardige metalen schachten
 - Hoogprecisie punten: zorgen voor exacte resultaten met alle schroevendraaiers
+- Leveromvang: SL 3,5x75 mm, TX 20x100 mm, TX 15x75 mm, SL 6,5x125 mm, PZ 2x125 mm, PH 1x100 mm, EVA inlay, in kartonnen doos
 - Comfortabel gebruik: door softgrip en de ergonomische vorm
 
 [🛒 Buy it now!!]({{< param buyurl >}})

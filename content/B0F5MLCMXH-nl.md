@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GPS Drone Professional met 4K Camera voor Volwassenen FPV Drone Transmissie Opvouwbare Drones Groot Bereik Quadcopter met Automatische Terugkeer Volg Mij Cirkelvlucht Terugkeer bij Lage Batterij Speelgoed & spellen'
-date: 2026-02-16 04:48:31
+date: 2026-02-21 21:48:02
 image: 'https://m.media-amazon.com/images/I/41PDVYJtpnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: 'karuisrc'
 buyurl: 'https://www.amazon.nl/dp/B0F5MLCMXH/?tag=tolees0b-21'
 descuento: '15.00'
-average: '102.99'
+average: '101.353636363636'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

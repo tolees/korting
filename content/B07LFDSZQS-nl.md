@@ -31,8 +31,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 - Dit is een origineel Levis product
 - Met het optimale stretchaandeel voor draagcomfort in het dagelijks leven
 - De perfecte keuze voor een normaal tot sportief figuur
-- Jeans met klassieke rechte pasvorm
 - Wij werken samen met het Better Cotton Initiative om de katoenteelt wereldwijd te verbeteren. Dit is een origineel Levis product
+- Jeans met klassieke rechte pasvorm
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07LFDSZQS{{</world>}}

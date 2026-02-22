@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil 70673 Space Ranger Gift Set'
-date: 2026-01-22 19:58:39
+date: 2026-02-21 22:12:16
 image: 'https://m.media-amazon.com/images/I/41y8H9O0AGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: 'Playmobil'
 buyurl: 'https://www.amazon.nl/dp/B09KHDKN3P/?tag=tolees0b-21'
 descuento: '21.42'
-average: '11.5996666666667'
+average: '11.4271875000001'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- De spacespeeder biedt plaats aan één figuur
 - Eén figuur inbegrepen
 - Ga met de astronaut op weg door de uitgestrektheid van de ruimte met zijn coole Space Speeder. Om het oppervlak van de planeet te verkennen, klimt de piloot in zijn speeder, vouwt de schilden op en vertrekt. Als er iets kapot gaat, heeft hij zijn grote tang bij zich. Op naar het volgende avontuur! De leuke PLAYMOBIL geschenksets zijn voorzien van een cadeaulabel op de doos om in te vullen!
+- De spacespeeder biedt plaats aan één figuur
 - Inclusief beweegbare functies
 - De doos is voorzien van een cadeaulabel om in te vullen
 - Geschikt voor 4+ jaar

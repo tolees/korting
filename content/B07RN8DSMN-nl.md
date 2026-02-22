@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Knal! Spelletjes Borderlands 3 Lilith the Siren PS4//Xbox One/ : Funko Speelgoed & spellen'
-date: 2026-02-12 03:45:17
+date: 2026-02-21 21:49:13
 image: 'https://m.media-amazon.com/images/I/41eZzUFyNjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: 'Funko'
 buyurl: 'https://www.amazon.nl/dp/B07RN8DSMN/?tag=tolees0b-21'
 descuento: '45.48'
-average: '10.3718604651162'
+average: '10.4437777777777'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

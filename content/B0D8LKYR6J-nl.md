@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Zorg ervoor dat de frequentie van 2,4 GHz beschikbaar is op de router
 - Schakel de waterkoker overal in. Plan de ketel op elk moment om te koken. Gemak voor mensen met mobiliteitsproblemen.
 - 2 jaar fabrieksgarantie met 7 dagen klantenservice
 - Temperatuurregeling: brouw de perfecte drank en bespaar energie door de juiste temperatuur te kiezen tussen 70°C, 80°C, 90°C en 100°C. Houd 1 uur warm.
+- Zorg ervoor dat de frequentie van 2,4 GHz beschikbaar is op de router
 - Spraakbesturing via Amazon Alexa, Google Assitant en Siri via snelkoppelingen. Smart life app-bediening.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

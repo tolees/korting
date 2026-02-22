@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- NOTE: Video guide can be viewed by scanning the QR code on the box. Professional installation skill is required.
-- Easy Installation: Comes with precision screwdrivers and repair tool kits to disassemble and assemble game consoles and controllers. (Video guide can be viewed by scanning the QR code on the box)
-- Sturdy and Durable Materials: Our slider buckle lock set are made of alloy. More sturdy and durable than the original plastic buckle set. Secures the metal rail to the controller and does not slip off when using the controller.
 - Fit for Nintendo Switch Joy-con: High quality replacement repair parts for Joy-Con controllers. Includes 2 analog sticks, L/R charging port slider set, L/R slicker buckle lock set, SR/SL sync button flex cables and screws. Ideal for replacing damaged or tired parts.
+- NOTE: Video guide can be viewed by scanning the QR code on the box. Professional installation skill is required.
+- Sturdy and Durable Materials: Our slider buckle lock set are made of alloy. More sturdy and durable than the original plastic buckle set. Secures the metal rail to the controller and does not slip off when using the controller.
 - This is NOT official product.
+- Easy Installation: Comes with precision screwdrivers and repair tool kits to disassemble and assemble game consoles and controllers. (Video guide can be viewed by scanning the QR code on the box)
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08HGWNVC3{{</world>}}

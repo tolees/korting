@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Ultrasnelheid: ondersteunt gegevensoverdracht met USB4- en Thunderbolt 4/5-poorten om een hoge sequentiële leessnelheid tot 40 Gbps (3.840/3.840 MB/s) te bereiken. Het is ook compatibel met Thunderbolt 3-poort, maar niet compatibel met Thunderbolt 2-poort.
 - Let op dit voordat u koopt: Dit product bevat geen SSD.
-- Robuust en zonder ventilator: het wordt geleverd in een stevige behuizing van aluminium met gebogen oppervlak om efficiënte warmteafvoer te bereiken zonder luidruchtige mechanische ventilator.
-- SSD-compatibiliteit: het is compatibel met M.2 SSD met M-sleutel- en B-M-sleutelconnectoren in grootte van 2280/2260/2242/2230 mm tot 8 TB capaciteit; het ondersteunt Mac en Windows OS.
 - Wat je krijgt: ventilatorloze SSD-behuizing (modelnaam ES40UR), coaxiale USB-C-datakabel (40 Gbps), siliconen thermische pads voor NVMe SSD en USB4-chip (ASM2464PD), schroevendraaier en schroeven, snelstartgids, fluwelen geschenkzakje met trekkoord.
+- Ultrasnelheid: ondersteunt gegevensoverdracht met USB4- en Thunderbolt 4/5-poorten om een hoge sequentiële leessnelheid tot 40 Gbps (3.840/3.840 MB/s) te bereiken. Het is ook compatibel met Thunderbolt 3-poort, maar niet compatibel met Thunderbolt 2-poort.
+- SSD-compatibiliteit: het is compatibel met M.2 SSD met M-sleutel- en B-M-sleutelconnectoren in grootte van 2280/2260/2242/2230 mm tot 8 TB capaciteit; het ondersteunt Mac en Windows OS.
+- Robuust en zonder ventilator: het wordt geleverd in een stevige behuizing van aluminium met gebogen oppervlak om efficiënte warmteafvoer te bereiken zonder luidruchtige mechanische ventilator.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0DP4YZZ1X{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Baraka - Eine Welt jenseits der Worte: Special Edition : Aubrey David Fricke Ron Magidson Mark Nicholas Constantine Nicholas Genevieve Stearns Michael Magidson Mark Fricke Ron Nicholas Constantine Nicholas Genevieve Fricke Ron Films & tv'
-date: 2026-02-20 18:20:40
+date: 2026-02-21 22:42:05
 image: 'https://m.media-amazon.com/images/I/51DjSznVDEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: 'AL!VE AG'
 buyurl: 'https://www.amazon.nl/dp/B002BW3Q6A/?tag=tolees0b-21'
 descuento: '31.36'
-average: '15.8931578947368'
+average: '15.8699999999999'
 ---
 
 There's a deal [{{< param title >}}]({{< param buyurl >}})  here:

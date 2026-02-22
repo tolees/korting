@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jurassic Park Blu-Ray 3D + 2D : Neill Sam Dern Laura Goldblum Jeff Attenborough Richard Peck Bob Ferrero Martin Mazzello Joseph Richards Ariana Jackson Samuel L. Crichton Michael Koepp David Kahn Michael Williams John Cundey Dean Kennedy Kathleen Molen Gerald R. Boeken'
-date: 2026-02-20 17:53:44
+date: 2026-02-21 21:47:56
 image: 'https://m.media-amazon.com/images/I/51-jx1zEwpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: 'Universal Pictures'
 buyurl: 'https://www.amazon.nl/dp/B00EEW5C4Y/?tag=tolees0b-21'
 descuento: '49.15'
-average: '11.454152542373'
+average: '11.4127500000001'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:

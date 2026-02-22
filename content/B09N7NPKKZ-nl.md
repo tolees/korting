@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Waterbestendig
-- Schoenbreedte: medium
-- Sluiting: rubber
 - Hakvorm: plat
-- Bovenmateriaal: suède
 - Binnenmateriaal: synthetisch
+- Sluiting: rubber
+- Schoenbreedte: medium
+- Waterbestendig
+- Bovenmateriaal: suède
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09N7NPKKZ{{</world>}}

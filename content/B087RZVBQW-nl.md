@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link Tapo L510E slimme wifi-gloeilamp E27 dimbaar 8 7 W geen hub nodig compatibel met Alexa Google Assistant afwezigheidsmodus tapo-app energiebesparend Klussen & gereedschap'
-date: 2026-02-12 03:49:01
+date: 2026-02-21 22:45:11
 image: 'https://m.media-amazon.com/images/I/31jo0BxDgyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: 'Tapo'
 buyurl: 'https://www.amazon.nl/dp/B087RZVBQW/?tag=tolees0b-21'
 descuento: '42.89'
-average: '8.99520833333332'
+average: '8.97579999999999'
 ---
 
 You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Inhoud levering: Tapo L510E, snelstartgids
 - Toegang op afstand – bedien je slimme gloeilamp comfortabel via je smartphone met Tapo-app – overal en altijd
-- Dimbaar licht: kies met individueel instelbare helderheid de verlichting die bij de situatie past
 - Afwezigheidsmodus: laat je verlichting op verschillende tijdstippen automatisch in- en uitgaan om de aanwezigheid van een persoon te simuleren
+- Inhoud levering: Tapo L510E, snelstartgids
 - Spraakbesturing: compatibel met Amazon Alexa of Google Assistant
+- Dimbaar licht: kies met individueel instelbare helderheid de verlichting die bij de situatie past
 - Volume en tijdschemas – plan bepaalde tijden voor het in- of uitschakelen van je gloeilampen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

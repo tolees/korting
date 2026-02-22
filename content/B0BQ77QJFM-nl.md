@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Deze anti-transpirant biedt 72 uur lang krachtige bescherming tegen zweet
-- De 1/4 hydraterende crème verzorgt de huid en beschermt tegen irritatie
-- De anti-bacteriële geurbestrijding gaat zweet en nare geurtjes tegen
 - Met een heerlijk frisse geur voor langdurig fris ruikende oksels
+- De anti-bacteriële geurbestrijding gaat zweet en nare geurtjes tegen
 - Dove Men+Care Advanced Clean Comfort Anti-Transpirant Deodorant Spray
+- Deze anti-transpirant biedt 72 uur lang krachtige bescherming tegen zweet
 - Dove Men+Care deodorant is door PETA gecertificeerd als Vegan
+- De 1/4 hydraterende crème verzorgt de huid en beschermt tegen irritatie
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BQ77QJFM{{</world>}}

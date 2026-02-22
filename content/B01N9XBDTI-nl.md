@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- INSTELLINGEN VOOR ELKE SMAAK: 8 bruiningsstanden om aan iedere voorkeur te voldoen
-- VEILIG IN GEBRUIK: Stopknop stopt direct, automatische uitschakeling beschermt tegen kortsluiting
-- KROKANT GOUDBRUIN GEROOSTERD BROOD: Philips Daily Collection broodrooster voor elke dag perfect geroosterd brood met 2 sleuven geschikt voor alle broodmaten
 - EENVOUDIG TE REINIGEN: Uitneembare kruimellade voor makkelijk legen, deksel houdt sleuven stofvrij voor en na gebruik
+- VEILIG IN GEBRUIK: Stopknop stopt direct, automatische uitschakeling beschermt tegen kortsluiting
+- INSTELLINGEN VOOR ELKE SMAAK: 8 bruiningsstanden om aan iedere voorkeur te voldoen
+- KROKANT GOUDBRUIN GEROOSTERD BROOD: Philips Daily Collection broodrooster voor elke dag perfect geroosterd brood met 2 sleuven geschikt voor alle broodmaten
 - GEROOSTERD BROOD BINNEN ENKELE SECONDEN: Opwarmfunctie verwarmt snel en ontdooifunctie roostert en ontdooit brood in één keer
 
 [🛒 Buy it!!]({{< param buyurl >}})

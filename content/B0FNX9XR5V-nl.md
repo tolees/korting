@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Transparante textuur
+- Beschermt tegen UVA- en UVB-straling
 - Geen witte strepen
 - Hydrateert de huid en geeft een verfrissend gevoel
-- Transparante textuur
 - Zonnebrandspray met SPF 30
-- Beschermt tegen UVA- en UVB-straling
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FNX9XR5V{{</world>}}

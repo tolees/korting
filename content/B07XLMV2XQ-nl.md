@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Geef jezelf en je dierbaren feestelijke accessoires.
-- Inhoud: 1 x Villeroy & Boch nostalgische ornamenten ornamenten geschenken 3-delig. Materiaal: hard porselein, kleur: kleurrijk, afmetingen: 6, 3 cm, art. -Nr. 14-8331-6685
 - De collectie Nostalgic Ornaments betovert door liefdevol vormgegeven details in nostalgisch kerstdesign. Ideaal als sfeervolle boomversiering, als aanvulling op je feestelijke huis of om te verzamelen, te combineren en cadeau te geven.
+- Inhoud: 1 x Villeroy & Boch nostalgische ornamenten ornamenten geschenken 3-delig. Materiaal: hard porselein, kleur: kleurrijk, afmetingen: 6, 3 cm, art. -Nr. 14-8331-6685
+- Geef jezelf en je dierbaren feestelijke accessoires.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07XLMV2XQ{{</world>}}

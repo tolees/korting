@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Geïntegreerde riem voor het hanteren van de oplader en oplaadkabel
 - ALLEEN compatibel met PlayStation Portal
 - De robuuste hoes van PU, EVA, beschermend schuim en krasbestendig nylon beschermt je PlayStation Portal onderweg
 - De tas heeft een klittenbandsluiting met suède binnenkant voor veilige grip en schermbescherming, een verborgen opbergvak eronder en een compartiment voor een trackingapparaat
-- Geïntegreerde riem voor het hanteren van de oplader en oplaadkabel
 - [Opmerking] Er is vrije ruimte in de hoes zodat u het apparaat eenvoudig kunt verwijderen. De vulling biedt rondom bescherming met nauwkeurige uitsparingen voor joysticks en knoppen.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

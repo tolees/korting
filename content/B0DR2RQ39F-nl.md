@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Het perfecte cadeau voor jezelf of je dierbaren
+- Een luxueuze, mannelijke geur als eerbetoon aan de voorliefde voor unieke materialen en fijne lederwaren
 - Een mix van rokerig leer en amberachtige kruiden vermengd met lichtere geurnoten van appel en framboos
 - Een lang aanhoudende geur, al even elegant als ongetemd
-- Een luxueuze, mannelijke geur als eerbetoon aan de voorliefde voor unieke materialen en fijne lederwaren
-- Het perfecte cadeau voor jezelf of je dierbaren
 - David Beckham Exquisite Leather is een rokerig lederachtig Eau de parfum voor heren
 
 [🛒 Buy it now!!]({{< param buyurl >}})

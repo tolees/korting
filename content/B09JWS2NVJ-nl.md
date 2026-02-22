@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Gemaakt van robuust staal voor betrouwbare sterkte; inclusief veiligheidssluiting met gemakkelijk aan te trekken koord
-- De kantelbare tv-muurbeugel voor tvs van 12-40 inch voor een verbeterde tv-kijkervaring thuis
 - Hellingshoek van max.
+- De kantelbare tv-muurbeugel voor tvs van 12-40 inch voor een verbeterde tv-kijkervaring thuis
 - Gewichtscapaciteit: 18,1 kg.
-- Montagepatroon: 75x75, 100x100, 100x200, 200x100, 200x200mm (de VESA-montagepatronen zijn de afstanden in mm tussen de vier schroefgaten aan de achterkant van de tv)
+- Gemaakt van robuust staal voor betrouwbare sterkte; inclusief veiligheidssluiting met gemakkelijk aan te trekken koord
 - Eenvoudige veiligheidssluiting met trekkoord
+- Montagepatroon: 75x75, 100x100, 100x200, 200x100, 200x200mm (de VESA-montagepatronen zijn de afstanden in mm tussen de vier schroefgaten aan de achterkant van de tv)
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09JWS2NVJ{{</world>}}

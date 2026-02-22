@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Duurzaamheid:
 - Lichtgewicht
+- Duurzaamheid:
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07VBVW4WF{{</world>}}

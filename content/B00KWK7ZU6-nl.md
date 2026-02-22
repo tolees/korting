@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia NEWTON RIDGE PLUS II WATERPROOF heren Hiking Shoe Cordovan Squash 41.5 EU : Columbia Kleding schoenen & sieraden'
-date: 2026-02-18 04:21:41
+date: 2026-02-21 22:42:12
 image: 'https://m.media-amazon.com/images/I/41uXi3VNIXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Laarzen van het merk COLUMBIA
-- Stevig design voor simpele bewegingen
 - Geschikt voor: koud weer
+- Stevig design voor simpele bewegingen
+- Laarzen van het merk COLUMBIA
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B00KWK7ZU6{{</world>}}

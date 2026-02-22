@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon.nl'
-date: 2026-02-17 20:51:13
+date: 2026-02-21 22:33:17
 image: 'https://m.media-amazon.com/images/I/310y1BzyliL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: 'Samsung'
 buyurl: 'https://www.amazon.nl/dp/B07D1KCL2Z/?tag=tolees0b-21'
 descuento: '21.06'
-average: '13.3730000000001'
+average: '13.4179166666667'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Supersnelle data transfers tot 400MB/s, varieert per capaciteit
 - USB 3.1 maar ondersteunt ook USB 3.0 en 2.0
 - 5 jaar beperkte garantie
 - 5-voudige bescherming: water, extreme temperatuur, röntgenstraling, magnetisme en schok bestendig
-- Supersnelle data transfers tot 400MB/s, varieert per capaciteit
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07D1KCL2Z{{</world>}}

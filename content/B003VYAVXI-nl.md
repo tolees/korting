@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Gemaakt van hoogwaardig en bijzonder robuust porselein, ideaal voor dagelijks gebruik, afvegen met een vochtige doek
 - Perfect te combineren met Toys Delight Royal Classic en met Toys Fantasy, dankzij de kerstcadeauverpakking ook geschikt als cadeau
 - Inhoud: 1x Villeroy & Boch Toys Delight kerstboom met muziekdoos (33 cm), materiaal: porselein, kleur: groen
-- Dierlijke muziekdoos in de vorm van een kerstboom in nostalgisch design, voor een contemplatieve sfeer in je eigen huis
 - Speelt de klassieker "Oh dennenboom" voor een feestelijke stemming, filigraan beschildering in kerstkleuren
+- Dierlijke muziekdoos in de vorm van een kerstboom in nostalgisch design, voor een contemplatieve sfeer in je eigen huis
+- Gemaakt van hoogwaardig en bijzonder robuust porselein, ideaal voor dagelijks gebruik, afvegen met een vochtige doek
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B003VYAVXI{{</world>}}

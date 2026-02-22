@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Dualband Wi-Fi 7 snelheden tot 3600 Mbps met MLO en 4K-QAM
+- 24/7 rondom bescherming met commerciële AiProtection Pro en geavanceerde VPNs
 - Vier interne antennes en vier krachtige front-end modules elimineren dode wifi-zones
 - IoT-netwerk, kinderbeveiliging en VPN eenvoudige installatie op meerdere apparaten met Smart Home Master SSIDs
-- 24/7 rondom bescherming met commerciële AiProtection Pro en geavanceerde VPNs
+- Dualband Wi-Fi 7 snelheden tot 3600 Mbps met MLO en 4K-QAM
 - De ASUS AiMesh-technologie verhoogt de afdekking tot 603 m² (verpakking van 3 stuks) en kan met compatibele ASUS-routers gemakkelijk worden uitgebreid – voor naadloze en veilige wifi in het hele huis
 
 [🛒 Buy it!!]({{< param buyurl >}})

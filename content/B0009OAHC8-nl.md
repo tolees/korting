@@ -30,9 +30,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Een unieke samenstelling die direct zorgt voor een verfrissend gevoel
 - De kracht van diepe wateren en pure mannelijkheid worden gesymboliseerd in deze iconische parfum
-- Ontdek de legendarische geur voor mannen, geïnspireerd op de frisse oceaan
 - Cool Water, Davidoff, eau de toilette
 - De geur erkend zich met aromatische noten van munt en lavendel, vermengd met de sensualiteit van amber
+- Ontdek de legendarische geur voor mannen, geïnspireerd op de frisse oceaan
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0009OAHC8{{</world>}}

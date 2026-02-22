@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Zeer klein– een kleinapparaat om snelle wifi-verbindingen tot stand te brengen
 - 5GHz-band) draadloze snelheid met de laatste wifi-standaard: 802.11ac
 - Ondersteunde besturingssystemen – Windows 10/8.1/8/7/XP, Mac OS X
-- Zeer klein– een kleinapparaat om snelle wifi-verbindingen tot stand te brengen
-- Draadloze dual-band – mogelijkheid om de dual-band verbinding te kiezen voor lag-vrij gamen en streamen van HD-beelden
 - Geavanceerde beveiliging – ondersteunt 64/128-bits WEP, WPA/WPA2, en WPA-PSK/WPA2-PSK-versleutelingsstandaarden
+- Draadloze dual-band – mogelijkheid om de dual-band verbinding te kiezen voor lag-vrij gamen en streamen van HD-beelden
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00K11UIV4{{</world>}}

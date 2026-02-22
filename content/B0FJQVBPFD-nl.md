@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- PAW3950MAX-sensor met 8K Wireless: Uitgerust met de PixArt PAW3950 MAX-sensor en Nordic52840-chip, biedt de 8K-wirelessmodus of 1K-bedrade modus een lagvrije tracking en extreem nauwkeurigheid voor snelle, competitieve spellen. Met 42K DPI, 750 IPS snelheid en 50g acceleratie, perfect voor hoofdschoten of precieze MMO-spellen
-- 100 miljoen klikken & PTFE-voeten: Microschakelaars gaan tot 100 miljoen klikken mee, zodat je nooit meer dubbelklikt. De PTFE-glijvoeten zorgen voor consistente glijding en betere remkracht
-- Stuursoftware en Cloud: De X8 Ultra-muis heeft twee stuurprogrammas: Web Driver en door ATTACK SHARK ontwikkeld stuurprogramma, met DPI-aanpassing, retourrate, competitiemodus, aangepaste knoppen, macro-opname, etc. Perfect voor pros en casual gamers
 - Tri-modus-connectiviteit: Schakel in seconden tussen 8K Wireless (geen lag!), Bluetooth of USB-C bedraad via de knop aan de achterkant van de muis. Perfect geschikt voor Windows, macOS, PCs, laptops, Macs en tablets
 - Ergonomie voor middelgrote tot grote handen: ATTACK SHARK X8 Ultra heeft een ontwerp met een hoge handballenrug, aangepast voor middelgrote tot grote handen om tijdens lange gamingmarathons volledige en comfortabele ondersteuning te bieden. Zijn innovatieve ijskleurige coating weerhoudt vocht, voorkomt dat zweetende handen glijden en zorgt voor stabiele bedieningen. Zelf na urenlang spelen blijft het zo vers als de eerste minuut
+- 100 miljoen klikken & PTFE-voeten: Microschakelaars gaan tot 100 miljoen klikken mee, zodat je nooit meer dubbelklikt. De PTFE-glijvoeten zorgen voor consistente glijding en betere remkracht
+- Stuursoftware en Cloud: De X8 Ultra-muis heeft twee stuurprogrammas: Web Driver en door ATTACK SHARK ontwikkeld stuurprogramma, met DPI-aanpassing, retourrate, competitiemodus, aangepaste knoppen, macro-opname, etc. Perfect voor pros en casual gamers
+- PAW3950MAX-sensor met 8K Wireless: Uitgerust met de PixArt PAW3950 MAX-sensor en Nordic52840-chip, biedt de 8K-wirelessmodus of 1K-bedrade modus een lagvrije tracking en extreem nauwkeurigheid voor snelle, competitieve spellen. Met 42K DPI, 750 IPS snelheid en 50g acceleratie, perfect voor hoofdschoten of precieze MMO-spellen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FJQVBPFD{{</world>}}

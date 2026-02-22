@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Schone huidverzorging: Onze crèmes, peelings en gezichtsserums zijn vrij van kunstmatige geur- en kleurstoffen, parabenen en sulfaten. YEOUTH huidverzorgingsproducten helpen de hydratatie van de huid te ondersteunen voor een verfrist uiterlijk.
 - YEOUTH Glycolic Acid Exfoliating Gel met Retinol en Groene Thee. Eigendom van een cosmetisch chemicus. Parabeen-vrij. Dermatologisch getest. Verbeter uw huidverzorgingsroutine met deze zachte exfoliërende gel!
+- Schone huidverzorging: Onze crèmes, peelings en gezichtsserums zijn vrij van kunstmatige geur- en kleurstoffen, parabenen en sulfaten. YEOUTH huidverzorgingsproducten helpen de hydratatie van de huid te ondersteunen voor een verfrist uiterlijk.
 - Alpha Hydroxy Acid (AHA) Huidverzorging: Deze exfoliërende gel met glycolzuur is een zachte peeling die het huidoppervlak gladder maakt. Het helpt de huidtextuur te verfijnen door dode huidcellen te verwijderen.
 - Hoe te gebruiken: Na het reinigen van je gezicht, Glycolic peeling aanbrengen, maximaal 8 minuten laten inwerken. Spoel grondig af. Gebruik deze gezichtspoel één keer per maand. Vermijd directe blootstelling aan de zon gedurende 48 uur na gebruik.
 - Ervaar aha face exfoliant thuis: YEOUTH Glycolzuur is een zachte exfoliator die helpt het uiterlijk van je huid op te frissen. Gebruik consequent elke 4-6 weken met YEOUTH huidverzorgingsproducten voor een gladdere en meer verfriste look.

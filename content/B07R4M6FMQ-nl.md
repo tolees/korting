@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Vacuümverzegelde verpakking: Geetech 3D filament wordt zorgvuldig vacuüm verpakt met droogmiddel om een laag vochtgehalte te behouden. En houd het droog en houd het stof en vreemde voorwerpen uit de buurt van mondstukken.
+- Hoge precisie +/- 0,03 mm tolerantie: volledige 1 kg filamentrol 3D-printer, perfecte rondheid en zeer nauwe diametertolerantie, ca. filament van 330 m op elke spoel, eenvoudige bediening, minimale vervorming, geen geur, geen verstopping, geen luchtbellen.
 - Garantievoorwaarden: GEEETECH biedt een geld-terug-garantie. Als u niet tevreden bent met de kwaliteit, neem dan tijdig contact met ons op.
 - Het heeft een leuke zijdestructuur. Dit werkt zeer glad en bedekt de lijnen en onvolkomenheden. Perfect voor knutselprojecten, vazen en andere 3D-printwerk.
-- Hoge precisie +/- 0,03 mm tolerantie: volledige 1 kg filamentrol 3D-printer, perfecte rondheid en zeer nauwe diametertolerantie, ca. filament van 330 m op elke spoel, eenvoudige bediening, minimale vervorming, geen geur, geen verstopping, geen luchtbellen.
+- Vacuümverzegelde verpakking: Geetech 3D filament wordt zorgvuldig vacuüm verpakt met droogmiddel om een laag vochtgehalte te behouden. En houd het droog en houd het stof en vreemde voorwerpen uit de buurt van mondstukken.
 - Milieuvriendelijk, gemaakt van zetmeelstoffen, die uit hernieuwbare grondstoffen worden gewonnen.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 9H hardheid; Gemaakt van duurzaam 9H gehard glas ter bescherming tegen alledaagse krasse
+- Case friendly; Nauwkeurige uitsparing biedt perfecte compatibiliteit met Spigen cases
 - Compatibiliteit; Compatibel met Samsung Galaxy S25. Galaxy S24
 - Opmerking; Voor een perfecte installatie nadat u de sjabloon op het apparaat hebt geplaatst, drukt u stevig van boven naar beneden op het stickergebied
-- Olievrij; Oleofobe coating voor dagelijkse weerstand tegen vingerafdrukken
 - Gevaar; Nadat u het glas hebt bevestigd, MOET u de vingerafdruk TEN MINSTE TWEE KEER opnieuw registreren voordat u deze gebruikt
-- Case friendly; Nauwkeurige uitsparing biedt perfecte compatibiliteit met Spigen cases
+- Olievrij; Oleofobe coating voor dagelijkse weerstand tegen vingerafdrukken
+- 9H hardheid; Gemaakt van duurzaam 9H gehard glas ter bescherming tegen alledaagse krasse
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CN8PRJW4{{</world>}}

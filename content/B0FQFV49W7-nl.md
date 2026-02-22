@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Dit hoesje van Apple is dun en licht, en ligt prettig in de hand.
 - Dankzij de ingebouwde magneten die perfect matchen met iPhone 17 is koppelen een kwestie van klikken en gaat draadloos opladen nog sneller. Als het tijd is om op te laden, laat je het hoesje gewoon om je iPhone zitten en klik je je MagSafe-oplader eraan vast. Je kunt je iPhone ook op je Qi2.2- of Qi‑oplader leggen.
-- Zoals alle hoesjes van Apple is ook dit model duizenden uren getest, zowel in de ontwerpfase als tijdens het fabricage­proces. Het ziet er daarom niet alleen fantastisch uit, maar beschermt je iPhone ook tegen krassen en vallen.
+- Dit hoesje van Apple is dun en licht, en ligt prettig in de hand.
 - Dit hoesje werkt moeiteloos met de Cameraregelaar, zodat je op de gebruikelijke manier kunt klikken en slepen. Op zowel de buiten- als de binnenkant is een krasbestendige coating aangebracht. Bovendien zijn alle materialen en coatings geoptimaliseerd om vergeling tegen te gaan.
 - De prachtige kleur van je iPhone 17 is goed zichtbaar, terwijl het hoesje ook extra bescherming biedt. Het hoesje is gemaakt van een mix van helder polycarbonaat en flexibele materialen, en past precies over de knoppen. Daardoor werkt alles zoals je gewend bent.
+- Zoals alle hoesjes van Apple is ook dit model duizenden uren getest, zowel in de ontwerpfase als tijdens het fabricage­proces. Het ziet er daarom niet alleen fantastisch uit, maar beschermt je iPhone ook tegen krassen en vallen.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FQFV49W7{{</world>}}

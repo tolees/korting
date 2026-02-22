@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Deze 1 meter lange oplaadkabel heeft een geweven design en USB‑C-connectors aan beide uiteinden.
 - Ideaal voor het opladen van USB‑C-devices en voor het synchroniseren en overzetten van gegevens. Sluit de geweven USB‑C-oplaadkabel aan op een compatibele USB‑C-lichtnetadapter om je devices extra snel op te laden via een stopcontact.
+- Deze 1 meter lange oplaadkabel heeft een geweven design en USB‑C-connectors aan beide uiteinden.
 - USB‑C-lichtnetadapters zijn afzonderlijk verkrijgbaar.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

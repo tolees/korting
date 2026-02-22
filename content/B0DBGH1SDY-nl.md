@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- FEESTELIJKE ELEGANTIE: De Toys Delight borrelglazenset, bestaande uit vier borrelglaasjes, voegt feestelijke elegantie toe aan momenten van plezier met het betoverende kerstdesign en gouden accenten
-- LEVERINGSOMVANG: 1x Villeroy & Boch Toys Delight borrelglas-set 4-dlg., inhoud: 40 ml (netto), materiaal: kristalglas (artikelnummer: 1137768241)
-- CADEAU-IDEE IN EEN PRACHTIGE VERPAKKING: De borrelglaasjes zijn verpakt in een aantrekkelijke cadeauverpakking als set van 4, waardoor ze niet alleen een traktatie voor de smaakpapillen, maar ook een geweldig cadeau-idee zijn
 - TOEVOEGING AAN DE GLASCOLLECTIE: Deze borrelglazen zijn de perfecte aanvulling op de Toys Delight glazencollectie en bieden een stijlvolle manier om te genieten van een feestelijk digestief
 - HOOGWAARDIG MATERIAAL: De Toys Delight borrelglazenset is gemaakt van hoogwaardig glas, belooft een lange levensduur en is een charmant accessoire voor feestelijke tafeldecoraties - vaatwasmachinebestendig
+- LEVERINGSOMVANG: 1x Villeroy & Boch Toys Delight borrelglas-set 4-dlg., inhoud: 40 ml (netto), materiaal: kristalglas (artikelnummer: 1137768241)
+- FEESTELIJKE ELEGANTIE: De Toys Delight borrelglazenset, bestaande uit vier borrelglaasjes, voegt feestelijke elegantie toe aan momenten van plezier met het betoverende kerstdesign en gouden accenten
+- CADEAU-IDEE IN EEN PRACHTIGE VERPAKKING: De borrelglaasjes zijn verpakt in een aantrekkelijke cadeauverpakking als set van 4, waardoor ze niet alleen een traktatie voor de smaakpapillen, maar ook een geweldig cadeau-idee zijn
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DBGH1SDY{{</world>}}

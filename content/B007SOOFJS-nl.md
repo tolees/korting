@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - MAYBELLINE NEW YORK SUPERSTAY TEDDY TINT LIPPENSTIFT
-- ZACHTE, OPBOUWBARE FORMULE met getinte pigmenten
 - VOOR EEN TEDDY-ZACHTE en matte finish
 - BLIJFT tot wel 12 uur lang zitten* zonder te vervagen. *Gebaseerd op een consumententest onder 128 vrouwen tussen de 18 en 35 jaar.
+- ZACHTE, OPBOUWBARE FORMULE met getinte pigmenten
 - VERKRIJGBAAR in 8 zachte, matte en langhoudende tinten
 
 [🛒 Buy it!!]({{< param buyurl >}})

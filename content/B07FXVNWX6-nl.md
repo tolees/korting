@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'eSUN PETG Gloeidraad 1.75mm PETG 3D Printer Gloeidraad Dimensionale Nauwkeurigheid +/- 0.05mm 1KG 2.2 LBS Spoel 3D Printen Materiaal voor 3D Printer Effen Zwart Zakelijk industrie & wetenschap'
-date: 2026-02-19 02:12:15
+date: 2026-02-21 22:12:26
 image: 'https://m.media-amazon.com/images/I/41uTLHRDLyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇳🇱'
 brand: 'eSUN'
 buyurl: 'https://www.amazon.nl/dp/B07FXVNWX6/?tag=tolees0b-21'
 descuento: '20.01'
-average: '17.8430000000002'
+average: '17.8537254901963'
 ---
 
 You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - 【Vacuüm Verzegelde Verpakking】 Netto gewicht filament: 1 kg. eSUN-filament wordt geleverd in een verzegelde vacuümzak met een droogzak, bewaar uw 3D-printerfilamenten gemakkelijk in een optimale opslagconditie en vrij van stof of vuil voordat u de gestofzuigde verzegelde verpakking opent.
+- 【Stabiele Maattolerantie】 Minimale tolerantie en weinig kromtrekken om consistente invoer en stabiele afdrukken te garanderen, goede laaghechting, minder rijgen, geen luchtbellen, eenvoudige bediening, wat resulteert in een uitstekende oppervlakteafwerking en is zeer nauwkeurig.
 - 【Hoge Compatibiliteit】 PETG heeft de voordelen van hoge taaiheid en goede mechanische eigenschappen (zoals ABS), heeft ook de kenmerken van printgemak en minimale vervorming (zoals PLA). Veel gebruikt in speelgoed, briefpapier, elektronische accessoires, enz.
 - 【PETG Filament】 Uitstekende helderheid, lichttransmissie en hoogglans. Hoge taaiheid. Goede slagvastheid. Goede mechanische sterkte. Uitstekende flexibiliteit. Weersbestendigheid. Chemische weerstand. Lage wateropname. Goede stabiliteit.
 - 【Wirwar Gratis & Geen Verstopping】Totale lengte: 350-355m. Volledige 1KG 3D-printer filamenthaspel, perfecte rondheid en zeer nauwe diametertolerantie, overlapt niet of raakt niet in de war. Smelt goed, voer soepel en constant zonder het mondstuk of de extruder te verstoppen.
-- 【Stabiele Maattolerantie】 Minimale tolerantie en weinig kromtrekken om consistente invoer en stabiele afdrukken te garanderen, goede laaghechting, minder rijgen, geen luchtbellen, eenvoudige bediening, wat resulteert in een uitstekende oppervlakteafwerking en is zeer nauwkeurig.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07FXVNWX6{{</world>}}
