@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Extreme robuustheid dankzij het doorlopend roestvrijstalen lemmet, massieve stalen neus en geharde punt
 - Inhoud: kruisschroevendraaier PH1, schachtlengte: 1 mm
-- Schroeven, beitelen en losmaken van vastzittende schroeven
 - Uitstekende hantering dankzij ergonomische vorm en soft-grip-zone
 - Hoogste draaimoment door geïntegreerde inbussleutel
-- Extreme robuustheid dankzij het doorlopend roestvrijstalen lemmet, massieve stalen neus en geharde punt
+- Schroeven, beitelen en losmaken van vastzittende schroeven
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B081KD55JN{{</world>}}

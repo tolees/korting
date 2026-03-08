@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Vulling:
-- Recycling
 - Lichtgewicht
 - Flexibel
+- Recycling
 - Gemakkelijk te dragen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

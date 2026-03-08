@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- PlayStation 5 Dualsense Controller Phone Mount: De Orzly Phone Mount Clip is speciaal ontworpen voor gebruik op je PlayStation 5 Dualsense Controller.
-- Telefoonklem: Gewatteerd om krassen te voorkomen en ontworpen voor verschillende telefoonformaten voor zowel Android als iOS
 - Ergonomisch ontwerp: Het scharnierpunt met enkele vergrendeling is eenvoudig te gebruiken en instelbaar voor de perfecte kijkhoek en om verblinding te minimaliseren.
 - Compact ontwerp: lichtgewicht materialen en opvouwbaar voor gemakkelijk transport onderweg
 - Gesloten slotstructuur: het wikkelontwerp klemt stevig op je controller en voorkomt krassen. Comfortabel gamen: je kunt je PlayStation 5 Dualsense Controller nu comfortabel gebruiken, thuis of onderweg gamen
+- Telefoonklem: Gewatteerd om krassen te voorkomen en ontworpen voor verschillende telefoonformaten voor zowel Android als iOS
+- PlayStation 5 Dualsense Controller Phone Mount: De Orzly Phone Mount Clip is speciaal ontworpen voor gebruik op je PlayStation 5 Dualsense Controller.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08MW73VKH{{</world>}}

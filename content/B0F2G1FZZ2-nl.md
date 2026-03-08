@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Minder plastic*, m€€r voordeel
-- 10x minder haarbreuk
-- -53% haarscheuren
 - 94% minder gespleten punten
 - Refill Shampoo - Hervulbare navulverpakking
 - Acacia-, manuka- & lavendel honing
+- 10x minder haarbreuk
+- Minder plastic*, m€€r voordeel
+- -53% haarscheuren
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0F2G1FZZ2{{</world>}}

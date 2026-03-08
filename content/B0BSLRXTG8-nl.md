@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- MIX & MATCH: De barartikelen zijn modern, tijdloos en daardoor met alle artikelen van de Manufacture collectie van Villeroy & Boch te combineren. De bijpassende eetborden, ontbijtborden en decoartikelen completeren de look en zorgen voor een unieke sfeer.
-- UNIEK DESIGN: De longdrinkglasset van Manufacture Rock Bar Concept van Villeroy & Boch maakt indruk met het handbeschilderde, matzwarte deel. Hierdoor liggen de cocktailglazen niet alleen perfect in de hand, maar worden ze ook unieke en extravagante eyecatchers op het volgende feest.
 - HOOGSTE KWALITEIT: Het puristische design en het contrast tussen de originele matzwarte leisteenlook en helder glas maken het longdrinkglas tot een echt highlight. Gemaakt in Villeroy & Boch premiumkwaliteit. Met de hand afwassen aanbevolen.
+- UNIEK DESIGN: De longdrinkglasset van Manufacture Rock Bar Concept van Villeroy & Boch maakt indruk met het handbeschilderde, matzwarte deel. Hierdoor liggen de cocktailglazen niet alleen perfect in de hand, maar worden ze ook unieke en extravagante eyecatchers op het volgende feest.
+- MIX & MATCH: De barartikelen zijn modern, tijdloos en daardoor met alle artikelen van de Manufacture collectie van Villeroy & Boch te combineren. De bijpassende eetborden, ontbijtborden en decoartikelen completeren de look en zorgen voor een unieke sfeer.
 - STIJLVOL CADEAUIDEE: Of het nu gaat om een ​​kerst, huwelijks, jubileum, verjaardagscadeau of als attentie voor cocktailliefhebbers, de 4delige longdrinkglasset is dankzij de bijzondere haptiek en het moderne design ideaal als cadeau.
 - INHOUD: 1 x Manufacture Rock longdrinkglasset, set 4dlg., 300ml volume, materiaal: kristalglas, kleur: zwart/helder, alleen met de hand afwassen (artikelnummer: 1137988260)
 

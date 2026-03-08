@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LAAG ENERGIEVERBRUIK: Op maximaal vermogen gebruikt de luchtreiniger slechts 36W, minder energie dan een traditionele gloeilamp.
 - 3-LAAG HEPA FILTRATIE: Vangt 99,97% van de deeltjes tot 0,003 micron⁴ - om te beschermen tegen pollen, stof, huisstofmijt, huidschilfers van huisdieren, smog of gassen. Verwijdert 99,9% van de in de lucht aanwezige virussen⁸ en bacteriën⁹.
-- ONNECTEERBAAR MET AIR+ APP: zodat je een melding krijgt in geval van slechte luchtkwaliteit en je apparaat op afstand kunt bedienen - thuis of onderweg
 - GECERTIFICEERD VOOR ALLERGIEPATIËNTEN door ECARF, verwijdert de luchtreiniger 99,99% van pollen, huisstofmijt of allergenen van huisdieren⁶ - bekende veroorzakers van allergie- of hooikoortssymptomen⁷.
-- 50% STILLER met SilentWings technologie¹. Geïnspireerd door de stille vlucht van uilen, zorgt ons ventilatorbladontwerp voor een zuivering die slechts 15 dB(A) stil is. Zelfs op maximale snelheid is het stiller dan een normaal gesprek.
+- ONNECTEERBAAR MET AIR+ APP: zodat je een melding krijgt in geval van slechte luchtkwaliteit en je apparaat op afstand kunt bedienen - thuis of onderweg
 - GROOT VERMOGEN TOT 130 m²: met CADR 500 m³/u kan 20 m² worden gezuiverd in minder dan 6 min³.
+- 50% STILLER met SilentWings technologie¹. Geïnspireerd door de stille vlucht van uilen, zorgt ons ventilatorbladontwerp voor een zuivering die slechts 15 dB(A) stil is. Zelfs op maximale snelheid is het stiller dan een normaal gesprek.
+- LAAG ENERGIEVERBRUIK: Op maximaal vermogen gebruikt de luchtreiniger slechts 36W, minder energie dan een traditionele gloeilamp.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0D3VCVFCR{{</world>}}

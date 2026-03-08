@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Met afrolbeveiliging en draaibare kap voor snel kniken.
 - Meercomponenten Kraftform Micro handvat voor snel en ergonomisch schroeven.
+- Z. elektronica, opticia, fijnmechanica, juweliers of elektronische hardwaremonteurs.
+- Met afrolbeveiliging en draaibare kap voor snel kniken.
 - De Wera Black Point-punt biedt perfecte pasvorm en geoptimaliseerde bescherming tegen corrosie.
 - Kraftform Micro schroevendraaier voor kruiskopschroeven Phillips-Recess
-- Z. elektronica, opticia, fijnmechanica, juweliers of elektronische hardwaremonteurs.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B008F7XMK0{{</world>}}

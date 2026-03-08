@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Schoenbreedte: medium
-- Bovenmateriaal: leer
 - Waterbestendigheid: niet waterbestendig
 - Hakvorm: geen hak
+- Schoenbreedte: medium
+- Bovenmateriaal: leer
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07B8Y5RFL{{</world>}}

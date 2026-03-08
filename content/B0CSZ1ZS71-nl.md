@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Zo vrij als een vogel – Zwem, klim en spring terwijl je de wereld naadloos doorkruist.
-- Sea of Stars is een turn-based RPG die is geïnspireerd door de klassiekers!
 - Meeslepende turn-based gevechten – Getimede treffers, combo-aanvallen, boosting, diverse soorten schade en het breken van spreuken.
+- Sea of Stars is een turn-based RPG die is geïnspireerd door de klassiekers!
+- Zo vrij als een vogel – Zwem, klim en spring terwijl je de wereld naadloos doorkruist.
 - Een avontuur vol verhalen – Tientallen personages en verhaallijnen nemen je mee op een boeiende reis.
 - Een wereld die je kunt aanraken – Genoeg gevochten? Ga varen, koken, vissen of lekker ontspannen in een herberg.
 

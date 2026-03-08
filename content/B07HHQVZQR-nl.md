@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Leveringsinhoud: 2x Villeroy & Boch, Vapiano, soepkom (700ml), materiaal: Premium porselein, kleur: wit (art.-nr. 10-4257-8477)
-- Ovale Vapiano soepkom met een sensuele gebogen vorm voor lekkere soepen, ideaal voor dagelijks gebruik
 - Geschikt voor de vaatwasser, magnetron en bakoven tot 200 °C, hoogwaardige kwaliteit: Premium porselein, Made in Germany
-- Dankzij de diepte geschikt voor soepen met toppings, ook flexibel inzetbaar voor pastagerechten, stijlvol serveren in een trendy design
 - Ook geschikt voor gastronomie dankzij de ergonomische vorm, stapelbaar, stoot- en slagvaste randen
+- Ovale Vapiano soepkom met een sensuele gebogen vorm voor lekkere soepen, ideaal voor dagelijks gebruik
+- Leveringsinhoud: 2x Villeroy & Boch, Vapiano, soepkom (700ml), materiaal: Premium porselein, kleur: wit (art.-nr. 10-4257-8477)
+- Dankzij de diepte geschikt voor soepen met toppings, ook flexibel inzetbaar voor pastagerechten, stijlvol serveren in een trendy design
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07HHQVZQR{{</world>}}

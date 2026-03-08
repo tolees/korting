@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Laarzen van het merk COLUMBIA
 - Geschikt voor: koud weer
+- Laarzen van het merk COLUMBIA
 - Stevig design voor simpele bewegingen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

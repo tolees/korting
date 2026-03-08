@@ -29,13 +29,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - PERSOONS- EN PAKKETMELDINGEN: ontvang belangrijke meldingen en weet wanneer een pakket wordt bezorgd met Pakketmeldingen, een exclusieve functie bij het Ring Home-abonnement (afzonderlijk verkrijgbaar) die je waarschuwt wanneer een pakket binnen een bepaalde zone wordt gedetecteerd*.
+- ALLES IN ÉÉN APP: met de Ring-app kun je al je apparaten verbinden, de instellingen aanpassen en standen gebruiken om je apparaten in of uit te schakelen wanneer je thuis of onderweg bent.
+- PRIVACYZONES: stel je videodeurbel in om het zicht op bepaalde zones te blokkeren. Als je privacyzones instelt, zal je Ring-apparaat niet meer weergeven of opnemen wat er in deze zones gebeurt.
+- ZIE MEER. WEET MEER. BESCHERM MEER: sla je opgenomen videos tot 180 dagen op om ze op elk gewenst moment opnieuw te bekijken, ontvang meldingen voor personen en pakketten en nog veel meer met een Ring Home-abonnement (afzonderlijk verkrijgbaar)*.
+- HD-VIDEO MET NACHTZICHT IN KLEUR: Dankzij 1440 x 1440 HD-video met nachtzicht in kleur zie je nog duidelijker wat er voor de deur gebeurt, zelfs als het donker is. Met video van top tot teen krijg je ook een breder beeld van mensen en pakjes.
+- ANTWOORD VOOR UW TOEGANGSDEUR: met de functie Deurbelmeldingen kun je kiezen uit een van de vooraf opgenomen berichten om de deur te beantwoorden wanneer iemand op de knop van je videodeurbel drukt.
 - INSTALLATIE IN EEN HANDOMDRAAI: laad je apparaat op, klik het op zijn plaats en blijf verbonden vanaf je telefoon. De Videodeurbel op batterij heeft een ingebouwde batterij die niet kan worden verwijderd om op te laden.
 - BESCHERM WAT BELANGRIJK IS: met de videodeurbel op batterijen weet je wie zich op jouw terrein bevindt wanneer de knop van je videodeurbel wordt ingedrukt of er beweging wordt gedetecteerd.
-- ALLES IN ÉÉN APP: met de Ring-app kun je al je apparaten verbinden, de instellingen aanpassen en standen gebruiken om je apparaten in of uit te schakelen wanneer je thuis of onderweg bent.
-- HD-VIDEO MET NACHTZICHT IN KLEUR: Dankzij 1440 x 1440 HD-video met nachtzicht in kleur zie je nog duidelijker wat er voor de deur gebeurt, zelfs als het donker is. Met video van top tot teen krijg je ook een breder beeld van mensen en pakjes.
-- ZIE MEER. WEET MEER. BESCHERM MEER: sla je opgenomen videos tot 180 dagen op om ze op elk gewenst moment opnieuw te bekijken, ontvang meldingen voor personen en pakketten en nog veel meer met een Ring Home-abonnement (afzonderlijk verkrijgbaar)*.
-- PRIVACYZONES: stel je videodeurbel in om het zicht op bepaalde zones te blokkeren. Als je privacyzones instelt, zal je Ring-apparaat niet meer weergeven of opnemen wat er in deze zones gebeurt.
-- ANTWOORD VOOR UW TOEGANGSDEUR: met de functie Deurbelmeldingen kun je kiezen uit een van de vooraf opgenomen berichten om de deur te beantwoorden wanneer iemand op de knop van je videodeurbel drukt.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0BZWQP9Z1{{</world>}}

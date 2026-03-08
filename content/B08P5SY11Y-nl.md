@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Geschikt voor: koud weer
 - Laarzen met stevig design voor soepele bewegingen
 - De duurzame materialen zorgen voor extra warmte
+- Geschikt voor: koud weer
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08P5SY11Y{{</world>}}

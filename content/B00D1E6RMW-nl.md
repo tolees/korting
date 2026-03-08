@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- SATA III (6Gbps)
-- Inhoud: Intenso SSD harde schijf
 - Leessnelheid: tot 520 MB/s - schrijfsnelheid: tot 500 MB/s
-- Smart Command support, Trim Command support gewicht: 83g afmetingen: 100 x 70 x 7 mm
+- Inhoud: Intenso SSD harde schijf
 - Laag stroomverbruik schokbestendig, geruisloze werking (0dB)
+- SATA III (6Gbps)
+- Smart Command support, Trim Command support gewicht: 83g afmetingen: 100 x 70 x 7 mm
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B00D1E6RMW{{</world>}}

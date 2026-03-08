@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Verrijkt met 5% Stretchflex Complex
-- Oogheelkundig getest
 - Panoramisch volume van hoek tot hoek
-- Beschikbaar in bruin & zwart
-- Geschikt voor alle wimpertypes, gevoelige ogen, dragers van contactlenzen
+- Verrijkt met 5% Stretchflex Complex
 - Korte & lange borstelhaartjes voor 1.4x* groter uitziende ogen (*Instrumentele test, 30 personen)
+- Beschikbaar in bruin & zwart
 - Lengte, seperatie & volume
+- Oogheelkundig getest
+- Geschikt voor alle wimpertypes, gevoelige ogen, dragers van contactlenzen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CJ5GW8RY{{</world>}}

@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Universeel passende kleur: staat alle huidskleuren
-- Drievoudige verzorging
 - Langdurige kleur en levendig, soepel haar
+- Drievoudige verzorging
 - Tot 100% grijsdekking
 - Bevat een beschermende crèmekleuring, een zachte pH shampoo en een voedend haarmasker
 

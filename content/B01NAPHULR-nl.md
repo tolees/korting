@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Kinderen
 - Puzzel
 - Binnenshuis
-- Kinderen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01NAPHULR{{</world>}}

@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Vult zichtbaar rimpels en slaaplijntjes en maakt de huid voller
 - Verrijkt met micro-hyaluronzuur voor een stevigere huid
 - De huid voelt intens gehydrateerd en oogt frisser
-- Geschikt voor alle huidtypes
 - voor vrouwen vanaf 35 jaar
+- Geschikt voor alle huidtypes
+- Vult zichtbaar rimpels en slaaplijntjes en maakt de huid voller
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07FFSHBSC{{</world>}}

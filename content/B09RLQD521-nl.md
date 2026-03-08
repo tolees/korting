@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Dit licht, terwijl het ook vreugde vormde als de besneeuwde uil Hedwig oplicht door zijn LED Lamp aangedreven door een batterij (batterijen niet inbegrepen).
-- Nu kunt u ook genieten van uw eigen prachtige, zeer gedetailleerde Hedwig om wat magische decoratie te brengen aan elk bed, kamer of Harry Potter display.
 - Laat Hedwig voor je schijnen met de Paladone Harry Potter Hedwig Light!
+- Nu kunt u ook genieten van uw eigen prachtige, zeer gedetailleerde Hedwig om wat magische decoratie te brengen aan elk bed, kamer of Harry Potter display.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09RLQD521{{</world>}}

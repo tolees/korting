@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Wetenschappelijk bewezen resultaten: na 1 week -46% fijne lijntjes en na 4 weken -37% fronsrimpels* *Wetenschappelijke studie, 37 vrijwilligers. Zelfevaluatie, 30 vrijwilligers. 1x daags gebruik.
-- Dermatologisch ontwikkeld met pure retinol, antioxidanten (carnosine) en hyaluronzuur.
-- Hydrateert tot 24 uur lang voor een gladdere, vollere en egalere huid.
 - Milde, ongeparfumeerde formule die niet vet aanvoelt, niet-comedogeen is en de huidbarrière beschermt.
 - Effectieve anti-age nachtverzorging die zichtbare tekenen van huidveroudering vermindert en de vorming van nieuwe rimpels vertraagt
+- Hydrateert tot 24 uur lang voor een gladdere, vollere en egalere huid.
+- Dermatologisch ontwikkeld met pure retinol, antioxidanten (carnosine) en hyaluronzuur.
+- Wetenschappelijk bewezen resultaten: na 1 week -46% fijne lijntjes en na 4 weken -37% fronsrimpels* *Wetenschappelijke studie, 37 vrijwilligers. Zelfevaluatie, 30 vrijwilligers. 1x daags gebruik.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BYTDJW74{{</world>}}

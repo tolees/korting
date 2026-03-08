@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Inhoud: 1 x Villeroy & Boch Christmas Toys "Slee", afmetingen: 36 x 14 x 17 cm, gewicht: ca. 2,60 kg (artikelnummer 14-8602-6549)
 - Speelse kerstdecoratie: het filigraan afgewerkte decor tovert nostalgische momenten op en wekt verfraait elk huis
 - Hoogwaardige kwaliteit: het detailverliefde stuk is gemaakt van hard porselein en wordt geleverd in een geschenkverpakking
-- Inhoud: 1 x Villeroy & Boch Christmas Toys "Slee", afmetingen: 36 x 14 x 17 cm, gewicht: ca. 2,60 kg (artikelnummer 14-8602-6549)
 - Kerstspeelgoeddecoratie: de feestelijke slee is ideaal als aanvulling voor je feestelijke huis om te verzamelen, te combineren en cadeau te geven
 - Kerststemming: het gedetailleerde porseleinen figuur kan een theelichtje bevatten en zorgt voor een mooie lichtsfeer in je huis
 

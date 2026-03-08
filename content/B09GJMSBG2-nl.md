@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Zeer nauwkeurige matte PLA: de diameter van het filament is 1,75 mm, met een tolerantie van +/-0,03 mm, het stroomt soepel en consistent zonder het mondstuk of de extruder te verstoppen
-- Klitvrije matte filament: perfect omwikkeld mat gemengd PLA. Het is 100% klitvrij bij opening. Geen snaren en kromtrekken. Universeel compatibel met een breed scala aan FDM 3D-printers op de markt. Universele compatibiliteit met verschillende FDM 3D-printers op de markt.
-- Nettogewicht: 1 kg, bruto gewicht: 1,35 kg, binnendiameter spoel: 57 mm, buitendiameter spoel: 200 mm, hoogte 64 mm.
-- Matte effect: Matte filamenten kunnen afdrukken met lakglans-kleur en matte textuur. Het oppervlak is ongelooflijk mat, wat helpt om de individuele lagen van je print te verbergen.
 - Sterke hechting: biedt uitstekende printkwaliteit zonder geur en lage vervorming tijdens het printen. De dichtheid van het 1,75 mm matte PLA-filament is ongeveer 1,24 g/cm3, geen bubbels, sterke laag-hechting.
+- Klitvrije matte filament: perfect omwikkeld mat gemengd PLA. Het is 100% klitvrij bij opening. Geen snaren en kromtrekken. Universeel compatibel met een breed scala aan FDM 3D-printers op de markt. Universele compatibiliteit met verschillende FDM 3D-printers op de markt.
+- Matte effect: Matte filamenten kunnen afdrukken met lakglans-kleur en matte textuur. Het oppervlak is ongelooflijk mat, wat helpt om de individuele lagen van je print te verbergen.
+- Nettogewicht: 1 kg, bruto gewicht: 1,35 kg, binnendiameter spoel: 57 mm, buitendiameter spoel: 200 mm, hoogte 64 mm.
+- Zeer nauwkeurige matte PLA: de diameter van het filament is 1,75 mm, met een tolerantie van +/-0,03 mm, het stroomt soepel en consistent zonder het mondstuk of de extruder te verstoppen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09GJMSBG2{{</world>}}

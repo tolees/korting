@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Led-lichtsnoer: ingangsspanning: 220 V-240 V ~ 50/60 Hz; uitgangsvermogen: 31 V (GS-standaard stekker); aansluitkabel: 3 m; deling van de leds: 0,1 m; kabelkleur: transparant; IP44-adapter
+- 8 verlichtingsmodi: de lichtketting beschikt over 8 verschillende verlichtingsmodi, door op de knop op de achterkant van de adapter te drukken, kun je je favoriete modus voor de meest uiteenlopende gelegenheden kiezen en meer plezier hebben.
 - Timer: houd de knop op de stekker 3 seconden lang ingedrukt om de timerfunctie te starten. De knop wordt groen en schakelt na 6 uur automatisch uit. Hij schakelt na 18 uur automatisch weer aan. 6/18-uurs tijdschakelklok.
 - Waterdicht en uitgebreide toepassing: de lampsnaar is IP44, dus kan de gelukssfeer binnen en buiten verlichten. Het kan aan muren, ramen, deuren, vloeren, plafonds, grassen, kerstbomen enz. worden opgehangen.
-- 8 verlichtingsmodi: de lichtketting beschikt over 8 verschillende verlichtingsmodi, door op de knop op de achterkant van de adapter te drukken, kun je je favoriete modus voor de meest uiteenlopende gelegenheden kiezen en meer plezier hebben.
+- Led-lichtsnoer: ingangsspanning: 220 V-240 V ~ 50/60 Hz; uitgangsvermogen: 31 V (GS-standaard stekker); aansluitkabel: 3 m; deling van de leds: 0,1 m; kabelkleur: transparant; IP44-adapter
 - Geheugenfunctie: zolang deze modus wordt geselecteerd, brandt het licht de volgende keer in dezelfde modus en hoef je je geen zorgen te maken over het opnieuw gebruiken.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

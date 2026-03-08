@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Spraakbesturing - Beheer je spots met spraakopdrachten via Amazon Alexa of Google Assistant
-- 18 miljoen kleuren - Vorm een sfeer door de lichten te kiezen uit een breed scala aan kleuren
 - GU10 Lampvoet - Compatibel met alle GU10-armaturen
+- 18 miljoen kleuren - Vorm een sfeer door de lichten te kiezen uit een breed scala aan kleuren
+- Spraakbesturing - Beheer je spots met spraakopdrachten via Amazon Alexa of Google Assistant
 - Energiebesparing - Verlaag het energieverbruik door energiebesparend te werken, zonder aan helderheid of kwaliteit in te boeten.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

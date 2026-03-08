@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Bourjois Contour Clubbing oogpotlood highlight je ogen met een levendige en langhoudende kleur.
 - De clean en vegan formule is oftalmologisch getest en veilig voor je ogen. Het product droogt snel en geeft niet af.
-- Mat, metallic of satijnachtig? Kies uit 15 levendige kleuren.
 - Een intens en waterbestendig kohl oogpotlood dat goed blijft zitten, bestand is tegen transpiratie en hitte, en niet afgeeft.
+- Bourjois Contour Clubbing oogpotlood highlight je ogen met een levendige en langhoudende kleur.
+- Mat, metallic of satijnachtig? Kies uit 15 levendige kleuren.
 - De formule is heel soepel en gemakkelijk aan te brengen dankzij de macadamia- en biologische jojoba-oliën.
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Lip Pencil voor soepele en vochtrijke lippen – een resultaat als fris aangebracht, voor een kleur die niet verbleekt.
-- De lippenbalsem past zich met zijn soepele textuur aan elk huidtype aan en voorkomt uitdroging van de huid. Ultra gemakkelijk aanbrengen en verdelen.
 - Inhoud: 1 x lipstick voor volle en verzorgde lippen/24 uur houding/5 ml.
+- De lippenbalsem past zich met zijn soepele textuur aan elk huidtype aan en voorkomt uitdroging van de huid. Ultra gemakkelijk aanbrengen en verdelen.
 - De knusse lippenstift zorgt dankzij de vochtinbrengende formule met hyaluron gel voor soepele lippen en een optimaal draagcomfort.
+- Lip Pencil voor soepele en vochtrijke lippen – een resultaat als fris aangebracht, voor een kleur die niet verbleekt.
 - Zeer intensieve kleurpigmenten in de make-up pen van LOréal bieden 24 uur ultieme grip en ultieme kleurkracht zonder brokkelende kleur.
 
 [🛒 Buy it!!]({{< param buyurl >}})

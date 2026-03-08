@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Hoge kraag voor warmte en bescherming tegen de elementen
 - Moderne heren-fleecetrui met volledige rits voor een langdurig comfort tijdens alle seizoenen
-- Inhoud: 1x Columbia Fast Trek II Fleece-trui met volledige rits voor heren; 100% polyester microfleece; kleur: City Grey; maat: S; art.nr. 1420421
 - Verkrijgbaar in diverse kleuren; ideaal voor dagelijks gebruik
 - De ritszakken houden je handen warm en je kunt je waardevolle spullen, zoals smartphones, enz. veilig opbergen
+- Hoge kraag voor warmte en bescherming tegen de elementen
+- Inhoud: 1x Columbia Fast Trek II Fleece-trui met volledige rits voor heren; 100% polyester microfleece; kleur: City Grey; maat: S; art.nr. 1420421
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07V2BSQGQ{{</world>}}

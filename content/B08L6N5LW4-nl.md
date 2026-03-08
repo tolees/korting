@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Leveringsomvang: Smart-TV X8552504 MD855600, afstandsbediening incl. batterijen (AAA), gebruiksaanwijzing
-- Meer details, meer scherpte: ervaar met de Ultra HD 4K-resolutie (3.840 x 2160) een vier keer hogere detailscherpte dan bij eerdere Full HD-tvs.
-- Briljanter dan ooit tevoren: High Dynamic Range (HDR10) zorgt voor levensechte contrasten en kleuren.
 - Elegante QLED Smart-tv met HDR10, Dolby Vision, DTS X, DTS HD, Dolby Atmos, MEMC, CI+ interface, wifi, Bluetooth, PVR-ready, mediaspeler, HbbTV, VIDAA App Store, NETFLIX, Disney+, Paramount+ & Amazon Prime Video-app en andere smart-tv-diensten.
 - Net als in de bioscoop: met Dolby Vision komen uw films en series tot leven in schitterende kleuren en contrasten.
+- Briljanter dan ooit tevoren: High Dynamic Range (HDR10) zorgt voor levensechte contrasten en kleuren.
+- Meer details, meer scherpte: ervaar met de Ultra HD 4K-resolutie (3.840 x 2160) een vier keer hogere detailscherpte dan bij eerdere Full HD-tvs.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08L6N5LW4{{</world>}}

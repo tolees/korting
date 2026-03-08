@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- GELIMITEERDE KLASSIEKER: De jaarlijkse kerstcollectie is een traditie bij Villeroy & Boch en is slechts in beperkte aantallen verkrijgbaar
+- LEVERINGSOMVANG: 1 x Annual Christmas Edition schaal, jaarlijkse editie 2024, materiaal: porselein, kleur: meerkleurig, maat: 16,5 x 16,5 x 3,5 cm (art.nr.: 1486263877)
 - HOOGWAARDIGE KWALITEIT: Premium porselein en een gouden bodemstempel maken de schaal tot een sieraad van hoge kwaliteit - ideaal voor het serveren van koekjes en andere kerstlekkernijen - met de hand afwassen aanbevolen
 - CADEAUVERPAKKING: Het eersteklas kerstporselein is niet alleen geschikt voor verzamelaars, maar ook als cadeau voor dierbaren
-- LEVERINGSOMVANG: 1 x Annual Christmas Edition schaal, jaarlijkse editie 2024, materiaal: porselein, kleur: meerkleurig, maat: 16,5 x 16,5 x 3,5 cm (art.nr.: 1486263877)
-- GELIMITEERDE KLASSIEKER: De jaarlijkse kerstcollectie is een traditie bij Villeroy & Boch en is slechts in beperkte aantallen verkrijgbaar
 - FRISSE FEESTELIJKE LOOK: De nieuwe Annual Christmas Edition komt elk jaar in een nieuw design en maakt verzamelaars altijd op een bijzondere manier blij
 
 [🛒 Check the deal!!]({{< param buyurl >}})

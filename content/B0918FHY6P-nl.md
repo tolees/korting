@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Breng een kleine hoeveelheid aan op gewassen, handdoekdroog haar en werk gelijkmatig in. Niet uitspoelen.
 - 10 voordelen, waaronder: glans, soepelheid, ontwart, versterkt de haarvezel, maakt glad, beschermt, hydrateert.
+- Breng een kleine hoeveelheid aan op gewassen, handdoekdroog haar en werk gelijkmatig in. Niet uitspoelen.
 - De professionele leave-in haarolie is speciaal ontwikkeld voor beschadigd en droog haar. De zachte kuur met tarwekiemolie verzorgt de haarvezel voor zacht en luchtig haar dat gemakkelijk te ontwarren is.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

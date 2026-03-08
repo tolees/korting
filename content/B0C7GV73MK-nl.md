@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Gelegenheid: deze basic T-shirts zijn zeer praktisch en veelzijdig, geschikt voor zomersporten, winkelen, wandelen, uitgaan en dagelijkse vrijetijdskleding, en kunnen perfect worden gecombineerd met jeans, shorts, leggings, broeken of korte rokken.
-- Relaxed fit: oversized shirts zijn zeer geschikt voor het lichaam en zijn comfortabel om te dragen in de vrije tijd. De top is lang genoeg om je heupen te bedekken, je buik te verbergen. Geschikt voor elke lichaamsvorm.
 - Comfortabele stof: de T-shirts met korte mouwen zijn gemaakt van 47,5% katoen, 47,5% rayon en 5% spandex, dat zacht en comfortabel aanvoelt, licht en ademend, zodat je kunt genieten van dagelijks comfort.
+- Relaxed fit: oversized shirts zijn zeer geschikt voor het lichaam en zijn comfortabel om te dragen in de vrije tijd. De top is lang genoeg om je heupen te bedekken, je buik te verbergen. Geschikt voor elke lichaamsvorm.
 - Drop-schouder: de casual top is ontworpen met een drop-shoulder versie, die de natuurlijke schouderlijn van een persoon kan laten zien terwijl de schoudervorm wordt aangepast.
 - Klassieke ronde hals: het klassieke T-shirt met ronde hals ziet er eenvoudig en stijlvol uit, en effen kleuren t-shirts raken nooit uit de mode en zijn gemakkelijk te combineren met verschillende stijlen.
 

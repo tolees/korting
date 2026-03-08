@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Deze professionele shampoo is speciaal ontwikkeld voor beschadigd en droog haar. De formule met proteïnen herstelt het haar intensief voor langdurig gezond-uitziend en glanzend haar.
-- Breng een kleine hoeveelheid aan op vochtig haar, masseer zachtjes in en spoel goed uit.
 - De shampoo herstelt en herstructureert het haar zonder het te verzwaren. Het haar glanst gezond en voelt sterk aan.
+- Breng een kleine hoeveelheid aan op vochtig haar, masseer zachtjes in en spoel goed uit.
+- Deze professionele shampoo is speciaal ontwikkeld voor beschadigd en droog haar. De formule met proteïnen herstelt het haar intensief voor langdurig gezond-uitziend en glanzend haar.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0959XMKF8{{</world>}}

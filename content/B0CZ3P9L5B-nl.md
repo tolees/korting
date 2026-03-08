@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Twee SO-DIM-sleuven die maximaal 64 GB Dual Channel DDR4 bij 3200 MHz ondersteunen. Dit model bevat geen geheugen
-- processor Intel Core i7 van de 12e generatie
-- Intel UHD Graphics
 - Hoge behuizing voor een derde SSD met capaciteit voor 2,5-inch schijven (tot 15 mm hoogte)
+- Intel UHD Graphics
+- processor Intel Core i7 van de 12e generatie
 - Ondersteunde geheugentypes: M.2 sleuf 22 x 80 M sleutel voor PCIe x4 Gen 4 NVMe SSD of M.2 22x42 sleuf B voor PCIe x1 Gen 3, USB 3.2 Gen 2, USB 2.0 en SATA SSD uitbreiding. Dit model bevat geen geheugen
+- Twee SO-DIM-sleuven die maximaal 64 GB Dual Channel DDR4 bij 3200 MHz ondersteunen. Dit model bevat geen geheugen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CZ3P9L5B{{</world>}}

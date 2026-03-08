@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Bluetooth 5.0-connectiviteit – Maak naadloos verbinding met elk Bluetooth-apparaat binnen een straal van 10 meter dankzij de nieuwste Bluetooth 5.0-technologie. Dit garandeert een stabiele en betrouwbare verbinding, waardoor het de perfecte draadloze muis is voor laptops, computers of tablets, voor moeiteloos multitasken.
-- Snelle en nauwkeurige tracking – Uitgerust met zeer nauwkeurige optische sensoren en een resolutie van 1200 DPI garandeert deze draadloze muis nauwkeurige tracking en snel scrollen, waardoor uw productiviteit toeneemt en u een uitzonderlijke navigatie-ervaring op verschillende oppervlakken krijgt.
-- Ergonomisch ontwerp – De elegante aluminium afwerking benadrukt esthetiek en functionaliteit. Geoptimaliseerd voor comfort, ligt perfect in de hand en is geschikt voor zowel links- als rechtshandigen. Ideaal voor moderne laptops, tablets en smartphones.
 - Inbegrepen bij de levering – Bij aankoop ontvangt u een USB-C-oplaadkabel en een gebruikershandleiding. Satechi-producten hebben 2 jaar garantie op materiaal- en fabricagefouten bij normaal gebruik.
+- Ergonomisch ontwerp – De elegante aluminium afwerking benadrukt esthetiek en functionaliteit. Geoptimaliseerd voor comfort, ligt perfect in de hand en is geschikt voor zowel links- als rechtshandigen. Ideaal voor moderne laptops, tablets en smartphones.
+- Snelle en nauwkeurige tracking – Uitgerust met zeer nauwkeurige optische sensoren en een resolutie van 1200 DPI garandeert deze draadloze muis nauwkeurige tracking en snel scrollen, waardoor uw productiviteit toeneemt en u een uitzonderlijke navigatie-ervaring op verschillende oppervlakken krijgt.
+- Bluetooth 5.0-connectiviteit – Maak naadloos verbinding met elk Bluetooth-apparaat binnen een straal van 10 meter dankzij de nieuwste Bluetooth 5.0-technologie. Dit garandeert een stabiele en betrouwbare verbinding, waardoor het de perfecte draadloze muis is voor laptops, computers of tablets, voor moeiteloos multitasken.
 - Oplaadbaar type-C – Geniet van het milieuvriendelijke alternatief met een ingebouwde lithium-ionbatterij die wegwerpbatterijen overbodig maakt. De moderne USB-C-poort biedt een snelle en handige oplaadoplossing, compleet met een USB-C naar USB-oplaadkabel, zodat je muis altijd klaar is voor gebruik.
 
 [🛒 Buy it!!]({{< param buyurl >}})

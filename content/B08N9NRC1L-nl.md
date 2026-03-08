@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 【Spotlight Photography, Zoom into life】Xiaomi 15Ts telephoto camera offers a natural perspective that brings out the emotion in every frame - ideal for portraits, expressions, and the moments that matter most.
-- 【IP68 Sleek rounded body design, Smooth touch, comfortable hold】Softly rounded contours and a matte finish create a design that’s refined, balanced, and effortlessly elegant.
 - 【Immersive 6.83" display, Vision redefined】Featuring a newly upgraded 6.83-inch ultra-large display with an ultra-slim bezel design and 1.5K high resolution, it offers a broader field of view and breathtaking detail.
-- 【Xiaomi 3D IceLoop system, Cool and efficient】The 3D cooling system closely adheres to the chip for rapid heat dissipation, enabling efficient cooling and sustained performance.
 - 【HDR10+ across focal lengths, Vivid colors and rich contrast】Richer, more vibrant colors with more dimensional and realistic light and shadow performance.
+- 【IP68 Sleek rounded body design, Smooth touch, comfortable hold】Softly rounded contours and a matte finish create a design that’s refined, balanced, and effortlessly elegant.
+- 【Spotlight Photography, Zoom into life】Xiaomi 15Ts telephoto camera offers a natural perspective that brings out the emotion in every frame - ideal for portraits, expressions, and the moments that matter most.
+- 【Xiaomi 3D IceLoop system, Cool and efficient】The 3D cooling system closely adheres to the chip for rapid heat dissipation, enabling efficient cooling and sustained performance.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08N9NRC1L{{</world>}}

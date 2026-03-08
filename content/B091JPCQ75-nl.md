@@ -28,14 +28,14 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Beweegbare ring om afbeeldingen te projecteren
-- Aanpasbare armband, perfect voor kleine polsen
-- Communiceer met je vrienden door het verzenden van gecodeerde berichten door middel van je projecties
-- Weergave van datum en tijd
-- 20 Harry Potter afbeeldingen om te projecteren, waar je ook wilt
-- VOEDING: 5 x AG3/LR41 batterijen (meegeleverd).
 - Vanaf 3 jaar
+- Aanpasbare armband, perfect voor kleine polsen
+- 20 Harry Potter afbeeldingen om te projecteren, waar je ook wilt
+- Communiceer met je vrienden door het verzenden van gecodeerde berichten door middel van je projecties
+- Beweegbare ring om afbeeldingen te projecteren
+- Weergave van datum en tijd
 - Garantie: 2 jaar.
+- VOEDING: 5 x AG3/LR41 batterijen (meegeleverd).
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B091JPCQ75{{</world>}}

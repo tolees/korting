@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Universal - Works well with just about any rocker switch and button of any appliance. Smart button pusher for your smart home. Supports Press mode/Switch mode. With the included Add-on sticker, switch mode helps to turn your light on/off.
 - Timers - Use the SwitchBot App to schedule built-in timers, run without phone or Hub. Turn lights or home appliances on/off automatically even when you’re away. Free your hands.
-- SwitchBot Ecosystem - Linkage with other SwitchBot products is possible. Open SwichBot devices in set Scenes via App. Supports SwitchBot API.
 - Even better with SwitchBot Hub - With SwitchBot Hub Plus/Mini (only support 2.4GHz Wi-Fi), you can control your SwitchBot remotely from anywhere and enable voice control. Works well with Amazon Alexa, Google Assistant, Siri and IFTTT.
 - Easy to install and set up - Tape it right next to a rocker switch or button with a 3M sticker in 5 seconds. No swapping, no tools are required. Easy App operation. 600 days long battery life.
-- Universal - Works well with just about any rocker switch and button of any appliance. Smart button pusher for your smart home. Supports Press mode/Switch mode. With the included Add-on sticker, switch mode helps to turn your light on/off.
+- SwitchBot Ecosystem - Linkage with other SwitchBot products is possible. Open SwichBot devices in set Scenes via App. Supports SwitchBot API.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07B4D9KVX{{</world>}}

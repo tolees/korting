@@ -31,8 +31,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 - Prachtig centerpiece: dit mooi vormgegeven figuur is prachtig als decoratief hoogtepunt in je woning of op de feestelijk gedekte tafel.
 - Kindertijdherinneringen weken: het hobbelpaard is de belichaming van kerstspeelgoed en het zorgt voor een blikvanger in de hele woning
 - Mooi cadeau-idee: juist gepassioneerde verzamelaars van nostalgische stukken zullen enthousiast zijn over dit charmant vormgegeven stuk
-- Inhoud: 1x Villeroy & Boch wintercollage accessoires hobbelpaard XL, afmetingen: 32,8 x 10,8 x 32,5 cm, gewicht: 1.596 kg (artikelnummer 35-9391-0004)
 - Hoogwaardige kwaliteit: het detail verliefde stuk is gemaakt van polyhars en kan na gebruik met een vochtige doek worden gereinigd
+- Inhoud: 1x Villeroy & Boch wintercollage accessoires hobbelpaard XL, afmetingen: 32,8 x 10,8 x 32,5 cm, gewicht: 1.596 kg (artikelnummer 35-9391-0004)
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07VPQ4LNL{{</world>}}

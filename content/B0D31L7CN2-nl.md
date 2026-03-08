@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Eenvoudig te dragen: licht en draagbaar, zeer comfortabel thuis of op reis, een perfect cadeau voor Nintendo Switch-spelers
-- Nauwkeurige laadindicator: schuif je Joycon in de handleiding en sluit hem met de Type-C-oplaadkabel aan op een stroombron. De led-indicator is verkrijgbaar in twee kleuren om de laadstatus direct weer te geven. Rood licht betekent dat het wordt opgeladen, groen licht betekent dat het volledig is opgeladen
-- Laadgreep: deze oplader is compatibel met Joycon Nintendo Switch NS/OLED-controllers
 - Spelen bij het opladen: de weergave van de games tijdens het opladen wordt niet beïnvloed en de prestaties van de joycon zullen verder toenemen. De handgreep kan niet alleen de Joycon opladen, maar kan ook in een controller worden gemonteerd, wat je een comfortabele grip biedt.
+- Eenvoudig te dragen: licht en draagbaar, zeer comfortabel thuis of op reis, een perfect cadeau voor Nintendo Switch-spelers
+- Laadgreep: deze oplader is compatibel met Joycon Nintendo Switch NS/OLED-controllers
 - Veilig en duurzaam: de laadgreep beschikt over intelligente besturingstechnologie, zelfherstellende zekering en vuurvaste schaal. De oplader houdt je ladingen veilig
+- Nauwkeurige laadindicator: schuif je Joycon in de handleiding en sluit hem met de Type-C-oplaadkabel aan op een stroombron. De led-indicator is verkrijgbaar in twee kleuren om de laadstatus direct weer te geven. Rood licht betekent dat het wordt opgeladen, groen licht betekent dat het volledig is opgeladen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0D31L7CN2{{</world>}}

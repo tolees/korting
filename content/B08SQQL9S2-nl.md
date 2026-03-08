@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Waterafstotende coating
 - Duurzame stof
+- Waterafstotende coating
 - Ademende meshvoering
 
 [🛒 Buy it!!]({{< param buyurl >}})

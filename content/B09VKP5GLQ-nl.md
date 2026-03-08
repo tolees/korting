@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 【RGB+CCT】: Slimme gloeilamp e14 met 16 miljoen kleuren, 806 lumen, 2700-6500K kleurtemperatuur, instelbare helderheid van 1% tot 100%, CRI 80+, het heldere licht geeft perfect de echte kleur van het object weer.
 - 【Muziek/Delen】: In de muziekmodus kunnen de smart home Lampen worden gesynchroniseerd met muziek om op de muziek te "dansen". Je kunt de lampen ook samen met je familie en vrienden bedienen via de functie "Device Sharing".
 - 【Intelligente controle】: verbind de lampen eenvoudig met de Smart Life/Tuya-app via 2,4 Ghz Wi-Fi en je kunt ze bedienen via smartphone of spraakopdrachten.
+- 【RGB+CCT】: Slimme gloeilamp e14 met 16 miljoen kleuren, 806 lumen, 2700-6500K kleurtemperatuur, instelbare helderheid van 1% tot 100%, CRI 80+, het heldere licht geeft perfect de echte kleur van het object weer.
 - 【Laag energieverbruik】: Met een vermogen van 7 W, gelijk aan een alexa gloeilampen van 60W, kan het tot 90% elektriciteitsverbruik besparen, de levensduur is tot 15.000 uur.
 - 【Programmeren】: Met de app kunt u de lampen plannen en timen om volgens het schema voor een periode te werken of beheren met andere lampen en lampen in een groep.
 

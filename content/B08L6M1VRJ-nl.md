@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Altijd klaar voor ontvangst: Gebruik kabel, satelliet en de nieuwe digitale aardse televisie DVB-T2 HD met de HD triple tuner.
-- 100,3 cm (40") Android TV met Full HD-resolutie & spraakgestuurde afstandsbediening
-- Leveringsomvang: MEDION LIFE Smart-TV P14031 MD29242, voetjes incl. schroeven, afstandsbediening incl. batterijen (AAA), gebruiksaanwijzing.
 - Extra scherp: beleef je tv-programma in de beste beeldkwaliteit met de Full HD TV!
+- Leveringsomvang: MEDION LIFE Smart-TV P14031 MD29242, voetjes incl. schroeven, afstandsbediening incl. batterijen (AAA), gebruiksaanwijzing.
+- 100,3 cm (40") Android TV met Full HD-resolutie & spraakgestuurde afstandsbediening
+- Altijd klaar voor ontvangst: Gebruik kabel, satelliet en de nieuwe digitale aardse televisie DVB-T2 HD met de HD triple tuner.
 - FHD smart TV met HDR, klaar voor PVR, CI+ interface, Wi-Fi, Bluetooth, HbbTV, Netflix, Amazon Prime Video en andere smart TV-diensten.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

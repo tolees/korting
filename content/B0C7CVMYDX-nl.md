@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Bevat AHA + BHA, Charcoal, Niacinamide en Salicylzuur
-- **Klinische score, 43 personen, tweedagelijkse applicatie gedurende 28 dagen
-- Klinisch bewezen -35% imperfecties na 8 weken**
 - Anti-onzuiverheden Serum voor een gladdere en meer egale huid
+- Bevat AHA + BHA, Charcoal, Niacinamide en Salicylzuur
+- Klinisch bewezen -35% imperfecties na 8 weken**
 - Gemakkelijk aan te brengen met de pipet
+- **Klinische score, 43 personen, tweedagelijkse applicatie gedurende 28 dagen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0C7CVMYDX{{</world>}}

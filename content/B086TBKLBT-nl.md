@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Inktachtige pigmenten zorgen ervoor dat de lippen hun kleur behouden en verzadigd blijven.
 - De tatoeage-achtige formule is kusbestendig, transferproof en aanraakbestendig.
 - 18 tinten voor alle huidtinten.
 - Het is een matte vloeibare lippenstift die intense kleuren en ultralanghoudend is.
-- Inktachtige pigmenten zorgen ervoor dat de lippen hun kleur behouden en verzadigd blijven.
 - De unieke slimme line & fill-applicator helpt de lippen te contouren.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - 4K QAM & multi-link werking – de Wi-Fi 7 dual-band router levert snelheden tot 6500 Mbps. 4096-QAM verhoogt de snelheid met 1,2 keer
+- Quad 2.5 GbE-poorten – 2,5 GbE-poorten geven prioriteit aan het verkeer en optimaliseren de bekabelde internetverbinding voor maximale prestaties
+- Geteste duurzaamheid en stabiele werking: het apparaat is getest voor betrouwbare en stabiele prestaties in strenge tests en is daarom zeer duurzaam
 - Een router. Alle speltypes: met prioritering van de mobiele spelmodus, een eigen gaming-poort voor topprestaties en vereenvoudigde Open NAT voor eenvoudige multiplayer-setups
 - Uitgebreid beveiligingssysteem – uitgerust met de nieuwste ASUS-beveiligingsfuncties die betrouwbare bescherming tegen netwerkbedreigingen garanderen
-- Geteste duurzaamheid en stabiele werking: het apparaat is getest voor betrouwbare en stabiele prestaties in strenge tests en is daarom zeer duurzaam
-- Quad 2.5 GbE-poorten – 2,5 GbE-poorten geven prioriteit aan het verkeer en optimaliseren de bekabelde internetverbinding voor maximale prestaties
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09TJGD3RS{{</world>}}

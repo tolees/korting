@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kleur: Goud
 - Vorm: Bangle
+- Kleur: Goud
 - Merk Pandora
 
 [🛒 Buy it now!!]({{< param buyurl >}})

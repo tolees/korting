@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Tot 100% grijsdeking
 - Tot 2 keer glanzender haar*
 - Color Boost technologie
-- Tot 100% grijsdeking
 - Langhoudend, rijk kleurresultaat
 - Intens voedende permanente haarkleuring
 

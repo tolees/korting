@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Merk: Clinique
 - Soort product: Make up
+- Merk: Clinique
 - Product inhoud: Oogpotlood
 
 [🛒 Buy it now!!]({{< param buyurl >}})

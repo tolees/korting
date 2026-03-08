@@ -28,14 +28,14 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 31 min maximale vliegtijd - Laat batterijzorgen achterwege. Met tot 31 minuten vliegtijd [5] kan deze minidrone meer momenten vastleggen en verder verkennen zonder onderbrekingen.
-- Lichtgewicht en reguleringsvriendelijk - Met een gewicht van minder dan 249 g, [1] voldoet deze drone aan de C0-regelgeving, dus geen training of tests nodig. Hij is compact, handig en ideaal voor uw reizen!
-- Adembenemende 4K/60 fps HDR-video - Leg de schoonheid van zonsopgang en zonsondergang vast met ultra-high-definition video. Deze minidrone biedt een uitzonderlijke visuele ervaring, waardoor elk moment adembenemend lijkt.
-- Vanwege platformcompatibiliteitsproblemen is de DJI Fly-app verwijderd van Google Play. Bezoek de officiële DJI-website om de gebruikershandleiding en de nieuwste DJI Fly-app te downloaden voor een betere ervaring.
-- Leg elk detail vast met 1/1.3-inch CMOS - De grotere sensor in deze 4K-cameradrone vangt meer licht op, wat zorgt voor helderdere beelden met levendige details, ideaal voor het vastleggen van zowel landschappen als portretten.
-- Inclusief de DJI Flip, DJI RC-N3-afstandsbediening, één Intelligent Flight-batterij en meer. Ideaal om mee te beginnen.
 - Vlieg zonder zorgen - Deze 4K-cameradrone heeft propellerbeschermers van lichtgewicht koolstofvezel die volledige bescherming bieden voor u. Geniet van uw tijd met de drone!
+- Inclusief de DJI Flip, DJI RC-N3-afstandsbediening, één Intelligent Flight-batterij en meer. Ideaal om mee te beginnen.
 - Uw regisseur voor Onderweg - Met onderwerptracking blijft uw onderwerp in focus. Of u nu aan het wandelen bent of een feestje hebt, deze drone fungeert als uw persoonlijke cinematograaf en legt elke beweging vast.
+- 31 min maximale vliegtijd - Laat batterijzorgen achterwege. Met tot 31 minuten vliegtijd [5] kan deze minidrone meer momenten vastleggen en verder verkennen zonder onderbrekingen.
+- Leg elk detail vast met 1/1.3-inch CMOS - De grotere sensor in deze 4K-cameradrone vangt meer licht op, wat zorgt voor helderdere beelden met levendige details, ideaal voor het vastleggen van zowel landschappen als portretten.
+- Vanwege platformcompatibiliteitsproblemen is de DJI Fly-app verwijderd van Google Play. Bezoek de officiële DJI-website om de gebruikershandleiding en de nieuwste DJI Fly-app te downloaden voor een betere ervaring.
+- Adembenemende 4K/60 fps HDR-video - Leg de schoonheid van zonsopgang en zonsondergang vast met ultra-high-definition video. Deze minidrone biedt een uitzonderlijke visuele ervaring, waardoor elk moment adembenemend lijkt.
+- Lichtgewicht en reguleringsvriendelijk - Met een gewicht van minder dan 249 g, [1] voldoet deze drone aan de C0-regelgeving, dus geen training of tests nodig. Hij is compact, handig en ideaal voor uw reizen!
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DJ1H6KCP{{</world>}}

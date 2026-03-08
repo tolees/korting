@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Hoofdmateriaal: nubuckleer.
-- Certificaat van de Leather Working Group
 - Certificaat van de Leather Working Group
 - Kleur: donkerbruin
+- Certificaat van de Leather Working Group
 - Voering: 45% polyester 33% textiel (60% nylon - 40% PU) 22% varkensleer
+- Hoofdmateriaal: nubuckleer.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00123UEXM{{</world>}}

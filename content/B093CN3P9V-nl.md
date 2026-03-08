@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Ideaal voor PC liefhebbers en gamers
+- M.2 2280 vormfactor met 3D NAND
 - Schok- en trillingbestendig zonder bewegende onderdelen
 - Behaal 6x de snelheid van een op SATA gebaseerde SSD
 - Zeer snelle PCIe Gen3x4 interface: Tot 3500MB/s lezen en 3000MB/s schrijven - NVMe 1.4 ondersteund
-- M.2 2280 vormfactor met 3D NAND
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B093CN3P9V{{</world>}}

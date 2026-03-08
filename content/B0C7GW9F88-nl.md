@@ -28,14 +28,14 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 🎮 Precisiebediening: Hall Effect-joysticks & triggers: soepel, driftvrij en extreem nauwkeurig.
 - 🎮 Plug & Play: Afneembare USB-kabel - start binnen 3 seconden, geen drivers nodig.
-- 🎮 Immersieve feedback: Pulserende vibratietriggers + asymmetrische handgreepmotoren - voel elk schot.
-- 🎮 Brede compatibiliteit: Werkt met Xbox Series X/S, Xbox One X/S én PC (Windows 10/11+) - inclusief Steam.
-- 🎮 Premium audio & ergonomie: 3.5mm audio + lasergegraveerde grip - ultiem comfort urenlang.
 - 🎮 Aanpasbare knoppen: 2 programmeerbare achterknoppen - elimineer foutieve triggers.
-- Belangrijke tips: Plaats het product NICHT in een vochtige of stoffige omgeving. Houd de USB-aansluiting NICHT direct vast, anders kunnen er storingen optreden.
+- 🎮 Premium audio & ergonomie: 3.5mm audio + lasergegraveerde grip - ultiem comfort urenlang.
+- 🎮 Brede compatibiliteit: Werkt met Xbox Series X/S, Xbox One X/S én PC (Windows 10/11+) - inclusief Steam.
 - Beperkte aanbieding. Koop 1 G7 SE White en ontvang 1 pakje Ruby Thumbstick Grips GRATIS! Koop het artikel hier: https://www.amazon.nl/promotion/psp/A181JLYO5HNGJJ
+- 🎮 Immersieve feedback: Pulserende vibratietriggers + asymmetrische handgreepmotoren - voel elk schot.
+- Belangrijke tips: Plaats het product NICHT in een vochtige of stoffige omgeving. Houd de USB-aansluiting NICHT direct vast, anders kunnen er storingen optreden.
+- 🎮 Precisiebediening: Hall Effect-joysticks & triggers: soepel, driftvrij en extreem nauwkeurig.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0C7GW9F88{{</world>}}

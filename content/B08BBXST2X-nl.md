@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Geschikt voor: koud weer
 - Laarzen van het merk Columbia
+- Geschikt voor: koud weer
 - Duurzame design zorgt voor lang gebruik
 - Stevig en comfortabel design voor soepele bewegingen
 

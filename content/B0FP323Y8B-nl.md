@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - VEGAN formule, dermatologisch getest en geschikt voor een gevoelige huid
-- HERSTELT de huidbarrière en maakt de huid voller*
 - FORMULE met 12% [Glycerine, Panthenol, Aloë Vera en Hyaluronzuur]
+- HERSTELT de huidbarrière en maakt de huid voller*
 - ULTRALICHTE, NIET-PLAKKERIGE EN WATERIGE formule voor snelle absorptie
 - HYDRATEERT de huid tot 100 uur lang
 

@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- bloemig
+- De flacon heeft een sterke expressiviteit en is ondergedompeld in parelwit
 - Geurnoten: hout
 - muskus
 - Een prachtige en heldere damesgeur voor een temperamentvolle vrouw
 - 100 ml Eau de Toilette (EdT) spray
-- De flacon heeft een sterke expressiviteit en is ondergedompeld in parelwit
-- bloemig
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B000C1Z2AU{{</world>}}

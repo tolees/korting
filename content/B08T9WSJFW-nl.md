@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kangoeroezak aan de voorkant
 - Fleecestof voelt zacht en warm.
+- Kangoeroezak aan de voorkant
 - De capuchon met trekkoord kun je je hoes aanpassen.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

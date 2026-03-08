@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Geniet van prachtige landschappen, betoverende muziek, een knappe UI en animescènes
-- De creatieve breinen achter Persona 3, 4 en 5 presenteren Metaphor: ReFantazio
+- In een wereld waar angst aan de orde van de dag is, ontvouwt zich een mysterieus en spannend verhaal
 - Neem deel aan het koninklijke toernooi en laat je meeslepen door zoektochten en ontdekkingen
 - Spectaculaire turn-based gevechten gaan samen met actie in realtime
-- In een wereld waar angst aan de orde van de dag is, ontvouwt zich een mysterieus en spannend verhaal
+- De creatieve breinen achter Persona 3, 4 en 5 presenteren Metaphor: ReFantazio
+- Geniet van prachtige landschappen, betoverende muziek, een knappe UI en animescènes
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0D2NQFGR8{{</world>}}

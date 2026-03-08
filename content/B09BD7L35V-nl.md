@@ -30,9 +30,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Gemakkelijk aan te brengen met de pipet
 - -43% pigmentvlekken na 8 weken
+- Ontdek de hele vitamine C lijn van Garnier voor jouw glow routine
 - Anti-pigmentvlekken serum voor een stralende en meer egale huid
 - [3,5%] Bevat Vitamine C, Niacinamide en Salicylzuur
-- Ontdek de hele vitamine C lijn van Garnier voor jouw glow routine
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09BD7L35V{{</world>}}

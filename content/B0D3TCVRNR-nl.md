@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Optimaal geluid: behuizing van echt hout (MDF) en twee basreflexkanalen voor warm en rijk geluid met goede ruimtelijke resolutie. Talrijke geluidsinstellingen via de EDIFIER ConneX-app mogelijk.
-- Mobiel met muziek: geïntegreerde krachtige lithium-polymeer-accu met 5200 mAh capaciteit voor maximaal 11 uur mobiel muziekgenot. Praktische draaggreep op het apparaat. Kan ook in netvoeding worden gebruikt.
 - Krachtig: 60 W (RMS) uitgangsvermogen zorgt voor krachtig geluid bij een compact formaat. Stijlvolle bedieningsknoppen aan de voorkant van de luidspreker.
 - Multiroom – eenvoudige opbouw van een wifi-multiroom-setup. Werkt met Apple AirPlay 2, Amazon Alexa of Spotify. Ondersteunt 2,4 GHz en 5 GHz wifi-netwerken.
+- Mobiel met muziek: geïntegreerde krachtige lithium-polymeer-accu met 5200 mAh capaciteit voor maximaal 11 uur mobiel muziekgenot. Praktische draaggreep op het apparaat. Kan ook in netvoeding worden gebruikt.
 - Bluetooth V5.3 – nieuwste Bluetooth-technologie om af te spelen via smartphones, tablets of laptops. USB-C en AUX-ingangen voor bekabelde muziekweergave. Ondersteunt LDAC, SBC en AAC codecs.
+- Optimaal geluid: behuizing van echt hout (MDF) en twee basreflexkanalen voor warm en rijk geluid met goede ruimtelijke resolutie. Talrijke geluidsinstellingen via de EDIFIER ConneX-app mogelijk.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0D3TCVRNR{{</world>}}

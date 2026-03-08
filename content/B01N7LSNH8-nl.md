@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Natuurlijk ogend kleurresultaat
-- Mengt zich met jouw haarkleur zonder kleurverschil
 - Uitwasbaar met shampoo
+- Mengt zich met jouw haarkleur zonder kleurverschil
 - Uitwasbare uitgroeispray om uitgroei mee te camoufleren
+- Natuurlijk ogend kleurresultaat
 - Makkelijk en snel aan te brengen dankzij het spraysysteem
 
 [🛒 Buy it!!]({{< param buyurl >}})

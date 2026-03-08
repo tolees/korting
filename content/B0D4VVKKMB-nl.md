@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Hydro Boost NMF-complex – met hyaluronzuur, aminozuren en elektrolyten hydrateert het gezichtsserum intensief, versterkt de huidbarrière en geeft een stralende huid
+- Aangename huidverzorging: de lichte en snel intrekkende formule van het serum is vrij van geurstoffen, kleurstoffen en olie, is geschikt voor alle huidtypes en is niet comedogeen
 - Inhoud van de levering: 1 x 30 ml Neutrogena Hydro Boost ultra vochtserum, volledig recyclebare glazen fles ** en karton (waar recyclinginstallaties zijn)
 - Zachte verzorging: het hyaluronzuurserum is speciaal ontwikkeld voor de gevoelige, tot acne neigende en vooral droge huid en helpt de huidbarrière te versterken
-- Aangename huidverzorging: de lichte en snel intrekkende formule van het serum is vrij van geurstoffen, kleurstoffen en olie, is geschikt voor alle huidtypes en is niet comedogeen
 - Intensieve hydratatie: het huidverzorgingsserum hydrateert door het aanwezige waterbindende hyaluronzuur wetenschappelijk bewezen 8 x meer* vocht, tot 72 uur lang
 
 [🛒 Buy it!!]({{< param buyurl >}})

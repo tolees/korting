@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Fotosensor. Resolutie: 8,0 megapixel
-- Beschrijving van de camera: voorzijde
 - Twee jaar garantie tegen fabricagefouten.
+- Beschrijving van de camera: voorzijde
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CP8P874H{{</world>}}

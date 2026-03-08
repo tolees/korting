@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Tip / mondstuk grootte: PH3
 - Lengte: 25 mm
 - Gewicht: 0,006 kg
+- Tip / mondstuk grootte: PH3
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0055R2RKY{{</world>}}

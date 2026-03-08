@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Bliksemsnel opladen: Het MFi-certificaat en strenge kwaliteitscontroles garanderen dat je apparaten met maximumsnelheid en tegelijkertijd absoluut veilig worden opgeladen.
 - De kabel voor het leven:
 - Enorm duurzaam: gaat 12 keer langer mee dan standaard kabels en is bestand tegen meer dan 12.000 buigingen.
-- Extreem belastbaar: de kabel is zo versterkt voor bescherming van de binnenkant van de kabel dat hij tot 80 kg trekkracht heeft.
+- Bliksemsnel opladen: Het MFi-certificaat en strenge kwaliteitscontroles garanderen dat je apparaten met maximumsnelheid en tegelijkertijd absoluut veilig worden opgeladen.
 - Inhoud van de levering: Een Anker PowerLine II.
+- Extreem belastbaar: de kabel is zo versterkt voor bescherming van de binnenkant van de kabel dat hij tot 80 kg trekkracht heeft.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B06XFK2H8Z{{</world>}}

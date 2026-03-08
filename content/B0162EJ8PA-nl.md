@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Afmetingen: 40 mm lengte, 170 mm hoog, 120 mm breed
 - Aanbevolen voor kinderen van 4 tot 8 jaar
+- Afmetingen: 40 mm lengte, 170 mm hoog, 120 mm breed
+- Je kunt je kinderen monteren met een grappig figuur uit het materiaal in de doos
 - Levering in doos met venster
 - Met EVA-schuimvormen, vilt, pompon, wol, enz. en alle benodigde materialen om het figuur te creëren
-- Je kunt je kinderen monteren met een grappig figuur uit het materiaal in de doos
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0162EJ8PA{{</world>}}

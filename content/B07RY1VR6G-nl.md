@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Officieel gelicentieerd: dit verzamelobject van hoge kwaliteit is een unieke toevoeging aan de set van elke fan. Geef deze coole verzamelartikelen aan moeders, vaders, fans, afgestudeerden, kinderen, jongens en meiden die houden van popcultuurplezier
-- Details: Deze verstelbare lamp is ongeveer 60 cm hoog, wordt gevoed via USB en wordt geleverd met een USB-kabel van 3 meter waarmee u hem over grote afstanden door de kamer kunt verplaatsen
-- Light the Night: Gebruik dit nachtlampje als bureaulamp op het nachtkastje naast je bed. Het is een perfecte manier om je mannengrot, slaapkamer, babykamer, peuterspeelkamer of thuisbioscoop met thema te verlichten
-- Posable Light: Of je nu een smokkelaar bent zoals Han Solo, een Wookie zoals Chewbacca, of een sciencefictionfan die ervan droomt door de melkweg te reizen, je zult dol zijn op de Millennium Falcon Posable Desk Lamp
 - Originele cadeauartikelen: voor degenen in de fandom die op zoek zijn naar nieuwe items en alles wat geek, gek en uniek is, is Paladone je beste bron voor bestverkopend speelgoed, mokken, verzamelobjecten en nieuwigheden
+- Officieel gelicentieerd: dit verzamelobject van hoge kwaliteit is een unieke toevoeging aan de set van elke fan. Geef deze coole verzamelartikelen aan moeders, vaders, fans, afgestudeerden, kinderen, jongens en meiden die houden van popcultuurplezier
+- Light the Night: Gebruik dit nachtlampje als bureaulamp op het nachtkastje naast je bed. Het is een perfecte manier om je mannengrot, slaapkamer, babykamer, peuterspeelkamer of thuisbioscoop met thema te verlichten
+- Details: Deze verstelbare lamp is ongeveer 60 cm hoog, wordt gevoed via USB en wordt geleverd met een USB-kabel van 3 meter waarmee u hem over grote afstanden door de kamer kunt verplaatsen
+- Posable Light: Of je nu een smokkelaar bent zoals Han Solo, een Wookie zoals Chewbacca, of een sciencefictionfan die ervan droomt door de melkweg te reizen, je zult dol zijn op de Millennium Falcon Posable Desk Lamp
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07RY1VR6G{{</world>}}

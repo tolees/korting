@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- De dunne en lichte Bumper is gemaakt van versterkt polycarbonaat en beschermt de randen van je device extra goed. Door het nieuwe design voelen knoppen heel prettig, precies en responsief aan.
 - De Bumper werkt moeiteloos met de Cameraregelaar, zodat je op de gebruikelijke manier kunt klikken en slepen.
-- De Bumper zit fraai om je iPhone Air, waardoor het ongelofelijk dunne design mooi te zien is.
+- De dunne en lichte Bumper is gemaakt van versterkt polycarbonaat en beschermt de randen van je device extra goed. Door het nieuwe design voelen knoppen heel prettig, precies en responsief aan.
 - Ook bevat de Bumper twee aansluitpunten waaraan je het Crossbody­koord kunt vastmaken. Zo neem je je iPhone Air makkelijk handsfree mee.
+- De Bumper zit fraai om je iPhone Air, waardoor het ongelofelijk dunne design mooi te zien is.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FQFHQVMN{{</world>}}

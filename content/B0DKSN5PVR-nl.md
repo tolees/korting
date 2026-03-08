@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- DAGELIJKSE GEZICHTSBEVOCHTIGER: Geschikt voor alle huidtypen, inclusief de gevoelige en droge huid, en vrij van alle schadelijke stoffen.
-- SAMENGESTELD MET NATUURLIJKE INGREDIËNTEN: Bevat 70% hartbladextract, geoogst in Korea, voor verzachtende en milde verzorging.
 - Herstelt de beschadigde huidbarrière: Bevat ceramiden en panthenol, effectieve ingrediënten om de beschadigde huidbarrière te herstellen.
 - NIET VETTE TEXTUUR: Romige maar niet vette consistentie zorgt voor directe hydratatie en trekt snel in de huid.
+- SAMENGESTELD MET NATUURLIJKE INGREDIËNTEN: Bevat 70% hartbladextract, geoogst in Korea, voor verzachtende en milde verzorging.
+- DAGELIJKSE GEZICHTSBEVOCHTIGER: Geschikt voor alle huidtypen, inclusief de gevoelige en droge huid, en vrij van alle schadelijke stoffen.
 - PERFECT VOOR DE GEVOELIGE HUID: Dit product is geurvrij, parabenenvrij en dierproefvrij.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
