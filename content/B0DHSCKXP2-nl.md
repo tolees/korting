@@ -1,0 +1,39 @@
+---
+layout: post
+title: '503 - Fout: service niet beschikbaar'
+date: 2026-03-14 12:10:24
+image: 'https://m.media-amazon.com/images/I/51SkNSI7QIL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0DHSCKXP2-nl 503 - Fout: service niet beschikbaar'
+sku: 'B0DHSCKXP2-nl'
+tags: [ '6d2fcb45-df05-499f-9780-9477bed321a6_0','6d2fcb45-df05-499f-9780-9477bed321a6_501','Arborist Merchandising Root','Bouw- & constructiespeelgoed','Creatieve spellen','Educatief speelgoed','Self Service','Special Features Stores','Speelgoed & spellen','Speelgoedbouwsets','lego','🇳🇱', ]
+actualPrice: 41.67 EUR
+currency: EUR
+price: 41.67
+comparePrice: 59.99 EUR
+prodname: '503 - Fout: service niet beschikbaar'
+country: 'nl'
+flag: '🇳🇱'
+brand: 'LEGO'
+buyurl: 'https://www.amazon.nl/dp/B0DHSCKXP2/?tag=tolees0b-21'
+descuento: '30.54'
+average: '42.69875'
+---
+
+There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Samen bouwen – deze LEGO voertuigset is een ideale manier voor familie en vrienden om hun passie voor de Fast and Furious films te delen en herinneringen op te halen aan favoriete scènes
+- Auto speelgoed voor kinderen vanaf 9 jaar – bouw een gedetailleerde modelversie van een van de bekendste autos uit de filmgeschiedenis met deze LEGO Technic Fast and Furious Toyota Supra MK4 set
+- Maak kennis met techniek – de realistische bewegingen en mechanismen van LEGO Technic modelbouwsets laten jonge LEGO bouwers kennismaken met de wereld van techniek
+- Toyota Supra speelgoed auto bouwpakket voor kinderen – deze sportwagen zit boordevol details en leuke verwijzingen voor fans van de Fast and Furious reeks, waaronder 2 NOS-flessen in de kofferbak van de LEGO auto
+- Leuk cadeau voor kinderen – deze set is een creatieve cadeautip voor jongens en meisjes die dol zijn op Fast and Furious of LEGO Technic autos
+- Een LEGO raceauto boordevol details – zet de 6-cilindermotor, de stuurinrichting, de motorkap die open kan en het afneembare Targa-dak in elkaar en speel je favoriete Fast and Furious scènes na
+
+[🛒 Buy it now!!]({{< param buyurl >}})
+{{<world>}}B0DHSCKXP2{{</world>}}
