@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Ongewijzigd comfort door het Zero-shock-systeem met schokabsorberende kogels, die de dempende werking versterken en schokken en schokken opvangen
-- Ademend vermogen van de zool en een goed gevoel op de voet garanderen Geox-gepatenteerde systemen
 - Vetersluiting voor een gemakkelijk verstelbare pasvorm
+- Ademend vermogen van de zool en een goed gevoel op de voet garanderen Geox-gepatenteerde systemen
+- Ongewijzigd comfort door het Zero-shock-systeem met schokabsorberende kogels, die de dempende werking versterken en schokken en schokken opvangen
 - Lichtgewicht schoenen voor comfortabel lopen de hele dag door
 
 [🛒 Buy it now!!]({{< param buyurl >}})

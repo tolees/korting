@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 100% klimaatneutraal, met compensatie van CO2-uitstoot
-- Snel intrekkende formule die niet vet aanvoelt
 - Geschikt voor dagelijks gebruik op gezicht, lichaam en handen
 - 48 uur hydratatie voor een zachte, goed verzorgde huid
+- Snel intrekkende formule die niet vet aanvoelt
 - Bevat vitamine E en 100% natuurlijke jojoba-olie
+- 100% klimaatneutraal, met compensatie van CO2-uitstoot
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0F6D15R1J{{</world>}}

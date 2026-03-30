@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- EVA-buitenzool voor lichtheid
 - Interne Ortholite smelle voor demping en ademend vermogen
 - Gecertificeerd door de Leather Working Group
+- EVA-buitenzool voor lichtheid
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09HHH3PNY{{</world>}}

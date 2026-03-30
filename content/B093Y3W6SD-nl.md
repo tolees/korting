@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Officieel gelicentieerde merchandise
 - Paladone
+- Officieel gelicentieerde merchandise
 - Star Wars Logo Light, wandmontage en vrijstaand
 
 [🛒 Check the deal!!]({{< param buyurl >}})

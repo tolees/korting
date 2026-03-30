@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Hoogwaardig kristalglas: reinig de kristallen glazen met de hand, vaatwasser niet aanbevolen
-- INHOUND: 1x Villeroy & Boch Manufacture Rock, witte wijnglazen set, 4 st., 380 ml, gewicht: 720 g (Art.Nr. 1137988120)
-- Voor wijnkenners: s avonds genieten van een glas heerlijke witte wijn, stijlvol geserveerd in een verfijnd kristallen glas
 - Speciaal voor op tafel: Fris je tafel op met de zwarte wijnbekers en geniet van de bijzondere uitstraling van de glazen.
+- Voor wijnkenners: s avonds genieten van een glas heerlijke witte wijn, stijlvol geserveerd in een verfijnd kristallen glas
+- INHOUND: 1x Villeroy & Boch Manufacture Rock, witte wijnglazen set, 4 st., 380 ml, gewicht: 720 g (Art.Nr. 1137988120)
 - Leuk cadeauidee: Verras je dierbaren met de vierdelige set witte wijnglazen, elke gast zal enthousiast zijn
 
 [🛒 Check the deal!!]({{< param buyurl >}})

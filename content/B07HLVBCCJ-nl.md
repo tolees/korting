@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Ontwerper: Massimo Giacon, Marcello Jori
 - Ontworpen voor degenen die houden van de speciale kerstsfeer en innovatie in traditie waarderen
-- Materialen: Handgedecoreerd porselein
 - Afmetingen: Hoogte - 20 cm, breedte - 14 cm, lengte - 27 cm
+- Ontwerper: Massimo Giacon, Marcello Jori
 - Fijn gedecoreerde kerststal met vijf beeldjes
+- Materialen: Handgedecoreerd porselein
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07HLVBCCJ{{</world>}}

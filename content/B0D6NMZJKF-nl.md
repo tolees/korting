@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Deze stijl is duurzaam geproduceerd
-- Dit is een authentiek en origineel product. Geox
 - het zorgt voor een optimale pasvorm
 - Aangenaam om te dragen
+- Dit is een authentiek en origineel product. Geox
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0D6NMZJKF{{</world>}}

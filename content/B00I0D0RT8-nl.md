@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Geavanceerde alarmfuncties
-- Geniet dag en nacht van uw favoriete radioprogramma
 - Stijlvolle en simpele vormgeving met weinig knoppen voor eenvoudige bediening
+- Geniet dag en nacht van uw favoriete radioprogramma
+- Geavanceerde alarmfuncties
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B00I0D0RT8{{</world>}}

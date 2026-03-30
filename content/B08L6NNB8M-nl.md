@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- De niet-vette formule is gemaakt met luxe oliën: 6 bloemolie-extracten met voedende eigenschappen voor een luxueuze glans en geen pluizig haar.
 - Het biedt hittebescherming tot 230°C.
-- Elvive Extraordinary Oil is speciaal ontwikkeld voor droog haar dat behoefte heeft aan voeding, waardoor het haar ruw, dof en levenloos aanvoelt. De luxueuze, olie-rijke formule voedt het haar vanaf de wortel tot de punt.
 - Geeft een gezonde glans
 - Deze haarolie laat je haar prachtig gevoed, zacht en soepel aanvoelen. Het is een gewichtloze finishing touch die geschikt is voor alle haartypes.
+- Elvive Extraordinary Oil is speciaal ontwikkeld voor droog haar dat behoefte heeft aan voeding, waardoor het haar ruw, dof en levenloos aanvoelt. De luxueuze, olie-rijke formule voedt het haar vanaf de wortel tot de punt.
+- De niet-vette formule is gemaakt met luxe oliën: 6 bloemolie-extracten met voedende eigenschappen voor een luxueuze glans en geen pluizig haar.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08L6NNB8M{{</world>}}

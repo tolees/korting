@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Nog meer gelicentieerde content, met de toevoeging van de beroemde Ardennenklassieker : Flèche Wallonne
-- Nieuwe cosmetische beloningen om vrij te spelen in de multiplayer, zodat je het team van je dromen kunt samenstellen
-- Nieuwe uitdagingen in de Race of the Moment- en Descent of the Moment-speltypen voor meer herspeelbaarheid
 - De officiële Tour de France-game voor je PlayStation 5, met alle ASO-races, professionele teams en renners uit de Tour de France
+- Nog meer gelicentieerde content, met de toevoeging van de beroemde Ardennenklassieker : Flèche Wallonne
+- Nieuwe uitdagingen in de Race of the Moment- en Descent of the Moment-speltypen voor meer herspeelbaarheid
 - Een toegankelijker spel met de toevoeging van opties voor mensen met een handicap
-- Een multiplayer-mode voor PS 5, net zo verslavend als altijd, met de mogelijkheid om vrienden uit te nodigen en een online klassement
 - Een nieuw tankmechanisme, voor nieuwe racestrategieën en meer realisme
+- Een multiplayer-mode voor PS 5, net zo verslavend als altijd, met de mogelijkheid om vrienden uit te nodigen en een online klassement
+- Nieuwe cosmetische beloningen om vrij te spelen in de multiplayer, zodat je het team van je dromen kunt samenstellen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FBMMDY1R{{</world>}}

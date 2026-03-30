@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Bevat een ingebouwd afgedekt vak (28,0cm x 11,7cm) om de afstandsbediening van de tv in te bewaren.
 - Geschikt voor de meeste flatscreen-tvs van 48 tot 50 inch.
+- Gemaakt van duurzaam polyester met een waterdichte PVC-coating.
 - De zachte binnenstof zorgt ervoor dat er bij gebruik van de hoes geen slijtage optreedt op het schermoppervlak.
 - Beschermende buitenhoes voor een flatscreen-tv.
-- Gemaakt van duurzaam polyester met een waterdichte PVC-coating.
-- Bevat een ingebouwd afgedekt vak (28,0cm x 11,7cm) om de afstandsbediening van de tv in te bewaren.
 - Afmetingen van het product: 119,4 x 13,7 x 75,4 cm (L x B x H).
 
 [🛒 Buy it now!!]({{< param buyurl >}})

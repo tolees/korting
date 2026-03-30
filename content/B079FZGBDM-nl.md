@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Kleur: Zwart
-- XL EXTRALIGHT voor lichtheid en schokabsorptie
 - Binnenzool: OrthoLite voor demping
-- Buitenzool/Kenmerken: EVA voor lichtgewicht
 - Bovenwerk: Leer (kalfsleer)
+- XL EXTRALIGHT voor lichtheid en schokabsorptie
+- Buitenzool/Kenmerken: EVA voor lichtgewicht
+- Kleur: Zwart
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B079FZGBDM{{</world>}}

@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Comfortabel en licht design
 - Schoenen van het merk Columbia
 - Gemaakt van duurzame materialen
-- Comfortabel en licht design
 - Duurzame design zorgt voor lang gebruik
 
 [🛒 Check the deal!!]({{< param buyurl >}})

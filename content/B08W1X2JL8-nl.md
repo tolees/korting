@@ -30,8 +30,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Wasbaar en dus eenvoudig schoon te maken
 - Alle knoppen en aansluitingen zijn volledig toegankelijk bij gebruik van dit hoesje
-- Met dit siliconenhoesje heb je meer grip op je games
 - Bescherm je controller tegen krassen en geef er een persoonlijke draai aan
+- Met dit siliconenhoesje heb je meer grip op je games
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08W1X2JL8{{</world>}}

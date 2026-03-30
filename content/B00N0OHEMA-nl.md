@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Green-technologie vermindert het energieverbruik
 - Slim beheer via de webmanagementpagina en downloadbaar hulpprogramma
+- Plug and play: geen configuratie nodig
 - 5 x RJ45-poorten (10/100/1000 MBps)
 - Duurzame metalen behuizing van hoogwaardige kwaliteit met een professionele uitstraling
-- Green-technologie vermindert het energieverbruik
-- Plug and play: geen configuratie nodig
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00N0OHEMA{{</world>}}

@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 400 lengte-instellingen voor elk kapsel [0,5 mm tot 42 mm] instelbaar via aanraakbediening
-- Maximale prestaties dankzij automatische turbomodus - knip nog dikker haar grondig
-- De verpakking kan variëren
-- Gelijkmatige resultaten dankzij gemotoriseerde kammen met precieze afstelling tot 0,1 mm
-- Duurzame, zelfslijpende scheermesjes van titanium voor de ideale, precieze haarsnit zoals op de eerste dag
-- Eenvoudige, draadloze bediening met een batterijduur tot 120 minuten en een oplaadtijd van 1 uur dankzij de Li-Ion-batterij
 - Inhoud van de doos: haartrimmer, 3 kamopzetstukken, opbergtas, oplaadstation en reinigingsborstel
+- Duurzame, zelfslijpende scheermesjes van titanium voor de ideale, precieze haarsnit zoals op de eerste dag
+- Maximale prestaties dankzij automatische turbomodus - knip nog dikker haar grondig
+- 400 lengte-instellingen voor elk kapsel [0,5 mm tot 42 mm] instelbaar via aanraakbediening
+- Gelijkmatige resultaten dankzij gemotoriseerde kammen met precieze afstelling tot 0,1 mm
+- De verpakking kan variëren
+- Eenvoudige, draadloze bediening met een batterijduur tot 120 minuten en een oplaadtijd van 1 uur dankzij de Li-Ion-batterij
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07TMP2TP5{{</world>}}

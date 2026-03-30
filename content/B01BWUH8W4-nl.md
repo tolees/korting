@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Aanvullend product voor de tado° Starterskits: voeg extra Slimme Thermostaten aan jouw setup toe om meerdere kamers of zones afzonderlijk te regelen
-- Compatibel met 95% van alle verwarmingssystemen incl. hydronische vloerverwarming; je hebt de Bedrade Slimme Thermostaat nodig als je een conventionele bedrade kamerthermostaat hebt om de ketel aan te sturen
 - Doos bevat: 1x Slimme Thermostaat, 3x AAA-batterijen, plakstrips, bevestigingsmateriaal.
-- Stuur alle kamers aan vanuit één app; maximaal comfort en energiebesparing
 - Werkt alleen met een tado° Starterskit (V2, V3, V3+), apart verkrijgbaar
+- Stuur alle kamers aan vanuit één app; maximaal comfort en energiebesparing
+- Compatibel met 95% van alle verwarmingssystemen incl. hydronische vloerverwarming; je hebt de Bedrade Slimme Thermostaat nodig als je een conventionele bedrade kamerthermostaat hebt om de ketel aan te sturen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B01BWUH8W4{{</world>}}

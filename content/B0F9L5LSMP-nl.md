@@ -30,8 +30,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - GREAT VALUE PACK: Een verpakking bevat 50 rietjes, genoeg voor meerdere diffusers of vervangingen om maanden mee te gaan
 - MULTIFUNCTIONEEL GEBRUIK: PERFECT VOOR RIETVERSPREIDERS, OLIEVERWARMERS EN DOE-het-zelf-aromatherapieprojecten. Deze stokjes werken met alle standaard essentiële oliën.
-- EFFICIËNTE GEURVERSPREIDING: deze 19 cm lange diffuserstokjes geven langzaam essentiële oliearomas , waardoor in elke kamer een aangename sfeer ontstaat
 - PREMIUM RATTAN RIETSTOKJES: RIETJES VOOR DIFFUSERS GEMAAKT VAN HOOGWAARDIG VEZELMATERIAAL. DEZE ZWARTE RIETSTOKJES ZORGEN VOOR EEN UITSTEKENDE OLIE-absorptie voor een langdurige geur in huis.
+- EFFICIËNTE GEURVERSPREIDING: deze 19 cm lange diffuserstokjes geven langzaam essentiële oliearomas , waardoor in elke kamer een aangename sfeer ontstaat
 - PREMIUM ZWART DESIGN: de diepzwarte kleur voegt een elegante decoratie toe aan uw ruimte, terwijl de uniforme dikte van 0,3 cm zorgt voor consistente prestaties
 
 [🛒 Buy it now!!]({{< param buyurl >}})

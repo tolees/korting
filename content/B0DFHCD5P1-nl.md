@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Pressure Care System: 4 cm, meerlaags traagschuim, viscosoft en biotherm-vezels voor voorgevormde ondersteuning.
 - Multizone comfort: zorgt voor een perfecte gewichtsverdeling en elimineert drukplekken.
 - Hygiënisch en ademend: schimmelwerend, mijtdicht en antibacterieel met vochtcontrole.
+- Pressure Care System: 4 cm, meerlaags traagschuim, viscosoft en biotherm-vezels voor voorgevormde ondersteuning.
 - Dikte: 27 cm
 - Aanpasbare sterkte: de duo-systeemtechnologie biedt gemiddelde sterkte aan de A-zijde en hoge sterkte aan de B-kant.
 

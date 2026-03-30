@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Pure comfort: bekijk fotos en videos op het grote scherm met de geïntegreerde mediaspeler
+- Televisie onderweg: sluit je tv eenvoudig aan op de 12V DC-aansluiting van je voertuig met de meegeleverde autoadapter
 - 19-inch tv met HD-resolutie, autoadapter, geïntegreerde mediaspeler en HD Triple Tuner voor ontvangst via kabel, satelliet of DVB-T2 HD
 - Leveringsomvang: MEDION LCD-TV E8192500 MD819000, afstandsbediening met batterijen (AAA), externe adapter, autoadapter, DVB-T antenne, YUV-adapter, AV-adapter, standaard incl. schroeven, handleiding
-- Televisie onderweg: sluit je tv eenvoudig aan op de 12V DC-aansluiting van je voertuig met de meegeleverde autoadapter
-- Pure comfort: bekijk fotos en videos op het grote scherm met de geïntegreerde mediaspeler
 - Altijd ontvangst: kabel, satelliet en DVB-T2 HD met de HD Triple Tuner
 
 [🛒 Buy it now!!]({{< param buyurl >}})

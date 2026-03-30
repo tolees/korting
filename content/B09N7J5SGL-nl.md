@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Sluiting: rubber
-- M
 - Bovenmateriaal: synthetisch
+- M
+- Sluiting: rubber
 - Binnenmateriaal: synthetisch
 
 [🛒 Check the deal!!]({{< param buyurl >}})

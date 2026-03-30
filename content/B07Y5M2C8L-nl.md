@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- De ene kant is gepolijst en bezet met kubische zirkonia, op de achterkant bevinden zich kleine metalen kralen met kleine sterrendetails
+- Het is het perfecte cadeau voor jezelf of je favoriete steenbok
 - Laat met deze fonkelende sterrenbeeld-charme zien hoe ambitieus en betrouwbaar je bent
 - Steenbok zit niet graag op de kijkersstoel en zet zich altijd in voor een betere toekomst
 - Het artikel wordt niet in een doos verzonden. Deze moet apart worden gekocht
-- De ene kant is gepolijst en bezet met kubische zirkonia, op de achterkant bevinden zich kleine metalen kralen met kleine sterrendetails
-- Het is het perfecte cadeau voor jezelf of je favoriete steenbok
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07Y5M2C8L{{</world>}}

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Bediening via Wi-Fi & Bluetooth: Zelfs als je Wi-Fi uitvalt, kun je de Plug Mini direct via Bluetooth blijven bedienen.
-- Matter Bridge-functionaliteit: Maakt Bluetooth-apparaten zoals de SwitchBot Blind Tilt, Curtain 3 en Bot compatibel met Matter. Inclusief één ingebouwde subapparaat-slot, waarmee tot twee apparaten via Matter kunnen worden verbonden.
-- Matter-compatibele stekker: De SwitchBot Plug Mini ondersteunt Matter via Wi-Fi en kan rechtstreeks worden toegevoegd aan de Woning-app of Home Assistant voor eenvoudige bediening.
 - Compact ontwerp: Neemt minimale ruimte in beslag in het stopcontact en blokkeert geen aangrenzende aansluitingen.
+- Matter-compatibele stekker: De SwitchBot Plug Mini ondersteunt Matter via Wi-Fi en kan rechtstreeks worden toegevoegd aan de Woning-app of Home Assistant voor eenvoudige bediening.
 - Energiemonitoring in realtime: Houd het stroomverbruik van je apparaten bij met dagelijkse, maandelijkse en jaarlijkse rapporten. Ontvang waarschuwingen bij overbelasting voor extra veiligheid. Let op: Energiemonitoring is alleen beschikbaar via de SwitchBot-app, niet via Matter.
-- Afstandsbediening & Tijdschema’s: Schakel apparaten op elk moment in of uit via de SwitchBot-app. Stel automatische uitschakelingen in om energie te besparen en brandgevaar te verminderen.
+- Bediening via Wi-Fi & Bluetooth: Zelfs als je Wi-Fi uitvalt, kun je de Plug Mini direct via Bluetooth blijven bedienen.
 - Spraakbediening: Bedien je Plug Mini handsfree met spraakopdrachten via Alexa, Siri, Google Assistant, SmartThings of Home Assistant.
+- Matter Bridge-functionaliteit: Maakt Bluetooth-apparaten zoals de SwitchBot Blind Tilt, Curtain 3 en Bot compatibel met Matter. Inclusief één ingebouwde subapparaat-slot, waarmee tot twee apparaten via Matter kunnen worden verbonden.
+- Afstandsbediening & Tijdschema’s: Schakel apparaten op elk moment in of uit via de SwitchBot-app. Stel automatische uitschakelingen in om energie te besparen en brandgevaar te verminderen.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0F5VV13FM{{</world>}}

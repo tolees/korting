@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Onderhoudsinstructie: machinewas, geen wasverzachter gebruiken
-- Dri-FIT-technologie houdt je droog en comfortabel
 - Normale pasvorm voor een ontspannen en licht gevoel
+- Dri-FIT-technologie houdt je droog en comfortabel
+- Onderhoudsinstructie: machinewas, geen wasverzachter gebruiken
 - Zijzakken
 - Materiaal: 100% polyester (gerecycled)
 

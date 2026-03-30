@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Voor nauwkeurig tekenen met de liniaal biedt de intrekbare vulbuis hoge breukvastheid en een vrij zicht op het papier
 - Zeskantige vorm voorkomt het rollen van tekentafels
+- Hardheidsgraadindicator voor snelle identificatie
 - De antislip gekartelde greepzone van metaal biedt ook bij veelvuldig gebruik een hoog schrijf- en schetscomfort en de pen heeft bovendien onder de drukknop een geïntegreerde gum
 - De massieve metalen schacht biedt ideale balans tussen gewicht en schrijfgevoel
-- Voor nauwkeurig tekenen met de liniaal biedt de intrekbare vulbuis hoge breukvastheid en een vrij zicht op het papier
-- Hardheidsgraadindicator voor snelle identificatie
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00AZX0GOM{{</world>}}

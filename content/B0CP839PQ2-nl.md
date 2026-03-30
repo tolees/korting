@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Kijk op de Galaxy Tab A9+ je favoriete films en series op een vloeiend 11” scherm met 90Hz refresh rate. Het geluid komt uit elke hoek met de quad speakers.
-- Als je op zoek bent naar een tablet voor de hele familie, dan zijn de Galaxy Tab A9 Series iets voor jou.
 - Dankzij Samsung Kids kunnen ook de jongste leden van de familie op een veilige en verantwoorde manier hun eerste stappen zetten in de digitale wereld.
 - Dankzij de krachtige chipset en Samsung DeX wordt multi-tasken nu nog makkelijker.
+- Kijk op de Galaxy Tab A9+ je favoriete films en series op een vloeiend 11” scherm met 90Hz refresh rate. Het geluid komt uit elke hoek met de quad speakers.
+- Als je op zoek bent naar een tablet voor de hele familie, dan zijn de Galaxy Tab A9 Series iets voor jou.
 - De Galaxy Tab A9+ zijn er voor iedereen!
 
 [🛒 Buy it!!]({{< param buyurl >}})

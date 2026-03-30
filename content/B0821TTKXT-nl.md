@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Slijtvast Omni-Grip rubber voor goede grip
-- OutDry, waterdichte en ademende constructie
 - Lichte Techlite-tussenzool voor meer flexibiliteit en comfort
+- OutDry, waterdichte en ademende constructie
 - Bovenmateriaal van stof met gelaste synthetische coating
+- Slijtvast Omni-Grip rubber voor goede grip
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0821TTKXT{{</world>}}

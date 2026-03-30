@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- HORMONALE BALANS: Vitamine B6 draagt bij tot de regulering van hormonale activiteit en helpt het natuurlijke hormonale evenwicht te ondersteunen. In combinatie met kuisboomextract vormt dit een krachtige ondersteuning voor de hormonale gezondheid van vrouwen (EFSA).
 - COGNITIEVE EN PSYCHOLOGISCHE FUNCTIES: Vitamines B6, B12 en magnesium ondersteunen een normale werking van het zenuwstelsel en dragen bij aan een normale psychologische functie, wat helpt bij concentratie en gemoedstoestand (EFSA).
-- ENERGIE EN VERMINDERDE VERMOEIDHEID: Vitamines B6 en B12 helpen vermoeidheid en moeheid te verminderen, terwijl ze bijdragen aan een normaal energieleverend metabolisme. Maca-extract vult deze werking aan en ondersteunt het uithoudingsvermogen (EFSA).
-- SPIEREN, BOTTEN EN IMMUUNSYSTEEM: Vitamine D2 en magnesium dragen bij tot het behoud van normale botten en een normale spierfunctie. Vitamine D ondersteunt ook de normale werking van het immuunsysteem en een gezonde ontstekingsreactie (EFSA).
 - SPIJSVERTERING EN ALGEMEEN WELZIJN: Inuline fungeert als prebiotische vezel en ondersteunt de darmflora, wat belangrijk is voor de spijsvertering en het algemene welzijn. Boerenkool en plantaardige extracten leveren aanvullende voedingsstoffen ter ondersteuning van vitaliteit.
+- SPIEREN, BOTTEN EN IMMUUNSYSTEEM: Vitamine D2 en magnesium dragen bij tot het behoud van normale botten en een normale spierfunctie. Vitamine D ondersteunt ook de normale werking van het immuunsysteem en een gezonde ontstekingsreactie (EFSA).
+- HORMONALE BALANS: Vitamine B6 draagt bij tot de regulering van hormonale activiteit en helpt het natuurlijke hormonale evenwicht te ondersteunen. In combinatie met kuisboomextract vormt dit een krachtige ondersteuning voor de hormonale gezondheid van vrouwen (EFSA).
+- ENERGIE EN VERMINDERDE VERMOEIDHEID: Vitamines B6 en B12 helpen vermoeidheid en moeheid te verminderen, terwijl ze bijdragen aan een normaal energieleverend metabolisme. Maca-extract vult deze werking aan en ondersteunt het uithoudingsvermogen (EFSA).
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0D6ZDLSGS{{</world>}}

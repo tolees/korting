@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Ontdek alle andere Funko-producten die zijn toegewijd aan het Demon Slayer-universum
-- Funko POP! is het Peoples Choice-speelgoed van het jaar 2018
-- Verzamel ze allemaal!
 - Elk personage is ongeveer 15 cm lang en is verpakt in een geïllustreerde doos die het personage onthult
+- Verzamel ze allemaal!
+- Funko POP! is het Peoples Choice-speelgoed van het jaar 2018
 - Demon Slayer komt uit Tanjiro vs Rui en wordt onderdeel van de Funko POP Movie Moment-collectie
 
 [🛒 Buy it now!!]({{< param buyurl >}})

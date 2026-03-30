@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Spraakbesturing van je verlichting: Bedien de led-achtergrondverlichting handsfree met Alexa en Google Assistant via wifi, inclusief aan/uit, helderheid, kleuren en zelfs lichteffecten. Opmerking: alleen 2,4 GHz wifi wordt ondersteund.
-- Synchroniseert met je muziek: Met een interne zeer gevoelige microfoon kunnen deze lightbars op het ritme van muziek, film en gaming reageren en bewegen om een ongeëvenaarde klank- en lichtervaring te bereiken.
-- Spannende verlichtingservaring: Gebruik de innovatieve RGBIC-technologie om veelkleurige lichteffecten weer te geven. Breid je entertainment uit met dynamische voorinstellingen of creëer je eigen lichteffecten met de DIY-modus.
 - Intelligente bediening via een app: Stel segmentkleuren en helderheid in, groepeer de gaming light per kamer, automatiseer dagplannen en ontdek andere effecten die door gebruikers in de Govee-gemeenschap zijn ontwikkeld.
+- Spannende verlichtingservaring: Gebruik de innovatieve RGBIC-technologie om veelkleurige lichteffecten weer te geven. Breid je entertainment uit met dynamische voorinstellingen of creëer je eigen lichteffecten met de DIY-modus.
+- Synchroniseert met je muziek: Met een interne zeer gevoelige microfoon kunnen deze lightbars op het ritme van muziek, film en gaming reageren en bewegen om een ongeëvenaarde klank- en lichtervaring te bereiken.
+- Spraakbesturing van je verlichting: Bedien de led-achtergrondverlichting handsfree met Alexa en Google Assistant via wifi, inclusief aan/uit, helderheid, kleuren en zelfs lichteffecten. Opmerking: alleen 2,4 GHz wifi wordt ondersteund.
 - Veelzijdige plaatsingsmogelijkheden: Installeer de LED Lightbar geheel naar wens. Leg hem plat neer, zet hem verticaal neer of monteer hem met de meegeleverde beugels achter de monitor of tv.
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- ACCESSOIRE Geïnspireerd door het seriepersonage: deze beweegbare Star Wars The Black Series figuur wordt verkocht met een accessoire geïnspireerd op de Star Wars Galaxy en past perfect in elke collectie
 - HK-87: Gebaseerd op het ontwerp van een verouderde moordenaar droid, dienen twee HK-droids als lijfwachten voor magistraat Morgan Elsbeth op de planeet Corvus.
-- Premium gewrichten en design: fans en verzamelaars van Star Wars kunnen dit figuur in hun collectie tentoonstellen in een premium design (hoofd, armen en benen)
-- The MANDALORIAN: fans en verzamelaars kunnen scènes uit de Star Wars Galaxy naspelen met dit premium HK-87-figuur, geïnspireerd op de Star Wars: The Mandalorian serie op Disney+
 - Er zijn nog andere figuren uit een verre galaxy: andere Star Wars The Black Series figuren geïnspireerd op de Star Wars Galaxy zijn ook verkrijgbaar (apart verkrijgbaar; zolang de voorraad strekt)
+- The MANDALORIAN: fans en verzamelaars kunnen scènes uit de Star Wars Galaxy naspelen met dit premium HK-87-figuur, geïnspireerd op de Star Wars: The Mandalorian serie op Disney+
+- Premium gewrichten en design: fans en verzamelaars van Star Wars kunnen dit figuur in hun collectie tentoonstellen in een premium design (hoofd, armen en benen)
+- ACCESSOIRE Geïnspireerd door het seriepersonage: deze beweegbare Star Wars The Black Series figuur wordt verkocht met een accessoire geïnspireerd op de Star Wars Galaxy en past perfect in elke collectie
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09WWT56DV{{</world>}}

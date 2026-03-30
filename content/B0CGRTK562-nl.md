@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Materialeigenschappen : Onze premium katoenen sokken (model: Roland) voor heren onderscheiden zich door hun hoogwaardige materiaalkwaliteit. Gemaakt van puur katoen, zijn ze bijzonder huidvriendelijk en zorgen ze voor een aangenaam draaggevoel. De fijne, zachte vezel zorgt voor comfort en ademend vermogen.
-- Geen drukken, geen verschuiven : Onze sokken maken gebruik van platte naden en comfortabele elastische boorden om je optimale comfort te bieden. De natuurlijke eigenschappen van katoen zorgen ook voor een aangenaam voetklimaat en gaan geurvorming tegen. Ervaar de hele dag lang welzijn en frisheid met onze hoogwaardige katoenen sokken voor heren.
-- Je eerste keuze voor... ...verhoogd comfort, zowel als zakelijke sok als vrijetijdssok, of het nu met een pak is of met jeans.
-- DESIGN UIT DUITSLAND - GEMAAKT IN EUROPA: Onze producten worden uitsluitend in moderne fabrieken in Europa vervaardigd. Dit is de enige manier waarop we kunnen garanderen dat onze goederen worden geproduceerd in overeenstemming met de Europese normen op het gebied van arbeidsomstandigheden, milieubescherming, veiligheid en eerlijke lonen. De productconceptie vindt plaats in ons hoofdkantoor in Zuid-Duitsland.
 - 12 MAANDEN ZORGELOOS GARANTIE: Of er nu iets mis is met het product of het gewoon niet aan je verwachtingen voldoet, wij garanderen je een gratis omruiling gedurende de eerste 12 maanden.
+- Geen drukken, geen verschuiven : Onze sokken maken gebruik van platte naden en comfortabele elastische boorden om je optimale comfort te bieden. De natuurlijke eigenschappen van katoen zorgen ook voor een aangenaam voetklimaat en gaan geurvorming tegen. Ervaar de hele dag lang welzijn en frisheid met onze hoogwaardige katoenen sokken voor heren.
+- DESIGN UIT DUITSLAND - GEMAAKT IN EUROPA: Onze producten worden uitsluitend in moderne fabrieken in Europa vervaardigd. Dit is de enige manier waarop we kunnen garanderen dat onze goederen worden geproduceerd in overeenstemming met de Europese normen op het gebied van arbeidsomstandigheden, milieubescherming, veiligheid en eerlijke lonen. De productconceptie vindt plaats in ons hoofdkantoor in Zuid-Duitsland.
+- Je eerste keuze voor... ...verhoogd comfort, zowel als zakelijke sok als vrijetijdssok, of het nu met een pak is of met jeans.
+- Materialeigenschappen : Onze premium katoenen sokken (model: Roland) voor heren onderscheiden zich door hun hoogwaardige materiaalkwaliteit. Gemaakt van puur katoen, zijn ze bijzonder huidvriendelijk en zorgen ze voor een aangenaam draaggevoel. De fijne, zachte vezel zorgt voor comfort en ademend vermogen.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CGRTK562{{</world>}}

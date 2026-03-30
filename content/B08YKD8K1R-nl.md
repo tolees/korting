@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Bekijk de andere Funko-figuren die aan deze collectie zijn gewijd
+- Funko POP! is het Peoples Choice-speelgoed van het jaar 2018
 - Figuur staat 9 cm en wordt geleverd in een doos met venster
 - POP! vinyl van Funko
-- Funko POP! is het Peoples Choice-speelgoed van het jaar 2018
 - Verzamel ze allemaal!
+- Bekijk de andere Funko-figuren die aan deze collectie zijn gewijd
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08YKD8K1R{{</world>}}

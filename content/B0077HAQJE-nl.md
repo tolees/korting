@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Breng in een zigzaggende beweging aan om wimpers goed te spreiden
 - Extra zwarte formule voor een intense look
 - In een beweging aan te brengen door de grote applicator
-- Langhoudende mascara die tot 24 uur blijft zitten
 - Verrijkt met collageen voor mega volume
+- Langhoudende mascara die tot 24 uur blijft zitten
+- Breng in een zigzaggende beweging aan om wimpers goed te spreiden
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0077HAQJE{{</world>}}

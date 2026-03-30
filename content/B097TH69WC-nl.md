@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Traditionele veters
 - treklus op de hiel
+- Traditionele veters
 - Hoog draagcomfort
 - Esthetiek geven
 

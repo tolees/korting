@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Gladde stoffen oppervlakte + schuim binnenkant (gemiddelde stevigheid). Kan in het begin hoog aanvoelen - het duurt 1-2 weken voordat het schuim is uitgehard.
-- Ideaal voor: Glorious Gaming, Corsair, Cool Master/CM Storm, Das, Ducky, Filco, Logitech, Poker/Pok3r, Razer/BlackWidow mechanische toetsenborden.
 - Dual Lock Anti-Fraying gestikt frame - Vergroot de levensduur en esthetiek van deze gaming toetsenbord polssteun aanzienlijk. Deze gaming polssteun ondersteunt u tijdens urenlang spelen.
-- Antislip rubberen basis - Biedt stevige grip en voorkomt dat de polssteun van dit toetsenbord wegglijdt of beweegt. Deze schuimrubberen toetsenbordsteun blijft op zijn plaats tijdens al uw dagelijkse gebruik.
+- Gladde stoffen oppervlakte + schuim binnenkant (gemiddelde stevigheid). Kan in het begin hoog aanvoelen - het duurt 1-2 weken voordat het schuim is uitgehard.
 - Afmetingen: 300 x 100 x 17mm. Geschikt voor COMPACT SIZE mechanische toetsenborden.
+- Ideaal voor: Glorious Gaming, Corsair, Cool Master/CM Storm, Das, Ducky, Filco, Logitech, Poker/Pok3r, Razer/BlackWidow mechanische toetsenborden.
+- Antislip rubberen basis - Biedt stevige grip en voorkomt dat de polssteun van dit toetsenbord wegglijdt of beweegt. Deze schuimrubberen toetsenbordsteun blijft op zijn plaats tijdens al uw dagelijkse gebruik.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0191YRMCO{{</world>}}

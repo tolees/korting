@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- De formule bevat extract van Bidens
 - Verzachtende lipgloss met 3D-effect voor een glanzend resultaat
+- De formule bevat extract van Bidens
 - De zachte schuimrubberen applicator is ontwikkeld om de textuur te benadrukken en de lippen met extreme precisie te omtrekken
 - De zachte, fluwelige textuur smelt samen met de lippen en maakt ze glad en glanzend
 - Dermatologisch getest, niet comedogeen

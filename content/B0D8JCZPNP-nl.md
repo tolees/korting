@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Blijft tot wel 30 uur zitten.
-- Stralende, matte look.
 - Langhoudende, luchtige dekking
-- Verkrijgbaar in 14 tinten.
+- Stralende, matte look.
 - Vegan formule: geen ingrediënten van dierlijke oorsprong.
+- Verkrijgbaar in 14 tinten.
+- Blijft tot wel 30 uur zitten.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0D8JCZPNP{{</world>}}

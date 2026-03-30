@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Blijf strak op doel dankzij de getextureerde triggers en blijf in de actie met rubberen grips aan de achterkant van de controller.
-- Personaliseer je controller door knoppen opnieuw toe te wijzen via de Xbox Accessoires-app.*
-- Inclusief Xbox Wireless- en Bluetooth-technologie voor snel koppelen, spelen en eenvoudig schakelen tussen apparaten (console, pc en cloud inbegrepen).*
-- Leg eenvoudig content vast en deel deze, zoals screenshots en gameclips, met de deelknop.
 - Ga nergens voor terug met de speciale Breaker-serie. Storm Breaker laat zich door niets tegenhouden, met een stijl van klassiek grijs en zwart, in balans gebracht met wit.
+- Personaliseer je controller door knoppen opnieuw toe te wijzen via de Xbox Accessoires-app.*
+- Blijf strak op doel dankzij de getextureerde triggers en blijf in de actie met rubberen grips aan de achterkant van de controller.
+- Leg eenvoudig content vast en deel deze, zoals screenshots en gameclips, met de deelknop.
+- Inclusief Xbox Wireless- en Bluetooth-technologie voor snel koppelen, spelen en eenvoudig schakelen tussen apparaten (console, pc en cloud inbegrepen).*
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FKGWQGNQ{{</world>}}

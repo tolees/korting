@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- VERZIN LEUKE VERHALEN met realistische, door kinderen bestuurbare details zoals een autolift, draaiende bandendisplay en benzinepomp. Voor non-stop actie en eindeloze verhalen. Decoratie kan variëren
-- STUNT EN RACE met de auto’s door aan de sleutel in het midden van de speelset te draaien. Ze rijden door de doorzichtige wielen van de winkel, vliegen van de helling en racen het avontuur tegemoet
-- COMBINEER SETS VOOR NOG MEER PLEZIER. De City Super Twist Bandenwinkel is te combineren met andere sets en banen. Zo kunnen kinderen hun eigen racewereld creëren. Extra sets en baan apart verkrijgbaar
 - EEN IDEAAL CADEAU voor kinderen vanaf 4 jaar, voor elke gelegenheid. De speelset bevat één Hot Wheels-voertuig voor nieuwe verhalen en boeiend fantasiespel vanaf het moment van uitpakken
 - DEZE SPEELSET BEVAT de Hot Wheels City Super Twist Bandenwinkel met een lift, helling en één Hot Wheels-auto. Er kunnen tot vier autos tegelijk door de banden rijden. Extra auto’s apart verkrijgbaar
+- STUNT EN RACE met de auto’s door aan de sleutel in het midden van de speelset te draaien. Ze rijden door de doorzichtige wielen van de winkel, vliegen van de helling en racen het avontuur tegemoet
+- VERZIN LEUKE VERHALEN met realistische, door kinderen bestuurbare details zoals een autolift, draaiende bandendisplay en benzinepomp. Voor non-stop actie en eindeloze verhalen. Decoratie kan variëren
+- COMBINEER SETS VOOR NOG MEER PLEZIER. De City Super Twist Bandenwinkel is te combineren met andere sets en banen. Zo kunnen kinderen hun eigen racewereld creëren. Extra sets en baan apart verkrijgbaar
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09CGKJCLQ{{</world>}}

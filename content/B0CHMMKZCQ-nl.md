@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Individuele aanpassing van uw ervaring: Integreert naadloos in populaire smart-home-platformen en maakt het mogelijk om individuele automatiseringsregels en scènes te creëren die zijn afgestemd op uw unieke vereisten (bijv. Home Assistant, MQTT, Domoticz, ioBroker, Google, Alexa, OpenHAB, enz.).
-- Onmiddellijke slimme integratie: Vooraf geïnstalleerd met Tasmota-firmware voor een eenvoudige installatieprocedure. Er zijn geen extra hubs of complexe apps nodig om aan de slag te gaan.
-- Volledige lokale controle: Deze slimme stopcontact werkt onafhankelijk van externe clouds. Dit verhoogt je privacy en je hebt volledige controle over je apparaten rechtstreeks vanuit je thuisnetwerk.
 - Realtime energiebeheer: bewaak het stroomverbruik, de spanning, de stroom en het energieverbruik in realtime voor nauwkeurige controle en mogelijke energiebesparingen. Ideaal voor het bewaken van balkon-energiecentrales, mini-fotovoltaïsche systemen, televisies, verwarmingstoestellen enz.
+- Individuele aanpassing van uw ervaring: Integreert naadloos in populaire smart-home-platformen en maakt het mogelijk om individuele automatiseringsregels en scènes te creëren die zijn afgestemd op uw unieke vereisten (bijv. Home Assistant, MQTT, Domoticz, ioBroker, Google, Alexa, OpenHAB, enz.).
+- Volledige lokale controle: Deze slimme stopcontact werkt onafhankelijk van externe clouds. Dit verhoogt je privacy en je hebt volledige controle over je apparaten rechtstreeks vanuit je thuisnetwerk.
 - Uitgebreide flexibiliteit: Voor gevorderde gebruikers biedt zich de mogelijkheid om uw eigen server te implementeren, om nog meer controle over uw apparaten te hebben, en dit alles terwijl uw privacy gewaarborgd blijft.
+- Onmiddellijke slimme integratie: Vooraf geïnstalleerd met Tasmota-firmware voor een eenvoudige installatieprocedure. Er zijn geen extra hubs of complexe apps nodig om aan de slag te gaan.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CHMMKZCQ{{</world>}}

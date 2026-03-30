@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Bovendien is hij ook geschikt voor ‘Zoek mijn’, dus als je hem kwijt bent, kun je zien waar hij voor het laatst was.
+- De kaarthouder is gemaakt van stevig microtwill en voelt zacht en soepel aan. Het FineWoven-materiaal bestaat uit 100 procent gerecycled materiaal en heeft een aanzienlijk lagere CO₂‑voetafdruk dan leer.
 - Dankzij de ingebouwde magneten klik je hem eenvoudig vast op de achterkant van je iPhone. Je kunt hem zelfs op een hoesje met MagSafe klikken en zo je eigen unieke combinatie creëren. In de FineWoven kaarthouder is ruimte voor drie pasjes. De kaarthouder is afgeschermd en dus veilig voor je betaalkaarten.
 - De FineWoven kaarthouder met MagSafe voor iPhone is niet alleen mooi, maar ook functioneel. Je hebt je pasjes altijd direct bij de hand.
-- De kaarthouder is gemaakt van stevig microtwill en voelt zacht en soepel aan. Het FineWoven-materiaal bestaat uit 100 procent gerecycled materiaal en heeft een aanzienlijk lagere CO₂‑voetafdruk dan leer.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DGHY5Y86{{</world>}}

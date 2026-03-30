@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Zijzakken
 - Repel-weefsel is bestand tegen lichte regen en wind
+- Normale pasvorm voor een ontspannen en licht gevoel
 - Onderhoudsinstructie: machinewas, geen wasverzachter gebruiken
 - Materiaal: 100% polyester (gerecycled)
-- Normale pasvorm voor een ontspannen en licht gevoel
-- Zijzakken
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07W82SK4N{{</world>}}

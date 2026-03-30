@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Techlite lichtgewicht tussenzool voor langdurige superieure demping en hoge energieteruggave
 - Omni-Tech waterdichte ademende naad verzegelde membraan bootie constructie
 - Wandel en trekkingschoenen van het merk COLUMBIA
-- Techlite lichtgewicht tussenzool voor langdurige superieure demping en hoge energieteruggave
+- Omni-Heat reflecterende voering
 - Omni-Grip niet-markerend tractierubber
 - Bovenwerk van waterdicht mesh/leer
 - Waterdicht schoenen; Let op: veters en ritsen in Columbia Sportswear Company schoenen zijn niet waterdicht
-- Omni-Heat reflecterende voering
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CN3SG5Q5{{</world>}}

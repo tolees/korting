@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- leer
-- synthetisch
+- Cushioning System
 - Flexibiliteit
 - veters
-- Cushioning System
+- synthetisch
+- leer
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07P6M8ZZN{{</world>}}

@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Permanente haarkleuring zonder ammoniak voor een aangename geur
+- Intense, langhoudende kleur
 - Kleurcrème op basis van 60% oliën
 - Verbetert zichtbaar de haarkwaliteit met verzorgende formule
-- Intense, langhoudende kleur
+- Permanente haarkleuring zonder ammoniak voor een aangename geur
 - Tot 100% grijsdekking
 
 [🛒 Buy it!!]({{< param buyurl >}})
