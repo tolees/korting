@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Veilig en Betrouwbaar: Bescherming tegen overspanning, oververhitting en overbelasting, samen met brandwerend PVC en ABS, maken dit artikel veilig en betrouwbaar.
-- Continue Voeding: Met een dummy-batterij kunt u de D-TAP-plug-in gebruiken om uw camera continu van een externe voeding te voorzien. Dit betekent dat je je geen zorgen hoeft te maken over het vervangen van de batterij of oververhitting en stroomverlies door langdurig opnemen. Het is een goede keuze voor videoconferenties, livestreaming, time-lapse-fotografie, live-uitzendingen, studiosessies verlengen, bestanden uploaden naar pc en meer
-- Brede Compatibiliteit: Deze dummy batterij vervangt voor Sony A6600 / A9 II / A7 III / A7R III / A1 / A7C / A7S III / A7R IV/ A7R V / A6700/ FX3 / FX30 / A7CR / A7C II / A7 IV/ZV-E1
-- Eenvoudig te Gebruiken: Deze dummy-batterij werkt goed met de meeste V-mount-batterijen op de markt met de D-TAP-uitgang. En ook compatibel met SMALLRIG V-mount batterij VB50 (Asin: B0B6V46LTZ) en VB99 (Asin: B0B6V4SLWD).
 - Geen Waarschuwings Pop-Up: Volledig gedecodeerde batterij, u hoeft zich geen zorgen te maken over de waarschuwingspop-up dat de batterij de camera zal beschadigen, dezelfde grootte als de originele NP-FZ100 camerabatterij, dus u hoeft zich geen zorgen te maken over het loopt vast
+- Brede Compatibiliteit: Deze dummy batterij vervangt voor Sony A6600 / A9 II / A7 III / A7R III / A1 / A7C / A7S III / A7R IV/ A7R V / A6700/ FX3 / FX30 / A7CR / A7C II / A7 IV/ZV-E1
+- Continue Voeding: Met een dummy-batterij kunt u de D-TAP-plug-in gebruiken om uw camera continu van een externe voeding te voorzien. Dit betekent dat je je geen zorgen hoeft te maken over het vervangen van de batterij of oververhitting en stroomverlies door langdurig opnemen. Het is een goede keuze voor videoconferenties, livestreaming, time-lapse-fotografie, live-uitzendingen, studiosessies verlengen, bestanden uploaden naar pc en meer
+- Eenvoudig te Gebruiken: Deze dummy-batterij werkt goed met de meeste V-mount-batterijen op de markt met de D-TAP-uitgang. En ook compatibel met SMALLRIG V-mount batterij VB50 (Asin: B0B6V46LTZ) en VB99 (Asin: B0B6V4SLWD).
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0C85VJ1BV{{</world>}}

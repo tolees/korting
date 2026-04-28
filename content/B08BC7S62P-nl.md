@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Laarzen van het merk Columbia
 - Stevig en comfortabel design voor soepele bewegingen
+- Laarzen van het merk Columbia
 - Geschikt voor: koud weer
 - Duurzame design zorgt voor lang gebruik
 

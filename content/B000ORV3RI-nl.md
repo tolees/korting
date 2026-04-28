@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Deze verfrissende balsem helpt bij vermoeide of transpirerende voeten en remt eeltvorming en blaren.
 - 1 Stuk
+- Deze verfrissende balsem helpt bij vermoeide of transpirerende voeten en remt eeltvorming en blaren.
 - Inhoud: 75 ml
 
 [🛒 Check the deal!!]({{< param buyurl >}})

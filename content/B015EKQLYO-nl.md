@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Het product wordt niet in een doos geleverd. De doos wordt apart verkocht
-- Cirkelvormige oorstekers van Pandora van zirkonias en sterling zilver
 - Een charmant cadeau-idee dat al je dierbaren zullen waarderen
 - De oorstekers zijn voorzien van het merklogo op de rand
+- Cirkelvormige oorstekers van Pandora van zirkonias en sterling zilver
 - Met deze oorstekers kun je de wereld op een prachtige manier laten zien wie je bent en wat belangrijk voor je is
 
 [🛒 Check the deal!!]({{< param buyurl >}})

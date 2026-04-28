@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Hypoallergene zonnebrandspray die voor alle huidtypen geschikt is, zelfs voor een gevoelige.
-- Nu met Ceramide Protect, die helpt de natuurlijke huidbarrière te beschermen tegen invloeden van buitenaf, zoals (lucht)vervuiling).
-- Zeer waterresistent en niet vettig voor optimaal draagcomfort. Vegan formule**.
-- Gecertificeerd door Cruelty Free: Garnier is gecertificeerd door Cruelty Free, Garnier zet zich voortdurend in om de ecologische en negatieve sociale impact van haar producten te verminderen tijdens hun gehele levenscyclus, dus inclusief gedurende de productie- en gebruiksfase.
 - Met zeer hoge beschermingsfactor SPF50+: de krachtige formule beschermt je huid effectief tegen UVB-, UVA- en lange UVA stralen.
+- Nu met Ceramide Protect, die helpt de natuurlijke huidbarrière te beschermen tegen invloeden van buitenaf, zoals (lucht)vervuiling).
+- Gecertificeerd door Cruelty Free: Garnier is gecertificeerd door Cruelty Free, Garnier zet zich voortdurend in om de ecologische en negatieve sociale impact van haar producten te verminderen tijdens hun gehele levenscyclus, dus inclusief gedurende de productie- en gebruiksfase.
+- Zeer waterresistent en niet vettig voor optimaal draagcomfort. Vegan formule**.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FNXBP9BS{{</world>}}

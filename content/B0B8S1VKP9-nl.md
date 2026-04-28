@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Opmerking: tijdens de installatie moet de stroom worden uitgeschakeld. Pas na de installatie van de glasplaat kun je de stroom inschakelen, anders werkt hij niet goed. 5 jaar gratis garantie.
-- App-bediening: gebruik de Smart Life-app om het licht te bedienen, waar je ook bent. Stel tijdschemas of timers in voor in- en uitschakelen. Maak scènes om een groep lichten te bedienen. Deel de controle met gezinnen.
-- EENVOUDIGE INSTALLATIE: Schroefvrije opsteekbare wandplaat in standaardformaat. De handleiding leidt je door het bedradingsproces en stelt de app in. Geen hub nodig, alleen voor 2,4 G Wi-Fi/WLAN (niet 5G). Neutrale geleider is vereist. Stroomvoorziening: 600 W/compartiment, AC 90-250 V.
 - Stemcontrole: multi-control lichtschakelaar werkt met Amazon Alexa, Google Home mini, IFTTT en andere apparaten van derden om de bediening van de lichten handsfree te maken.
+- Opmerking: tijdens de installatie moet de stroom worden uitgeschakeld. Pas na de installatie van de glasplaat kun je de stroom inschakelen, anders werkt hij niet goed. 5 jaar gratis garantie.
 - Touch Control: 40 ms snelle aanrakingsreactie. De led-indicator geeft de aan/uit-status aan. Laag stroomverbruik en lange levensduur. Gebruik een 4 mm dikke wandplaat van gehard waterdicht glas, die veiliger is dan een drukknop en elektrische schokken voorkomt, zelfs als hij door natte handen wordt aangeraakt.
+- EENVOUDIGE INSTALLATIE: Schroefvrije opsteekbare wandplaat in standaardformaat. De handleiding leidt je door het bedradingsproces en stelt de app in. Geen hub nodig, alleen voor 2,4 G Wi-Fi/WLAN (niet 5G). Neutrale geleider is vereist. Stroomvoorziening: 600 W/compartiment, AC 90-250 V.
+- App-bediening: gebruik de Smart Life-app om het licht te bedienen, waar je ook bent. Stel tijdschemas of timers in voor in- en uitschakelen. Maak scènes om een groep lichten te bedienen. Deel de controle met gezinnen.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0B8S1VKP9{{</world>}}

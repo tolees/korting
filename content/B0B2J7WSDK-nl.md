@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - 【Snel en veilig browsen】IPv6 ondersteund; OpenVPN & WireGuard voorgeïnstalleerd, compatibel met 30+ VPN-serviceproviders, OpenVPN-snelheid tot 120 Mbps; WireGuard-snelheden tot 550 Mbps. Cloudflare-codering ondersteund om de privacy te beschermen.
-- 【Runs on OpenWrt 21.02】Plaats AX op het nieuwste OpenWrt 21.02 besturingssysteem (kernel versie 4.4.60), met vermogensaansluitingscapaciteit en aanzienlijk verminderde signaalinterferentie. U kunt de router en installatie applicaties aanpassen op basis van uw voorkeuren.
 - 【Repeater voor publiek wifi】 Converteert een openbaar netwerk (bedrad/draad) naar een privénetwerk (draad/draad) voor veilige surfen. (Opmerking: Mest of the Free Public Wi-Fi hotspot set een tijdlimiet voor gebruikers die uw apparaten ontkoppelen zodra de tijd overgaat. Om te voldoen aan deze situatie, verbind je router met de wifi.)
-- 【Eenvoudig delen van bestanden】Onze NAS-functie ondersteunt het SAMBA- en WebDav-protocol. Door een externe USB-harde schijf op de router aan te sluiten, kunt u een privénetwerk creëren om uw documenten op te slaan en te delen.
 - 【AXT1800 WiFi 6 draadloze router】Slate AX biedt krachtige Wi-Fi 6-netwerkverbinding met een dubbele band gecombineerde wifi-snelheid van 1800 Mbps (600 Mbps voor 2,4 GHz en 1200 Mbps voor 5 GHz). Verbeter wifi-prestaties met MU-MIMO, OFDMA, BSS kleur en kan gelijktijdig tot 120 apparaten worden aangesloten.
 - 【VPN of AdGuard Home eenvoudig inschakelen】 Schakel onmiddellijk uw geselecteerde functie (AdGuard Home of OpenVPN Client of WireGuard Client) in/uit via de fysieke tuimelschakelaar. ***De standaardinstelling van de knop is GEEN Functie. U moet deze instellen in het beheerderspaneel voordat u deze functie gebruikt.***
+- 【Runs on OpenWrt 21.02】Plaats AX op het nieuwste OpenWrt 21.02 besturingssysteem (kernel versie 4.4.60), met vermogensaansluitingscapaciteit en aanzienlijk verminderde signaalinterferentie. U kunt de router en installatie applicaties aanpassen op basis van uw voorkeuren.
+- 【Eenvoudig delen van bestanden】Onze NAS-functie ondersteunt het SAMBA- en WebDav-protocol. Door een externe USB-harde schijf op de router aan te sluiten, kunt u een privénetwerk creëren om uw documenten op te slaan en te delen.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0B2J7WSDK{{</world>}}

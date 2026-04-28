@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- [8 prachtige verlichtingsmodi]: onze gordijnlichtjes hebben 8 werkmodi: combinatie, in golven, sequentieel, slo-glo, achtervolgen/flitsend, langzaam vervagen, fonkelen/knipperen, stabiel aan. Kan in elke situatie een romantische, zachte en gezellige sfeer creëren.
-- [Veilig gebruik en IP65 waterdicht]: onze gordijnsnaarlampen worden aangedreven door 5V laagspanning en hebben een USB-stekker met een zekeringsweerstandsdraad, die veilig door kinderen en volwassenen kan worden gebruikt. De raamlamp is IP65 waterdicht, waardoor het bruikbaar is in water of regen, waardoor een geweldig nachtzicht ontstaat.
 - [Instelbare helderheid met afstandsbediening]: 3 m x 3 m, USB-aangedreven snaarlampen met SUPER heldere 300 LEDs, 3M hoofdstreng, 10 druppelsnaren. Met afstandsbediening kunt u uw favoriete verlichtingsmodi kiezen binnen 10 meter en de helderheid aanpassen zoals u nodig hebt, stel ze timer automatisch aan/uit, eenvoudig te installeren en te gebruiken.
 - [Eenvoudig te doe-het-zelf en veel gebruikt]: geen montage nodig, flexibele lichtsnoeren, geen gereedschap nodig, kan gemakkelijk in de gewenste vormen worden ingebouwd; Het kan worden opgehangen aan muren, slaapkamer, tuin, hek, ramen, deuren, plafonds enz. In het donker vervaagt de draad naar onzichtbaar, waardoor alleen de felle lichten overblijven.
+- [8 prachtige verlichtingsmodi]: onze gordijnlichtjes hebben 8 werkmodi: combinatie, in golven, sequentieel, slo-glo, achtervolgen/flitsend, langzaam vervagen, fonkelen/knipperen, stabiel aan. Kan in elke situatie een romantische, zachte en gezellige sfeer creëren.
+- [Veilig gebruik en IP65 waterdicht]: onze gordijnsnaarlampen worden aangedreven door 5V laagspanning en hebben een USB-stekker met een zekeringsweerstandsdraad, die veilig door kinderen en volwassenen kan worden gebruikt. De raamlamp is IP65 waterdicht, waardoor het bruikbaar is in water of regen, waardoor een geweldig nachtzicht ontstaat.
 - [Handig USB-voeding en 12 maanden garantie]: gemonteerd met een USB-stekker voor gemakkelijke toegang tot elke USB-poort inclusief USB-adapter, powerbank of computer; Milieuvriendelijk en draagbaar, geen batterij nodig. We streven ernaar om u het beste product en after-sales service te bieden, alle e-mails worden binnen 12 uur beantwoord en we kunnen u voorzien van een garantie van 12 maanden.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

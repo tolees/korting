@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Krachtige ingrediënten: Bevat een geavanceerd mengsel van 10% AHA/PHA (5% glycolzuur, 2,55% mandeelzuur, en 2,45% gluconolacton) en 0,5% BHA (salicylzuur) dat diep in de huid werkt om puistjes te verminderen, littekens te vervagen en de huidtextuur te egaliseren
+- Milde formule: Dankzij de milde, exfoliërende eigenschappen van PHA (gluconolacton) in combinatie met AHA’s en salicylzuur wordt de huidbarrière beschermd terwijl onzuiverheden effectief worden aangepakt
 - Vermindert puistjes en littekens zichtbaar in één week*: Wetenschappelijk bewezen om puistjes snel te verminderen en littekens zichtbaar te vervagen door het versnellen van de celvernieuwing en het exfoliëren van dode huidcellen. *Wetenschappelijke beoordeling met 34 proefpersonen, 2x dagelijks gebruik
 - Klinisch bewezen resultaten: 90% van de gebruikers rapporteerde minder puistjes binnen vier weken bij tweemaal dagelijks gebruik*, en de huid voelde significant gladder en egaler aan na consistent gebruik. *Wetenschappelijke beoordeling met 34 proefpersonen, 2x dagelijks gebruik
+- Krachtige ingrediënten: Bevat een geavanceerd mengsel van 10% AHA/PHA (5% glycolzuur, 2,55% mandeelzuur, en 2,45% gluconolacton) en 0,5% BHA (salicylzuur) dat diep in de huid werkt om puistjes te verminderen, littekens te vervagen en de huidtextuur te egaliseren
 - Geschikt voor gevoelige huidtypes: Het peeling serum heeft een pH-niveau van 4 en is parfumvrij, olievrij en niet-comedogeen, wat betekent dat het de poriën niet verstopt. Perfect voor dagelijks gebruik, zonder de huid uit te drogen of te irriteren
-- Milde formule: Dankzij de milde, exfoliërende eigenschappen van PHA (gluconolacton) in combinatie met AHA’s en salicylzuur wordt de huidbarrière beschermd terwijl onzuiverheden effectief worden aangepakt
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FFTB4L2J{{</world>}}

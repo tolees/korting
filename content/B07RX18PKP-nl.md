@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Voor kinderen vanaf 5 jaar
-- Een geweldig cadeau - Puzzels zijn leuk om alleen of in een groep te doen, ook zijn ze een geweldig cadeau voor alle leeftijden op verjaardagen en feestdagen zoals kerst of Sinterklaas
-- Puzzels voor kinderen- Groot plezier voor kleine puzzelaars; tijdens het puzzelen ontdekken de kleinsten hun grootse vaardigheden, want puzzelen stimuleert logisch denken en vereist geduld; het combinatievermogen en behendigheid groeien bij elke puzzel
 - Antireflectie-oppervlak - Ravensburger-puzzels gebruiken een exclusief ontwikkeld, extra dik karton in combinatie met ons fijne, linnen gestructureerde papier om een ​​niet-reflecterend puzzeloppervlak te creëren en je de best mogelijke puzzelervaring te geven
+- Puzzels voor kinderen- Groot plezier voor kleine puzzelaars; tijdens het puzzelen ontdekken de kleinsten hun grootse vaardigheden, want puzzelen stimuleert logisch denken en vereist geduld; het combinatievermogen en behendigheid groeien bij elke puzzel
+- Een geweldig cadeau - Puzzels zijn leuk om alleen of in een groep te doen, ook zijn ze een geweldig cadeau voor alle leeftijden op verjaardagen en feestdagen zoals kerst of Sinterklaas
+- Voor kinderen vanaf 5 jaar
 - Elk van de puzzeltjes heeft een afmeting van ca. 18 x 18 cm
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,16 +28,16 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- En zijn je spullen verder weg, dan kun je ze terugvinden met de hulp van honderden miljoenen Apple devices in het ‘Zoek mijn’-netwerk
-- Als je de Verloren-modus inschakelt voor je AirTag, krijg je automatisch een melding zodra die in het ‘Zoek mijn’-netwerk wordt gedetecteerd
-- Alle communicatie met het ‘Zoek mijn’-netwerk is anoniem en versleuteld voor privacy
-- Is je AirTag in de buurt, dan geeft ‘Nauwkeurig zoeken’ met Ultra Wideband-technologie heel precies aan waar (op bepaalde iPhone-modellen)
 - Vereist iPhone SE, iPhone 6s of nieuwer, of iPod touch (7e generatie) met iOS 14.5 of hoger, of iPad Pro, iPad (5e generatie of nieuwer), iPad Air 2 of nieuwer, of iPad mini 4 of nieuwer met iPadOS 14.5 of hoger
-- Locatiegegevens en geschiedenis worden nooit op AirTag bewaard
+- Is je AirTag in de buurt, dan geeft ‘Nauwkeurig zoeken’ met Ultra Wideband-technologie heel precies aan waar (op bepaalde iPhone-modellen)
 - Eén tikje volstaat om je AirTag aan je iPhone of iPad te koppelen
-- Speel een geluid af op de ingebouwde speaker om dingen terug te vinden, of vraag Siri om hulp
 - In de ‘Zoek mijn’-app zie je snel waar je spullen zijn, net als de locatie van vrienden en devices
 - Vervangbare batterij gaat meer dan een jaar mee en AirTag is water- en stofbestendig en voldoet aan bestendigheidsnorm IP67
+- Locatiegegevens en geschiedenis worden nooit op AirTag bewaard
+- Als je de Verloren-modus inschakelt voor je AirTag, krijg je automatisch een melding zodra die in het ‘Zoek mijn’-netwerk wordt gedetecteerd
+- En zijn je spullen verder weg, dan kun je ze terugvinden met de hulp van honderden miljoenen Apple devices in het ‘Zoek mijn’-netwerk
+- Speel een geluid af op de ingebouwde speaker om dingen terug te vinden, of vraag Siri om hulp
+- Alle communicatie met het ‘Zoek mijn’-netwerk is anoniem en versleuteld voor privacy
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0936LWNHQ{{</world>}}

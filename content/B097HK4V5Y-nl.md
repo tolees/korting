@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Comfortabele inlegzool
 - Merk: Nike
 - Reflecterende perforaties en branding op hiel en tenen
+- Comfortabele inlegzool
 - TPU swoosh
 
 [🛒 Buy it!!]({{< param buyurl >}})

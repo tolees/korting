@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Doubleshot pbt-keycaps met zijgedrukte secundaire functies - voor een hoogwaardige, gestructureerde kwaliteit: zullen ze nooit degraderen tot een glanzende afwerking of zullen hun labels slijten bij intensief gebruik; bijgevoegde secundaire functies inbegrepen voor eenvoudiger referentie
 - Afneembare type-c-kabel - voor eenvoudigere installatie en opslag: uitpakken, aansluiten en spelen met een minimum aan gedoe voor al uw lan-feesten en toernooien; een kabelvergrendeling zorgt ervoor dat deze tijdens het gamen veilig verbonden blijft
 - Ongebouwde geheugen en verlichtingsvoorkeuren - om uw instellingen overal mee naartoe te nemen: sla tot 5 toetsenbordprofielen op en activeer deze zonder dat u software nodig heeft, terwijl u het verder personaliseert met een reeks razer chroma rgb-lichteffecten die al in het toetsenbord zijn geladen
 - Razer optische schakelaars - voor bediening met de snelheid van het licht: biedt snellere, lichtere en soepelere bediening dan mechanische schakelaars en gaat langer mee omdat er minder bewegende delen nodig zijn die met minder wrijving werken; komt in twee varianten: lineair en clicky
 - 60% vormfactor - voor een draagbare, gestroomlijnde game-ervaring: ideaal voor minimalistische of kleinere opstellingen waar bureauruimte schaars is; dankzij de compacte constructie reist hij ook goed en is hij gemakkelijker te positioneren tijdens het gamen, zodat je comfortabeler kunt spelen
-- Doubleshot pbt-keycaps met zijgedrukte secundaire functies - voor een hoogwaardige, gestructureerde kwaliteit: zullen ze nooit degraderen tot een glanzende afwerking of zullen hun labels slijten bij intensief gebruik; bijgevoegde secundaire functies inbegrepen voor eenvoudiger referentie
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B089SP45YC{{</world>}}

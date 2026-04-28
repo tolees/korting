@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Bewezen melanine activering
-- Waterbestendige formule
-- Beschermt onmiddellijk tegen UVA/UVB-stralen
 - Onmiddellijk bescherming tegen verbranding en vroegtijdige huidveroudering
 - Formule is licht, niet-vettig en bevat geen zelfbruiner
+- Bewezen melanine activering
+- Beschermt onmiddellijk tegen UVA/UVB-stralen
+- Waterbestendige formule
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B089HBLNV9{{</world>}}

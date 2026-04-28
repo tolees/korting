@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Jan van haasteren legpuzzel van 1000 puzzelstukjes.
 - De gelegde puzzel lijkt een poster
 - Elk puzzelstukje heeft een unieke pasvorm en vorm
-- Jan van haasteren legpuzzel van 1000 puzzelstukjes.
 - Gemaakt van milieu vriendelijk, gerecycleerd karton
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Anti-pigmentvlekken serum voor een stralende en meer egale huid
 - [3,5%] Bevat Vitamine C, Niacinamide en Salicylzuur
+- Anti-pigmentvlekken serum voor een stralende en meer egale huid
 - Ontdek de hele vitamine C lijn van Garnier voor jouw glow routine
 - -43% pigmentvlekken na 8 weken
 - Gemakkelijk aan te brengen met de pipet

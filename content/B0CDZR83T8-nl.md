@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Aanpassen met de app: Pas de luisterervaring helemaal aan jouw wensen aan met de soundcore-app. Maak je eigen EQ-instellingen of kies een van de ingebouwde opties, geniet van ontspannende witte ruis en meer.
-- Naadloze en stabiele verbinding: Ervaar het beste van twee werelden met Bluetooth 5.3. Of je nu muziek luistert of naar een film kijkt, je kunt naadloos tussen apparaten schakelen om de telefoon op te nemen of een korte video te kijken.
-- Langdurige speeltijd: Laat de muziek nooit stoppen met de indrukwekkende accuduur van 70 uur. Laad de soundcore H30i razendsnel op, zodat je na vijf minuten opladen alweer vier uur kunt luisteren.
-- Lichtgewicht en comfortabel: De soundcore H30i draadloze on-ear hoofdtelefoon weegt maar 183 gram en is daarmee is ideaal voor langere luistersessies. Dankzij de zachte afneembare oorschelpen en een ergonomische vorm gaat hij nooit hinderlijk voelen.
 - Pure bastonen die nooit stoppen: De soundcore H30i draadloze on-ear hoofdtelefoon heeft extra grote 40mm-drivers om altijd een krachtig geluid en verbeterde bastonen te leveren, zodat je muziek tot leven komt.
+- Aanpassen met de app: Pas de luisterervaring helemaal aan jouw wensen aan met de soundcore-app. Maak je eigen EQ-instellingen of kies een van de ingebouwde opties, geniet van ontspannende witte ruis en meer.
+- Lichtgewicht en comfortabel: De soundcore H30i draadloze on-ear hoofdtelefoon weegt maar 183 gram en is daarmee is ideaal voor langere luistersessies. Dankzij de zachte afneembare oorschelpen en een ergonomische vorm gaat hij nooit hinderlijk voelen.
+- Langdurige speeltijd: Laat de muziek nooit stoppen met de indrukwekkende accuduur van 70 uur. Laad de soundcore H30i razendsnel op, zodat je na vijf minuten opladen alweer vier uur kunt luisteren.
+- Naadloze en stabiele verbinding: Ervaar het beste van twee werelden met Bluetooth 5.3. Of je nu muziek luistert of naar een film kijkt, je kunt naadloos tussen apparaten schakelen om de telefoon op te nemen of een korte video te kijken.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CDZR83T8{{</world>}}

@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Veel ruimte: 128 GB opslagcapaciteit voor maximaal 7,5 uur opnametijd van 4K UHD-videos of 67.518 fotos
-- Hoge beveiliging voor uw gegevens dankzij 6x bescherming: waterdicht, temperatuurbestendig, röntgenbestendig, magneetbestendig, valbestendig¹ en slijtvrij¹
 - Voor snelheid geoptimaliseerde microSD-geheugenkaart – perfect voor gebruik in smartphones en tablets
-- Inhoud: 1 x Samsung EVO Select 2024 micro-SD-kaart MB-ME128SA/EU, 128 GB, incl. SD-adapter voor een aantal verschillende apparaten
 - Hoge snelheid: geschikt voor 4K UHD- en Super Slow Motion-opnames dankzij overdrachtssnelheid tot 160 MB/s¹ ² (UHS-I U1)
+- Inhoud: 1 x Samsung EVO Select 2024 micro-SD-kaart MB-ME128SA/EU, 128 GB, incl. SD-adapter voor een aantal verschillende apparaten
+- Hoge beveiliging voor uw gegevens dankzij 6x bescherming: waterdicht, temperatuurbestendig, röntgenbestendig, magneetbestendig, valbestendig¹ en slijtvrij¹
+- Veel ruimte: 128 GB opslagcapaciteit voor maximaal 7,5 uur opnametijd van 4K UHD-videos of 67.518 fotos
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CVBBPZ28{{</world>}}

@@ -28,13 +28,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- EENVOUDIGE INSTALLATIE: Het Glow Wieglampje is heel eenvoudig te installeren. Hij wordt op zijn plaats gehouden met zelfklevende sluitingen en de snoeren kunnen onder de wieg worden geklemd om ze veilig uit de weg te houden.
-- AANPASBARE INSTELLINGEN: je kunt je instellingen personaliseren en de verlichting zo programmeren dat deze op bepaalde tijden van de dag of nacht aangaat. Je kunt bepaalde schemas, afstanden en timers voorselecteren en zelfs de kleuren en de helderheid van het licht dat van onder de wieg komt, instellen.
-- SLIMME BEWEGINGSDETECTIE: om het risico te verkleinen dat je jouw baby wakker maakt als je even gaat kijken, schakelt een slimme bewegingsdetector zacht licht in als je de wieg nadert en wordt dit licht automatisch weer gedimd als je weggaat.
 - VERSCHILLENDE KLEUREN: je kunt een eindeloos aantal kleurvariëteiten kiezen waarmee je altijd de juiste sfeer kunt creëren.
-- CONNECTED HOME: Een van de meerdere slimme kinderkamerproducten die worden bediend met de Connected Home-app van Maxi-Cosi. Een internetverbinding van 2,4 GHz via Wi-Fi is vereist om dit product in de Connected Home-app van Maxi-Cosi in te stellen.
-- ZACHT DIMBAAR LICHT: het Glow Wieglampjeg wordt onder de wieg geplaatst en werpt een zacht en mild licht, dat speciaal ontworpen is om je baby tijdens de slaap niet te storen.
 - ALEXA EN GOOGLE: het Glow Wieglampje kan met de spraak worden bediend via Amazon Alexa en Google Home.
+- AANPASBARE INSTELLINGEN: je kunt je instellingen personaliseren en de verlichting zo programmeren dat deze op bepaalde tijden van de dag of nacht aangaat. Je kunt bepaalde schemas, afstanden en timers voorselecteren en zelfs de kleuren en de helderheid van het licht dat van onder de wieg komt, instellen.
+- EENVOUDIGE INSTALLATIE: Het Glow Wieglampje is heel eenvoudig te installeren. Hij wordt op zijn plaats gehouden met zelfklevende sluitingen en de snoeren kunnen onder de wieg worden geklemd om ze veilig uit de weg te houden.
+- SLIMME BEWEGINGSDETECTIE: om het risico te verkleinen dat je jouw baby wakker maakt als je even gaat kijken, schakelt een slimme bewegingsdetector zacht licht in als je de wieg nadert en wordt dit licht automatisch weer gedimd als je weggaat.
+- ZACHT DIMBAAR LICHT: het Glow Wieglampjeg wordt onder de wieg geplaatst en werpt een zacht en mild licht, dat speciaal ontworpen is om je baby tijdens de slaap niet te storen.
+- CONNECTED HOME: Een van de meerdere slimme kinderkamerproducten die worden bediend met de Connected Home-app van Maxi-Cosi. Een internetverbinding van 2,4 GHz via Wi-Fi is vereist om dit product in de Connected Home-app van Maxi-Cosi in te stellen.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09VY8BKJ4{{</world>}}

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- SHOWS BABY YODA - schattige cartoon afbeelding van Grogu, ook bekend als The Child of Baby Yoda, allemaal verpakt in zijn gezellige gewaden met fonkelende ronde ogen en lange puntige oren
+- Geweldig cadeau voor de Mandaloriaanse fans - iedereen die houdt van de uitgebreide verhalen van het Star Wars-universum, of de Force kan voelen, zal genieten van dit notitieboek dat de ruimtewereld oproept waarin de Mandalorian en Baby Yoda bewonen
 - IM ALL OARS - Grogus oren steken uit om te bewijzen dat hij echt alle oren is, oplettend en klaar om belangrijke notities op te schrijven
 - Echte Star Wars-merchandise - geïnspireerd door de Star Wars-filmsaga en televisieserie met in de hoofdrol The Mandalorian en The Child en goedgekeurd door Disney voor een echt stukje van de melkweg ver, ver weg
+- SHOWS BABY YODA - schattige cartoon afbeelding van Grogu, ook bekend als The Child of Baby Yoda, allemaal verpakt in zijn gezellige gewaden met fonkelende ronde ogen en lange puntige oren
 - HOGE KWALITEIT A5 JOURNAL NOTEBOOK - met een handige penhouder is dit het perfecte boek voor het bijhouden van een dagboek en het noteren van notities op al uw premies
-- Geweldig cadeau voor de Mandaloriaanse fans - iedereen die houdt van de uitgebreide verhalen van het Star Wars-universum, of de Force kan voelen, zal genieten van dit notitieboek dat de ruimtewereld oproept waarin de Mandalorian en Baby Yoda bewonen
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08FWTYTBV{{</world>}}

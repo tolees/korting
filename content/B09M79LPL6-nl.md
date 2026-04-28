@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Het leukste cadeau voor je vriendin (of jezelf!) Op zoek naar een origineel en grappig cadeau voor haar? Deze sokken in flessenverpakking zijn perfect als verjaardagscadeau, kerstverrassing of zomaar.
-- Comfort ontmoet karakter – maat 35–40. Zachte dames sokken van katoen, met een beetje elastaan en polyamide voor een ideale pasvorm. Comfortabel genoeg om de hele avond (of wijnavond) te dragen!
 - Unieke flesverpakking – klaar om te schenken. Niet alleen de sokken zijn leuk, ook de verpakking maakt indruk. Een fles vol gezelligheid én warme voeten – wie wil dat nu niet?
+- Het leukste cadeau voor je vriendin (of jezelf!) Op zoek naar een origineel en grappig cadeau voor haar? Deze sokken in flessenverpakking zijn perfect als verjaardagscadeau, kerstverrassing of zomaar.
 - Mix & match jouw sokkendrankje. Verzamel ze allemaal en stel je eigen sokkenbar samen. Vrolijke sokken dames die net zo speels zijn als jij – met een knipoog, een kleur én een verhaal.
+- Comfort ontmoet karakter – maat 35–40. Zachte dames sokken van katoen, met een beetje elastaan en polyamide voor een ideale pasvorm. Comfortabel genoeg om de hele avond (of wijnavond) te dragen!
 - Sokken met een vleugje wijn – letterlijk! Kies uit designs als rode wijn, witte wijn, champagne of aperitief. Deze kleurige sokken voor dames brengen meteen sfeer in je sokkenla én op je gezicht!
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Dikte: 27 cm
-- Multizone comfort: zorgt voor een perfecte gewichtsverdeling en elimineert drukplekken.
 - Hygiënisch en ademend: schimmelwerend, mijtdicht en antibacterieel met vochtcontrole.
+- Dikte: 27 cm
 - Aanpasbare sterkte: de duo-systeemtechnologie biedt gemiddelde sterkte aan de A-zijde en hoge sterkte aan de B-kant.
+- Multizone comfort: zorgt voor een perfecte gewichtsverdeling en elimineert drukplekken.
 - Pressure Care System: 4 cm, meerlaags traagschuim, viscosoft en biotherm-vezels voor voorgevormde ondersteuning.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

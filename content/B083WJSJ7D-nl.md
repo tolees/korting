@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- ✅ Functies: CPU-houder met veiligheidsgordel. Verstelbaar in breedte 17-70 mm. Belastbaarheid tot 5 kg. Van staal
 - ✅ Montage: computerhouder achter monitor op monitortafelhouder, wandhouder, monitorarm, monitorstandaard, monitorstandaard, beeldschermhouder. Ondertafelhouder onder bureau
 - ✅ Geschikt voor: professionele kantoorcomputer, kantoor, gaming, pc, werkstation en thuiskantoor, onderbouwmontage, voor monitorhouder of beeldschermstandaard
 - ✅ Compatibel met: geschikt voor de meeste bekende merken en fabrikanten❗ Let op de vormfactor/apparaatbreedte
+- ✅ Functies: CPU-houder met veiligheidsgordel. Verstelbaar in breedte 17-70 mm. Belastbaarheid tot 5 kg. Van staal
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B083WJSJ7D{{</world>}}

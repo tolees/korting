@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 【Antislip & Dubbele Weergave】Met een antislip siliconenlaag en antistatische eigenschappen beschermt deze draadloze oplader voor iPhone uw toestel tegen krassen en verschuiven tijdens het laden. Dankzij dubbele spoeltechnologie ondersteunt hij zowel verticaal als horizontaal draadloos opladen voor iPhone, ideaal voor multitasking!
 - 【Slaapstand & Hoesvriendelijk】Deze draadloze oplader voor iPhone en AirPods heeft een subtiele groene lichtindicatie. Tik eenvoudig om het licht uit te schakelen. Oplaadbaar mét hoes (<5 mm dik) – praktisch en moeiteloos in gebruik.
-- 【3-in-1 Apple Oplaadstation】Deze inductieve docking station voor apple ondersteunt gelijktijdig snel opladen van iPhone, Apple Watch én AirPods. Compatibel met iPhone 17/16/15/14/13/12/11/XS/XS Max/XR/X/8/8 Plus, Apple Watch Series Ultra/10/9/8/7/6/5/4/3/2/SE en AirPods Pro 2/Pro/4/3/2. Een oplaadstation apple dat perfect aansluit bij al uw behoeften.
 - 【Multibescherming & Betrouwbare Kwaliteit】Deze Oplader voor iPhone en Apple Watch is uitgerust met intelligente chips, overstroom-, overspannings- en oververhittingsbeveiliging, plus detectie van vreemde objecten. Zo geniet u van een veilige laadervaring waarbij zowel uw apparaat als uzelf optimaal beschermd zijn.
 - 【18W Snelladeradapter】Het draadloze oplader voor Apple-systeem bevat een 18W QC-adapter voor stabiel en snel opladen. Prestaties: tot 7,5W voor iPhone, 5W voor AirPods 2/Pro (draadloos) en 3W voor Apple Watch.
+- 【3-in-1 Apple Oplaadstation】Deze inductieve docking station voor apple ondersteunt gelijktijdig snel opladen van iPhone, Apple Watch én AirPods. Compatibel met iPhone 17/16/15/14/13/12/11/XS/XS Max/XR/X/8/8 Plus, Apple Watch Series Ultra/10/9/8/7/6/5/4/3/2/SE en AirPods Pro 2/Pro/4/3/2. Een oplaadstation apple dat perfect aansluit bij al uw behoeften.
+- 【Antislip & Dubbele Weergave】Met een antislip siliconenlaag en antistatische eigenschappen beschermt deze draadloze oplader voor iPhone uw toestel tegen krassen en verschuiven tijdens het laden. Dankzij dubbele spoeltechnologie ondersteunt hij zowel verticaal als horizontaal draadloos opladen voor iPhone, ideaal voor multitasking!
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BZ85QLF5{{</world>}}

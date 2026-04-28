@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 【Voeding en video-integratie】Met de USB-C-voedingsingang en HDMI-video-uitgang zorgt de adapterplaat ervoor dat uw Raspberry Pi kan worden gevoed en aangesloten op een beeldscherm zonder rommel.
+- 【On-board schakelaar】Een on-board schakelaar zorgt voor eenvoudig schakelen tussen Raspberry Pi 5- en Raspberry Pi 4B-instellingen, wat flexibiliteit biedt voor verschillende configuraties.
 - 【HDMI-conversie】Het bord converteert de Micro HDMI-poort naar een standaard HDMI-interface, wat zorgt voor compatibiliteit met een breed scala aan standaard HDMI-kabels.
 - 【Modelcompatibiliteit】Het is compatibel met zowel Raspberry Pi 5 als Raspberry Pi 4B, waardoor het een veelzijdig accessoire is voor verschillende modellen. met SBC Shelf Kit, ASIN: B0D9NGC4DH
-- 【Achterwaartse uitbreiding】De USB-C- en Micro HDMI-poorten zijn naar achteren verlengd, wat zorgt voor een netter en efficiënter gebruik van de ruimte in de DeskPi RackMate T1 mini-behuizing.
-- 【On-board schakelaar】Een on-board schakelaar zorgt voor eenvoudig schakelen tussen Raspberry Pi 5- en Raspberry Pi 4B-instellingen, wat flexibiliteit biedt voor verschillende configuraties.
 - 【Gebruiksvriendelijk】Eenvoudige plug-and-play-installatie zonder dat er extra drivers of software nodig zijn.
+- 【Achterwaartse uitbreiding】De USB-C- en Micro HDMI-poorten zijn naar achteren verlengd, wat zorgt voor een netter en efficiënter gebruik van de ruimte in de DeskPi RackMate T1 mini-behuizing.
+- 【Voeding en video-integratie】Met de USB-C-voedingsingang en HDMI-video-uitgang zorgt de adapterplaat ervoor dat uw Raspberry Pi kan worden gevoed en aangesloten op een beeldscherm zonder rommel.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0D9LDQ7DY{{</world>}}

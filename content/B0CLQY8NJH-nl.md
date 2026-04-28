@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Binding aan de kraag voor een afgewerkte look
 - Lengte middenachter 28,0 in/71,1 cm
+- Binding aan de kraag voor een afgewerkte look
 - Halve drukknoopsluiting voor veelzijdigheid en eenvoudig aan- en uittrekken
 
 [🛒 Buy it now!!]({{< param buyurl >}})

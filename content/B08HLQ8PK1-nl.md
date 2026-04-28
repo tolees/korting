@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - EENVOUDIGE PLUG-AND-PLAY: WiZ is rechtstreeks uit de doos te gebruiken en werkt met je bestaande wifirouter en is te bedienen via de WiZ-app, slimme WiZ accessoires, je eigen lichtschakelaar of je stem. Je hebt dus geen extra apparatuur of installatie nodig.
-- TIMERS: Stel je lampen of andere apparaten in zodat ze in‑ of uitschakelen afhankelijk van je dagelijkse ritme en bespaar energie
 - VOOR ALLERLEI APPARATEN: Naast verlichting kun je de Slimme stekker ook gebruiken om andere soorten apparaten te bedienen via de WiZ app: van je ventilator tot je koffiezetapparaat; deze slimme stekker werkt met elk apparaat dat op stroom is aangesloten
-- AUTOMATISCHE VERLICHTING: Gebruik de slimme stekker om standaard, niet-slimme lampen op vaste momenten aan te laten gaan. Laat s ochtends bijvoorbeeld het licht aangaan zodat makkelijker wakker wordt, en laat s avonds het licht aangaan zodat het lijkt alsof er iemand thuis is, en je nooit in een donker huis thuiskomt.
 - BEDIEN OP AFSTAND: Per ongeluk iets een apparaat aan laten staan toen je van huis ging? Geen probleem; in de WiZ app kun je zien of de apparaten die op de Slimme stekker zijn aangesloten nog aan staan, en je kunt ze dan eenvoudig uitschakelen.
+- TIMERS: Stel je lampen of andere apparaten in zodat ze in‑ of uitschakelen afhankelijk van je dagelijkse ritme en bespaar energie
+- AUTOMATISCHE VERLICHTING: Gebruik de slimme stekker om standaard, niet-slimme lampen op vaste momenten aan te laten gaan. Laat s ochtends bijvoorbeeld het licht aangaan zodat makkelijker wakker wordt, en laat s avonds het licht aangaan zodat het lijkt alsof er iemand thuis is, en je nooit in een donker huis thuiskomt.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08HLQ8PK1{{</world>}}

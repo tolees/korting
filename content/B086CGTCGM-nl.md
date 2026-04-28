@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Trekt sneller in en is makkelijker uit te smeren zonder een vettig gevoel
-- Hydraterend - Houdt de huid gehydrateerd gedurende 48 uur* en zorgt voor een gezond en zacht huidgevoel
 - Betrouwbare UVA/UVB bescherming - Bescherming tegen UV-schade op korte en lange termijn
+- Hydraterend - Houdt de huid gehydrateerd gedurende 48 uur* en zorgt voor een gezond en zacht huidgevoel
+- Trekt sneller in en is makkelijker uit te smeren zonder een vettig gevoel
 - Nieuwe lichte formule - Trekt sneller in en is makkelijker uit te smeren zonder een vettig gevoel. Laat geen wit residu achter
 - Onmiddellijke bescherming - De nieuwe CitraCell-ProtectTM formule met vitamine C & Hyaluron voor een tweede beschermingslaag van de huid
 

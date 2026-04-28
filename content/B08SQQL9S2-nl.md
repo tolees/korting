@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Ademende meshvoering
-- Duurzame stof
 - Waterafstotende coating
+- Duurzame stof
+- Ademende meshvoering
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08SQQL9S2{{</world>}}

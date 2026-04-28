@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Puzzel
-- Binnenshuis
 - Kinderen
+- Binnenshuis
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0002HWH0W{{</world>}}

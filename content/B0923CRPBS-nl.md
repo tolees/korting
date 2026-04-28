@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Het is gemakkelijk schoon te maken
-- Het kan aan verschillende behoeften voldoen
-- Product gemaakt met de nieuwste technologie
-- Slimme keuze voor dagelijkse behoeften
 - Gillette sensor laadstation excel 5 stuks
+- Het is gemakkelijk schoon te maken
+- Slimme keuze voor dagelijkse behoeften
+- Product gemaakt met de nieuwste technologie
+- Het kan aan verschillende behoeften voldoen
 - Gemaakt met een compact ontwerp, gemakkelijk mee te nemen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

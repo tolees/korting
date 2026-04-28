@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Honderden meubels, bekledingen en materialen om radicaal verschillende huizen te creëren, afhankelijk van uw wensen
-- Bezoeken aan het huis in 1st person view om zijn voltooide creaties te verkennen en te bewonderen
-- Lange speeltijd dankzij een carrièremodus met 60 missies en nieuwe vaardigheden om te ontgrendelen (groene energie, isolatiematerialen, kostenoptimalisatie...)
-- Een complete simulatie: budgetbeheer, specificaties, gedetailleerde modelleringstools en locatiemonitoring
-- Een ontspannende gratis modus waarin u zonder enige beperking het huis van uw dromen kunt creëren
 - 60 bouwplaatsen in sublieme berg-, stads- en plattelandslandschappen
+- Een complete simulatie: budgetbeheer, specificaties, gedetailleerde modelleringstools en locatiemonitoring
+- Lange speeltijd dankzij een carrièremodus met 60 missies en nieuwe vaardigheden om te ontgrendelen (groene energie, isolatiematerialen, kostenoptimalisatie...)
+- Bezoeken aan het huis in 1st person view om zijn voltooide creaties te verkennen en te bewonderen
+- Honderden meubels, bekledingen en materialen om radicaal verschillende huizen te creëren, afhankelijk van uw wensen
+- Een ontspannende gratis modus waarin u zonder enige beperking het huis van uw dromen kunt creëren
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DTV5PK4J{{</world>}}

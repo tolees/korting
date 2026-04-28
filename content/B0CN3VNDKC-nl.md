@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Inhoud: 1x Columbia waterdichte herenjas, Inner Limits III, kleur: blauw (Collegiate Navy), maat: M, artikel: 2071215
 - Regenjas voor heren, ideaal voor stedelijke en outdoor avonturen
 - Onderarmventilatie voor comfort, twee steekzakken met ritssluiting en een veilige binnenzak om je spullen veilig te houden
 - Zeer waterdicht en ademend dankzij Omni-Tech-technologie met hitteverzegelde naden
 - Verstelbare capuchon met kinbescherming, aanpasbare manchetten en trekkoord aan de zoom voor een optimale pasvorm en maximale regenbescherming
-- Inhoud: 1x Columbia waterdichte herenjas, Inner Limits III, kleur: blauw (Collegiate Navy), maat: M, artikel: 2071215
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CN3VNDKC{{</world>}}

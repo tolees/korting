@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Een perfecte balans van nootmuskaat, viooltjes, kardemom en roos
-- De geur brengt verfrissende tonen van groene thee, papaja en bergamot samen
-- CK One staat voor het universele gevoel van een wereld die diversiteit omarmt
 - Het is een iconische geur die gewaagd is, maar tegelijkertijd een jeugdige frisheid uitstraalt
+- CK One staat voor het universele gevoel van een wereld die diversiteit omarmt
 - Dit parfum is een ode aan individualiteit en eenheid, en geeft je het gevoel dat de mogelijkheden eindeloos zijn
+- De geur brengt verfrissende tonen van groene thee, papaja en bergamot samen
+- Een perfecte balans van nootmuskaat, viooltjes, kardemom en roos
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B000JCDV2S{{</world>}}

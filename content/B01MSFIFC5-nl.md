@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Het stuurwiel is compatibel met Playstation 3, Playstation 4, Xbox One en pc/Mac. Het is perfect voor zowel beroemde racecircuits als offroad-tracks
 - Het pc-stuurwiel heeft pedalen en versnellingspook met snel bereikbare peddels en minimale schakeltijden. Sterke vibratie-effecten (Force Vibration) zorgen voor een realistisch game-gevoel
+- Het stuurwiel is compatibel met Playstation 3, Playstation 4, Xbox One en pc/Mac. Het is perfect voor zowel beroemde racecircuits als offroad-tracks
 - 2 status-leds geven de huidige invoerstatus van het stuurwiel aan. Aansluiting op de console gebeurt via USB-A (kabellengte 2,2 meter)
 
 [🛒 Check the deal!!]({{< param buyurl >}})

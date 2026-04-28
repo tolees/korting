@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - PERFECT - Casual eenvoudig basis T-shirt met korte mouwen, voor elke dag.
-- PASVORM - Regular Fit model met ronde hals en afgeronde zoom. Het model draagt maat 3XL en is 189 cm lang.
 - MATERIAAL - 100% biologisch katoen (geteeld zonder schadelijke chemicaliën, beschermt natuurlijke hulpbronnen en creëert een gezondere werkomgeving voor boeren).
+- PASVORM - Regular Fit model met ronde hals en afgeronde zoom. Het model draagt maat 3XL en is 189 cm lang.
 - EVERYDAY LOOK - Een veelzijdige alleskunner JJENOA - 12184933, voor jouw tijdloze Plus Size looks!
 
 [🛒 Buy it now!!]({{< param buyurl >}})

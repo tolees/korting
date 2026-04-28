@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Navulbaar
-- Punt volledig intrekbaar
-- Stiftdikte: 0,5 mm
 - Met verwisselbare gum en clip
 - Ergonomische driehoekige schacht voor gemakkelijk en moeiteloos schrijven
+- Punt volledig intrekbaar
+- Stiftdikte: 0,5 mm
+- Navulbaar
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B002RDNIAC{{</world>}}

@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Eenvoudige installatie en bediening: met deze lichtketting op zonne-energie kun je je buitenruimte heel eenvoudig decoreren, zonder dat er een andere elektrische kabel nodig is. Je kunt hem in bomen, aan plafonds of op het terras installeren. Er zijn slechts twee schakelaars (Power ON/OFF en Light Mode) om het licht te bedienen. Zet het zonnepaneel in direct zonlicht en zorg ervoor dat het paneel direct naar de zon gericht is.
-- CE-goedkeuring: Hoogwaardige led-lampen, onze lichtsnoeren kunnen tot 15.000 uur meegaan, CE-goedkeuring.
 - Waterdicht en duurzaam: Waterdicht IP65-ontwerp. Ze zijn solide ontworpen om alle weersomstandigheden te weerstaan - bij regen, zon of sneeuw. Met een hoge accucapaciteit die tot 800 mA toeneemt, moet deze zonnelamp overdag slechts 6 tot 8 uur opladen en kan s nachts 8 tot 14 uur werken.
+- Eenvoudige installatie en bediening: met deze lichtketting op zonne-energie kun je je buitenruimte heel eenvoudig decoreren, zonder dat er een andere elektrische kabel nodig is. Je kunt hem in bomen, aan plafonds of op het terras installeren. Er zijn slechts twee schakelaars (Power ON/OFF en Light Mode) om het licht te bedienen. Zet het zonnepaneel in direct zonlicht en zorg ervoor dat het paneel direct naar de zon gericht is.
 - 8 verlichtingsmodi en intelligente bediening: 2 schakelaars (in- en uitschakelen, veranderen van de modus), 8 prachtige verlichtingsmodi, waaronder combinatie, gloeiworm knipperen, vervagen, golven, jagen/knipperen, langzaam vervagen, knipperen/knipperen en continu aan. Met de intelligente detectie wordt de functie in het donker automatisch geactiveerd en overdag automatisch uitgeschakeld.
 - 50 superheldere led-lampjes: Upgrade grote zonnepanelen met hoge conversiesnelheid, lichtkettingen op zonne-energie met een lengte van 23 meter - voldoende lengte voor binnen en buiten en bespaar energie. Decoratie voor tuin, balkon, gazon, terras, poort, binnenplaats, bruiloft, feest enz.
+- CE-goedkeuring: Hoogwaardige led-lampen, onze lichtsnoeren kunnen tot 15.000 uur meegaan, CE-goedkeuring.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B084VM51HJ{{</world>}}

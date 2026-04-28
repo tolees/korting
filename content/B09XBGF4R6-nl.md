@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Te gebruiken met alle DSL-aansluitingen (VDSL/ADSL)
 - Intuïtieve gebruikersinterface voor een eenvoudig te beheren thuisnetwerk
+- Te gebruiken met alle DSL-aansluitingen (VDSL/ADSL)
 - Ondersteuning van mesh via Zyxel MPro Mesh (voldoet aan EasyMesh-normen)
 
 [🛒 Buy it!!]({{< param buyurl >}})

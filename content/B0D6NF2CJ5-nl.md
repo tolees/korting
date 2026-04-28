@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Dit is een origineel en origineel product. Geox
 - Deze stijl is duurzaam geproduceerd
 - Zorgt voor een optimale pasvorm
 - Aangenaam om te dragen
+- Dit is een origineel en origineel product. Geox
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0D6NF2CJ5{{</world>}}

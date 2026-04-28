@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- LIGHTSYNC RGB – Intelligente verlichting reageert op acties in de game, audio en schermkleur logitech Gaming Software vereist, verkrijgbaar via logitechG.com/downloads
-- Upgrade naar 25k DPI: Verhoog de maximale DPI naar 25.600 om s werelds eerst sub-micron prestaties te ervaren; beschikbaar voor alle muizen met HERO 16k sensor via een software update via G Hub
 - De nieuwe generatie HERO-sensor is tot 10x efficiënter en levert precisietracking tot 25.600 dpi zonder vertraging, filtering of versnelling
-- Aanpasbare gewichten – Voeg tot vijf gewichtjes van 3,6 gr toe om het gewicht en de balans op jouw voorkeuren af te stemmen
 - 11 programmeerbare knoppen – 11 programmeerbare knoppen en een supersnel scrolwiel met twee modi geven je volledig aanpasbare controle over je gameplay
+- Upgrade naar 25k DPI: Verhoog de maximale DPI naar 25.600 om s werelds eerst sub-micron prestaties te ervaren; beschikbaar voor alle muizen met HERO 16k sensor via een software update via G Hub
 - Mechanische schakelaars met metalen springveren in de linker- en rechtermuisknop voor strak, duidelijk klikken met snelle feedback
+- Aanpasbare gewichten – Voeg tot vijf gewichtjes van 3,6 gr toe om het gewicht en de balans op jouw voorkeuren af te stemmen
+- LIGHTSYNC RGB – Intelligente verlichting reageert op acties in de game, audio en schermkleur logitech Gaming Software vereist, verkrijgbaar via logitechG.com/downloads
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07GS6ZB7T{{</world>}}

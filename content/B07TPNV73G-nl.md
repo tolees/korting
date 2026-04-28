@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Cyberpunk 2077 is action-adventure game die zich afspeelt in een open wereld genaamd night city, een megalopolis geobsedeerd door kracht, glamour en lichaamsmodificaties
 - steel het implantaat dat het eeuwige leven verleent: neem de meest risicovolle job van je leven aan en ga het prototype-implantaat achterna dat de sleutel is tot onsterfelijkheid
 - kenmerken: ga als outlaw op pad: word een cyberpunk een huurling voorzien van cybernetische uitbreidingen en maak het tot de top van de straten van night city
+- jij neemt de rol aan van v, een huurling op zoek naar het zeldzame (en tevens enige) implantaat dat de sleutel is tot onsterfelijkheid
 - je kan je eigen personages cyberware aanpassen, de skillset en speelstijl kiezen en een uitgebreide stad verkennen waar je keuzes het verhaal en de wereld rondom je beinvloeden
 - leef in de stad van de toekomst: betreed de open wereld van night city, de plaats waar nieuwe standaarden worden gezet op gebied van graphics, complexiteit en diepgang
-- jij neemt de rol aan van v, een huurling op zoek naar het zeldzame (en tevens enige) implantaat dat de sleutel is tot onsterfelijkheid
-- Cyberpunk 2077 is action-adventure game die zich afspeelt in een open wereld genaamd night city, een megalopolis geobsedeerd door kracht, glamour en lichaamsmodificaties
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07TPNV73G{{</world>}}

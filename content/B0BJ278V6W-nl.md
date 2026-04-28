@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Met de meegeleverde 64GB High Speed Class 10 MicroSD-kaart en kaartlezer heeft u voldoende ruimte voor uw projecten. De 4K HDMI-kabel is van hoge kwaliteit en zorgt voor een goede verbinding met uw monitor of tv, en zorgt voor een helder, stabiel beeld.
-- 18W 5V 3.6A USB C voeding zorgt ervoor dat uw Pi stabieler werkt. Het beschikt over meerdere beveiligingsfuncties, zoals overspanning, onderspanning, overtemperatuur, overstroom en kortsluitbeveiliging. Met de AAN/UIT-schakelaar is het handig om uw Raspberry Pi 4 in en uit te schakelen.
 - Voeding met professionele certificering: TUV-, RoHS- en CE-certificering; Ingang: 100-240V AC~50/60Hz; Uitgang: 5V 3,6A; Verlengd snoer: 120cm
-- Deze Raspberry Pi 4B behuizing bevat een superstille 40mm PWM-ventilator en 4 stuks koellichamen voor een goede warmteafvoer van de Raspberry Pi 4B.
+- 18W 5V 3.6A USB C voeding zorgt ervoor dat uw Pi stabieler werkt. Het beschikt over meerdere beveiligingsfuncties, zoals overspanning, onderspanning, overtemperatuur, overstroom en kortsluitbeveiliging. Met de AAN/UIT-schakelaar is het handig om uw Raspberry Pi 4 in en uit te schakelen.
 - Inclusief Pi 4 Model B 4GB met 1,5 GHz 64-bit quad-core CPU (4GB RAM). Voor de 8GB-versie raadpleeg ASIN: B09FJH1C7Z
+- Deze Raspberry Pi 4B behuizing bevat een superstille 40mm PWM-ventilator en 4 stuks koellichamen voor een goede warmteafvoer van de Raspberry Pi 4B.
+- Met de meegeleverde 64GB High Speed Class 10 MicroSD-kaart en kaartlezer heeft u voldoende ruimte voor uw projecten. De 4K HDMI-kabel is van hoge kwaliteit en zorgt voor een goede verbinding met uw monitor of tv, en zorgt voor een helder, stabiel beeld.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BJ278V6W{{</world>}}

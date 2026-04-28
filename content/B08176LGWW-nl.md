@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Hoge kraag voor warmte en bescherming tegen de elementen
-- Verkrijgbaar in diverse kleuren; ideaal voor dagelijks gebruik
-- Heren-fleecetrui met halve rits voor een langdurig comfort tijdens alle seizoenen
-- De Omni-Shade-technologie helpt verbranding door de zon en huidbeschadiging te voorkomen en beschermt je tegen schadelijke UVA- en UVB-stralen
 - Inhoud: 1x Columbia Klamath Range II Half Zip fleece-trui voor heren; lichte microfleece; 100% polyester; kleur: City Grey/Shark; maat: M; art.nr. 1352472
+- Hoge kraag voor warmte en bescherming tegen de elementen
+- De Omni-Shade-technologie helpt verbranding door de zon en huidbeschadiging te voorkomen en beschermt je tegen schadelijke UVA- en UVB-stralen
+- Heren-fleecetrui met halve rits voor een langdurig comfort tijdens alle seizoenen
+- Verkrijgbaar in diverse kleuren; ideaal voor dagelijks gebruik
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08176LGWW{{</world>}}

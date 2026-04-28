@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Veelzijdige connectiviteit: Z-Edge Gamer PC beschikt over HDMI 2.1- en DisplayPort1.4-interfaces en wordt geleverd met een DP-kabel. De blauwe en flikkervrije lichtfuncties beschermen je ogen tegen schade bij lange speelsessies
 - Buitengewone game-ervaring: biedt een soepele game-ervaring met een responstijd van 1 ms en een vernieuwingsfrequentie van 180 Hz. De ingebouwde Adpitive Sync-technologie elimineert vrijwel scheuren, stotteren en ingangslatentie. FPS, RTS-modi bieden een uitstekende game-ervaring
 - Geweldige visuele effecten: Z-Edge gaming monitor 61 cm (24 inch) beschikt over een nieuwe generatie VA-displays met 8-bits kleurdiepte, flikkervrije technologie, blauw lichtfilter, 300 cd/㎡, hoge resolutie bereik van 16,7 miljoen kleuren en 99% SRGB (NTSC 72%) biedt intense kleuren en legt meer beelddetails vast
-- Veelzijdige connectiviteit: Z-Edge Gamer PC beschikt over HDMI 2.1- en DisplayPort1.4-interfaces en wordt geleverd met een DP-kabel. De blauwe en flikkervrije lichtfuncties beschermen je ogen tegen schade bij lange speelsessies
 - 1650R gebogen pc-monitor: Z-Edge gamingmonitor met 61 cm (24 inch) beschikt over een gebogen 1650R display en een brede kijkhoek van 178 graden, die een meeslepende game- en videoweergave-ervaring biedt, terwijl de beelden je om je heen omgeven voor een diepe meeslepende ervaring
 
 [🛒 Buy it now!!]({{< param buyurl >}})

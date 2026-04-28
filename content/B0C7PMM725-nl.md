@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - PERFECT UIT TE BREIDEN: De borden van de serie Manufacture Rock zijn uit te breiden met vele andere artikelen uit deze serviescollectie.
-- VEELZIJDIG BRUIKBAAR: Het 6delige tafelservies bestaat uit twee eetborden (27 cm), twee ontbijtborden (22 cm) en twee diepe borden (28 cm) ideaal voor een tweepersoonshuishouden.
 - SERVIESSET: De hoogwaardige bordenset van porselein biedt alles wat u voor een geslaagde maaltijd nodig hebt. Het matte gevoel presenteert uw lievelingsgerecht op vakkundige wijze.
 - BESTE KWALITEIT: De bordenset is gemaakt van Premium Porcelain en is daardoor ideaal voor dagelijks gebruik en vaatwasmachine en magnetronbestendig.
+- VEELZIJDIG BRUIKBAAR: Het 6delige tafelservies bestaat uit twee eetborden (27 cm), twee ontbijtborden (22 cm) en twee diepe borden (28 cm) ideaal voor een tweepersoonshuishouden.
 - INHOUD: 1x Villeroy & Boch Manufacture bordenset, gewicht: ca. 3,5 kg (art.nr. 1042408152)
 
 [🛒 Check the deal!!]({{< param buyurl >}})

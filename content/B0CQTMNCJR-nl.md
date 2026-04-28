@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Design en premium gewrichtspunten: fans en verzamelaars van Star Wars kunnen deze 15 cm grote actiefiguur met premium design en meerdere gewrichtspunten in hun collecties tentoonstellen
-- Creëer je scène: Zoek meer actiefiguren uit de Star Wars the Black-serie om een verzameling galactische verhoudingen op je plank te maken (elk product apart verkrijgbaar, afhankelijk van beschikbaarheid)
-- "Star Wars: ANDOR": dit actiefiguur is geïnspireerd op de gelijknamige live-action-serie op Disney+ en is een perfect cadeau voor verzamelaars en fans vanaf 4 jaar
 - Een betrouwbare rechterarm: K-2SO, geprogrammeerde imperiale veiligheidsdroid, is een zeer efficiënte geïnfiltreerde agent, omdat hij perfect kan worden verward tussen imperiale installaties en buitenposten
+- "Star Wars: ANDOR": dit actiefiguur is geïnspireerd op de gelijknamige live-action-serie op Disney+ en is een perfect cadeau voor verzamelaars en fans vanaf 4 jaar
+- Creëer je scène: Zoek meer actiefiguren uit de Star Wars the Black-serie om een verzameling galactische verhoudingen op je plank te maken (elk product apart verkrijgbaar, afhankelijk van beschikbaarheid)
+- Design en premium gewrichtspunten: fans en verzamelaars van Star Wars kunnen deze 15 cm grote actiefiguur met premium design en meerdere gewrichtspunten in hun collecties tentoonstellen
 - Verpakking met venster: Toon de Star Wars Fandom op je plank met de vensterverpakking met elegant design van de figuren
 
 [🛒 Check the deal!!]({{< param buyurl >}})

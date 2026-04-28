@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Boordevol details – de set bevat modulaire boosters die compatibel zijn met andere LEGO DREAMZzz sets (apart verkrijgbaar) uit de collectie van 2025
+- DREAMZzz minifiguren – inclusief LEGO DREAMZzz personages held Mateo en schurk Zero, plus figuren van Logan, een Cyberwezen en Z-Blob, brengen het verhaal tot leven en stimuleren creatieve rollenspellen
 - Cadeau voor jongens en meisjes – de set is een leuk verjaardagscadeau voor jongens, meisjes en fans van de LEGO DREAMZzz tv-serie, maar ook voor kinderen die dol zijn op dieren figuren, reptielen en mecha
 - Herbouwbaar dieren speelgoed voor kinderen – de kameleon heeft een verstelbare bek, kop, staart, ogen en poten en kan worden gebouwd als een vuurkameleon met een blasterkoepel en noppenschieters of een klein speelgoed vliegtuig met een LEGO mech
-- Maak deel uit van de actie – de bouwinstructies op basis van verhalen laten kinderen helemaal opgaan in de Droomwereld en zijn ook digitaal beschikbaar in de LEGO Builder app
+- Boordevol details – de set bevat modulaire boosters die compatibel zijn met andere LEGO DREAMZzz sets (apart verkrijgbaar) uit de collectie van 2025
 - Bouwpakket voor kinderen met fantasiewezen – geef de creativiteit van kinderen de ruimte met LEGO DREAMZzz Mateos vuurkameleon, een set voor jongens en meisjes vanaf 7 jaar met 2 bouwmogelijkheden
-- DREAMZzz minifiguren – inclusief LEGO DREAMZzz personages held Mateo en schurk Zero, plus figuren van Logan, een Cyberwezen en Z-Blob, brengen het verhaal tot leven en stimuleren creatieve rollenspellen
+- Maak deel uit van de actie – de bouwinstructies op basis van verhalen laten kinderen helemaal opgaan in de Droomwereld en zijn ook digitaal beschikbaar in de LEGO Builder app
 - LEGO DREAMZzz speelgoed – laat het fantasierijke spel verder gaan met andere LEGO DREAMZzz bouwsets (apart verkrijgbaar), waaronder voertuigspeelsets en speelgoedmecha
 
 [🛒 Check the deal!!]({{< param buyurl >}})

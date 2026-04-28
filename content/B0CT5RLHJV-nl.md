@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- APP & STEMCONTROLE: Compatibel met Google, Alexa, Apple en andere Matter-systemen, Matter-compatibele app of stemassistent.
-- ENERGIE-EFFICIËNT: De LED lamp heeft een lange levensduur van maximaal 20.000 uur. Met 9 W en 806 lm geeft de lamp een zeer helder licht en is bovendien energiezuinig.
+- GEVARIEERD: De LED lamp produceert instelbaar kleurlicht en wit licht (2700 tot 6500K). Pas de lichtkleur aan uw persoonlijke wensen aan.
 - FROSTED LOOK: De LED lamp met Matter-technologie in klassieke gloeilampvorm (Classic A) heeft een E27-fitting en een witte matte look.
 - NAADLOZE INTEGRATIE: De slimme lamp kan worden aangesloten op elk Matter-compatibel apparaat. Eenvoudig installatieproces dankzij eenvoudige standaard installatiestappen.
-- GEVARIEERD: De LED lamp produceert instelbaar kleurlicht en wit licht (2700 tot 6500K). Pas de lichtkleur aan uw persoonlijke wensen aan.
+- APP & STEMCONTROLE: Compatibel met Google, Alexa, Apple en andere Matter-systemen, Matter-compatibele app of stemassistent.
+- ENERGIE-EFFICIËNT: De LED lamp heeft een lange levensduur van maximaal 20.000 uur. Met 9 W en 806 lm geeft de lamp een zeer helder licht en is bovendien energiezuinig.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CT5RLHJV{{</world>}}

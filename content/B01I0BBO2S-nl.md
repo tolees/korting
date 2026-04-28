@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Flexibel
 - Gemakkelijk te monteren
 - Lichtgewicht
-- Flexibel
 - Extra duurzame ingrediënten
 - Goede grip
 

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Met kogelvrije bescherming en draaibare hoed voor een snelle beweging in de hand.
-- De Wera Black Point punt biedt een nauwkeurige plaatsing en een verhoogde bescherming tegen corrosie.
+- Kraftform Micro schroevendraaier voor Phillips schroeven
 - Kraftform Micro Multi-component handvat voor snel en ergonomisch aantrekken.
 - Bijv. voor elektronica-technicus, optische technicus, precisiemechanica of computermontagetechniek.
-- Kraftform Micro schroevendraaier voor Phillips schroeven
+- Met kogelvrije bescherming en draaibare hoed voor een snelle beweging in de hand.
+- De Wera Black Point punt biedt een nauwkeurige plaatsing en een verhoogde bescherming tegen corrosie.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B00725BUIM{{</world>}}

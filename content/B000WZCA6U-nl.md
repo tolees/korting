@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Geïntroduceerd door het designhuis van Clinique
 - Geschikt voor dragers van contactlenzen
 - Take The Day Off Makeup Remover lost op en verwijdert langhoudende make-up
+- Geïntroduceerd door het designhuis van Clinique
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B000WZCA6U{{</world>}}

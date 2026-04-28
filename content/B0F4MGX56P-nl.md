@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Compact en draagbaar: de compacte vormfactor van de adapter vergemakkelijkt het transport en zorgt ervoor dat je altijd en overal een betrouwbare stroombron hebt.
-- Input: 100 - 240 V AC, 50/60 Hz 0,8 A max; connector: USB-C; kabel: 120 mm 【uitgang】5 V/5 A, 9 V/3 A, 12 V/2,25 A, 15 V/1,8 A
-- Power Delivery Support – de adapter is uitgerust met Power Delivery technologie, die een snel en efficiënt opladen van compatibele apparaten mogelijk maakt.
-- Veilig en betrouwbaar: ingebouwde veiligheidsfuncties zoals overstroombeveiliging, overspanningsbeveiliging en kortsluitbeveiliging garanderen de veiligheid van je aangesloten apparaten.
-- Compatibiliteit: compatibel met Raspberry Pi 5 4 GB/8 GB, Raspberry Pi 5 Power Supply USB-C PD 27W GaN Power Adapter
 - Universele compatibiliteit - Met een ingangsspanningsbereik van 100-240 V en een frequentie van 50/60 Hz is deze adapter geschikt voor wereldwijd gebruik en dus een reisvriendelijke stroomoplossing.
+- Input: 100 - 240 V AC, 50/60 Hz 0,8 A max; connector: USB-C; kabel: 120 mm 【uitgang】5 V/5 A, 9 V/3 A, 12 V/2,25 A, 15 V/1,8 A
+- Compact en draagbaar: de compacte vormfactor van de adapter vergemakkelijkt het transport en zorgt ervoor dat je altijd en overal een betrouwbare stroombron hebt.
+- Compatibiliteit: compatibel met Raspberry Pi 5 4 GB/8 GB, Raspberry Pi 5 Power Supply USB-C PD 27W GaN Power Adapter
+- Veilig en betrouwbaar: ingebouwde veiligheidsfuncties zoals overstroombeveiliging, overspanningsbeveiliging en kortsluitbeveiliging garanderen de veiligheid van je aangesloten apparaten.
+- Power Delivery Support – de adapter is uitgerust met Power Delivery technologie, die een snel en efficiënt opladen van compatibele apparaten mogelijk maakt.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0F4MGX56P{{</world>}}

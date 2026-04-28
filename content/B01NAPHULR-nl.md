@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Puzzel
 - Binnenshuis
+- Puzzel
 - Kinderen
 
 [🛒 Buy it!!]({{< param buyurl >}})

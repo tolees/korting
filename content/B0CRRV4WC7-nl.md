@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Inclusief: 1x Grote decoratie (12,7 cm x 16,2 cm)
-- 6x Kleine decoraties (8,2cm x 10,5cm)
-- Verpakking van 7
 - Materiaal: Papier
 - Pokémon, ik moet ze allemaal vangen en een episch verjaardagsfeestje geven!
+- Verpakking van 7
+- 6x Kleine decoraties (8,2cm x 10,5cm)
+- Inclusief: 1x Grote decoratie (12,7 cm x 16,2 cm)
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CRRV4WC7{{</world>}}

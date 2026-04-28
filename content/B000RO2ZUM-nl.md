@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Elke dag mooi voelen
-- Merk: Laura Biagiotti
 - Mooie aanwinst voor ieders persoonlijke verzorgingskit
+- Merk: Laura Biagiotti
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B000RO2ZUM{{</world>}}
