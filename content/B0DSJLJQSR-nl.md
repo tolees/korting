@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- LANGDURIGE VERZORGING: voedt tot 8 weken*
 - VOOR DROOG HAAR: intensieve voeding
 - RESULTAAT: tot 8 weken lang voeding*
+- LANGDURIGE VERZORGING: voedt tot 8 weken*
 - NAVULBARE shampooverpakking van 250ml - 60% minder plastic**
 - MARULA- EN CAMELIA-OLIE: natuurlijke oliën voor zacht haar
 

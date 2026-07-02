@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- De knusse lippenstift zorgt dankzij de vochtinbrengende formule met hyaluron gel voor soepele lippen en een optimaal draagcomfort.
 - Inhoud: 1 x lipstick voor volle en verzorgde lippen/24 uur houding/5 ml.
-- Lip Pencil voor soepele en vochtrijke lippen – een resultaat als fris aangebracht, voor een kleur die niet verbleekt.
+- De knusse lippenstift zorgt dankzij de vochtinbrengende formule met hyaluron gel voor soepele lippen en een optimaal draagcomfort.
 - Zeer intensieve kleurpigmenten in de make-up pen van LOréal bieden 24 uur ultieme grip en ultieme kleurkracht zonder brokkelende kleur.
 - De lippenbalsem past zich met zijn soepele textuur aan elk huidtype aan en voorkomt uitdroging van de huid. Ultra gemakkelijk aanbrengen en verdelen.
+- Lip Pencil voor soepele en vochtrijke lippen – een resultaat als fris aangebracht, voor een kleur die niet verbleekt.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B019WBKMRS{{</world>}}

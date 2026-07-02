@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 100% leer
 - Duurzaam
+- 100% leer
 - Lichtgewicht
 
 [🛒 Check the deal!!]({{< param buyurl >}})

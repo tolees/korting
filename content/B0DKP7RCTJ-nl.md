@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 5500mAh batterij met 33W snel-laden;
-- Corning Gorilla Glass 5;
 - MediaTek Helio G99-Ultra,6nm manufacturing process technology;
 - 108MP AI camera system;
+- Corning Gorilla Glass 5;
+- 5500mAh batterij met 33W snel-laden;
 - 120Hz eye-care display,wet-hand touch
 
 [🛒 Buy it!!]({{< param buyurl >}})

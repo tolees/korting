@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Merk: Pandora
-- Kleur: Goud
 - Stijl: Oorstekers
+- Kleur: Goud
+- Merk: Pandora
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWVBB9JP{{</world>}}

@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Wij werken samen met het Better Cotton Initiative om de katoenteelt wereldwijd te verbeteren. Dit is een origineel Levis product
-- Jeans met klassieke rechte pasvorm
-- Met het optimale stretchaandeel voor draagcomfort in het dagelijks leven
 - Dit is een origineel Levis product
+- Jeans met klassieke rechte pasvorm
+- Wij werken samen met het Better Cotton Initiative om de katoenteelt wereldwijd te verbeteren. Dit is een origineel Levis product
+- Met het optimale stretchaandeel voor draagcomfort in het dagelijks leven
 - De perfecte keuze voor een normaal tot sportief figuur
 
 [🛒 Buy it!!]({{< param buyurl >}})

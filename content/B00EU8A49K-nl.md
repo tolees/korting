@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Eight Hour Cream intensieve lip reparatiebalsem
 - regenereert droge, gebarsten lippen
-- Hydrateert intensief
 - Versterkt de vochtbarrière van de huid
+- Eight Hour Cream intensieve lip reparatiebalsem
+- Hydrateert intensief
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00EU8A49K{{</world>}}

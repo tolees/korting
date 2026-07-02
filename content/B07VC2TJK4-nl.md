@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Klein en handzaam, bijzonder krachtig.
 - Inhoud: externe SSD en USB 3.0 kabel
+- Stroomvoorziening via USB 3.0 aansluiting (achterwaarts compatibel)
 - Maximale Transferrate: tot 320 MB/s
 - Geruisloze werking, laag stroomverbruik, schokbestendig
-- Stroomvoorziening via USB 3.0 aansluiting (achterwaarts compatibel)
+- Klein en handzaam, bijzonder krachtig.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07VC2TJK4{{</world>}}

@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Merk: Cacharel
-- Producttype: Geur
 - Product inhoud: 100 ml
+- Producttype: Geur
+- Merk: Cacharel
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B000XE0DS2{{</world>}}

@@ -31,8 +31,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 - Herstelt de intensiteit van de kleur in week 3 of 4 in slechts 5 minuten
 - Tot 8 weken kleur
 - Hoogwaardige veganistische haarkleur
-- Kleurboostermasker herstelt de levendigheid net als op dag één
 - 100% grijsdekking
+- Kleurboostermasker herstelt de levendigheid net als op dag één
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0C6C6NNTZ{{</world>}}

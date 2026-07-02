@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Materiaal: Papier
-- Lengte: 3.3m
 - Wimpel vlaggen met Pikachu, bliksem en poke balls vlaggen.
 - Pokémon, ik moet ze allemaal vangen en een episch verjaardagsfeestje geven!
+- Lengte: 3.3m
+- Materiaal: Papier
 - Geweldig voor muren, ramen of deuropeningen.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

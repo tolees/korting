@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 2 temperatuurstanden & snelheden
 - Speciaal ontworpen voor op reis, compacte haardroger, inklapbare handgreep, past gemakkelijk in je sporttas op reistas
 - Draaibaar snoer en ophanglus om gemakkelijk op te bergen
-- Concentrator-opzetstuk voor nauwkeurige styling
 - Reishaardroger van 1400 Watt met universeel voltage
+- 2 temperatuurstanden & snelheden
+- Concentrator-opzetstuk voor nauwkeurige styling
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B007CST74S{{</world>}}

@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Lichtgewicht
+- Gemakkelijk te dragen
 - Recycling
 - Vulling:
-- Gemakkelijk te dragen
 - Flexibel
-- Lichtgewicht
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B09NQQJYMY{{</world>}}

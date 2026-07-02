@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Hoogprecisie punten: zorgen voor exacte resultaten met alle schroevendraaiers
-- Comfortabel gebruik: door softgrip en de ergonomische vorm
 - Lange levensduur: dankzij de metalen schachten
+- Comfortabel gebruik: door softgrip en de ergonomische vorm
 - Leveromvang: SL 3,5x75 mm, TX 20x100 mm, TX 15x75 mm, SL 6,5x125 mm, PZ 2x125 mm, PH 1x100 mm, EVA inlay, in kartonnen doos
+- Hoogprecisie punten: zorgen voor exacte resultaten met alle schroevendraaiers
 - Robuuste schroevendraaiers: dankzij hoogwaardige metalen schachten
 
 [🛒 Buy it now!!]({{< param buyurl >}})
