@@ -1,0 +1,40 @@
+---
+layout: post
+title: '503 - Fout: service niet beschikbaar'
+date: 2026-05-07 10:31:50
+image: 'https://m.media-amazon.com/images/I/51ANrKf3JgL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0DWF1R89S-nl 503 - Fout: service niet beschikbaar'
+sku: 'B0DWF1R89S-nl'
+tags: [ 'Bouw- & constructiespeelgoed','Speelgoed & spellen','Speelgoedbouwsets','lego','🇳🇱', ]
+actualPrice: 32.49 EUR
+currency: EUR
+price: 32.49
+comparePrice: 49.99 EUR
+prodname: '503 - Fout: service niet beschikbaar'
+country: 'nl'
+flag: '🇳🇱'
+brand: 'LEGO'
+buyurl: 'https://www.amazon.nl/dp/B0DWF1R89S/?tag=tolees0b-21'
+descuento: '35.01'
+average: '32.49'
+---
+
+You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- LEGO DREAMZzz speelgoed – laat het fantasierijke spel verder gaan met andere LEGO DREAMZzz bouwsets (apart verkrijgbaar), waaronder voertuigspeelsets en speelgoedmecha
+- Bouwpakket voor kinderen met fantasiewezen – geef de creativiteit van kinderen de ruimte met LEGO DREAMZzz Mateos vuurkameleon, een set voor jongens en meisjes vanaf 7 jaar met 2 bouwmogelijkheden
+- Cadeau voor jongens en meisjes – de set is een leuk verjaardagscadeau voor jongens, meisjes en fans van de LEGO DREAMZzz tv-serie, maar ook voor kinderen die dol zijn op dieren figuren, reptielen en mecha
+- Boordevol details – de set bevat modulaire boosters die compatibel zijn met andere LEGO DREAMZzz sets (apart verkrijgbaar) uit de collectie van 2025
+- Maak deel uit van de actie – de bouwinstructies op basis van verhalen laten kinderen helemaal opgaan in de Droomwereld en zijn ook digitaal beschikbaar in de LEGO Builder app
+- Herbouwbaar dieren speelgoed voor kinderen – de kameleon heeft een verstelbare bek, kop, staart, ogen en poten en kan worden gebouwd als een vuurkameleon met een blasterkoepel en noppenschieters of een klein speelgoed vliegtuig met een LEGO mech
+- DREAMZzz minifiguren – inclusief LEGO DREAMZzz personages held Mateo en schurk Zero, plus figuren van Logan, een Cyberwezen en Z-Blob, brengen het verhaal tot leven en stimuleren creatieve rollenspellen
+
+[🛒 Check the deal!!]({{< param buyurl >}})
+{{<world>}}B0DWF1R89S{{</world>}}
