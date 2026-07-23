@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Makkelijk en snel aan te brengen dankzij het spraysysteem
 - Uitwasbare uitgroeispray om uitgroei mee te camoufleren
 - Mengt zich met jouw haarkleur zonder kleurverschil
+- Makkelijk en snel aan te brengen dankzij het spraysysteem
 - Natuurlijk ogend kleurresultaat
 - Uitwasbaar met shampoo
 

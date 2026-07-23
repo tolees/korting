@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Voelt zacht aan
-- Flexibel.
-- Goede grip
-- Eenvoudig aan te brengen.
 - Extra duurzame ingrediënten
+- Eenvoudig aan te brengen.
+- Flexibel.
+- Voelt zacht aan
+- Goede grip
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07VVF9WR7{{</world>}}

@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Ultradun ontwerp
 - Duurzame buitenschaal
 - Soft, Perforated Foam
 - Gemakkelijk te onderhouden
+- Ultradun ontwerp
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0B5HDMB8P{{</world>}}

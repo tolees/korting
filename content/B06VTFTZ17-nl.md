@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Inclusief SEL-85F18 kap: ALC-SH150 voorste lensdop: ALC-F67S achterste lensdop: ALC-R1EM
-- Lineaire motor voor een nauwkeurige, rustige scherpstelling
-- ED-glas compenseert beeldfouten
 - Lichtsterke telelens
+- Inclusief SEL-85F18 kap: ALC-SH150 voorste lensdop: ALC-F67S achterste lensdop: ALC-R1EM
+- ED-glas compenseert beeldfouten
+- Lineaire motor voor een nauwkeurige, rustige scherpstelling
 - Circulaire diafragma met negen lamellen voor prachtige scherpte-effecten, minimale scherpteafstand 0,8 m
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- 5 jaar Brabantia garantie
+- Inhoud in een oogopslag zichtbaar en blijft langer vers - deksel met siliconen sluiting
 - Gemakkelijk te reinigen – vaatwasmachinebestendig
 - Ruimtebesparend – stapelbaar en vierkant
-- Inhoud in een oogopslag zichtbaar en blijft langer vers - deksel met siliconen sluiting
 - Afmetingen (HxBxD): 10.5 en 20 x 11 x 11 cm
-- 5 jaar Brabantia garantie
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B07NJGH22J{{</world>}}

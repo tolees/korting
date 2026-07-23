@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Maybelline Super Stay 24 Hour Wear lipgloss
+- Geen klonters of aankoeken
 - in een doos
 - Langdurig
-- Geen klonters of aankoeken
-- Maybelline Super Stay 24 Hour Wear lipgloss
 - Micro-flex-formule die gemakkelijk aan te brengen is en er prachtig uitziet
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Deze douchegel is pH huidneutraal en zorgt dus voor een natuurlijke balans
 - Douchegel voor iedere dag met de typische NIVEA-geur
+- Deze douchegel is pH huidneutraal en zorgt dus voor een natuurlijke balans
 - Verzorgt de huid
 - Voor een zacht en langdurig gezond huidgevoel, elke dag en overal dankzij de handige voordeelverpakking
 - De hydraterende formule met vitamine C, vitamine E en oliën beschermt de huid tegen uitdroging

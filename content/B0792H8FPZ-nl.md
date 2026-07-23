@@ -28,14 +28,14 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- De gepatenteerde Geox-systemen garanderen de ademende werking van de buitenzool, zodat de voet comfortabel blijft.
-- Waterbestendig.
-- Schoeisel dat optimale warmte-isolatie biedt.
 - Gemakkelijk te dragen, voor ongeëvenaard comfort.
-- Uitneembare binnenzool.
+- Schoeisel dat optimale warmte-isolatie biedt.
+- Waterbestendig.
 - Warm gevoerd interieur van echte wol
-- Het loopvlak met ingebouwd Flexy-systeem biedt een uitstekende flexibiliteit.
+- De gepatenteerde Geox-systemen garanderen de ademende werking van de buitenzool, zodat de voet comfortabel blijft.
 - Zeer snel aan te trekken, dankzij de riptape-sluiting.
+- Uitneembare binnenzool.
+- Het loopvlak met ingebouwd Flexy-systeem biedt een uitstekende flexibiliteit.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0792H8FPZ{{</world>}}

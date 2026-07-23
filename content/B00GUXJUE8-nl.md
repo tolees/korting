@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Omni-TECH TM waterdicht, ademend membraan
-- Waterdichte mesh/leer bovencombinatie
-- TECHLITETM lichtgewicht tussenzool voor een langdurige superieure demping en een hoog energierendement
-- Sneakers van het merk Columbia
 - Licht & ademend design voor soepele bewegingen
+- Sneakers van het merk Columbia
+- Waterdichte mesh/leer bovencombinatie
+- Omni-TECH TM waterdicht, ademend membraan
+- TECHLITETM lichtgewicht tussenzool voor een langdurige superieure demping en een hoog energierendement
 - Gewicht: 12.7 oz / 362 g (Maat 8 UK of 42 EU, 1/2 paar)
 
 [🛒 Buy it now!!]({{< param buyurl >}})

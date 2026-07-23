@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Fruitige topnoten van fresia, zwarte bessen en groene mandarijn.
-- Bloemige hartnoten van cyclaam, pienroos en exotische mango.
-- Pure Woman Bodyymist by Bruno Banani is een verleidelijke en flirterige geur in de ultieme roze flacon, die de vormen van een vrouwenlichaam heeft.
 - Verleidelijk parfum voor de fliterige vrouw.
+- Pure Woman Bodyymist by Bruno Banani is een verleidelijke en flirterige geur in de ultieme roze flacon, die de vormen van een vrouwenlichaam heeft.
+- Bloemige hartnoten van cyclaam, pienroos en exotische mango.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09DCXY442{{</world>}}

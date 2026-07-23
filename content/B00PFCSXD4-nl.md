@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Borstel om laagjes te onthullen
+- 9
 - volume geven en het uiterlijk van langere wimpers definiëren
 - formule met vloeibare inkt
-- 9
+- Borstel om laagjes te onthullen
 - lagen kunnen worden opgebouwd zonder te klonteren
 
 [🛒 Buy it!!]({{< param buyurl >}})

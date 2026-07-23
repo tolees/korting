@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 6 weken intense voeding
-- Voor zeer droog, golvend of krullend haar
-- Vernieuwde formule
 - Geschikt voor alle verschillende type krullen
+- Vernieuwde formule
 - 10x meer geconcentreerd
+- Voor zeer droog, golvend of krullend haar
+- 6 weken intense voeding
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FRGZXZC2{{</world>}}

@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Eerste resultaten zichtbaar vanaf 2 weken*
-- Helpt het voorkomen van nieuwe striae/striemen door regelmatig te masseren
-- Werkt vanaf dag 1
 - Onmiddelijk glad huidgevoel op striae/striemen en hydrateert 48** uur lang
+- Helpt het voorkomen van nieuwe striae/striemen door regelmatig te masseren
+- Eerste resultaten zichtbaar vanaf 2 weken*
+- Werkt vanaf dag 1
 - Vermindert de zichtbaarheid van striae/striemen veroorzaakt door zwangerschap, hormonale veranderingen of gewichtsveranderingen
 
 [🛒 Buy it now!!]({{< param buyurl >}})

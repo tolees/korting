@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Gemakkelijk aan te brengen met de pipet
+- [3,5%] Bevat Vitamine C, Niacinamide en Salicylzuur
 - -43% pigmentvlekken na 8 weken
 - Ontdek de hele vitamine C lijn van Garnier voor jouw glow routine
-- [3,5%] Bevat Vitamine C, Niacinamide en Salicylzuur
 - Anti-pigmentvlekken serum voor een stralende en meer egale huid
 
 [🛒 Check the deal!!]({{< param buyurl >}})

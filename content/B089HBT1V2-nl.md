@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Geeft de huid een zijdezacht gevoel
 - Verfrist de huid onmiddellijk
 - Verstevigt de huid vanaf 2 weken*
 - De huid voelt onmiddellijk energiek aan
 - Vermindert de zichtbaarheid van cellulite vanaf 3 weken**
-- Geeft de huid een zijdezacht gevoel
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B089HBT1V2{{</world>}}

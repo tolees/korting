@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Puzzel met 1000 stukjes
-- SCHMIDT SPIELE Premium puzzels – met kwaliteit die je kunt vastpakken
 - Afmetingen puzzel: 69,3 x 49,3 cm
+- SCHMIDT SPIELE Premium puzzels – met kwaliteit die je kunt vastpakken
 - Aanbevolen leeftijd: vanaf 12 jaar
 
 [🛒 Check the deal!!]({{< param buyurl >}})

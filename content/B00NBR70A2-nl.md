@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- De hoofdtelefoon is opvouwbaar en daardoor ruimtebesparend.
 - Opvouwbare instapkoptelefoon in stijlvol design met uitstekend geluid. Ideaal voor walkman, iPod of andere MP3-speler.
 - Licht en robuust ontwerp voor hoog draagcomfort onderweg.
-- Inhoud: Sony MDR-ZX110/WC(AE) opvouwbare hoofdtelefoon wit
 - De 30 mm driver zorgt voor een verrassend sterk geluid.
+- De hoofdtelefoon is opvouwbaar en daardoor ruimtebesparend.
+- Inhoud: Sony MDR-ZX110/WC(AE) opvouwbare hoofdtelefoon wit
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00NBR70A2{{</world>}}

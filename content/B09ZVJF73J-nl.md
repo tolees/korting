@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Sluiting: ethyleenvinylacetaat
-- Schoenbreedte: smal
-- Voering: leer
 - Niet waterbestendig
+- Schoenbreedte: smal
+- Sluiting: ethyleenvinylacetaat
 - Binnenmateriaal: Leer
+- Voering: leer
 - Bovenmateriaal: leer
 
 [🛒 Buy it!!]({{< param buyurl >}})
