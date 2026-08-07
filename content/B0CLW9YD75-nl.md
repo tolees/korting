@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Duurzame design zorgt voor lang gebruik
-- Laarzen van het merk Columbia
 - Stevig en comfortabel design voor soepele bewegingen
 - Geschikt voor: koud weer
+- Duurzame design zorgt voor lang gebruik
+- Laarzen van het merk Columbia
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CLW9YD75{{</world>}}

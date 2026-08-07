@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Lichtgewicht
-- Flexibiliteit
 - Kussen en vochtbeheer
+- Flexibiliteit
+- Lichtgewicht
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B08R7T7BJ5{{</world>}}

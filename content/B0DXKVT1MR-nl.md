@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Prequel op de veelgeprezen titels DOOM en DOOM Eternal
 - Met een aanpasbaar moeilijkheidssysteem is het de perfecte instap voor zowel nieuwe spelers als veteranen
+- Prequel op de veelgeprezen titels DOOM en DOOM Eternal
 - Bestorm door demonen geteisterde slagvelden in wrede grondgevechten
 
 [🛒 Buy it!!]({{< param buyurl >}})

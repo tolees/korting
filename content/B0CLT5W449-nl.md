@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Zachte microfleecestof
 - Elastische manchetten
+- Zachte microfleecestof
 - Halve kliksluiting
 - Binding aan de kraag
 

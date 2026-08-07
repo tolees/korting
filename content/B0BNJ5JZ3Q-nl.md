@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- De bescherming van een zonnebrand met de huidvoordelen van een serum.
+- Hypoallergeen en parfumvrij.
 - De textuur is vloeibaarder dan een klassieke zonnebrandcrème*.
 - Niet vet, plakt niet en laat geen witte waas achter. Vegan formule**.
-- Hypoallergeen en parfumvrij.
-- De bescherming van een zonnebrand met de huidvoordelen van een serum.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0BNJ5JZ3Q{{</world>}}

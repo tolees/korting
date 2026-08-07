@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Verken iconische locaties in en rond South Park
 - Speel met je vrienden in coöp met 4 spelers
+- Verken iconische locaties in en rond South Park
 - Een gloednieuwe South Park-game in volledig 3D!
 
 [🛒 Buy it now!!]({{< param buyurl >}})

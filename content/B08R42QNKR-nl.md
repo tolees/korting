@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Tasca a canguro
 - Resistenza al riscaldamento
+- Tasca a canguro
 - Prodotto di ottima qualità
 - Adatto per attività sportive
 

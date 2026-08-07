@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Non-volatile NAND up to 30 times more robust than HDDs
 - Faster boot up, quicker application launch, and better overall system performance
+- Non-volatile NAND up to 30 times more robust than HDDs
 - Boot up and load applications in seconds with performance up to 13 times faster than with SATA based SSDs
 - Ultra-high transfer speed with NVMe Gen4: Sequential read speed of up to 7500 MB/s and write speed of up to 6850 MB/s
 

@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Afbeelding met zeefdruk logo op de voorkant
+- Katoenen jersey
 - Klassiek en comfortabel katoenen T-shirt met de kenmerkende Levis graphic op de borst
 - Korte mouw
-- Katoenen jersey
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B00VLN9R1S{{</world>}}

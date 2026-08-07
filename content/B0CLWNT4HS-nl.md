@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Ademend mesh-weefsel, bovenmateriaal van leer, waterdichte en ademende Omni-Tech-constructie met verzegelde naden
+- Lichte Techlite-tussenzool voor langdurig comfort, superieure demping en hoog energierendement
 - Klittenbandsluiting
 - Omni-Grip niet-markerend tractierubber
-- Lichte Techlite-tussenzool voor langdurig comfort, superieure demping en hoog energierendement
-- Ademend mesh-weefsel, bovenmateriaal van leer, waterdichte en ademende Omni-Tech-constructie met verzegelde naden
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CLWNT4HS{{</world>}}

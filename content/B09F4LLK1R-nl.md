@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Sequentieel lezen: tot 2100 MB/s; sequentieel schrijven: tot 1700 MB/s
+- Compacte M.2 2280 vormfactor: ideaal voor pcs en slankere apparaten, zoals ultrabooks
 - De Intenso M.2 SSD PCIe Gen.3x4 NVME 1.3 biedt eersteklas prestaties
 - Omvang levering: M.2 SSD PCIe Premium, 1TB
-- Compacte M.2 2280 vormfactor: ideaal voor pcs en slankere apparaten, zoals ultrabooks
-- Sequentieel lezen: tot 2100 MB/s; sequentieel schrijven: tot 1700 MB/s
 - Tot 4 keer sneller dan SATA SSDs.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

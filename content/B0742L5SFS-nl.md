@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Stroomvoorziening via USB 3.0 aansluiting (achterwaarts compatibel)
-- Schokbestendig
 - Geruisloze werking, laag stroomverbruik
+- Stroomvoorziening via USB 3.0 aansluiting (achterwaarts compatibel)
 - Transferraten: lezen tot 320 MB/s, schrijven tot 70 MB/s
 - Inhoud: externe SSD, USB 3.0 kabel
+- Schokbestendig
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0742L5SFS{{</world>}}

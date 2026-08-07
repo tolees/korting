@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Buitenzool/Kenmerken: Gestikte rubberen buitenzool voor duurzaamheid en goede grip
-- Bovenwerk: Kalfsleer / Technische stof
-- Voering: 64% Stof (60% Nylon - 40% PU) 36% Stof (100% Gerecycled PET)
 - Klittenbandsluitsysteem voor eenvoudige pasvorm
+- Voering: 64% Stof (60% Nylon - 40% PU) 36% Stof (100% Gerecycled PET)
+- Bovenwerk: Kalfsleer / Technische stof
 - Kleur: Zwart
 
 [🛒 Buy it now!!]({{< param buyurl >}})

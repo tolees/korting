@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Variofoam tussenzool
 - Stabiliteitsframe voor laterale en mediale ondersteuning
 - Varion II
 - SOFTFOAM+ inlegzool voor ondersteuning en comfort
+- Variofoam tussenzool
 - Variomesh-bovenwerk zorgt voor ademend vermogen en comfort
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Stap 1: zeer intensieve kleurpigmenten in make-up pen van LOréal bieden 24 uur ultieme grip en ultieme kleurkracht zonder brokkelen.
 - Een 2-staps lippenstift voor soepele en verzorgde lippen – een resultaat als vers aangebracht, voor een kleur die niet verbleekt.
-- Vind je lievelingskleur in een van onze vier kleuren: rood, roze, nude of pruim
-- Stap 2: de lippenbalsem past zich met zijn soepele textuur aan elk huidtype aan en voorkomt het uitdrogen van de huid.
 - De knusse lippenstift zorgt dankzij de vochtinbrengende formule met hyaluron gel voor soepele lippen en optimaal draagcomfort.
+- Stap 2: de lippenbalsem past zich met zijn soepele textuur aan elk huidtype aan en voorkomt het uitdrogen van de huid.
+- Vind je lievelingskleur in een van onze vier kleuren: rood, roze, nude of pruim
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00AQDPGYG{{</world>}}

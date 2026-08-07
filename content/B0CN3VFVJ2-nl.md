@@ -28,15 +28,15 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Duikkap
-- RDS gecertificeerd naar beneden
 - Binding aan kraag, manchet en zoom
-- Waterafstotende stof
-- Omni-Shield geavanceerde afstotendheid sluit spatten en vlekken uit geavanceerde afstotendheid
 - 650 vullen power down isolatie
-- Heat Seal Bouw
 - Kinbeschermer
+- Waterafstotende stof
+- RDS gecertificeerd naar beneden
+- Omni-Shield geavanceerde afstotendheid sluit spatten en vlekken uit geavanceerde afstotendheid
+- Duikkap
 - Handzakken met ritssluiting.
+- Heat Seal Bouw
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CN3VFVJ2{{</world>}}
