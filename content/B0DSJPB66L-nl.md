@@ -28,14 +28,14 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Avocado & shea boter
-- 10x meer geconcentreerd**
-- Refill Shampoo - Hervulbare navulverpakking
 - Geschikt voor alle verschillende type krullen
-- 6 weken intense voeding***
-- Vernieuwde formule
+- Refill Shampoo - Hervulbare navulverpakking
 - Voor zeer droog, golvend of krullend haar
 - Minder plastic*, m€€r voordeel
+- Vernieuwde formule
+- 10x meer geconcentreerd**
+- 6 weken intense voeding***
+- Avocado & shea boter
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DSJPB66L{{</world>}}

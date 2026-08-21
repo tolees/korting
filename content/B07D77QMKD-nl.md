@@ -28,12 +28,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Intensive Care Mature Skin bodylotion trekt snel in en is niet vet
 - Biedt 48 uur hydratatie, revitaliseert en verstevigt de huid
-- De lotion bevat Ultra-Hydrating Lipids en glycerine
-- Vaseline Intensive Care Mature Skin Bodylotion voor de droge, rijpere huid
 - Vaseline helpt de droge huid op een veilige manier te herstellen
+- Vaseline Intensive Care Mature Skin Bodylotion voor de droge, rijpere huid
+- De lotion bevat Ultra-Hydrating Lipids en glycerine
 - Breng de lotion dagelijks aan voor een huid die er altijd gezond uitziet
+- Intensive Care Mature Skin bodylotion trekt snel in en is niet vet
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07D77QMKD{{</world>}}

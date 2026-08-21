@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Het haar is beschermd tegen hitte en blijft de hele dag in model met extra volume. Het voelt licht en soepel aan.
 - De Flex Pli Haarspray biedt zowel hittebescherming en prachtig volume, waardoor het ideaal is voor veerkrachtig haar. De lichte, niet-plakkerige formule creëert zachte golven, krullen of gladde stijlen zonder pluis.
 - Spray op 20cm afstand van handdoekdroog haar. Voor meer volume, til de plukken omhoog en föhn ze aan de onderkant.
-- Het haar is beschermd tegen hitte en blijft de hele dag in model met extra volume. Het voelt licht en soepel aan.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07BC9ZSTZ{{</world>}}

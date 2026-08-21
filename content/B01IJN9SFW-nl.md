@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Lederen bovenwerk
-- stijl: Sandalen
 - buitenmateriaal: Overig leer
 - sluiting type: Pull On
+- stijl: Sandalen
 - Comfortabel voetbed voor de hele dag dragen
 
 [🛒 Buy it!!]({{< param buyurl >}})

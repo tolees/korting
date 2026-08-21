@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Topnoten: mandarijn, fresia, rabarber, rode appel en ananas
-- Een geparfumeerde mist met oriëntaalse bloemengeur
-- Basisnoten: sandelhout, eikenmos, amber en vanille
 - Verleidelijke mandarijn, sensuele bloemen en zwarte vanille: de perfecte ingrediënten voor een avond vol glamour
+- Topnoten: mandarijn, fresia, rabarber, rode appel en ananas
+- Basisnoten: sandelhout, eikenmos, amber en vanille
+- Een geparfumeerde mist met oriëntaalse bloemengeur
 - Hartnoten: perzikbloesem en heliotroopbloesem
 
 [🛒 Buy it now!!]({{< param buyurl >}})

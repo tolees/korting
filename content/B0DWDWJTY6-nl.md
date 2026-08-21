@@ -32,9 +32,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 - LEGO | Marvel bouwsets – het uitgebreide assortiment LEGO | Marvel bouw- en speelsets biedt kinderen een steeds veranderend universum vol superheldenavonturen
 - Spider-Man speelgoed voor kinderen – Spider-Man vs. Oscorp is hoogwaardig LEGO | Marvel bouwspeelgoed voor jongens, meisjes en fans van superheldenactie vanaf 10 jaar
 - Marvel cadeau voor jongens, meisjes en fans – dit grote, aanpasbare model is een leuk cadeau voor jongens en meisjes die dol zijn op superhelden, Marvel films en bouwmodellen om mee te spelen en neer te zetten
-- Minifiguren van superhelden – dit bouwpakket voor kinderen bevat 8 LEGO minifiguren: Spider-Man, Spider-Woman, Miles Morales, Eddie Brock, Ghost-Spider, Norman Osborn, Kraven the Hunter en Green Goblin
-- Stadsgedeelte met meerdere modellen – de actie vindt plaats bij 3 gebouwen: het appartement van Miles Morales boven een juwelierszaak, het Oscorp gebouw en Venoms appartement boven een supermarkt
 - Samen bouwen met vrienden en familie – de LEGO Builder app biedt een leuke modus om met meerdere mensen te bouwen, zodat je het LEGO bouwplezier met anderen kunt delen
+- Stadsgedeelte met meerdere modellen – de actie vindt plaats bij 3 gebouwen: het appartement van Miles Morales boven een juwelierszaak, het Oscorp gebouw en Venoms appartement boven een supermarkt
+- Minifiguren van superhelden – dit bouwpakket voor kinderen bevat 8 LEGO minifiguren: Spider-Man, Spider-Woman, Miles Morales, Eddie Brock, Ghost-Spider, Norman Osborn, Kraven the Hunter en Green Goblin
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DWDWJTY6{{</world>}}

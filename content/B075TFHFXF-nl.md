@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Geox-patent voor ademend vermogen in de schoen.
 - Flexibele zool.
 - Aangenaam zachte binnenvoering
-- Geox-patent voor ademend vermogen in de schoen.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B075TFHFXF{{</world>}}

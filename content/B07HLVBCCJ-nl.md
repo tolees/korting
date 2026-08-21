@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Ontworpen voor degenen die houden van de speciale kerstsfeer en innovatie in traditie waarderen
 - Materialen: Handgedecoreerd porselein
+- Ontworpen voor degenen die houden van de speciale kerstsfeer en innovatie in traditie waarderen
 - Ontwerper: Massimo Giacon, Marcello Jori
 - Fijn gedecoreerde kerststal met vijf beeldjes
 - Afmetingen: Hoogte - 20 cm, breedte - 14 cm, lengte - 27 cm

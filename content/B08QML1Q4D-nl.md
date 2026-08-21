@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Het gepatenteerde Geox systemen garanderen het ademend vermogen van de zool en zorgen voor het welzijn van de voet
+- Lichte schoen voor meer bewegingsvrijheid
 - Gemakkelijk verstelbare pasvorm dankzij vetersluiting
 - Uitneembare binnenzool
-- Lichte schoen voor meer bewegingsvrijheid
 - Het zero shock systeem met dempingsballen verhoogt de schokabsorptie en zorgt voor een betere absorptie van stoten en stoten
 
 [🛒 Buy it!!]({{< param buyurl >}})

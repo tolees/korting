@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Binnenin bevindt zich een oneindigheidssymbool. Houd er rekening mee dat deze armband geen schroefdraad heeft (charmscheider in reliëf)
-- Deze handgemaakte armband heeft een flexibele en gestructureerde ketting en een opklapbare hartsluiting met oneindigheidsdetails
-- Geef je collectie een geweldige upgrade met onze nieuwe Pandora Moments armband van vergulde metaallegering
 - Er kunnen maximaal 14-18 bedels op de armband worden gemaakt. De sluiting kan niet met charme worden gevormd. Met siliconen kern-hangers of comfortabele kettingen kan je stijl zijn
+- Binnenin bevindt zich een oneindigheidssymbool. Houd er rekening mee dat deze armband geen schroefdraad heeft (charmscheider in reliëf)
+- Geef je collectie een geweldige upgrade met onze nieuwe Pandora Moments armband van vergulde metaallegering
+- Deze handgemaakte armband heeft een flexibele en gestructureerde ketting en een opklapbare hartsluiting met oneindigheidsdetails
 - Geen retailverpakking. Deze moet apart worden aangeschaft. Het artikel is uitsluitend compatibel met artikelen uit de Pandora Moments-collectie
 
 [🛒 Buy it now!!]({{< param buyurl >}})

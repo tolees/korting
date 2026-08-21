@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Maat: 68 x 48 cm
-- Fabrikant: Piatnik
+- Auguste Renoir
 - Geschikt vanaf 12 jaar
 - Materiaal: karton
-- Auguste Renoir
+- Fabrikant: Piatnik
+- Maat: 68 x 48 cm
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B003DQRPNS{{</world>}}

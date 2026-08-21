@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Duurzame design zorgt voor lang gebruik
 - Comfortabel en licht design
+- Duurzame design zorgt voor lang gebruik
 - Schoenen van het merk Columbia
 - Gemaakt van duurzame materialen
 

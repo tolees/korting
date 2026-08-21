@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Duurzame design zorgt voor lang gebruik
 - Laarzen van het merk Columbia
+- Duurzame design zorgt voor lang gebruik
 - Stevig en comfortabel design voor soepele bewegingen
 - Geschikt voor: koud weer
 

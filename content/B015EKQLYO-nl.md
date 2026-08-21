@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Het product wordt niet in een doos geleverd. De doos wordt apart verkocht
-- De oorstekers zijn voorzien van het merklogo op de rand
-- Een charmant cadeau-idee dat al je dierbaren zullen waarderen
 - Cirkelvormige oorstekers van Pandora van zirkonias en sterling zilver
+- De oorstekers zijn voorzien van het merklogo op de rand
 - Met deze oorstekers kun je de wereld op een prachtige manier laten zien wie je bent en wat belangrijk voor je is
+- Het product wordt niet in een doos geleverd. De doos wordt apart verkocht
+- Een charmant cadeau-idee dat al je dierbaren zullen waarderen
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B015EKQLYO{{</world>}}

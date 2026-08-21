@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Optimale afmetingen voor losse suiker of suikerblokjes, praktisch deksel voor veilig sluiten en bewaren, aandacht voor details
-- Gemaakt van hoogwaardig en bijzonder robuust premium porselein, ideaal voor dagelijks gebruik, voor het reinigen met een vochtige doek afvegen
-- Past bij Toys Delight Royal Classic en Toys Fantasy, dankzij de kerstverpakking ook geschikt als cadeau
 - Decoratieve suikerpot van briljant porselein met speelse motieven voor het stijlvol serveren van de zoetmaker op de kerstkoffietafel
+- Gemaakt van hoogwaardig en bijzonder robuust premium porselein, ideaal voor dagelijks gebruik, voor het reinigen met een vochtige doek afvegen
+- Optimale afmetingen voor losse suiker of suikerblokjes, praktisch deksel voor veilig sluiten en bewaren, aandacht voor details
+- Past bij Toys Delight Royal Classic en Toys Fantasy, dankzij de kerstverpakking ook geschikt als cadeau
 - Inhoud: 1 x Villeroy & Boch Toys Delight suikerpot (10 x 13 cm), materiaal: premium porselein, kleur: wit/rood
 
 [🛒 Check the deal!!]({{< param buyurl >}})

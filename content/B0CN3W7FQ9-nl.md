@@ -28,14 +28,14 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Omni-Heat thermisch reflecterend
 - Omni-Shield geavanceerde afstotendheid sluit spatten en vlekken uit geavanceerde afstotendheid
-- 100% gerecycled polyester Thermarator isolatie
+- Elastische manchetten
+- Waterafstotende stof
+- Verstelbare zoom met trekkoord.
+- Omni-Heat thermisch reflecterend
 - Handzakken met ritssluiting
 - Kinbeschermer
-- Verstelbare zoom met trekkoord.
-- Waterafstotende stof
-- Elastische manchetten
+- 100% gerecycled polyester Thermarator isolatie
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CN3W7FQ9{{</world>}}

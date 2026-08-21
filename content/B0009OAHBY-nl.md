@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- De geur erkend zich met aromatische noten van munt en lavendel, vermengd met de sensualiteit van amber
 - Een unieke samenstelling die direct zorgt voor een verfrissend gevoel
 - Ontdek de legendarische geur voor mannen, geïnspireerd op de frisse oceaan
 - De kracht van diepe wateren en pure mannelijkheid worden gesymboliseerd in deze iconische parfum
-- De geur erkend zich met aromatische noten van munt en lavendel, vermengd met de sensualiteit van amber
 - Cool Water, Davidoff, Eau de Toilette
 
 [🛒 Check the deal!!]({{< param buyurl >}})
