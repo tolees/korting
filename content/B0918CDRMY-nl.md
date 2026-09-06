@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Breng een kleine hoeveelheid aan op gewassen, handdoekdroog haar. Laat intrekken, kam door en spoel uit.
 - Het haar wordt beschermd tegen haarbreuk, met een ontwarrend effect. Lang en dun haar ziet er voller uit.
+- Breng een kleine hoeveelheid aan op gewassen, handdoekdroog haar. Laat intrekken, kam door en spoel uit.
 - De voedende conditioner is speciaal ontwikkeld voor dun haar. De formule met versterkende Filler A-100 en aminozuren beschermt en verstevigt de haarvezel, voor soepel en glanzend haar met vollere punten.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

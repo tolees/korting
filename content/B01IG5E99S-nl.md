@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Sportieve Camper sneaker, Classic Camper Kever sneaker
 - Klassieke Camper Kever sneaker
+- Sportieve Camper sneaker, Classic Camper Kever sneaker
 - Kenmerken: EVA voor burgemeester ligereza
 - Kleur:
 - Sportieve Camper sneaker, Comodidad y estilo, Empeine: Piel (Piel vacuna)

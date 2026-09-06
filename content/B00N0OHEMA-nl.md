@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Duurzame metalen behuizing van hoogwaardige kwaliteit met een professionele uitstraling
-- Green-technologie vermindert het energieverbruik
-- 5 x RJ45-poorten (10/100/1000 MBps)
-- Slim beheer via de webmanagementpagina en downloadbaar hulpprogramma
 - Plug and play: geen configuratie nodig
+- Slim beheer via de webmanagementpagina en downloadbaar hulpprogramma
+- Green-technologie vermindert het energieverbruik
+- Duurzame metalen behuizing van hoogwaardige kwaliteit met een professionele uitstraling
+- 5 x RJ45-poorten (10/100/1000 MBps)
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00N0OHEMA{{</world>}}

@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Hoogwaardig materiaal
 - Biedt een optimaal en passend resultaat
 - Eenvoudig in gebruik
+- Hoogwaardig materiaal
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CW71XMRS{{</world>}}

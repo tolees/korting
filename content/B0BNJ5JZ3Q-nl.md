@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Niet vet, plakt niet en laat geen witte waas achter. Vegan formule**.
 - De textuur is vloeibaarder dan een klassieke zonnebrandcrème*.
 - Hypoallergeen en parfumvrij.
-- Niet vet, plakt niet en laat geen witte waas achter. Vegan formule**.
 - De bescherming van een zonnebrand met de huidvoordelen van een serum.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

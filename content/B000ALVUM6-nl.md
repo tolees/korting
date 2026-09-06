@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- INTENSE KOFFIESMAAK - Geconcentreerde waterdoorstroming zorgt voor een optimale extractie van smaken uit de gemalen koffie
+- HANDIG EN ENERGIEZUINIG - Automatische uitschakeling bespaart energie; met snoeropbergvak en waterniveau-indicator voor praktisch gebruik in de keuken
 - GEEN GEDOE MET DRUPPELS - Dankzij de druppelstop kunt u een kop koffie inschenken voordat het hele zetproces is voltooid
 - HEERLIJKE KOFFIE DIE LANG WARM BLIJFT - Premium thermische kan van roestvrij staal houdt koffie meer dan 2 uur op temperatuur; minstens 65°C dankzij dubbelwandig ontwerp
-- HANDIG EN ENERGIEZUINIG - Automatische uitschakeling bespaart energie; met snoeropbergvak en waterniveau-indicator voor praktisch gebruik in de keuken
+- INTENSE KOFFIESMAAK - Geconcentreerde waterdoorstroming zorgt voor een optimale extractie van smaken uit de gemalen koffie
 - VOLLE AROMA’S MET SLIMME SLUITING - Thermische kan met slimme vergrendeling behoudt warmte en aroma; eenvoudig te bedienen voor optimaal gebruiksgemak
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- IN DE VERPAKKING: Sneaker cleaner, harde borstel, zachte borstel, sponsborstel en 4 AA-batterijen voor direct gebruik
-- ALTIJD DE JUISTE BORSTEL: Hard voor rubberzolen en profiel, zacht voor gaas en canvas, sponsborstel voor pvc, leer, suède en delicate stoffen
 - DE ULTIEME SNEAKER CLEANER KIT: Effectieve reiniging met tot 500 draaibewegingen per minuut en 3 borstelkoppen voor verschillende materialen voor optimale sneakerverzorging
+- ALTIJD DE JUISTE BORSTEL: Hard voor rubberzolen en profiel, zacht voor gaas en canvas, sponsborstel voor pvc, leer, suède en delicate stoffen
+- IN DE VERPAKKING: Sneaker cleaner, harde borstel, zachte borstel, sponsborstel en 4 AA-batterijen voor direct gebruik
 - MAKKELIJK VOOR ONDERWEG: Compacte sneaker cleaner werkt op batterijen, ideaal om mee te nemen en altijd sneakers schoon te houden
 - EENVOUDIG TE GEBRUIKEN: Bevochtig de borstel met water en zeep, reinig sneakers grondig en droog ze af met een doek voor een frisse look
 

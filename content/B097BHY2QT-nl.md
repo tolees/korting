@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- De haarvezel is verzorgd. Gekleurd haar wordt beschermd tegen kleurvervaging en invloeden van buitenaf, voor een frisse uitstraling.
 - Breng een kleine hoeveelheid aan op vochtig haar, masseer in en spoel uit. Combineer met Vitamino Color producten.
 - Deze shampoo met resveratrol is speciaal ontworpen voor gekleurd haar. Het beschermt tegen invloeden van buitenaf zoals UV-stralen en vervuilende microdeeltjes, voor een langer kleurbehoud en een natuurlijke glans.
-- De haarvezel is verzorgd. Gekleurd haar wordt beschermd tegen kleurvervaging en invloeden van buitenaf, voor een frisse uitstraling.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B097BHY2QT{{</world>}}

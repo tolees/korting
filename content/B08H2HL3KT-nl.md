@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Hakhoogte: 5 cm
-- Gemakkelijk en snel aan te trekken, dankzij de elastische bovenwerk
 - De gepatenteerde Geox-systemen garanderen de ademende werking van de buitenzool, zodat de voet comfortabel blijft.
+- Gemakkelijk en snel aan te trekken, dankzij de elastische bovenwerk
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08H2HL3KT{{</world>}}

@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Licht & ademend design
 - Kledingsstijl: informeel
+- Licht & ademend design
 - Sandalen van het merk Columbia
 
 [🛒 Buy it now!!]({{< param buyurl >}})

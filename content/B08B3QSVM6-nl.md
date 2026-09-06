@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Besturingssysteem: Android
 - Verpakkingsgewicht: 500,0 gram
 - Land van herkomst: China
+- Besturingssysteem: Android
 - Afmetingen verpakking (L x B x H): 17,5 x 9,0 x 5,5 cm
 
 [🛒 Buy it now!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Producttype: Geur
 - Merk: Versace
+- Producttype: Geur
 - Product inhoud: 100 ml
 
 [🛒 Check the deal!!]({{< param buyurl >}})

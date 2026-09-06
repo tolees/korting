@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Opmerkelijke keuze aan contrasterende kleuren, elk veelzijdig combineerbaar
-- Dankzij het flexibele materiaal compatibel met brillen
-- Omni-Heat-binnenvoering met thermische reflectie voor meer warmte
 - Inhoud: 1 x Columbia Unisex Trail Shaker hoofdband, 100% polyester, kleur: zwart, maat: S/M, 1862561
+- Opmerkelijke keuze aan contrasterende kleuren, elk veelzijdig combineerbaar
+- Omni-Heat-binnenvoering met thermische reflectie voor meer warmte
+- Dankzij het flexibele materiaal compatibel met brillen
 - Discrete en efficiënte oorwarmer, een stijlvolle look bij outdoorsporten
 
 [🛒 Check the deal!!]({{< param buyurl >}})

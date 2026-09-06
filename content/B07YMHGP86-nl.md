@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Overweldigende RGB-verlichting met dynamische effecten
 - Mechanische HyperX Switches*
+- Overweldigende RGB-verlichting met dynamische effecten
+- Ultracompact TKL-design (tenkeyless) met afneembare USB-C-kabel
 - Volledig aluminium behuizing in vliegtuigkwaliteit
 - Geavanceerde personalisatie met de HyperX NGENUITy-software
-- Ultracompact TKL-design (tenkeyless) met afneembare USB-C-kabel
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07YMHGP86{{</world>}}

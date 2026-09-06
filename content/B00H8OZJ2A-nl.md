@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Verbetert zichtbaar de haarkwaliteit met verzorgende formule
 - Kleurcrème op basis van 60% oliën
 - Tot 100% grijsdekking
-- Verbetert zichtbaar de haarkwaliteit met verzorgende formule
 - Permanente haarkleuring zonder ammoniak voor een aangename geur
 - Intense, langhoudende kleur
 

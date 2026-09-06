@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Doe het hele jaar door mee aan seizoensgebonden thema-evenementen met nieuwe en spannende nummers
 - Makkelijk of intens, kies je uitdaging
-- Één platform met alle content
+- Doe het hele jaar door mee aan seizoensgebonden thema-evenementen met nieuwe en spannende nummers
 - Workout-modus voor fitnessfanaten
 - 40 nieuwe en leuke nummers voor iedereen
+- Één platform met alle content
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0D7PWBZC3{{</world>}}

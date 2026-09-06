@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Breng super gemakelijk, snel en precies aan met de ingebouwde sponsapplicator.
+- Brengt aan op de huid voor de perfecte glowy make-up look.
 - 4-in-1 primer, concealer, highlighter en BB-cream in één tube.
 - Verkrijgbaar in zeven shades die zich aanpassen aan de huidskleur.
-- Brengt aan op de huid voor de perfecte glowy make-up look.
 - Volledig vegan*, 4-in-1 formule die vervaagt, concealt, accentueert en egaliseert.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
