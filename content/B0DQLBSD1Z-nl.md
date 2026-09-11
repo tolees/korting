@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Trekt snel in en plakt niet
-- Niet vet
-- Zonnebrandcrème met SPF 50+
 - Hydrateert de huid gedurende 24 uur
+- Zonnebrandcrème met SPF 50+
+- Niet vet
 - Beschermt tegen UVA- en UVB-straling
+- Trekt snel in en plakt niet
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DQLBSD1Z{{</world>}}

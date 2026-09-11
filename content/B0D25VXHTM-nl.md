@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Beschermt tegen door de zon veroorzaakte donkere vlekken
-- Bedekt pigmentvlekken onmiddellijk
-- Voor een egale, stralende huid met een vlekkeloze teint
-- Microingekapselde pigmenten die de huidtint aanpassen zorgen voor een natuurlijk ogende dekking
 - Vermindert zichtbaar pigmentvlekken in 2 weken
+- Microingekapselde pigmenten die de huidtint aanpassen zorgen voor een natuurlijk ogende dekking
+- Voor een egale, stralende huid met een vlekkeloze teint
+- Bedekt pigmentvlekken onmiddellijk
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0D25VXHTM{{</world>}}

@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Dit is een authentiek en origineel product. Geox
 - het zorgt voor een optimale pasvorm
+- Dit is een authentiek en origineel product. Geox
 - Deze stijl is duurzaam geproduceerd
 - Aangenaam om te dragen
 

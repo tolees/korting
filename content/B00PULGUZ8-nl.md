@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Reinigt en verzacht de gevoelige huid
 - Verwijdert make-up in één beweging zonder veel wrijven en irritaties
+- Reinigt en verzacht de gevoelige huid
 - Gezichtsreiniging zonder de huid uit te drogen dankzij het hydraterende effect
 - Milde make-up remover zonder parfum en alcohol* (* Ethyl alcohol)
 - Geurloze formule

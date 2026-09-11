@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Niet vet, trekt snel in
-- Hydrateert en verzacht
 - Aftersun spray​
+- Hydrateert en verzacht
 - Met cactusextract en glycerine
 
 [🛒 Check the deal!!]({{< param buyurl >}})

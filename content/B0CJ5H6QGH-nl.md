@@ -30,8 +30,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Nieuwe en verbeterde lippenstift: crèmig en verrijkt met verzorgende arganolie, wat zorgt voor zachte, gladde en soepele lippen, tot 12 uur lang.
 - Speciale vorm, aangepast aan je lippen: de lippenstift is eenvoudig aan te brengen. Teken je lipcontour met een lippotlood in een bijpassende tint en vul vervolgens in met de Color Riche lippenstift.
-- De meest intense, rijke kleurtjes: hul je lippen in een intens crèmige, ultra-gepigmenteerde nude tint, voor een subtiele en alledaagse maar toch verleidelijke look. Geschikt voor elke gelegenheid!
 - Verzorgende formule voor zachte applicatie op de lippen: de lippenstift is intens hydraterend en verzorgend, voor een comfortabel gevoel op de lippen en voluptueus uitziende lippen.
+- De meest intense, rijke kleurtjes: hul je lippen in een intens crèmige, ultra-gepigmenteerde nude tint, voor een subtiele en alledaagse maar toch verleidelijke look. Geschikt voor elke gelegenheid!
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0CJ5H6QGH{{</world>}}

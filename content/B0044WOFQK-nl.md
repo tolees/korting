@@ -29,9 +29,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Extra zwarte kleurformule t.o.v. de Volume Million Lashes Mascara Classic
+- Verrijkt met verzorgende kamille en zwarte orchidee oliën voor zachte wimpers
 - Geeft clean volume en separatie voor een natuurlijk resultaat
 - Deze L’Oréal mascara is geschikt voor gevoelige ogen
-- Verrijkt met verzorgende kamille en zwarte orchidee oliën voor zachte wimpers
 - Uniek borstelontwerp waardoor jouw wimpers verspreid worden voor een open blik
 
 [🛒 Buy it now!!]({{< param buyurl >}})

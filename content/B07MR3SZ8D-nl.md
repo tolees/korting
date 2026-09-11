@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - De ultra lichte, crèmige formule kan gemakkelijk worden gemengd en geeft tegelijkertijd voldoende vocht.
-- 2-in-1: vloeibare concealer en make-up voor het afdekken, camoufleren en contouren.
-- Sterke dekking dankzij de sterk gepigmenteerde formule – kringen onder de ogen, roodheid en oneffenheden met slechts één veeg laten verdwijnen.
 - Ook ideaal voor het opfrissen van make-up onderweg.
+- Sterke dekking dankzij de sterk gepigmenteerde formule – kringen onder de ogen, roodheid en oneffenheden met slechts één veeg laten verdwijnen.
 - Dankzij de XXL-applicator kan de concealer zowel punctueel als op het hele gezicht als make-up worden aangebracht.
+- 2-in-1: vloeibare concealer en make-up voor het afdekken, camoufleren en contouren.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07MR3SZ8D{{</world>}}

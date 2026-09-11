@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Opmerking; Voor een perfecte installatie nadat u de sjabloon op het apparaat hebt geplaatst, drukt u stevig van boven naar beneden op het stickergebied
-- Compatibiliteit; Compatibel met PlayStation Portal Remote Player voor PS5-Konsolen
 - Olievrij; Oleofobe coating voor dagelijkse weerstand tegen vingerafdrukken
 - Case friendly; Nauwkeurige uitsparing biedt perfecte compatibiliteit met Spigen cases
+- Opmerking; Voor een perfecte installatie nadat u de sjabloon op het apparaat hebt geplaatst, drukt u stevig van boven naar beneden op het stickergebied
+- Compatibiliteit; Compatibel met PlayStation Portal Remote Player voor PS5-Konsolen
 - 9H hardheid; Gemaakt van duurzaam 9H gehard glas ter bescherming tegen alledaagse krasse
 
 [🛒 Check the deal!!]({{< param buyurl >}})

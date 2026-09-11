@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Hydrateert de huid en geeft een verfrissend gevoel
 - Transparante textuur
 - Waterresistent
 - Mist met SPF 30
 - Beschermt tegen UVA- en UVB-straling
+- Hydrateert de huid en geeft een verfrissend gevoel
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FNXBRD7M{{</world>}}

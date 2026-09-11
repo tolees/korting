@@ -30,8 +30,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Euphoria for Women is een Eau de Parfum die vrouwelijkheid uitstraalt
 - Euphoria is een verleidelijke en onweerstaanbare geur die de belofte van onvergetelijke herinneringen brengt levenlust opwekt en inspireert tot het opdoen van nieuwe ervaringen
-- Spannend
 - Mysterieus
+- Spannend
 - Uitdagend
 
 [🛒 Buy it now!!]({{< param buyurl >}})

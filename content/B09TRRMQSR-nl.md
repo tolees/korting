@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Vermenigvuldigd wimpers zonder klonteren.
-- Zigzagvezelborstel die alle wimpers vangt.
 - Langhoudende mascara.
+- Zigzagvezelborstel die alle wimpers vangt.
+- Vermenigvuldigd wimpers zonder klonteren.
 - Op maat gemaakte waterdichte mascara voor extreem volume.
 - Formule verrijkt met collageen en extreem zwarte pigmenten.
 

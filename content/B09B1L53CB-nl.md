@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Extreem belastbaar en krasbestendig dankzij 9H-hardheid en voorkomt vingerafdrukken.
-- Super dun: 0,3 mm, betrouwbaar, belastbaar en belooft volledige bruikbaarheid en gevoeligheid van het touchscreen.
 - Verpakkingsinhoud: 3 x displaybeschermfolies van gehard glas, stickers voor het verwijderen van stof, handleiding.
 - Kristalhelder met 99,9% schermtransparantie, zorgt voor een natuurlijke kijkervaring.
+- Extreem belastbaar en krasbestendig dankzij 9H-hardheid en voorkomt vingerafdrukken.
+- Super dun: 0,3 mm, betrouwbaar, belastbaar en belooft volledige bruikbaarheid en gevoeligheid van het touchscreen.
 - Speciaal ontworpen voor Nintendo Switch OLED (Modellen 2021).
 
 [🛒 Check the deal!!]({{< param buyurl >}})
