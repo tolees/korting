@@ -28,13 +28,13 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Meerdere eindes mogelijk op basis van de keuzes van de spelers
 - De stem van RoboCop is ingesproken door de oorspronkelijke acteur, Peter Weller
-- Een skilltree om je vaardigheden te verbeteren naarmate je verder komt in de game
-- Twintig wapens die kunnen worden buitgemaakt van vijanden
 - Halfopen levels met nevenmissies om te voltooien
-- Gameplay die zich kan meten met de beste FPS-games en vol onvergetelijke actiescènes
+- Twintig wapens die kunnen worden buitgemaakt van vijanden
 - Warmtesensor, nachtvisie en andere robotupgrades om te gebruiken in gevechten en tijdens onderzoeken
+- Meerdere eindes mogelijk op basis van de keuzes van de spelers
+- Een skilltree om je vaardigheden te verbeteren naarmate je verder komt in de game
+- Gameplay die zich kan meten met de beste FPS-games en vol onvergetelijke actiescènes
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0C5JKYGLV{{</world>}}

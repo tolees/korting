@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Intens voedende permanente haarkleuring
-- Langhoudend kleurresultaat
 - Tot 2 keer glanzender haar*
 - Tot 5 keer sterker haar*
+- Langhoudend kleurresultaat
 - Tot 100% grijsdeking
 
 [🛒 Buy it!!]({{< param buyurl >}})

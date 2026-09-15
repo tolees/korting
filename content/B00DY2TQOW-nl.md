@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Voeten blijven koel en droog dankzij het ademende membraan en de geperforeerde zool
 - De rubberen zool is geperforeerd en bevat een speciaal microporeus membraan, waterdicht en ademend, dat zweet absorbeert en afvoert zonder water binnen te laten
+- Voeten blijven koel en droog dankzij het ademende membraan en de geperforeerde zool
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B00DY2TQOW{{</world>}}

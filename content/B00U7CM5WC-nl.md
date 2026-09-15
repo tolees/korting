@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Uitneembare binnenzool
-- Schoeisel dat optimale warmte-isolatie biedt.
-- Lichtgewicht schoeisel voor meer bewegingsvrijheid.
 - De gepatenteerde Geox-systemen garanderen de ademende werking van de buitenzool, zodat de voet comfortabel blijft.
+- Lichtgewicht schoeisel voor meer bewegingsvrijheid.
+- Schoeisel dat optimale warmte-isolatie biedt.
 - Amphibiox-technologie maakt het bovenwerk waterdicht, voor superieure bescherming in alle weersomstandigheden
+- Uitneembare binnenzool
 - Gemakkelijk aanpasbare pasvorm, dankzij de vetersluiting.
 
 [🛒 Check the deal!!]({{< param buyurl >}})

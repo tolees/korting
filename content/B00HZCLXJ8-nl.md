@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Kleur: Zwart
 - Voering: 64% Stof (60% Nylon - 40% PU) 36% Stof (100% Gerecycled PET)
 - Klittenbandsluitsysteem voor eenvoudige pasvorm
+- Kleur: Zwart
 - Bovenwerk: Kalfsleer / Technische stof
 - Buitenzool/Kenmerken: Gestikte rubberen buitenzool voor duurzaamheid en goede grip
 

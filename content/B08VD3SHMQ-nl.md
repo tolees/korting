@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- ZIE HET GELUID – De RGB-verlichting met 6 kleurmodi maakt elk mediagebruik tot een levendige audiovisuele ervaring
-- CONTROLEFREAK – Dankzij de toegankelijke bedieningsfuncties verhoog, verlaag en verander je het geluid helemaal zoals jij wilt
-- OORSTRELEND GELUID – Volledig stereogeluid (12 W piekvermogen) zorgt voor een intensieve audiobeleving tijdens het gamen, een filmavondje of het beluisteren van je favoriete muziek
 - PLUG-AND-PLAY – Sluit de USB-kabel aan en begin zonder enige installatie direct met luisteren – zo simpel en snel is het echt
+- ZIE HET GELUID – De RGB-verlichting met 6 kleurmodi maakt elk mediagebruik tot een levendige audiovisuele ervaring
+- OORSTRELEND GELUID – Volledig stereogeluid (12 W piekvermogen) zorgt voor een intensieve audiobeleving tijdens het gamen, een filmavondje of het beluisteren van je favoriete muziek
+- CONTROLEFREAK – Dankzij de toegankelijke bedieningsfuncties verhoog, verlaag en verander je het geluid helemaal zoals jij wilt
 - TERUG NAAR DE BASIS – Laat je niet om de tuin leiden door het gestroomlijnde, slanke en minimalistische ontwerp: het geluid uit deze speakers brengt heel wat leven in de brouwerij
 
 [🛒 Buy it now!!]({{< param buyurl >}})

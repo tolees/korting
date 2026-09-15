@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Met zeer hoge SPF50 bescherming tegen verouderende UV-straling
-- Deze dagcrème vult rimpels, lijntjes en kraaienpootjes
 - Verrijkt met micro hyaluronzuur, 50x kleiner dan regulier hyaluronzuur
+- Deze dagcrème vult rimpels, lijntjes en kraaienpootjes
 - Formule met 3 soorten hyaluronzuur
+- Met zeer hoge SPF50 bescherming tegen verouderende UV-straling
 - Geeft de huid meer volume en stevigheid
 
 [🛒 Check the deal!!]({{< param buyurl >}})

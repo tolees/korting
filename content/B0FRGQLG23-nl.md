@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Acacia, Manuka & Lavendel honing
+- Zonder siliconen, voor een natuurlijk gevoel
 - 10x minder haarbreuk in slechts 1 minuut*
 - 97% natuurlijke oorsprong
 - 2x minder gespleten punten in slechts 1 minuut*
-- Acacia, Manuka & Lavendel honing
-- Zonder siliconen, voor een natuurlijk gevoel
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0FRGQLG23{{</world>}}

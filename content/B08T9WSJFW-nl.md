@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Fleecestof voelt zacht en warm.
 - De capuchon met trekkoord kun je je hoes aanpassen.
+- Fleecestof voelt zacht en warm.
 - Kangoeroezak aan de voorkant
 
 [🛒 Buy it now!!]({{< param buyurl >}})

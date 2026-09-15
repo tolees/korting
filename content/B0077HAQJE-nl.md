@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Extra zwarte formule voor een intense look
-- Langhoudende mascara die tot 24 uur blijft zitten
 - Verrijkt met collageen voor mega volume
+- Langhoudende mascara die tot 24 uur blijft zitten
 - In een beweging aan te brengen door de grote applicator
+- Extra zwarte formule voor een intense look
 - Breng in een zigzaggende beweging aan om wimpers goed te spreiden
 
 [🛒 Buy it now!!]({{< param buyurl >}})

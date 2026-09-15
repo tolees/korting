@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Geruisloze werking, laag stroomverbruik, schokbestendig
-- Klein en handzaam, bijzonder krachtig.
 - Stroomvoorziening via USB 3.0 aansluiting (achterwaarts compatibel)
 - Maximale Transferrate: tot 320 MB/s
+- Klein en handzaam, bijzonder krachtig.
 - Inhoud: externe SSD en USB 3.0 kabel
 
 [🛒 Buy it!!]({{< param buyurl >}})

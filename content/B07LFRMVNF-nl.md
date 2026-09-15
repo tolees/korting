@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Gemakkelijk te dragen, voor ongeëvenaard comfort.
+- Hakhoogte: 2 cm
 - Schoeisel zonder sluiting
 - De gepatenteerde Geox-systemen garanderen de ademende werking van de buitenzool, zodat de voet comfortabel blijft.
-- Hakhoogte: 2 cm
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B07LFRMVNF{{</world>}}

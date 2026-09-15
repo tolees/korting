@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Projecten Frozen beelden met de 3 schijven (24 afbeeldingen) inbegrepen. Herhaal Olaf, Anna, Elsa, Kristoff en andere Frozen personages en haal wat licht in het donker!
 - Voeding: 3 batterijen AG13/LR44 (meegeleverd).
 - 2-in-1, schakelt ook over in een zeer praktische LED-zaklamp die een zacht wit licht verspreidt. Kinderen kunnen naar het toilet gaan, hun knuffel in het donker vinden, gewoon de Frozen fakkel aansteken!
-- Projecten Frozen beelden met de 3 schijven (24 afbeeldingen) inbegrepen. Herhaal Olaf, Anna, Elsa, Kristoff en andere Frozen personages en haal wat licht in het donker!
 - Creëer je eigen verhalen dankzij de beelden die elkaar in een logische volgorde opvolgen. Laten we een nieuw Frozen hoofdstuk maken: de slaapkamer van je kind wordt het theater van nieuwe verhalen!
 
 [🛒 Buy it now!!]({{< param buyurl >}})

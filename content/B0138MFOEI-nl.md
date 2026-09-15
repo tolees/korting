@@ -30,9 +30,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Formule verrijkt met hyaluronzuur
 - Natuurlijke dekking
-- beschikbaar in 45 tinten
-- SPF 16
 - Nieuwe skin-matching technologie: Meer pigmenten. Een preciezere match.
+- SPF 16
+- beschikbaar in 45 tinten
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0138MFOEI{{</world>}}

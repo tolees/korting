@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Dit is een origineel en origineel product. Geox
 - Aangenaam om te dragen
+- Dit is een origineel en origineel product. Geox
 - Zorgt voor een optimale pasvorm
 - Deze stijl is duurzaam geproduceerd
 

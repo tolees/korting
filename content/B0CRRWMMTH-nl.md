@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Pokeball (17cm) Pikachu (22cm)
 - Hangende honingraatdecoraties met Pokeball, Pikachu en Snorlax.
 - Pokémon, ik moet ze allemaal vangen en een episch verjaardagsfeestje geven!
-- Materiaal: Papier
+- Pokeball (17cm) Pikachu (22cm)
 - Verpakking van 3
+- Materiaal: Papier
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CRRWMMTH{{</world>}}
