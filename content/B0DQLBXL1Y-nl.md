@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Hydrateert de huid gedurende 24 uur
 - Trekt snel in en plakt niet
 - Beschermt tegen UVA- en UVB-straling
 - Niet vet
 - Zonnebrandcrème met SPF 30
-- Hydrateert de huid gedurende 24 uur
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DQLBXL1Y{{</world>}}

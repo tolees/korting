@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- De Smart Folio voor iPad Air is gemaakt uit één stuk polyurethaan dat de voorkant en de achterkant van je device beschermt.
-- Bovendien kun je de Smart Folio in diverse standen neerzetten, bijvoorbeeld om op je gemak iets te lezen, te kijken of te typen, of om een FaceTime-gesprek te voeren.
 - Als je ’m open‑ of dichtklapt, gaat de sluimerstand van je iPad automatisch uit of aan.
+- Bovendien kun je de Smart Folio in diverse standen neerzetten, bijvoorbeeld om op je gemak iets te lezen, te kijken of te typen, of om een FaceTime-gesprek te voeren.
+- De Smart Folio voor iPad Air is gemaakt uit één stuk polyurethaan dat de voorkant en de achterkant van je device beschermt.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09V4GSV3T{{</world>}}

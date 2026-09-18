@@ -29,10 +29,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Optimale pasvorm en verhoogde bewegingsvrijheid door raglanmouwen
-- Extra bescherming tegen wind en kou door hoge kraag en behaaglijk fleece-materiaal
-- Praktische, doorlopende ritssluiting, 2 zakken met ritssluiting voor warme handen, veiligheidsborstzak met ritssluiting
 - Inhoud: 1 x Columbia Fast Trek II fleecejack voor dames, met doorlopende ritssluiting, kleur: grijs (City Grey Heather, City Grey), maat: M, type: 1465351
+- Praktische, doorlopende ritssluiting, 2 zakken met ritssluiting voor warme handen, veiligheidsborstzak met ritssluiting
 - Fleecejack voor dames, ideaal voor wandelingen, trailrunning of andere outdoor-activiteiten, ook draagbaar als tussenlaag op koude winterdagen, normale pasvorm
+- Extra bescherming tegen wind en kou door hoge kraag en behaaglijk fleece-materiaal
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0C63ZG99F{{</world>}}

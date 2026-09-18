@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Hydrateert intensief voor 48 uur*
-- Verbetert de elasticiteit van de huid vanaf 10 dagen*
 - Met 99,5% pure Q10 + vitamine C
+- Verbetert de elasticiteit van de huid vanaf 10 dagen*
 - Verstevigt de huid zichtbaar
+- Hydrateert intensief voor 48 uur*
 - Geeft een aangename geur
 
 [🛒 Buy it now!!]({{< param buyurl >}})

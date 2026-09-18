@@ -29,13 +29,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Kinbeschermer
+- Waterafstotende stof
 - Handzakken met ritssluiting
+- Omni-Shield geavanceerde afstotendheid sluit spatten en vlekken uit geavanceerde afstotendheid
+- Elastische manchetten
 - 100% gerecycled polyester Thermarator isolatie
 - Verstelbare zoom met trekkoord.
-- Waterafstotende stof
-- Omni-Shield geavanceerde afstotendheid sluit spatten en vlekken uit geavanceerde afstotendheid
 - Omni-Heat thermisch reflecterend
-- Elastische manchetten
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CN3W7FQ9{{</world>}}

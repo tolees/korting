@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Duurzaamheid:
 - Lichtgewicht
+- Duurzaamheid:
 - 100% leer
 
 [🛒 Buy it!!]({{< param buyurl >}})

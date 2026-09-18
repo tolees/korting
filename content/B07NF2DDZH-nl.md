@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Materiaal: 925 sterling zilver
-- Formaat: 23,5 mm
 - Kleur: zilvergroen/stenen: bezet met groene en witte kristallen
+- Formaat: 23,5 mm
 - Gravure op de achterkant "Anything is Possible" / schijf met uitgestanst klaverblad / gedeeltelijk zwart gemaakt
 - Het artikel wordt niet in een doos verzonden. Deze moet apart worden gekocht
 

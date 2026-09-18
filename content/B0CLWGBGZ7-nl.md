@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Techlite tussenzool biedt duurzame demping en schokabsorptie met lichtgewicht responsief schuim
 - Suède en synthetisch bovenwerk met metalen hardware
+- Techlite tussenzool biedt duurzame demping en schokabsorptie met lichtgewicht responsief schuim
 - Omni grip buitenzool biedt stabiliteit en tractie op elk terrein met non-marking rubber en een profielpatroon dat zich aanpast aan verschillende ondergronden
 
 [🛒 Buy it!!]({{< param buyurl >}})

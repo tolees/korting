@@ -29,10 +29,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Perfect voor elke gelegenheid: of je nu naar kantoor gaat, een avondje uit gaatof gewoon lekker thuis blijft.
-- Dit is een geweldig cadeau voor een geliefde of voor jezelf.
 - Nieuwe look, zelfde geur.
-- Deze heerlijke geur is geweldig voor de zomermaanden.
 - Kleinere verpakking met FSC-certificering.
+- Deze heerlijke geur is geweldig voor de zomermaanden.
+- Dit is een geweldig cadeau voor een geliefde of voor jezelf.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0D8HZBCQC{{</world>}}
