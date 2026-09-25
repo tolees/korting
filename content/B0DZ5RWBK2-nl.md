@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - ONZICHTBARE BESCHERMENDE LAAG
-- Aangeboden in 2 formaten, geschikt voor puistjes van elke grootte
-- VERMINDERT puistjes zichtbaar in 8 uur* *Klinische studie naar zichtbaarheid van puistjes na 1 applicatie, 47 personen. ​
-- GARNIER PURE ACTIVE PIMPLE PATCH absorbeert vocht en onzuiverheden
 - Drievoudige werking tegen de zichtbaarheid van puistjes: grootte, volume en kleur.
+- VERMINDERT puistjes zichtbaar in 8 uur* *Klinische studie naar zichtbaarheid van puistjes na 1 applicatie, 47 personen. ​
+- Aangeboden in 2 formaten, geschikt voor puistjes van elke grootte
+- GARNIER PURE ACTIVE PIMPLE PATCH absorbeert vocht en onzuiverheden
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DZ5RWBK2{{</world>}}

@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Met trekkoord kun je je afdekking aanpassen.
 - Fleecestof voelt zacht en warm.
+- Met trekkoord kun je je afdekking aanpassen.
 - Kangoeroezak aan de voorkant
 
 [🛒 Buy it!!]({{< param buyurl >}})

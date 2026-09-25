@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Black Ops 6 markeert ook de epische terugkeer van het fan-favoriete speltype Zombies
 - De Black Ops 6 Campaign biedt dynamische gameplay met verschillende speelgebieden met prachtige achtergronden, intense actie en fantastische spionageactiviteiten
 - In een eersteklas multiplayer-ervaring kunnen spelers bij de lancering hun vaardigheden testen op 16 nieuwe maps, waaronder 12 standaard 6v6 maps en 4 combat maps die speelbaar zijn in 2v2 of 6v8
+- Black Ops 6 markeert ook de epische terugkeer van het fan-favoriete speltype Zombies
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0D6MVVY48{{</world>}}

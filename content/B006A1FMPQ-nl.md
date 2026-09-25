@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Geschikt voor: koud weer
 - Laarzen van het merk COLUMBIA
+- Geschikt voor: koud weer
 - Stevig design voor simpele bewegingen
 
 [🛒 Buy it!!]({{< param buyurl >}})

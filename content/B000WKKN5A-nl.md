@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Door onbeperkte mengmogelijkheden kun je delicate tinten en verschillende tinten creëren
 - 50 handige krijtjes die gemakkelijk en soepel aan te brengen zijn
 - Intensief dekkende kleuren voor papier en karton, maar ook hout, linnen of klei
+- Door onbeperkte mengmogelijkheden kun je delicate tinten en verschillende tinten creëren
 - Met oplosmiddel, zuurvrij
 
 [🛒 Buy it now!!]({{< param buyurl >}})

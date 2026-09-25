@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Reisformaat
 - Reinigt, verwijdert makeup en verzacht de huid
+- Reisformaat
 - Is verrijkt met micellen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

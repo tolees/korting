@@ -28,16 +28,16 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Works with Android smartphones, tablets, action cams, drones, gaming consoles and more.
-- A2-classificatie voor sneller laden en in-app prestaties
-- Sequential Read/Write speeds up to 200/130 MB/s with UHS-I interface.
-- 6-voudige bescherming: Waterdicht, Temperatuurbestendig, Röntgenbestendig, Magneetbestendig, Valbestendig, Slijtvast
-- 10-year limited warranty
-- Rated A2 for faster loading and in-app performance
-- Sequentiële lees-/schrijfsnelheden tot 200/130 MB/s met UHS-I interface.
 - 10 jaar beperkte garantie
 - Werkt met Android smartphones, tablets, action cams, drones, gameconsoles en meer.
+- Works with Android smartphones, tablets, action cams, drones, gaming consoles and more.
+- Sequential Read/Write speeds up to 200/130 MB/s with UHS-I interface.
+- 10-year limited warranty
+- 6-voudige bescherming: Waterdicht, Temperatuurbestendig, Röntgenbestendig, Magneetbestendig, Valbestendig, Slijtvast
+- Rated A2 for faster loading and in-app performance
+- Sequentiële lees-/schrijfsnelheden tot 200/130 MB/s met UHS-I interface.
 - 6-Proof protection: Waterproof, Temperature proof, X-ray proof, Magnet proof, Drop proof, Wearout proof
+- A2-classificatie voor sneller laden en in-app prestaties
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CBMGDBTH{{</world>}}

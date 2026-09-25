@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Geeft glans aan het haar
-- Bevat plantaardige keratine, vitamines en castorolie
 - *Instrumentele test na 5 applicaties van de shampoo en het masker van deze lijn
+- Geeft glans aan het haar
 - Beschermt tegen haarbreuk en gespleten punten
+- Bevat plantaardige keratine, vitamines en castorolie
 - Intens herstel van het haar tot in de puntjes
 
 [🛒 Check the deal!!]({{< param buyurl >}})

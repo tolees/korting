@@ -28,15 +28,15 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- WiFi + PLC Hybrid Mesh: een hybride netwerk versterkt de bandbreedte
+- Krachtige processor: Qualcomm Quad-Core CPU
 - Maximaal bereik: WiFi-bereik tot wel 560 m2 (3-pack)
-- Ondersteunt verbindingen tot 100+ apparaten
-- Draadloze klasse: AC1200 + HomePlug AV1000
 - De hardware is compatibel met Amazon Alexa en IFTTT
+- Ondersteunt verbindingen tot 100+ apparaten
+- WiFi + PLC Hybrid Mesh: een hybride netwerk versterkt de bandbreedte
+- Draadloze klasse: AC1200 + HomePlug AV1000
+- Met powerline vormen muren of afstanden geen beperking meer. Geniet thuis overal van WiFi!
 - De eerste die met de modem is verbonden, werkt in de Router Modus, en je kunt andere Decos overal plaatsen waar je de wifi-dekking wilt uitbreiden, en deze Decos zouden in Access Point Modus moeten werken
 - Simpel en slim: met de Deco app configureer en beheer je eenvoudig het netwerk
-- Krachtige processor: Qualcomm Quad-Core CPU
-- Met powerline vormen muren of afstanden geen beperking meer. Geniet thuis overal van WiFi!
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07XY7WJ4W{{</world>}}

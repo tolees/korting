@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Inhoud: HyperX Cloud II gaming koptelefoon rood
 - Optimaal voor professionele spelers: passieve ruisonderdrukking door gesloten oorschelpen
-- Compatibiliteit: USB-poort voor pc en Mac. jack voor PS4, Xbox One (controller adapter vereist) en mobiele apparaten
+- Inhoud: HyperX Cloud II gaming koptelefoon rood
 - 4P5M0AA
+- Compatibiliteit: USB-poort voor pc en Mac. jack voor PS4, Xbox One (controller adapter vereist) en mobiele apparaten
 - Gecertificeerd door TeamSpeak en geoptimaliseerd voor Skype en andere toonaangevende chatprogrammas. Demping van omgevingsgeluiden: ca. 20 dBA
 
 [🛒 Check the deal!!]({{< param buyurl >}})

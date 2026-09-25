@@ -29,9 +29,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Egaliseert en verfijnt de teint
+- Bevordert de verwijdering van dode huidcellen
 - Een zichtbaar gavere huid in 7 dagen*
 - Krachtige combinatie van AHA, BHA en niacinamide
-- Bevordert de verwijdering van dode huidcellen
 - Vermindert en voorkomt onzuiverheden
 
 [🛒 Check the deal!!]({{< param buyurl >}})

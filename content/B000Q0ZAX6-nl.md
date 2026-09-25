@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 1 stuk
 - Dit parfum kan in de zon worden gedragen zonder reactie van de huid
+- 1 stuk
 - Inhoud: 150 ml
 
 [🛒 Check the deal!!]({{< param buyurl >}})

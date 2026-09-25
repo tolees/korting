@@ -29,11 +29,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Het loopvlak met ingebouwd Flexy-systeem biedt een uitstekende flexibiliteit.
-- De gepatenteerde Geox-systemen garanderen de ademende werking van de buitenzool, zodat de voet comfortabel blijft.
-- Enkelsteun zorgt voor een correcte voetbeweging.
-- Binnenzool van gifvrij en chroomvrij leer.
-- Zeer snel aan te trekken, dankzij de riptape-sluiting.
 - Uitneembare binnenzool
+- Enkelsteun zorgt voor een correcte voetbeweging.
+- De gepatenteerde Geox-systemen garanderen de ademende werking van de buitenzool, zodat de voet comfortabel blijft.
+- Zeer snel aan te trekken, dankzij de riptape-sluiting.
+- Binnenzool van gifvrij en chroomvrij leer.
 - Antibacteriële binnenzool.
 - Gemakkelijk te dragen, voor ongeëvenaard comfort.
 

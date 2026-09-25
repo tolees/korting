@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Jurk met Engels borduurwerk als afwerking en geborduurde stippen
 - Minnie draagt haar klassieke rode outfit met witte handschoenen, gele schoentjes en een strik
 - 3D-oren en -strik
-- Met geborduurde details
-- Jurk met Engels borduurwerk als afwerking en geborduurde stippen
 - Ontworpen voor Disney Store
+- Met geborduurde details
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0B5FFGG28{{</world>}}

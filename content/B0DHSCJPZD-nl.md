@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Cadeau voor meisjes en jongens vanaf 5 jaar – dit eindeloos veelzijdige speelgoed voor 5 jaar en ouder is een kleurrijke en creatieve verrassing die is ontworpen om de fantasie van kinderen jarenlang te stimuleren
 - Bouwen aan vaardigheden – LEGO Classic speelgoed zit vol ideeën en inspiratie waarmee ouders bouwplezier en mijlpalen in de ontwikkeling met hun kinderen kunnen delen
+- Cadeau voor meisjes en jongens vanaf 5 jaar – dit eindeloos veelzijdige speelgoed voor 5 jaar en ouder is een kleurrijke en creatieve verrassing die is ontworpen om de fantasie van kinderen jarenlang te stimuleren
 - Kleurrijke, transparante LEGO bouwstenen – de Magische transparante doos is een creatief LEGO bouwpakket voor kinderen met leuke en fantasierijke modellen voor meisjes en jongens vanaf 5 jaar
 - Creatief speelgoed voor 5 jaar en ouder – transparante LEGO stenen, oog- en mondelementen en ophangelementen laten de creaties van kinderen nog meer sprankelen voor extra creatief bouwplezier en rollenspel-pret
 - Vergroot het speelplezier – bekijk het volledige assortiment LEGO Classic speelgoed voor kinderen (apart verkrijgbaar) voor nog meer fantasierijk speelplezier

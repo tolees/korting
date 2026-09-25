@@ -30,9 +30,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - In totaal ca. 1347 stuks
 - Geschikt vanaf 12 jaar | Waarschuwing: verstikkingsgevaar – kleine onderdelen
+- Verenigingsstickers voor de voorkant, de achterkant en de zijkanten van de bus inbegrepen
 - Afmetingen: ca. 23 cm x 8 cm x 6 cm in gemonteerde toestand
 - Constructiespeelgoed dat bestaat uit een miniatuurteamtrainer
-- Verenigingsstickers voor de voorkant, de achterkant en de zijkanten van de bus inbegrepen
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CL7Y3KWZ{{</world>}}

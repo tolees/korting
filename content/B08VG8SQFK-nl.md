@@ -29,10 +29,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Geschikt voor contouring
-- Tot 24 uur hydraterende verzorging
-- Vlekt en vlokt niet en is waterproof
 - Inclusief sponsje/kwastje voor precieze toepassing
+- Vlekt en vlokt niet en is waterproof
 - Zachte camouflagestift die iedere oneffenheid wegwerkt
+- Tot 24 uur hydraterende verzorging
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08VG8SQFK{{</world>}}

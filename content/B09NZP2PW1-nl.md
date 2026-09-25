@@ -30,8 +30,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 - Met officiële licentie van The Pokémon Company International
 - De 750 stenen kunnen worden gecombineerd met alle MEGA Pokémon bouwsets en bouwsets van andere merken
-- Dit speelgoed is ideaal voor kinderen vanaf 10 jaar, waarbij ze leren dingen te maken, creatief bezig te zijn en problemen op te lossen
 - Charmander heeft beweegbare armen, benen en staart, een bek die echt open kan, en kan op meerdere manieren worden neergezet
+- Dit speelgoed is ideaal voor kinderen vanaf 10 jaar, waarbij ze leren dingen te maken, creatief bezig te zijn en problemen op te lossen
 - Bouwset van Charmander van ca. 28 cm groot
 
 [🛒 Check the deal!!]({{< param buyurl >}})
