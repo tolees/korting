@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Bevat een beschermende crèmekleuring, een zachte pH shampoo en een voedend haarmasker
-- Tot 100% grijsdekking
 - Langdurige kleur en levendig, soepel haar
 - Universeel passende kleur: staat alle huidskleuren
+- Tot 100% grijsdekking
 - Drievoudige verzorging
+- Bevat een beschermende crèmekleuring, een zachte pH shampoo en een voedend haarmasker
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0C7CX2YT2{{</world>}}

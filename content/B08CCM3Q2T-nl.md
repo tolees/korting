@@ -30,8 +30,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Boost de vermoeide huid
 - De crème zorgt voor een fris gevoel zonder te plakken
-- Vermindert zichtbaar de 5 tekenen van vermoeidheid
 - Speciaal voor mannen die last hebben van een droge en vermoeide huid
+- Vermindert zichtbaar de 5 tekenen van vermoeidheid
 - 24 uur lang hydratatie
 
 [🛒 Buy it!!]({{< param buyurl >}})

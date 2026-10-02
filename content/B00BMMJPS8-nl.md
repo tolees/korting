@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Uitneembare binnenzool
+- De gepatenteerde Geox-systemen garanderen de ademende werking van de buitenzool, zodat de voet comfortabel blijft.
 - Antibacteriële binnenzool.
 - Gemakkelijk te dragen, voor ongeëvenaard comfort.
-- De gepatenteerde Geox-systemen garanderen de ademende werking van de buitenzool, zodat de voet comfortabel blijft.
-- Uitneembare binnenzool
 - Lichtgewicht schoeisel voor meer bewegingsvrijheid.
 - Schoeisel dat optimale demping en bescherming biedt tegen schokken en stress.
 

@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Met small mascaraborsteltje om zo elke wimper te bereiken
-- Breng in een zigzaggende beweging aan om de wimpers goed te spreiden
+- L’Oréal mascara voor zichtbaar langere wimpers
 - Verrijkt met zwartpigmenten voor een sprekende look
 - Met flexibel multi-precisie borsteltje om de wimpers te verlengen
-- L’Oréal mascara voor zichtbaar langere wimpers
+- Breng in een zigzaggende beweging aan om de wimpers goed te spreiden
+- Met small mascaraborsteltje om zo elke wimper te bereiken
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0078MF1PC{{</world>}}

@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Vlekt en vlokt niet en is waterproof
 - Geschikt voor contouring
 - Tot 24 uur hydraterende verzorging
+- Vlekt en vlokt niet en is waterproof
 - Inclusief sponsje/kwastje voor precieze toepassing
 - Zachte camouflagestift die iedere oneffenheid wegwerkt
 

@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Met 100% puur hyaluronzuur, zachte amandelolie & voedend serum
-- Voor een gezond uitziende huid bij elk gebruikt.
-- Klinisch bewezen
 - Niet vettig en trekt snel in
+- Voor een gezond uitziende huid bij elk gebruikt.
+- Met 100% puur hyaluronzuur, zachte amandelolie & voedend serum
+- Klinisch bewezen
 - Hydrateert de huid 72 uur*
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Klittenbandsluiting
 - Lichte Techlite-tussenzool voor langdurig comfort, superieure demping en hoog energierendement
+- Klittenbandsluiting
 - Ademend mesh-weefsel, bovenmateriaal van leer, waterdichte en ademende Omni-Tech-constructie met verzegelde naden
 - Omni-Grip niet-markerend tractierubber
 

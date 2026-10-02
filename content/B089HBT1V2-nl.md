@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Verstevigt de huid vanaf 2 weken*
 - Vermindert de zichtbaarheid van cellulite vanaf 3 weken**
 - Geeft de huid een zijdezacht gevoel
 - Verfrist de huid onmiddellijk
 - De huid voelt onmiddellijk energiek aan
-- Verstevigt de huid vanaf 2 weken*
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B089HBT1V2{{</world>}}

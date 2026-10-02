@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Met trekkoord kun je je afdekking aanpassen.
-- fleece binnenvoering
 - Fleecestof voelt zacht en warm.
+- fleece binnenvoering
 - normale snit
 - Kangoeroezak aan de voorkant
 
