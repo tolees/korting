@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://korting.tole.es/sitemap.xml
