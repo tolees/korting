@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Dit is een origineel en origineel product. Geox
-- Aangenaam om te dragen
 - Deze stijl is duurzaam geproduceerd
+- Aangenaam om te dragen
 - Zorgt voor een optimale pasvorm
 
 [🛒 Buy it!!]({{< param buyurl >}})

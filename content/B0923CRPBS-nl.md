@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Het kan aan verschillende behoeften voldoen
-- Gemaakt met een compact ontwerp, gemakkelijk mee te nemen
 - Het is gemakkelijk schoon te maken
-- Product gemaakt met de nieuwste technologie
+- Het kan aan verschillende behoeften voldoen
 - Slimme keuze voor dagelijkse behoeften
+- Gemaakt met een compact ontwerp, gemakkelijk mee te nemen
+- Product gemaakt met de nieuwste technologie
 - Gillette sensor laadstation excel 5 stuks
 
 [🛒 Buy it now!!]({{< param buyurl >}})

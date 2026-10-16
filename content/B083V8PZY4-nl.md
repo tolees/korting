@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- zwembroek voor heren
 - Sportkleding van Nike
+- zwembroek voor heren
 - 5 volley short (nessa566-001)
 
 [🛒 Buy it now!!]({{< param buyurl >}})

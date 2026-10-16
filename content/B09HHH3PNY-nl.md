@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Gecertificeerd door de Leather Working Group
 - EVA-buitenzool voor lichtheid
+- Gecertificeerd door de Leather Working Group
 - Interne Ortholite smelle voor demping en ademend vermogen
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Inclusief sponsje/kwastje voor precieze toepassing
-- Zachte camouflagestift die iedere oneffenheid wegwerkt
 - Vlekt en vlokt niet en is waterproof
+- Inclusief sponsje/kwastje voor precieze toepassing
 - Tot 24 uur hydraterende verzorging
+- Zachte camouflagestift die iedere oneffenheid wegwerkt
 - Geschikt voor contouring
 
 [🛒 Buy it!!]({{< param buyurl >}})

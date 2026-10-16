@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Reisformaat
-- Reinigt, verwijdert makeup en verzacht de huid
 - Is verrijkt met micellen
+- Reinigt, verwijdert makeup en verzacht de huid
+- Reisformaat
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FP33F6SV{{</world>}}

@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Nu verrijkt met micro epidermale hyaluronzuur wat extra goed wordt opgenomen in de opperhuid
 - Maakt de huid voller in 1 uur en hydrateert de huid 24 uur lang Klinische score, 84 personen. Instrumentele test
+- Nu verrijkt met micro epidermale hyaluronzuur wat extra goed wordt opgenomen in de opperhuid
 - Direct na aanbrengen een egalere en stralendere huid
 - Zorgt voor een gladdere huid met minder droge plekjes na 4 weken gebruik
 - Verzorgt als een serum, dekt als een foundation

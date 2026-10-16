@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- De capuchon met trekkoord kun je je hoes aanpassen.
 - Kangoeroezak aan de voorkant
+- De capuchon met trekkoord kun je je hoes aanpassen.
 - Fleecestof voelt zacht en warm.
 
 [🛒 Buy it now!!]({{< param buyurl >}})

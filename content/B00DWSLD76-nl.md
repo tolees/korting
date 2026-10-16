@@ -28,12 +28,12 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Gemakkelijk te dragen, voor ongeëvenaard comfort.
-- Lichtgewicht schoeisel voor meer bewegingsvrijheid.
-- Schoeisel dat optimale demping en bescherming biedt tegen schokken en stress.
-- De gepatenteerde Geox-systemen garanderen de ademende werking van de buitenzool, zodat de voet comfortabel blijft.
-- Uitneembare binnenzool
 - Antibacteriële binnenzool.
+- Schoeisel dat optimale demping en bescherming biedt tegen schokken en stress.
+- Lichtgewicht schoeisel voor meer bewegingsvrijheid.
+- Gemakkelijk te dragen, voor ongeëvenaard comfort.
+- Uitneembare binnenzool
+- De gepatenteerde Geox-systemen garanderen de ademende werking van de buitenzool, zodat de voet comfortabel blijft.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B00DWSLD76{{</world>}}

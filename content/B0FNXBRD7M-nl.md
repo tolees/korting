@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Mist met SPF 30
-- Beschermt tegen UVA- en UVB-straling
 - Waterresistent
 - Transparante textuur
 - Hydrateert de huid en geeft een verfrissend gevoel
+- Mist met SPF 30
+- Beschermt tegen UVA- en UVB-straling
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FNXBRD7M{{</world>}}

@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Helpt bij het verwijderen van baardschilfers
 - Reinigt het gezichtshaar grondig en diepgaand
 - Verrijkt met cederhout olie voor een zacht en hydraterend resultaat
 - 3-in-1 face wash voor de baard, het gezicht en haar
+- Helpt bij het verwijderen van baardschilfers
 - Helpt bij het voorkomen van een prikkende baard
 
 [🛒 Buy it!!]({{< param buyurl >}})

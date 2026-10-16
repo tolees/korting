@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Keuze uit kleuren die bij uw look passen.
-- Frequentiebereik: 10-24.000 Hz
 - 30 mm ferriet drivers voor krachtig, uitgebalanceerd geluid.
+- Frequentiebereik: 10-24.000 Hz
 - Licht, opvouwbaar ontwerp voor een zeer mobiele muziekervaring.
 - Gevoerde oorschelpen voor aangenaam luistercomfort.
 

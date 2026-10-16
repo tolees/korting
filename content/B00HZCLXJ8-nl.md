@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Voering: 64% Stof (60% Nylon - 40% PU) 36% Stof (100% Gerecycled PET)
 - Kleur: Zwart
+- Bovenwerk: Kalfsleer / Technische stof
+- Voering: 64% Stof (60% Nylon - 40% PU) 36% Stof (100% Gerecycled PET)
 - Klittenbandsluitsysteem voor eenvoudige pasvorm
 - Buitenzool/Kenmerken: Gestikte rubberen buitenzool voor duurzaamheid en goede grip
-- Bovenwerk: Kalfsleer / Technische stof
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B00HZCLXJ8{{</world>}}

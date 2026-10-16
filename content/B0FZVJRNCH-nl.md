@@ -29,13 +29,13 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Inclusief 2 pop-out vellen - Met 24 genummerde stukken om in december in elkaar te zetten.
+- Bouw het zelf adventskalender - Creëer elke dag een magische 3D-kerstboomhutscène!
+- Roger la Borde - Marineblauwe kerstboom - Feestelijke Pop & Slot Adventskalender
+- Plat verpakt voor eenvoudig posten - Een perfect pre-kerstcadeau dat leuk is om te verzenden en te ontvangen.
 - Afmetingen: breedte 400 mm × diepte 260 mm - een prachtig formaat display voor uw feestelijke inrichting.
 - Herbruikbare decoratie: geniet jaar na jaar van de magie!
-- Kunstwerk van Jane Ray - Betoverende illustraties vol kleur, detail en feestelijke charme.
-- Roger la Borde - Marineblauwe kerstboom - Feestelijke Pop & Slot Adventskalender
 - Herbruikbaar en milieuvriendelijk: gemaakt van FSC-gecertificeerd duurzaam karton.
-- Bouw het zelf adventskalender - Creëer elke dag een magische 3D-kerstboomhutscène!
-- Plat verpakt voor eenvoudig posten - Een perfect pre-kerstcadeau dat leuk is om te verzenden en te ontvangen.
+- Kunstwerk van Jane Ray - Betoverende illustraties vol kleur, detail en feestelijke charme.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0FZVJRNCH{{</world>}}

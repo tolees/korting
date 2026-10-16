@@ -29,8 +29,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Volwassen puzzel: puzzel voor volwassenen met 1000 stukjes.
-- Hoogwaardig gemaakt van milieuvriendelijk, gerecycled karton.
 - Posterformaat: de puzzel ziet eruit als een poster, de grootte van de afgewerkte puzzel is 68 x 49 cm
+- Hoogwaardig gemaakt van milieuvriendelijk, gerecycled karton.
 - Uniek: elk puzzelstuk heeft een unieke pasvorm en contouren.
 
 [🛒 Buy it!!]({{< param buyurl >}})

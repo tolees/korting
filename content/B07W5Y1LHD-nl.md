@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Jas.
 - Park20 regenjas.
+- Jas.
 - 100% polyester.
 
 [🛒 Buy it!!]({{< param buyurl >}})

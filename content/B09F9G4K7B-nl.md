@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Hyaluronzuur + hydraterend complex om de huid te hydrateren
-- Verdeel de huid en laat de huid met een zijdeachtige afwerking
 - Fysieke zonnebrandcrème met zinkoxide voor de gevoelige huid
+- Verdeel de huid en laat de huid met een zijdeachtige afwerking
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B09F9G4K7B{{</world>}}

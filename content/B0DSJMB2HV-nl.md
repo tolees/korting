@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- RESULTAAT: Gehydrateerd haar dat vocht langer vasthoudt en het haar een gezonde glans geeft.
-- VERRIJKT MET Hyaluronzuur
-- GESCHIKT voor verzwakt, futloos haar
 - NAVULBARE shampooverpakking van 250ml - 60% minder plastic**
+- RESULTAAT: Gehydrateerd haar dat vocht langer vasthoudt en het haar een gezonde glans geeft.
+- GESCHIKT voor verzwakt, futloos haar
+- VERRIJKT MET Hyaluronzuur
 - LORÉAL PARIS ELVIVE HYDRA HYALURONIC Shampoo Refill
 
 [🛒 Buy it now!!]({{< param buyurl >}})

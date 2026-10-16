@@ -29,11 +29,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Duurzaam roestvrijstalen mesje dat tot wel 4* maanden meegaat, zodat u dat frisse gevoel houdt.
+- Original Blade: werkt op elke haarlengte.
+- Met vervangingsindicator: wanneer het uitwerppictogram op het mesje wordt weergegeven, zijn de prestaties mogelijk niet meer optimaal −. Vervang het mesje voor de beste scheerervaring.
+- Past op de OneBlade (QP14xx, QP25xx, QP26xx, QP27xx, QP28xx) en de OneBlade Pro (QP65xx, QP66xx).
 - De authentieke Philips OneBlade-mesjes.
 - De set bevat: mesjes voor 20 maanden* (5x Original Blade) voor Philips OneBlade haar- en baardtrimmer voor mannen.
-- Met vervangingsindicator: wanneer het uitwerppictogram op het mesje wordt weergegeven, zijn de prestaties mogelijk niet meer optimaal −. Vervang het mesje voor de beste scheerervaring.
-- Original Blade: werkt op elke haarlengte.
-- Past op de OneBlade (QP14xx, QP25xx, QP26xx, QP27xx, QP28xx) en de OneBlade Pro (QP65xx, QP66xx).
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0BS747TYL{{</world>}}

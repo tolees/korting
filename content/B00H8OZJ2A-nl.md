@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Intense, langhoudende kleur
-- Verbetert zichtbaar de haarkwaliteit met verzorgende formule
-- Kleurcrème op basis van 60% oliën
 - Tot 100% grijsdekking
+- Kleurcrème op basis van 60% oliën
+- Intense, langhoudende kleur
 - Permanente haarkleuring zonder ammoniak voor een aangename geur
+- Verbetert zichtbaar de haarkwaliteit met verzorgende formule
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B00H8OZJ2A{{</world>}}
