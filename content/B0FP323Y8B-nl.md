@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- HYDRATEERT de huid tot 100 uur lang
-- ULTRALICHTE, NIET-PLAKKERIGE EN WATERIGE formule voor snelle absorptie
-- HERSTELT de huidbarrière en maakt de huid voller*
 - FORMULE met 12% [Glycerine, Panthenol, Aloë Vera en Hyaluronzuur]
 - VEGAN formule, dermatologisch getest en geschikt voor een gevoelige huid
+- HERSTELT de huidbarrière en maakt de huid voller*
+- ULTRALICHTE, NIET-PLAKKERIGE EN WATERIGE formule voor snelle absorptie
+- HYDRATEERT de huid tot 100 uur lang
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0FP323Y8B{{</world>}}

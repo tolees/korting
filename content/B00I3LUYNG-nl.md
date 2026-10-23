@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- 30 mm ferriet drivers voor krachtig, uitgebalanceerd geluid.
 - Licht, opvouwbaar ontwerp voor een zeer mobiele muziekervaring.
 - Keuze uit kleuren die bij uw look passen.
 - Gevoerde oorschelpen voor aangenaam luistercomfort.
+- 30 mm ferriet drivers voor krachtig, uitgebalanceerd geluid.
 - Frequentiebereik: 10-24.000 Hz
 
 [🛒 Check the deal!!]({{< param buyurl >}})

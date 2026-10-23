@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- 12 stuks
 - Kleur: Zwart
 - Sharpie Twin Tip Merkstift met fijne punt
+- 12 stuks
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B000QW4PQC{{</world>}}

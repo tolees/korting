@@ -28,12 +28,12 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Gemakkelijk aanpasbare pasvorm, dankzij de vetersluiting.
-- Schoeisel dat optimale warmte-isolatie biedt.
-- De gepatenteerde Geox-systemen garanderen de ademende werking van de buitenzool, zodat de voet comfortabel blijft.
-- Amphibiox-technologie maakt het bovenwerk waterdicht, voor superieure bescherming in alle weersomstandigheden
-- Lichtgewicht schoeisel voor meer bewegingsvrijheid.
 - Uitneembare binnenzool
+- Schoeisel dat optimale warmte-isolatie biedt.
+- Amphibiox-technologie maakt het bovenwerk waterdicht, voor superieure bescherming in alle weersomstandigheden
+- Gemakkelijk aanpasbare pasvorm, dankzij de vetersluiting.
+- Lichtgewicht schoeisel voor meer bewegingsvrijheid.
+- De gepatenteerde Geox-systemen garanderen de ademende werking van de buitenzool, zodat de voet comfortabel blijft.
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B00U7CM7CA{{</world>}}

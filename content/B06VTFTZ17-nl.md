@@ -31,8 +31,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 - Circulaire diafragma met negen lamellen voor prachtige scherpte-effecten, minimale scherpteafstand 0,8 m
 - Lineaire motor voor een nauwkeurige, rustige scherpstelling
 - Lichtsterke telelens
-- Inclusief SEL-85F18 kap: ALC-SH150 voorste lensdop: ALC-F67S achterste lensdop: ALC-R1EM
 - ED-glas compenseert beeldfouten
+- Inclusief SEL-85F18 kap: ALC-SH150 voorste lensdop: ALC-F67S achterste lensdop: ALC-R1EM
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B06VTFTZ17{{</world>}}

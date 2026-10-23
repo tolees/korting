@@ -28,13 +28,13 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Handzakken met ritssluiting
 - Kinbeschermer
+- Handzakken met ritssluiting
+- Omni-Heat thermisch reflecterend
 - Verstelbare zoom met trekkoord.
+- Omni-Shield geavanceerde afstotendheid sluit spatten en vlekken uit geavanceerde afstotendheid
 - Waterafstotende stof
 - 100% gerecycled polyester Thermarator isolatie
-- Omni-Heat thermisch reflecterend
-- Omni-Shield geavanceerde afstotendheid sluit spatten en vlekken uit geavanceerde afstotendheid
 - Elastische manchetten
 
 [🛒 Buy it!!]({{< param buyurl >}})

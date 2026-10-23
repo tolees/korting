@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- SOFTFOAM plus inlegzool
 - Synthetisch bovenwerk
 - Rubberen tussenzool
-- SOFTFOAM plus inlegzool
 - Midden laars
 
 [🛒 Check the deal!!]({{< param buyurl >}})

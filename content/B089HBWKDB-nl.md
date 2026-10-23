@@ -28,11 +28,11 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Voedt en hydrateert tot wel 24 uur lang
-- Verstevigt de huid
-- Geschikt voor alle huidtypen
 - Met huididentieke Q10 en creatine
 - Beschermt effectief met SPF 30
+- Geschikt voor alle huidtypen
+- Verstevigt de huid
+- Voedt en hydrateert tot wel 24 uur lang
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B089HBWKDB{{</world>}}
