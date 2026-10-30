@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Eenvoudige personalisatie met HyperX NGenuity-software
 - Optische Pixart 3327 sensor met standaard DPI-instellingen tot 6200 DPI
 - Zeven programmeerbare knoppen
-- Comfortabel symmetrisch design
 - Extra grote muisrollen voor vloeibare, gecontroleerde bewegingen
+- Comfortabel symmetrisch design
+- Eenvoudige personalisatie met HyperX NGenuity-software
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07H3GFJJ2{{</world>}}

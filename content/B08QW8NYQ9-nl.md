@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- ronde hals
 - Groot Nike-logo print
 - Lichte elastische eigenschappen
-- ronde hals
 - T-shirt voor opleiding of presentatie
 
 [🛒 Buy it!!]({{< param buyurl >}})

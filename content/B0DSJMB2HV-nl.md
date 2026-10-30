@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- GESCHIKT voor verzwakt, futloos haar
-- LORÉAL PARIS ELVIVE HYDRA HYALURONIC Shampoo Refill
 - RESULTAAT: Gehydrateerd haar dat vocht langer vasthoudt en het haar een gezonde glans geeft.
+- LORÉAL PARIS ELVIVE HYDRA HYALURONIC Shampoo Refill
+- GESCHIKT voor verzwakt, futloos haar
 - NAVULBARE shampooverpakking van 250ml - 60% minder plastic**
 - VERRIJKT MET Hyaluronzuur
 

@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Sluiting: ethyleenvinylacetaat
-- Bovenmateriaal: leer
 - Binnenmateriaal: Leer
 - Schoenbreedte: smal
+- Sluiting: ethyleenvinylacetaat
+- Bovenmateriaal: leer
 - Niet waterbestendig
 - Voering: leer
 

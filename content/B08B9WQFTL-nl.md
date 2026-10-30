@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Bluetooth-versie - 5.0
 - Bluetooth
-- Stroomvoorziening via USB
 - Ondersteunt Linux
+- Stroomvoorziening via USB
+- Bluetooth-versie - 5.0
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B08B9WQFTL{{</world>}}

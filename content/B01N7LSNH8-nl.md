@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Uitwasbare uitgroeispray om uitgroei mee te camoufleren
-- Makkelijk en snel aan te brengen dankzij het spraysysteem
 - Natuurlijk ogend kleurresultaat
+- Makkelijk en snel aan te brengen dankzij het spraysysteem
+- Uitwasbare uitgroeispray om uitgroei mee te camoufleren
 - Uitwasbaar met shampoo
 - Mengt zich met jouw haarkleur zonder kleurverschil
 

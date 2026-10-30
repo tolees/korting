@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- keramische mok voor warme dranken
 - Afmetingen: 10,5 x 14 x 9,5 cm
+- keramische mok voor warme dranken
 - Product in geschenkdoos gepresenteerd
 
 [🛒 Buy it now!!]({{< param buyurl >}})

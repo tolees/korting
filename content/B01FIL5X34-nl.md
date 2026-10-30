@@ -30,8 +30,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - UV-filters beschermen de kleur tegen vervagen
 - TIP: optimale resultaten bereikt u met Revlon Quick Dry Base Coat
-- fixeert de nagelverf binnen 30 seconden
 - Verbetert de grip van de nagelkleur
+- fixeert de nagelverf binnen 30 seconden
 - Gebruik: breng een laag boven de Revlon nagellak aan
 
 [🛒 Buy it!!]({{< param buyurl >}})

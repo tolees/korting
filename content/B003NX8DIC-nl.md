@@ -29,8 +29,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 ℹ️:
 
 - Lichtgewicht, zachte stof, machinewasbaar, verkrijgbaar in verschillende kleuren
-- Praktische doorlopende ritssluiting, verstelbare kraag en kinbescherming, 2 zakken met ritssluiting voor warme en veilige handen
 - Comfortabel vest, kan het hele jaar door gedragen worden, ideaal voor wandelen, trailrunning en andere buitenactiviteiten
+- Praktische doorlopende ritssluiting, verstelbare kraag en kinbescherming, 2 zakken met ritssluiting voor warme en veilige handen
 - Modern Classic Fit-ontwerp, kan worden gebruikt als buitenlaag, Columbia-logo
 - Inhoud: 1x Columbia Benton Springs Vest voor dames, Black (Zwart), XL, 1372121
 

@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Kleur 011 Stormachtig Roze
 - 4,2 g
 - Kleurrijk Iriserende lippenstift
-- Kleur 011 Stormachtig Roze
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B000V5OQNG{{</world>}}

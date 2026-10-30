@@ -29,8 +29,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Tot 36 uur lanhoudend* consumententest, 100 vrouwen
-- Waterproof & vlekbestendig
 - Voor groter lijkende ogen
+- Waterproof & vlekbestendig
 - Overdrachtbestendig
 - Geschikt voor gevoelige ogen en dragers van contactlenzen
 

@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Intens herstel van het haar tot in de puntjes
-- *Instrumentele test na 5 applicaties van de shampoo en het masker van deze lijn
 - Bevat plantaardige keratine, vitamines en castorolie
+- Intens herstel van het haar tot in de puntjes
 - Geeft glans aan het haar
+- *Instrumentele test na 5 applicaties van de shampoo en het masker van deze lijn
 - Beschermt tegen haarbreuk en gespleten punten
 
 [🛒 Check the deal!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- De Dynamic Fit-kraag wikkelt de enkel in zacht, flexibel materiaal voor een stevige pasvorm
-- Een adaptieve jersey die flexibiliteit en ondersteuning biedt en je dichter bij de bal brengt
-- Trapsgewijze nokken zorgen voor voldoende grip
 - Het bovenwerk is gemaakt van NikeSkin-materiaal met ingelegde chevrons, wat zorgt voor balcontrole
+- Een adaptieve jersey die flexibiliteit en ondersteuning biedt en je dichter bij de bal brengt
+- De Dynamic Fit-kraag wikkelt de enkel in zacht, flexibel materiaal voor een stevige pasvorm
+- Trapsgewijze nokken zorgen voor voldoende grip
 - Gedempte binnenzool
 
 [🛒 Check the deal!!]({{< param buyurl >}})

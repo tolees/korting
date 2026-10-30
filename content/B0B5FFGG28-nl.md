@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Met geborduurde details
-- Minnie draagt haar klassieke rode outfit met witte handschoenen, gele schoentjes en een strik
 - Jurk met Engels borduurwerk als afwerking en geborduurde stippen
+- Minnie draagt haar klassieke rode outfit met witte handschoenen, gele schoentjes en een strik
+- Met geborduurde details
 - 3D-oren en -strik
 - Ontworpen voor Disney Store
 
