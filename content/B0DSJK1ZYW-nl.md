@@ -30,10 +30,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - -53% haarscheuren
 - 10x minder haarbreuk
+- Refill Shampoo - Hervulbare navulverpakking
+- 94% minder gespleten punten
 - Minder plastic*, m€€r voordeel
 - Acacia-, manuka- & lavendel honing
-- 94% minder gespleten punten
-- Refill Shampoo - Hervulbare navulverpakking
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0DSJK1ZYW{{</world>}}

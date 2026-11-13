@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Compleet met een Shurikens ritstrekker en een Lego-logo op de arm
-- Kinder Lego Ninjago Onesie
 - Maak je klaar om het Skullin-leger te verslaan!
+- Compleet met een Shurikens ritstrekker en een Lego-logo op de arm
 - Een zwarte all-in-one pyjama met Ninjas Kai, Jay, Lloyd en Cole met het iconische throwing star-logo en de tekst Ninjago geborduurd
+- Kinder Lego Ninjago Onesie
 - Officieel gelicentieerde Lego Ninjago-merchandise
 
 [🛒 Check the deal!!]({{< param buyurl >}})

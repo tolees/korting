@@ -28,11 +28,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Warming Materiaal Stof
-- Manchetten aan de enkels
 - bedoeld voor alle leeftijden
-- Voering met fleece Touch
 - Trekkoord
+- Manchetten aan de enkels
+- Warming Materiaal Stof
+- Voering met fleece Touch
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B08R3TLW2W{{</world>}}

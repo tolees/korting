@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Deze 2 meter lange geweven oplaadkabel heeft aan beide uiteinden een USB‑C-connector en is ideaal voor het opladen van USB‑C-devices en voor het synchroniseren en overzetten van gegevens.
-- USB‑C-lichtnetadapters zijn afzonderlijk verkrijgbaar.
 - De kabel is geschikt voor opladen met een vermogen tot 240 W en voor gegevensoverdracht op USB 2-snelheid. Sluit de USB‑C-oplaadkabel aan op een compatibele USB‑C-lichtnetadapter om je devices extra snel op te laden via een stopcontact.
+- USB‑C-lichtnetadapters zijn afzonderlijk verkrijgbaar.
+- Deze 2 meter lange geweven oplaadkabel heeft aan beide uiteinden een USB‑C-connector en is ideaal voor het opladen van USB‑C-devices en voor het synchroniseren en overzetten van gegevens.
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0DCNZGSHV{{</world>}}

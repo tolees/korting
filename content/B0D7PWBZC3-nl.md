@@ -30,9 +30,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 - Makkelijk of intens, kies je uitdaging
 - Doe het hele jaar door mee aan seizoensgebonden thema-evenementen met nieuwe en spannende nummers
-- Één platform met alle content
-- 40 nieuwe en leuke nummers voor iedereen
 - Workout-modus voor fitnessfanaten
+- 40 nieuwe en leuke nummers voor iedereen
+- Één platform met alle content
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0D7PWBZC3{{</world>}}

@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Merk: Pandora
 - Stijl: Oorstekers
+- Merk: Pandora
 - Kleur: Goud
 
 [🛒 Check the deal!!]({{< param buyurl >}})

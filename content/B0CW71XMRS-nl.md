@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Biedt een optimaal en passend resultaat
 - Eenvoudig in gebruik
+- Biedt een optimaal en passend resultaat
 - Hoogwaardig materiaal
 
 [🛒 Buy it now!!]({{< param buyurl >}})

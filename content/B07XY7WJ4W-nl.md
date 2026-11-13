@@ -28,15 +28,15 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Maximaal bereik: WiFi-bereik tot wel 560 m2 (3-pack)
 - De eerste die met de modem is verbonden, werkt in de Router Modus, en je kunt andere Decos overal plaatsen waar je de wifi-dekking wilt uitbreiden, en deze Decos zouden in Access Point Modus moeten werken
 - Draadloze klasse: AC1200 + HomePlug AV1000
-- Maximaal bereik: WiFi-bereik tot wel 560 m2 (3-pack)
-- Ondersteunt verbindingen tot 100+ apparaten
-- Krachtige processor: Qualcomm Quad-Core CPU
-- De hardware is compatibel met Amazon Alexa en IFTTT
-- Simpel en slim: met de Deco app configureer en beheer je eenvoudig het netwerk
-- Met powerline vormen muren of afstanden geen beperking meer. Geniet thuis overal van WiFi!
 - WiFi + PLC Hybrid Mesh: een hybride netwerk versterkt de bandbreedte
+- Met powerline vormen muren of afstanden geen beperking meer. Geniet thuis overal van WiFi!
+- Simpel en slim: met de Deco app configureer en beheer je eenvoudig het netwerk
+- De hardware is compatibel met Amazon Alexa en IFTTT
+- Krachtige processor: Qualcomm Quad-Core CPU
+- Ondersteunt verbindingen tot 100+ apparaten
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B07XY7WJ4W{{</world>}}

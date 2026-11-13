@@ -30,9 +30,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 - Laat de doffe huid stralen en helpt pigmentvlekken te verminderen
 - Laat de huid stralen in slechts drie dagen**
-- Bevat vitamine C* en SPF 25
-- Geeft de huid een glow boost
 - Zichtbare vermindering van dofheid na 3 dagen**
+- Geeft de huid een glow boost
+- Bevat vitamine C* en SPF 25
 
 [🛒 Buy it now!!]({{< param buyurl >}})
 {{<world>}}B0C7CV7WMS{{</world>}}

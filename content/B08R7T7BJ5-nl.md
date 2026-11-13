@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Kussen en vochtbeheer
 - Lichtgewicht
+- Kussen en vochtbeheer
 - Flexibiliteit
 
 [🛒 Check the deal!!]({{< param buyurl >}})
