@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Geschikt voor de gevoelige huid
-- Verwijdert waterproof make-up
 - Laat geen vet laagje achter
+- Verwijdert waterproof make-up
+- Geschikt voor de gevoelige huid
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B00ZNBF8L2{{</world>}}

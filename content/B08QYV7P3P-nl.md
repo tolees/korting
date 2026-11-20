@@ -28,9 +28,9 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Met trekkoord en capuchon kun je je afdekking aanpassen
-- Kangoeroezak aan de voorzijde
 - sport type: Voetbal
+- Kangoeroezak aan de voorzijde
+- Met trekkoord en capuchon kun je je afdekking aanpassen
 - Fleece stof voelt zacht en warm aan
 
 [🛒 Check the deal!!]({{< param buyurl >}})

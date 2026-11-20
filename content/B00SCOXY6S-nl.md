@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Innovatieve waterniveau-indicator voor het nauwkeurig vullen van het waterreservoir
-- Maximale capaciteit in koffiekopjes: 10 tot 15 kopjes (1,2 liter)
-- Inhoud: koffiezetapparaat, glazen kan
 - Druppelstopfunctie voor het willekeurig onderbreken van het zetproces
+- Inhoud: koffiezetapparaat, glazen kan
 - Met Aroma Swirl voor een optimaal en gelijkmatig aroma.
+- Maximale capaciteit in koffiekopjes: 10 tot 15 kopjes (1,2 liter)
+- Innovatieve waterniveau-indicator voor het nauwkeurig vullen van het waterreservoir
 - Automatische uitschakeling na de koffiebereiding voor meer veiligheid
 - De afneembare onderdelen zijn vaatwasmachinebestendig
 

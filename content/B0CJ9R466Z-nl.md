@@ -28,14 +28,14 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Auto-Off: schakelt een aangesloten apparaat automatisch uit nadat het een bepaalde tijd lang is ingeschakeld.
 - Afwezigheidsmodus: schakelt apparaten automatisch op verschillende tijden in en uit om de indruk te wekken dat er iemand thuis is.
+- Compact design: mini-formaat om aangrenzende stopcontacten niet te blokkeren.
+- Spraakbesturing: beheer je Smart Plug met spraakopdrachten via Amazon Alexa, Apple Siri of Google Assistant.
 - Afstandsbediening: schakel aangesloten apparaten via de Tapo-app direct in en uit, waar je ook bent.
 - Schema - Stel een tijdschema in om apparaten automatisch te beheren.
-- Spraakbesturing: beheer je Smart Plug met spraakopdrachten via Amazon Alexa, Apple Siri of Google Assistant.
-- Auto-Off: schakelt een aangesloten apparaat automatisch uit nadat het een bepaalde tijd lang is ingeschakeld.
-- Mat gecertificeerd - integreer Matter-gecertificeerde Tapo-apparaten met andere Matter-eindproducten in je favoriete ecosysteem.
-- Compact design: mini-formaat om aangrenzende stopcontacten niet te blokkeren.
 - Energiebewaking - volgt het energieverbruik van de aangesloten apparaten en maakt het invoeren van stroomtarieven voor ramingen mogelijk.
+- Mat gecertificeerd - integreer Matter-gecertificeerde Tapo-apparaten met andere Matter-eindproducten in je favoriete ecosysteem.
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B0CJ9R466Z{{</world>}}

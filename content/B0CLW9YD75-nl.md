@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Stevig en comfortabel design voor soepele bewegingen
 - Laarzen van het merk Columbia
+- Stevig en comfortabel design voor soepele bewegingen
 - Duurzame design zorgt voor lang gebruik
 - Geschikt voor: koud weer
 

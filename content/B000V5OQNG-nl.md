@@ -28,8 +28,8 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- 4,2 g
 - Kleur 011 Stormachtig Roze
+- 4,2 g
 - Kleurrijk Iriserende lippenstift
 
 [🛒 Buy it now!!]({{< param buyurl >}})

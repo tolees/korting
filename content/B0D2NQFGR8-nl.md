@@ -28,8 +28,8 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- Geniet van prachtige landschappen, betoverende muziek, een knappe UI en animescènes
 - In een wereld waar angst aan de orde van de dag is, ontvouwt zich een mysterieus en spannend verhaal
+- Geniet van prachtige landschappen, betoverende muziek, een knappe UI en animescènes
 - Spectaculaire turn-based gevechten gaan samen met actie in realtime
 - Neem deel aan het koninklijke toernooi en laat je meeslepen door zoektochten en ontdekkingen
 - De creatieve breinen achter Persona 3, 4 en 5 presenteren Metaphor: ReFantazio

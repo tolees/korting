@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Recycling
 - Gemakkelijk te dragen
 - Lichtgewicht
 - Vulling:
+- Recycling
 - Flexibel
 
 [🛒 Check the deal!!]({{< param buyurl >}})

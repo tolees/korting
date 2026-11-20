@@ -28,9 +28,9 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
+- Sluiting: rubber
 - Binnenmateriaal: synthetisch
 - Hakvorm: plat
-- Sluiting: rubber
 - Bovenmateriaal: patent leer
 
 [🛒 Buy it now!!]({{< param buyurl >}})

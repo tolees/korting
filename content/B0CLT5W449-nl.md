@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Elastische manchetten
 - Binding aan de kraag
 - Halve kliksluiting
-- Elastische manchetten
 - Zachte microfleecestof
 
 [🛒 Buy it!!]({{< param buyurl >}})

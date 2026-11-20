@@ -28,8 +28,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Gecertificeerd door TeamSpeak en geoptimaliseerd voor Skype en andere toonaangevende chatprogrammas. Demping van omgevingsgeluiden: ca. 20 dBA
 - Inhoud: HyperX Cloud II gaming koptelefoon rood
+- Gecertificeerd door TeamSpeak en geoptimaliseerd voor Skype en andere toonaangevende chatprogrammas. Demping van omgevingsgeluiden: ca. 20 dBA
 - 4P5M0AA
 - Compatibiliteit: USB-poort voor pc en Mac. jack voor PS4, Xbox One (controller adapter vereist) en mobiele apparaten
 - Optimaal voor professionele spelers: passieve ruisonderdrukking door gesloten oorschelpen

@@ -28,9 +28,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- In één stap een wakkere blik met de Maybelline concealer
 - Met ingebouwde applicatiespons voor een ultra gemakkelijke applicatie
 - Verrijkt met Goji bes extract voor hydratatie en Haloxyl wat donkere kringen onder de ogen neutraliseert
-- In één stap een wakkere blik met de Maybelline concealer
 - Zachte, crèmige textuur die direct oneffenheden, donkere kringen en wallen bedekt
 - Zeer dekkende concealer: gebruik op de schone huid of gebruik over een face product zoals foundation, BB cream of CC cream
 

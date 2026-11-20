@@ -32,8 +32,8 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 - ONTWORPEN VOOR MODERNE INTERIEURS: met het oog op elegante, moderne interieurs zijn bij het ontwerp natuurlijke kleuren en strakke, minimalistische lijnen gebruikt die naadloos in je interieur passen
 - FILTERS VOOR DE CLEAN 3-IN-1-LUCHTREINIGER: vervang luchtfilters eenvoudig door nieuwe (apart verkrijgbaar) zodra je in de Maxi-Cosi Connected Home-app een melding krijgt om de filters te vervangen
 - ONDERDEEL VAN DE CONNECTED HOME-LIJN: vul je slimme thuisapparaten aan met de See Babyfoon, Breathe Luchtbevochtiger, Glow Wieglampje en Soothe Licht & Geluid - bedien ze allemaal met de Connected Home-app
-- CONNECTED HOME-ECOSYSTEEM: met de Connected Home-app creëer je routines en combineer je apparaten - compatibel met Alexa en Google (2,4-GHz Wi-Fi-internetverbinding nodig voor instellen in de app)
 - SMART LUCHTREINIGER 3-IN-1: de Clean-luchtreiniger vanaf de geboorte biedt HEPA 13-filtering, functies zoals een verstelbaar nachtlampje en 4 rustgevende geluiden, zodat je baby rustig kan ademen en slapen
+- CONNECTED HOME-ECOSYSTEEM: met de Connected Home-app creëer je routines en combineer je apparaten - compatibel met Alexa en Google (2,4-GHz Wi-Fi-internetverbinding nodig voor instellen in de app)
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CKRTGFBB{{</world>}}
