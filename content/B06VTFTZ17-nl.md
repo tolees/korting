@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Lichtsterke telelens
 - Inclusief SEL-85F18 kap: ALC-SH150 voorste lensdop: ALC-F67S achterste lensdop: ALC-R1EM
 - Circulaire diafragma met negen lamellen voor prachtige scherpte-effecten, minimale scherpteafstand 0,8 m
 - Lineaire motor voor een nauwkeurige, rustige scherpstelling
+- Lichtsterke telelens
 - ED-glas compenseert beeldfouten
 
 [🛒 Buy it now!!]({{< param buyurl >}})

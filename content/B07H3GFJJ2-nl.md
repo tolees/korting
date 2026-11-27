@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Extra grote muisrollen voor vloeibare, gecontroleerde bewegingen
-- Optische Pixart 3327 sensor met standaard DPI-instellingen tot 6200 DPI
-- Comfortabel symmetrisch design
 - Zeven programmeerbare knoppen
+- Extra grote muisrollen voor vloeibare, gecontroleerde bewegingen
+- Comfortabel symmetrisch design
+- Optische Pixart 3327 sensor met standaard DPI-instellingen tot 6200 DPI
 - Eenvoudige personalisatie met HyperX NGenuity-software
 
 [🛒 Check the deal!!]({{< param buyurl >}})

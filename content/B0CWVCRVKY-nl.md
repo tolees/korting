@@ -28,11 +28,11 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
+- Sluitingstype: Kreeft
+- Stijl: Ketting
 - Kleur: Goud
 - Thema: Liefde
 - Merk: Pandora
-- Stijl: Ketting
-- Sluitingstype: Kreeft
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B0CWVCRVKY{{</world>}}

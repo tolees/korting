@@ -29,11 +29,11 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Binnenmateriaal: Leer
-- Bovenmateriaal: leer
-- Niet waterbestendig
-- Schoenbreedte: smal
 - Sluiting: ethyleenvinylacetaat
 - Voering: leer
+- Bovenmateriaal: leer
+- Schoenbreedte: smal
+- Niet waterbestendig
 
 [🛒 Buy it!!]({{< param buyurl >}})
 {{<world>}}B09ZVJF73J{{</world>}}

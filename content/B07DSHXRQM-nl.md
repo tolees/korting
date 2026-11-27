@@ -29,9 +29,9 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 ℹ️:
 
 - Ademende Oxygen-technologie voor een gewichtloos draagcomfort en een permanent fris uiterlijk, tot 24 uur lang
-- Hoge dekking en zonder masker-effect – oneffenheden worden betrouwbaar gelamineerd en de tint een natuurlijke finish gegeven
-- Vloeibare make-up voor een langdurige geperfectioneerde tint
 - Verkrijgbaar in veel verschillende nuances
+- Vloeibare make-up voor een langdurige geperfectioneerde tint
+- Hoge dekking en zonder masker-effect – oneffenheden worden betrouwbaar gelamineerd en de tint een natuurlijke finish gegeven
 - Ideaal ook bij sport dankzij watervaste formule en zweetbestendigheid, geen verkleuring of vlekken
 
 [🛒 Buy it!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 
 ℹ️:
 
-- Ontwikkeld voor de gevoelige huid
-- Met Q10, creatine en zoethout
 - Vermindert de drie tekenen van de gevoelige huid
 - Parfumvrije formule
+- Ontwikkeld voor de gevoelige huid
+- Met Q10, creatine en zoethout
 - Verstevigt de huid en vermindert rimpels en fijne lijntjes
 
 [🛒 Check the deal!!]({{< param buyurl >}})

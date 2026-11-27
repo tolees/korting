@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
+- Werkt met Android smartphones, tablets, action cams, drones, gameconsoles en meer.
 - A2-classificatie voor sneller laden en in-app prestaties
 - 6-voudige bescherming: Waterdicht, Temperatuurbestendig, Röntgenbestendig, Magneetbestendig, Valbestendig, Slijtvast
 - Sequentiële lees-/schrijfsnelheden tot 200/130 MB/s met UHS-I interface.
-- Werkt met Android smartphones, tablets, action cams, drones, gameconsoles en meer.
 - 10 jaar beperkte garantie
 
 [🛒 Buy it!!]({{< param buyurl >}})

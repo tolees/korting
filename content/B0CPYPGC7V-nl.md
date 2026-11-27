@@ -28,10 +28,10 @@ You can find [{{< param title >}}]({{< param buyurl >}}) with a discount here:
 
 ℹ️:
 
-- NOVA ENGEL Bourjois Bj Polvo Compacto Always Fabulous – authentiek Beauty product.
 - Ideaal voor dagelijks gebruik, biedt voordeel direct.
-- Geeft een gevoel van welzijn bij elk gebruik.
 - NOVA ENGEL geur origineel met een elegante touch.
+- NOVA ENGEL Bourjois Bj Polvo Compacto Always Fabulous – authentiek Beauty product.
+- Geeft een gevoel van welzijn bij elk gebruik.
 - Praktisch formaat, hoge kwaliteit, eenvoudig te gebruiken en mee te nemen.
 
 [🛒 Buy it!!]({{< param buyurl >}})

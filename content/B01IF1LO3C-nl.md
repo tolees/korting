@@ -28,10 +28,10 @@ There's a deal [{{< param title >}}]({{< param buyurl >}})  here:
 
 ℹ️:
 
-- Stenen: bezet met twee hartvormige roze kubische zirkonia in kozijnzetting
-- Materiaal: 925 sterling zilver, gepolijst
-- Met schroefdraad binnen/gravure "Sister"
 - Formaat: 11 x 12 mm
+- Materiaal: 925 sterling zilver, gepolijst
+- Stenen: bezet met twee hartvormige roze kubische zirkonia in kozijnzetting
+- Met schroefdraad binnen/gravure "Sister"
 - Kleur: zilver
 
 [🛒 Buy it now!!]({{< param buyurl >}})

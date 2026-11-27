@@ -29,12 +29,12 @@ You've got [{{< param title >}}]({{< param buyurl >}}) at the following link:
 ℹ️:
 
 - Druppelstopfunctie voor het willekeurig onderbreken van het zetproces
-- Maximale capaciteit in koffiekopjes: 10 tot 15 kopjes (1,2 liter)
 - Automatische uitschakeling na de koffiebereiding voor meer veiligheid
 - Inhoud: koffiezetapparaat, glazen kan
+- Maximale capaciteit in koffiekopjes: 10 tot 15 kopjes (1,2 liter)
 - De afneembare onderdelen zijn vaatwasmachinebestendig
-- Innovatieve waterniveau-indicator voor het nauwkeurig vullen van het waterreservoir
 - Met Aroma Swirl voor een optimaal en gelijkmatig aroma.
+- Innovatieve waterniveau-indicator voor het nauwkeurig vullen van het waterreservoir
 
 [🛒 Check the deal!!]({{< param buyurl >}})
 {{<world>}}B00SCOXY6S{{</world>}}
